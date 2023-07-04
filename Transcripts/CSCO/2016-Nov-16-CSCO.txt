@@ -1,0 +1,471 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2017 Cisco Systems Inc Earnings Call
+NOVEMBER 16, 2016 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kelly Kramer
+   Cisco Systems, Inc. - CFO
+ * Chuck Robbins
+   Cisco Systems, Inc. - CEO
+ * Marilyn Mora
+   Cisco Systems, Inc. - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tal Liani
+   BofA Merrill Lynch - Analyst
+ * James Faucette
+   Morgan Stanley - Analyst
+ * Pierre Ferragu
+   Bernstein & Company - Analyst
+ * James Suva
+   Citigroup Global Markets, Inc. - Analyst
+ * Jeff Kvaal
+   Nomura Securities - Analyst
+ * Ittai Kidron
+   Oppenheimer & Co. - Analyst
+ * Vijay Bhagavath
+   Deutsche Bank - Analyst
+ * Mark Moskowitz
+   Barclays Capital - Analyst
+ * Jess Lubert
+   Wells Fargo Securities, LLC - Analyst
+ * Simona Jankowski
+   Goldman Sachs - Analyst
+ * Paul Silverstein
+   Cowen and Company - Analyst
+ * Steve Milunovich
+   UBS - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to Cisco Systems' first quarter and FY17 financial results conference call. 
+At the request of Cisco Systems, today's call is being recorded. If you have any objections, you may disconnect. 
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am, you may begin. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [2]
+--------------------------------------------------------------------------------
+Thanks, Sam. Welcome, everyone, to Cisco's first-quarter FY17 quarterly conference call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our CEO, and Kelly Kramer, our CFO. 
+By now you should have seen our earnings press release. A corresponding Webcast with slides, including supplemental information, will be available on our website in the Investor Relations section following the call. 
+Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found on a financial information section of our Investor Relations website. As is customary in Q1, we have made certain reclassifications to our prior-period amounts to conform to the current period's presentation. The reclassified amounts have been posted on our website. Click on the Financial Reporting section of the website to access these documents. 
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results, and we will discuss product results in terms of revenue, and geographic and customer results in terms of product orders, unless stated otherwise. All comparison throughout this call will be made on a year-over-year basis unless stated other wise. 
+The matters we will be discussing include forward-looking statements, including the guidance we will be providing for the second quarter of FY17. They are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent annual report on form 10-K, which identifies important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements. 
+With respect to guidance, please also see the slides and press release that accompany this call for further details. As a reminder, Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. 
+As a reminder in Q2 FY16, on November 20, 2015, we completed the sale of the Customer Premises Equipment portion of our SP Video Connected Devises business and accordingly had no revenue or expense from that business in Q1 FY17. As such, all of the revenue, non-GAAP and product orders information we will be discussing is normalized to exclude the SP Video CPE business from our historical results. 
+We have provided historical financial information for the SP Video CPE business in the slides that accompany this call and on our website to help to understand these impacts. As a reminder, the guidance we provided during our Q4 earnings call and today's call has been normalized in the same way. 
+With that, I'll go ahead and turn it over to you, Chuck. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Marilyn. 
+We delivered a strong Q1 in an environment that continues to be challenging. We executed very well in the quarter, with revenue growing 1% and non-GAAP earnings per share growing 3%, along with continued strength in non-GAAP gross and operating margins. This quarter total product orders declined 2%, largely due to Service Provider orders declining 12%, which was worse than our expectations heading into the quarter. 
+We continued to show great product in how we are aligning our business model to the way our customers want to consume Cisco technology. There are many strong indicators that we are driving this change, including the 48% growth in our product deferred revenue related to our recurring software and subscriptions. At the same time, we are delivering more innovation with simple, intelligent automated solutions with industry-leading security across our portfolio. 
+Let me review a few areas of our business where our innovation is driving momentum. First, security. Our security revenue grew 11%, marking the fourth consecutive quarter of double-digit growth. We're driving more subscription-based recurring business, resulting in deferred revenue growth of 39%. 
+Our competitive position in security is growing stronger, as our integrated architecture approach and best-of-breed portfolio resonates with our customers. In fact, we're the only company with security product revenue exceeding a $2 billion annualized run rate with double-digit growth. I'm incredibly pleased with how the team has transformed this business from where we were just a few years ago, establishing Cisco as the market leader in the most critical priority area for our customers. 
+This past quarter, we again drove rapid adoption of our advanced threat solutions, with AMP revenue growing over 70% and now deployed at over 22,000 customers globally. We also see ongoing traction with our next-generation firewall revenue growing over 35%, as we added 5,300 customers in Q1 bringing our total next-gen firewall customer base to approximately 62,000. 
+Going forward, we are driving innovation, as we extend our security architecture from the network to the endpoint to the cloud. Over two weeks ago at our partner summit, we launched our enhanced AMP for Endpoints, a SaaS-based cloud managed security solution combining prevention, detection and response capabilities delivering simplified and effective endpoint security through our threat-centric architecture. 
+Second, our next-generation data center, our goal is to build the best private and hybrid cloud solutions for our customers. We are investing heavily in our data center portfolio to extend our market leadership. To do this, we are delivering software, hardware and systems at all levels of the data center stack and across delivery models. Our customers' widespread adoption of Cisco's ACI family of data center networking products continued in Q1, with revenue growth of 33% to an annualized revenue run rate now of $3 billion. 
+The automation of data center networks that ACI delivers is the first step in enabling our customers to move work loads in and out of public cloud environments, while maintaining enterprise security and policy. We are building on the foundation of ACI by extending our capabilities with analytics through tetration, agnostic cloud management with cloud center from our CliQr  acquisition and our hyper converge offering, HyperFlex. 
+This will give our customers flexibility, agility and savings by delivering the benefits of both private and public clouds. We have a unique set of capabilities to lead in this market and address our customers needs for delivering business applications quickly, cost effectively and at scale. 
+In collaboration, we are adding new capabilities to our collaboration and IOT offerings through organic investments, acquisitions and partnerships. As a global market leader, Cisco's collaboration business has a solid foundation to drive our road map of products and services that will increasingly be delivered from the cloud such as Spark, our end-to-end business collaboration suite. Over the last few months, we've added two significant partners to our collaboration ecosystem. We announced a global strategic alliance with Salesforce to natively integrate Cisco's cloud collaboration platform with Salesforce's Lightning platform. This will deliver expanded reach and relevance as part of our cloud strategy. 
+We also formed an alliance with IBM to further enhance the collaboration experience for our customers by combining our collaboration and analytics technologies. We are integrating our Cisco Spark and WebEx offerings with IBM's cloud collaboration solutions, along with cognitive computing capabilities enabled by the IBM Watson platform. While the dynamics in service provider and emerging markets continue to present headwinds to overall growth, I'm pleased with our success in accelerating our momentum in our key investment areas and our commitment to operational discipline. 
+Now let me hand it over to Kelly to walk through our Q1 results and outlook in more detail. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Chuck. 
+We executed well on our financial strategy of driving profitable growth, managing our portfolio and strategic investments and delivering shareholder value. On driving profitable growth, total revenue grew 1%, while our non-GAAP EPS was up 3%. We expanded our profitability year over year, with increases in both non-GAAP gross margin and non-GAAP operating margins. 
+Let me provide some details on revenue. Total product revenue was down 1%. We saw switching decline 7%, driven by weakness in campus, partially offset by continued strong momentum in ACI, which was up 33%, as Chuck mentioned. In campus, we still see a pause in enterprise spend, largely driven by uncertainty in the macro environment. 
+Routing grew 6%, driven by growth in both SPCORE and Edge. Collaboration was down 3%, although we did have solid order growth. The revenue decrease was driven by telepresence and unified communications endpoints, partially offset by strong growth of 10% in conferencing as we see more customers each quarter committing to WebEx. We saw good momentum again in the transition to subscriptions and SaaS offers with deferred revenue up 14%. 
+Data center declined 3%, impacted by the market shift we've seen from Blade to Rack. While not significant in terms of revenue at this point, we did see our new hyper converged offering, HyperFlex, as solid early uptake by our customers. Wireless declined 2%, lead by a decline in controllers and soft e-rate funding, partially offset by strong growth in Meraki with our cloud managed product line. 
+Security grew 11%, with deferred revenue growth of 39% as we transition to more software and recurring revenue. We had strong performance in our advanced threat security, up 100% as well as web security solutions, which was up 60%. Services grew 7% with our ongoing focus on renewals and attach rates. Overall, we're making progress each quarter on our goal of driving more recurring revenue. Total deferred revenue grew 12%, with product up 19% and services up 8%. The portion of our product deferred revenue related to our recurring software and subscription businesses grew 48% to $3.8 billion. 
+From an orders perspective, total product orders declined 2%, with book-to-bill below one. Looking at our geographies, which is the primary way we run our business, Americas was down 4%, EMEA grew 1%, and APJC grew 4%. Total emerging markets declined 2%, with the BRICs plus Mexico up 2%. In terms of customer segments, enterprise grew 5%, commercial grew 1%, public sector was flat, and service provider declined 12%. 
+We are driving consistent profitability. From a non-GAAP perspective, total gross margin was 65.2%, growing 0.3 points, with product gross margin of 64.8%, up 0.3 points and service gross margin flat at 66.2%. We increased our non-GAAP operating margin to 31.6%, improving 0.2 points. We remain disciplined and focused on increasing operational efficiencies and productivity. In terms of our bottom line, we delivered non-GAAP EPS of $0.61, up 3%. GAAP EPS was $0.46. 
+Moving to our portfolio and strategic investments, we completed three acquisitions in Q1, increasing our investments in key priority and growth areas including CloudLock, which specializes in cloud access security broker technology, which is part of our security business, ContainerX that develops enterprise-class container management technology and Worklife, which develops meeting software that is complimentary to our collaboration business. 
+Moving on to shareholder value, in Q1 we delivered operating cash flow of $2.7 billion. Total cash, cash equivalents and investments at the end of Q1 were $71 billion, with $10.4 billion available in the US. We returned $2.3 billion to shareholders during the quarter. That included $1 billion of share repurchases and $1.3 billion for our quarterly dividend. To summarize, we executed well in Q1 delivering, strong profitable growth. We also made solid progress on our transition to more software and subscription based models. We're committed to making the key strategic moves and disciplined investments to drive long-term financial performance and deliver shareholder value. 
+Now let me reiterate the guidance we provided in the press release for the second quarter of FY17. This guidance includes the type of forward-looking information that Marilyn referred to earlier. The guidance for the second quarter of FY17 is as follows. We expect revenue to decline in the range of minus-2% to minus-4% year over year, normalize to exclude the SP Video CPE business from Q2 FY16. 
+We anticipate non-GAAP gross margin rate to be in the range of 63% to 64% and the non-GAAP operating margin rate is expected to be in the range of 29% to 30%. The non-GAAP tax provision rate is expected to be 22%. Non-GAAP earnings per share is expected to be in the range of $0.55 to $0.57. 
+I'll now turn it back over to Chuck to summarize the call. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Kelly. I'm very pleased with the success of the investments we've made in priority growth areas such as security, collaboration and our ACI platform. These areas are key building blocks, along with our strong franchise and switching and routing, that place Cisco in a unique position with our customers as they become increasingly digital. 
+As you've seen with our Meraki platform, we've achieved rapid adoption of cloud managed networking, with enterprise security and policy delivered as a service. Over the next several years, we will bring this automation, management and security at scale to the balance of our switching and routing portfolio as we continue to offer new consumption models aligned to our customers' needs. While this is no small task, it's an incredible opportunity for Cisco as we bring this successful model to the largest part of our business. 
+As we make these investments we also remain firmly committed to operational discipline and driving long-term value for our customers and shareholders and I'm very optimistic about our future. 
+Marilyn, now I'll turn it back to you for questions. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [6]
+--------------------------------------------------------------------------------
+Thanks, Chuck. Sam, let's go ahead and open the line for questions. While Sam is doing that, I would like to remind the audience we ask you to please ask one question. 
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you. Our first question is from Ittai Kidron with Oppenheimer. 
+
+--------------------------------------------------------------------------------
+Ittai Kidron,  Oppenheimer & Co. - Analyst    [2]
+--------------------------------------------------------------------------------
+Chuck, I want to talk a little bit about the product mix between the divisions. The switching results are very disappointing. Clearly the wireless is now declining. Data center, and I have been asking you about data center for three quarters in a row and it's still not delivering and you've had changes in the leadership over there as well, which suggests still not where it needs to be. I guess I'm trying to gauge how much of the challenges that you are seeing here right now, in your opinion, are macro driven versus perhaps portfolio driven, because it seemed like a lot of competitors in some of these areas are actually doing very well in switching, for example, and (inaudible) and wireless, HP, even in the data centers doing well, (inaudible) clearly doing well. 
+These are key major areas for you and we're seeing revenue decline. Help us understand kind of a little bit of what's going on under the surface here and what is it that makes you feel comfortable that there's no big problem. On the flip side, is there anything on the portfolio side that you think could turn the tide here? 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+Hey, Ittai, thanks for the question. Let me hit a few of those areas. Let me first just acknowledge that there are always areas we can execute more effectively. We are working right now, the teams have been working over the last year on innovation in many of the areas you mentioned and again, I'm optimistic about the pipeline of innovation we have right now. 
+I think when you look at the switching portfolio for us, back in January, when we saw the real market declines at that time and we called out the first pause we saw in the enterprise campus refresh, it's just basically maintained. It stayed the same way throughout the year. I'm pretty comfortable with our position there and as we continue to work on bringing automation and security and cloud-based management to the rest of the portfolio, I think that, that will help our customers see the opportunity to refresh. 
+For me, it's really about as we look at the key driver of refresh over the longer term in the campus, I think that it's going to be really around automation, which can substantially reduce the operating expenses for our customers, as well as security into the network and analytics out of the network. In a couple other areas you mentioned, I think in UCS there's been a fundamental shift in the data center to, again, we've talked about the rack technology and in hyper converge we have some early success with HyperFlex and we have some new capabilities that will be coming out after the first of the calendar year that I think will help us in that space. 
+On the wireless front, there are really, I think there are two key drivers there. First of all is the market is transitioning to a controller-less architecture, so in large part, our access points were actually positive but the controller side of that business was down, Meraki was positive, and then also we are a pretty substantial recipient to the e-rate business, so as that has moved out much more slowly than expected, I think that, that has also impacted that business. Hopefully that gives you some color around those areas. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [4]
+--------------------------------------------------------------------------------
+Thanks, Chuck. 
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question is from Vijay Bhagavath with Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [6]
+--------------------------------------------------------------------------------
+Are you there? 
+
+--------------------------------------------------------------------------------
+Vijay Bhagavath,  Deutsche Bank - Analyst    [7]
+--------------------------------------------------------------------------------
+Oh, yes, I'm here. I'm sorry, I was talking to myself on mute. Yes, so once again, a replay. Hi, Chuck, Kelly. In some sense, the January quarter guide is a snapshot in time and it lags what CEOs, CIOs could be thinking latest in terms of their spending intentions for the New Year. My question for both of you is in your latest cause for business leaders, post elections in particular, has CEO/CIO sentiment here in the US in particular improved in your view? Where do you think would be focus areas of spending in the context of your portfolio? Kelly, internally in the Company, where would you invest the most in terms of the product roadmap? Thanks. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [8]
+--------------------------------------------------------------------------------
+Thanks, Vijay. I think if you just look at our guidance, let me be clear. It's predominantly the SP weakness and the overall CapEx challenges that we've seen in SP. That business is large account driven. You can assume that we have done an account by account by account analysis in that space and understand what's going on there. Right now I think there are a unique set of characteristics, particularly in the SP space. You have the overarching macro uncertainty in the economy, which I think has lead to the SP CapEx weakness that's been reported all year by the analysts, as well as you have political and regulatory environments that are somewhat uncertain, both in the US and around the world. 
+Some of those could turn more favorable. Some of those could remain negative. We're just not going to model any improvement there and that's the real reason for the guide, just to be clear on that. Post election, I think that most CEOs that I talk to, we are pragmatic about the result and now we are all focused on the policy issues that matter to each of our companies. We're -- I think that President-elect Trump appears to be very business oriented and is very focused on driving the US economy and any time the US economy improves, that's certainly good for us. Kelly, any comments? 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [9]
+--------------------------------------------------------------------------------
+No, I agree. To address where we're investing the most, because no matter what the economy we're going to be investing for the future. I'd say it's in the same areas we have been. We are continuing to invest heavily in security. We think there's a lot of room to run there. I think we're benefiting and you're seeing us benefit from having not only a best-of-breed portfolio but an integrated solution that ultimately we do think once CIOs start spending again we'll see also drive some of the campus, hopefully. 
+For sure security, data centers a focus for us and Chuck mentioned some of the innovation we have with the data center but also with the analytics around that. Then even in the core we're investing. Chuck talked about how we're driving automation and things along those lines. We're putting heavily our investment there as we drive innovation that you'll see today as well as going forward the next few quarters. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [10]
+--------------------------------------------------------------------------------
+Great, thanks, Kelly. 
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Next question is from Pierre Ferragu from Bernstein. 
+
+--------------------------------------------------------------------------------
+Pierre Ferragu,  Bernstein & Company - Analyst    [12]
+--------------------------------------------------------------------------------
+Hi, Chuck, Kelly and Marilyn. Thanks for taking the question. I just wanted to dig a bit into your deferred product revenues this quarter that have increased I think by a bit more than $1 billion year on year and actually $700 million or so, almost $700 million sequentially. It's a very impressive performance. The question I have is how do I take that into account when I look at your overall product performance that you had (inaudible) revenues slightly down in the quarter, but I would assume that a lot of that is related to the transition towards your subscription business. Do you have an estimate as how much this transition has impacted your number this quarter? Then of course I have the same question for next quarter. Your guide is very conservative. How much of this transition is actually impacting your guide for Q2 as well? Thank you. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [13]
+--------------------------------------------------------------------------------
+Thanks, Pierre. I appreciate the question. Yes, we are very happy with the progress we are making on it and you can see it on the balance sheet, to your point. We are up sequentially as well as over $1 billion, $1.2 billion year over year. I'd say it's a couple points for sure impact on our growth and it's a combination of -- its largely been historically collaboration and security and Meraki, but we are continuing to add on our core platform with our Cisco ONE suite, like I mentioned last quarter, which that is now being recognized ratable where a year ago, we would have recognized that as a perpetual license sale. For example, just using Cisco ONE as an example in this quarter, it would have been a point and a half just on that if we had recognized it perpetually like we had a year ago. 
+It's for sure about at least two points and clearly that continues to grow and accelerate, so you can assume we're assuming that in my guidance. My guidance for the next quarter is as Chuck mentioned, right? We definitely saw the same thing we saw last quarter with the slowdown in SP, but it actually accelerated. I wouldn't call my guidance conservative. I'd say it's absolutely what we see right now based on all of the factors we take into account. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Thank you. Next question is from Simona Jankowski with Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  Goldman Sachs - Analyst    [15]
+--------------------------------------------------------------------------------
+Hi, thank you very much. I just wanted to confirm, Chuck, that the reason for the guidance being a little weaker is entirely to do with the softness you described in Service Provider orders. Just to dig into that and understand that a little better, it looked like your routing business was I think you said up 7% in the prepared remarks, although I see it as up 17% in the numbers posted online. Regardless, it looks like routing was quite strong. What other products within that Service Provider vertical accounted for the weakness. When we look at the CapEx trends, they definitely have been weak year to date, but they are implied to improve quite a bit into year end, so just curious if you aren't seeing that. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [16]
+--------------------------------------------------------------------------------
+Thanks, Simona. I'll let Kelly keep me honest on this, but I think our routing revenue that we reported in Q1 was 6% positive, so if that's incorrect we need to fix that. On the guide, what I believe is that the predominant reason for the guide down is this Service Provider space. It's 25% of our business, roughly, and it was down 12% in new orders. You guys know the content of our revenue that is from current quarter bookings so the forecast this past quarter and the performance was negative 12% and we're just not modeling, right now, any improvement. You've written some great stuff around the SP CapEx environment, so I think you know it as well as anyone. 
+While there is some forward-looking optimism, many of those cases there's money being spent on density and mobile networks in areas that we may not be a direct recipient as well as we also know there's a lot of variability in how the actuals actually play out vis-a-vis the forecast. We're just making sure that we really see that. I think there's also consternation around the world relative to what's going to happen in the political environment and just a little bit of a wait and see and I think that's going to have an impact. Could be positive, could be tough based on the SP CapEx, but most of the guide challenge that we have is related to SP. 
+Kelly, anything to add? 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [17]
+--------------------------------------------------------------------------------
+I think you summarized it well. Just to add to your question, Simona, I'm not going to go into the grungy detail of what else is in there besides SP core and routing, but obviously our enterprise routing business is in there, mobile packet core, those kind of areas that we saw that are included in the revenue. To Chuck's point, the routing business is certainly got a lot of big deals driven and the pressure we see from the orders, you can expect to see coming in the future, as Chuck mentioned. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [18]
+--------------------------------------------------------------------------------
+One other comment or two. When I talk about customers that we saw just fundamentally freeze CapEx, some of those did it for their own earnings requirements. Some of it did it -- we have examples that occurred based on currency challenges, FX issues. We saw some that were connected to consolidation that's going on in the industry, so we saw different flavors but we did see a fair number of customers around the world that just put the brakes on. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [19]
+--------------------------------------------------------------------------------
+Thanks, Chuck. Next question please? 
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Thank you. Next question is from James Faucette with Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+James Faucette,  Morgan Stanley - Analyst    [21]
+--------------------------------------------------------------------------------
+Thank you very much. I wanted to ask just around the security business. Obviously, as been pointed out, is that it's developing pretty well, but I'm wondering two things. First, the pace of acquisitions, and specifically what looked to be tuck-in acquisitions, seemed to have slowed a little bit this quarter versus what it had been running. I'm just wondering if you're feeling like you've got the portfolio and the technology where you need it or should we expect to see acquisitions continue to run pretty high and that perhaps those reaccelerate. My second question is on security. I think, Kelly, you kind of alluded to this, but at what point do we start to see incremental benefit on some of the other businesses from security footprint? It seems like a lot of the value of security could be tied to new hardware and switching and networking, et cetera. Should we expect to see some incremental pull through or benefit to the more traditional hardware businesses and if so, when should we expect that? Thanks. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [22]
+--------------------------------------------------------------------------------
+James, thanks. This is Chuck. As it relates to the first part of your question on the acquisition capabilities, I think what you'll find with this team is that there's a ton of internal innovation occurring. We, again, at the partner summit launched AMP for Endpoints, which is to bring the endpoints into the consolidated architecture. You can assume that we are actively continuing to scan the landscape relative to acquisitions that fit within the architecture, that bring new capabilities. 
+I think when I took the role I would probably suggest that there was a little bit of a pent-up demand around companies that teams wanted to move on and we moved relatively quickly in the first year or so. I wouldn't assume that, that suggests that there's no more activity that we will see there. I think we will. 
+As it relates to the core networking platforms and at what point we'll see security pulling through, I think we have had some examples over the last few years where we've seen particularly security portfolios integrated into routing platforms as the teams have done that we have seen as we sell those as licenses that run on top of routers. Assuming the routers have the right horsepower, they're fine. If they don't, then they'll drive a refresh. There's some capabilities the teams are work on that actually provide security at the packet level inside the network. Our intent over the next several quarters is to bring that technology to market and give our customers greater visibility and give them yet another source of contributing to the threat landscape out of the network itself. We'll have to wait and see how successful we are, but that's our plan. 
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Next question is from James Suva with Citigroup Global Markets. 
+
+--------------------------------------------------------------------------------
+James Suva,  Citigroup Global Markets, Inc. - Analyst    [24]
+--------------------------------------------------------------------------------
+Great, thanks very much. Chuck and Kelly, when you mentioned putting the brakes on for some of the demand, can you clarify a little bit? Was that mostly due to the uncertainty around the election or just more uncertainty global demand and now that the election is over, there's a political uncertainty about how the tax and policy changes, what happens, cause those brakes to last in your opinion? How long or when do the brakes come off? Thanks. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [25]
+--------------------------------------------------------------------------------
+Well, Jim, thanks. I think there's not one answer to that question, honestly. As I said earlier, there's some customers that are looking at consolidation that lead them to take a pause. There's some that are focused on density of their mobile networks as opposed to their core routing platforms or the edge routing platforms. There's some that outside the United States who faced incredible currency headwinds and decided to stop their CapEx spend until they had better clarity around the currency situation. Then there's some providers around the world, not necessarily in the US even, that are dealing with political dynamics and potential regulatory issues that just aren't clear. 
+I think it's a little bit of all of that and my assessment of when those issues are resolved is dependent upon the issues themselves and we're going to have to wait and see how they play out. I have not heard a lot, say, US-based service providers who have paused directly related to the election, but I do believe that the regulatory environment in the US is obviously in flux now around the telecom environment and that could have implications for the service providers and some of them may wait and see how that plays out. 
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Thank you next question is from Jess Lubert with Wells Fargo Securities. 
+
+--------------------------------------------------------------------------------
+Jess Lubert,  Wells Fargo Securities, LLC - Analyst    [27]
+--------------------------------------------------------------------------------
+Hi, guys. Thanks for taking my question. I was hoping you could update us on what the saw in the cloud vertical last quarter. You saw weakness there so I was curious if that bounced back, what products you're seeing success with, with this customer set and where you are in your process to drive share with these operators. Thanks. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [28]
+--------------------------------------------------------------------------------
+What we talked about the last couple quarters is just the top 10 that we have and they were roughly flat this quarter, but I'll tell you we had some performances that were incredibly strong within that, at an account level, and some that were pausing for various reasons. I think that each account is different and I think over the last couple of years what we've been talking about is a deep engagement at the individual customer level. Where we've done that, we had begun to see success. You can assume we are having discussions with each of them individually. We also are, I think, uniquely positioned where in many cases these companies are markets of one and we have the ability to assign dedicated engineering teams to line up our offerings against their specific requirements and those are the discussions we're having right now. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [29]
+--------------------------------------------------------------------------------
+Thanks, Jess, for the question. 
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Thank you. Our next question is from Paul Silverstein with Cowen & Company. 
+
+--------------------------------------------------------------------------------
+Paul Silverstein,  Cowen and Company - Analyst    [31]
+--------------------------------------------------------------------------------
+Thanks. Kelly, a clarification and then a question. The question is what's the pricing environment look like? Has there been any change?  I was hoping, I don't know if you gave the number earlier, but if not, what was software as a percentage of total revenue? Can you remind us, I think it was 29% last quarter but if you could remind us what it was and what it was this quarter? 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [32]
+--------------------------------------------------------------------------------
+Sure. I'll answer that one. The recurring revenue number I think is what you're talking about, which is a combination of our product recurring revenue from the software and SaaS business plus recurring revenue from services. This quarter that was 29% and we continue to make progress of product, that has grown to be 9%, up from 6% of our product revenue in Q1 2016, so we continue to make progress there. That's up to 29% versus it was 28% in Q4 and 25.5% in Q1, so making the progress there. 
+On the pricing question, Paul, we're definitely in the same ranges that we normally have been. It's actually year over year slightly better than we were last quarter can, which is largely driven by the mix of what we saw. I'd say that it's in normal ranges, but how we're driving that internally is, of course, we're very disciplined around pricing like we've talked about but we empower our sales leaders and country leaders to -- we measure them on three things. We measure them on revenue growth, we measure them on operating margin growth and we measure them on driving market share. They are empowered to make tradeoffs between those and if they need to give more price to win the franchises they want to win, they will do that. The good news is they are again continuing to be very disciplined making those tradeoffs and the pricing is staying in the normal ranges. 
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question is from Steve Milunovich with UBS. 
+
+--------------------------------------------------------------------------------
+Steve Milunovich,  UBS - Analyst    [34]
+--------------------------------------------------------------------------------
+Thank you very much. Chuck, we just wrapped up our tech conference and we had a panel on folks who helped companies move to the cloud. The general consensus was that private cloud implementations generally are not working in many companies that begin on a private cloud path, end up going down a public cloud path. Obviously there's still a lot of legacy and so forth, but if in fact private cloud is not going to do very well, you and others are very focused on that business and the risk is that on-prem pie is declining. Are you seeing something different and do you believe the on-prem business will grow for Cisco? 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [35]
+--------------------------------------------------------------------------------
+Thanks, Steve. I think that over the next year to two years that a lot of the complexity in building out private infrastructure and private clouds for our customers will be alleviated. The entire industry is going to focus on, much like we talked about, even in the networking systems of how we bring automation and operational relief to our customers and give them the ability to automate policy and security and manage all of these devises from their private cloud or from the cloud. I think that, that level of simplicity and those capabilities will improve. 
+I think what we see is best represented by our ACI portfolio. When you look at our customers who are building out modern data center infrastructure, I think those are representative of the customers who believe that they are going to have a hybrid environment. That piece of business grew 33% and is up to $3 billion run rate. I think your observations are probably valid, particularly if you look at a lot of the open stack, early open stack implementations. I do think that customers are going to want to have that capability and I think we as an industry will continue to work on simplifying how that operational capability shows up within our customer base. 
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Thank you. Next question is from Mark Moskowitz with Barclays. 
+
+--------------------------------------------------------------------------------
+Mark Moskowitz,  Barclays Capital - Analyst    [37]
+--------------------------------------------------------------------------------
+Yes, thanks, good afternoon. Chuck and Kelly, I want to get a sense here if there's been any change tactically related to how the teams are incentivized around margin, just given the Company continues to outpace the guidance on the gross margin line. Is there something going on there tactically or is this all just because of mix due to the broader macro weaknesses? Thank you. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [38]
+--------------------------------------------------------------------------------
+Sure. I think this has been a multi-year thing that we have been driving. I'd say that we incent, like I mentioned, the leadership at the higher levels, at a margin level and then they have also controls at certain discount levels, so they can also manage that within their region. It is definitely part of the focus. We have tools that are set up that when a sales person puts a deal in, it's easy to see how that deal falls in from a margin perspective to help them make good deals, if you will, so the incentives haven't changed at all this year. I think that it's just the sales teams are incredibly disciplined around it. 
+I'd say the whole Company understands the tradeoff of that. We are all focused on making the tradeoff so we can optimize and drive as much growth as we possibly can and go after every point of market share that we can but they also understand the power of the margins and that helps drive it. I'd say only the other thing to think about is with the acquisitions that we have been doing that have been largely software related, whether it's in security or cloud, those SaaS businesses certainly have very high margins that just help add to the mix. Again, as we continue to do that, you'll continue to see a positive bias on our margins. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [39]
+--------------------------------------------------------------------------------
+Just one comment, Mark. Kelly and I have worked with the teams and from a leadership team perspective, we have three measurements that they are held accountable for, revenue, margins and market share. That's how we just try to keep people focused on a healthy balance. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [40]
+--------------------------------------------------------------------------------
+This is not just -- this is at all levels of the organization. Our Head of Sales and our Head of Partner Sales, you know they are all part of this pricing council that we have that we try to be very agile of when we make pricing, either new product pricing or changes to product pricing, to take advantage of where any elasticity is. 
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Next question is from Tal Liani with Banc of America Securities. 
+
+--------------------------------------------------------------------------------
+Tal Liani,  BofA Merrill Lynch - Analyst    [42]
+--------------------------------------------------------------------------------
+Hi guys. I had some macro questions and I want to ask it in the context of switching. There's a very big gap between the next quarter guidance year-over-year growth rate and your long term growth rate. The question that I have is, what part of the difference is macro, so if the macro slightly improves can you get there? 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [43]
+--------------------------------------------------------------------------------
+Yes. 
+
+--------------------------------------------------------------------------------
+Tal Liani,  BofA Merrill Lynch - Analyst    [44]
+--------------------------------------------------------------------------------
+Or is there anything that you can do on the product side that will get you closer? I want to ask it in the context of switching given that you had a major overhaul or major upgrade to your switching in the last two years, but we haven't seen the growth rates improving that dramatically. What can you do and what is macro? 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [45]
+--------------------------------------------------------------------------------
+I think that's a great question. I'd say -- let's just talk about switching. I'd say for campus switching, which is 2/3, roughly, of our entire switching business, which is our biggest business unit, I'd say most of that is macro, right? It is the one area, and I think we've talked about before. It's the one area that people can put off doing a refresh if there is any macro concerns. That's what we typically see any time you see any economic pause or macro event. I do truly feel that if the optimism we've seen this week in the stock market continues giving that feeling of optimism in the economy, I would expect that to raise all boats in our campus switching side. 
+I'd say on the data center, you understand the dynamic there, right? To your point, we launched a fantastic product a couple years ago but we had to manage through the transition of a very sizeable legacy business data center portfolio declining as that accelerated and so we managed through that. Again, that business has continued to grow as we go through that intersection and cross through now as the legacy piece we've worked largely through. I'd say that's why I say it's largely macro, especially on the campus side. 
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Thank you. Our next question is from Jeff Kvaal with Nomura. 
+
+--------------------------------------------------------------------------------
+Jeff Kvaal,  Nomura Securities - Analyst    [47]
+--------------------------------------------------------------------------------
+Thank you very much. Can you hear me okay? 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [48]
+--------------------------------------------------------------------------------
+Yes, we can, Jeff. 
+
+--------------------------------------------------------------------------------
+Jeff Kvaal,  Nomura Securities - Analyst    [49]
+--------------------------------------------------------------------------------
+Wonderful, thanks. I wanted to swift gears and talk about the balance sheet, if I could. Obviously, you and many other companies in tech space have been advocating for repatriation for a decade, a very long time. Could you help us understand or remind us where you would like to take that money, should you bring it back to the US? The second part of that question is there's some sentiment that investment, or I'm sorry, interest rates will start heading north again. Do you take that into account when considering your dividend policy? Thank you. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [50]
+--------------------------------------------------------------------------------
+Jeff, so great question. I love balance sheet questions, actually. Yes, I mean again, we have talked about tax reform for a very long time. I can say that what's encouraging is with the incoming administration is this is one of their top priorities that they said they would prioritize in their first hundred days, so we're encouraged that something will happen. Now, it's very early and we don't really know the details besides what his platform was during his campaign, so we're going to watch it very closely and look forward to as the details flush out there. 
+Just high level, as you could imagine, we have many, many scenarios of what we would do when repatriation comes, which is a combination of obviously we would ring fence in our debt and then we would have a blend of actions we can certainly take with our dividend as well as our share buyback, as well as leading flexibility for us to be able to do M&A and strategic investments. It'd be a combination of all those things. Obviously we listen very closely to our shareholders and how we want to do that and we recognize it will certainly give us a lot more flexibility. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [51]
+--------------------------------------------------------------------------------
+Thanks. 
+
+--------------------------------------------------------------------------------
+Kelly Kramer,  Cisco Systems, Inc. - CFO    [52]
+--------------------------------------------------------------------------------
+I'm sorry, I apologize. On the interest rates, would it affect our dividend policy? Again, we've been committed to growing our dividend with our earnings and again driving that to a great yield as our EPS grows. Interest rates go up, they go down. We're committed to growing it as our earnings grow. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [53]
+--------------------------------------------------------------------------------
+I believe that is our last question. I'll now turn it over to Chuck to wrap it up. 
+
+--------------------------------------------------------------------------------
+Chuck Robbins,  Cisco Systems, Inc. - CEO    [54]
+--------------------------------------------------------------------------------
+Thanks Marilyn. In summary, once again, we delivered a strong quarter in an environment that obviously continues to be challenging. I'm very pleased with the success that we've seen in security, collab, ACI, our deferred product revenue from software and subscription and we remain focused on executing against the things that we control. To that extent, I think the teams have done a very good job. We're obviously focused now on continuing to execute in those areas as well as, as I talked about earlier, bringing automation management and security at scale to the balance of our switching and routing portfolio and aligning with our customers' desires and how they consume our technology. 
+Finally, we'll obviously remain very committed to operational discipline and long-term value for our customers and our shareholders. We thank you all for spending time with us today. Marilyn, I'll kick it back to you. 
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Head of IR    [55]
+--------------------------------------------------------------------------------
+Thanks, Chuck. Cisco's next quarterly call, which will reflect our FY17 second-quarter results, will be on Wednesday, February 15, 2017, at 1.30 PM Pacific Time, 4.30 PM Eastern Time. I would like to remind the audience in light of regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. 
+We now plan to close the call. If you have any further questions, please feel free to contact the Cisco Investor Relations team. We thank you very much for joining the call today. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 1-866-439-3743. For participants dial from outside the US, please dial 1-203-369-1047. This concludes today's call. You may disconnect at this time. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,642 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2016 Advanced Micro Devices Inc Earnings Call
+JULY 21, 2016 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Lisa Su
+   Advanced Micro Devices, Inc. - President and CEO
+ * Devinder Kumar
+   Advanced Micro Devices, Inc. - SVP, CFO and Treasurer
+ * Ruth Cotter
+   Advanced Micro Devices, Inc. - Chief Human Resources Officer and SVP of Corporate Communications and IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Matt Ramsay
+   Canaccord Genuity - Analyst
+ * Jaguar Bajwa
+   Arete Research - Analyst
+ * Gabriel Ho
+   BMO Capital Markets - Analyst
+ * Mark Lipacis
+   Jefferies LLC - Analyst
+ * Stacy Rasgon
+   Bernstein Research - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Marco Chan
+   Citigroup - Analyst
+ * Ian Ing
+   MKM Partners - Analyst
+ * Sidney Ho
+   Deutsche Bank - Analyst
+ * Joe Moore
+   Morgan Stanley - Analyst
+ * John Pitzer
+   Credit Suisse Group - Analyst
+
+================================================================================
+Presentation
+================================================================================s
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, and welcome to the Advanced Micro Devices' second-quarter 2016 earnings conference call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. (Operator Instructions) As a reminder, this conference is being recorded.
+I would now like to turn the conference over to your host, Ruth Cotter, Chief Human Resources Officer, and Senior Vice President of Corporate Communications and Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Ruth Cotter,  Advanced Micro Devices, Inc. - Chief Human Resources Officer and SVP of Corporate Communications and IR    [2]
+--------------------------------------------------------------------------------
+Thank you and welcome to AMD's second-quarter conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you've not reviewed these documents, they can be found on AMD's website at IOR.AMD.com.
+Participants on today's conference call are Lisa Su, our President and Chief Executive Officer; and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on AMD.com.
+I'd like to take the opportunity to highlight a few dates for you. Lisa Su will present at the Pacific Crest Global Technology Leadership Forum on the 9th of August in Colorado. Raja Koduri, Senior Vice President and Chief Architect, Radeon Technologies Group, will attend the Jefferies Semiconductor Hardware and Communications Infrastructure Summit in Chicago on August 30.
+Mark Papermaster, Senior Vice President and Chief Technology Officer, will present at the Deutsche Bank's Technology Conference on September 13 in Las Vegas. And our third-quarter quiet time will begin at the close of business on Friday, September 16, 2016. Before we begin, let me remind everyone that second quarter -- that the second-quarter 2016 was a 13-week quarter, and we expect to record our extra week in the fourth quarter of 2016.
+Today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Additionally, please note we will be referring to non-GAAP figures during this call except for revenue, which is on a GAAP basis. The non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measure in the press release and CFO commentary that we've posted on our website at quarterlyearnings.AMD.com.
+Please refer to the cautionary statements in today's earnings press release and CFO commentary for more information. You will also find detailed discussions about our risk factors in our filings with the SEC, and in particular, AMD's Quarterly Report on Form 10-Q for the quarter ended March 26, 2016.
+Now with that, I'd like to hand the call over to Lisa. Lisa?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Ruth. And good afternoon to all those listening in today. Our ongoing focus on diversifying our business model and delivering great products is creating solid market and financial momentum. Looking at the second-quarter specifically, strong semicustom demand and better-than-seasonal graphic sales drove a 23% sequential revenue increase and our return to non-GAAP operating profitability.
+We also recorded our first full quarter licensing gain from our China server JV, THATIC, and improved our balance sheet with cash proceeds from the formation of our ATMP joint venture, with NFME. Looking at our Computing and Graphic segment, revenue decreased 5% sequentially, as stronger-than-seasonal GPU sales were offset by a decline in desktop processor sales.
+First-half 2016 GPU sales increased by a double-digit percentage from a year ago, as the investments we have been making to develop leadership graphics hardware, software and drivers, combined with new marketing campaigns, are paying off.
+Our strong second-quarter graphics performance was capped by the launch of our new Polaris based RX 480 GPUs at the end of June, which helped contribute to our highest desktop channel GPU shipments since the fourth quarter of 2014. The Radeon RX family resets expectations around the experiences and features gamers now want in a mainstream GPU.
+We are pleased with the Polaris launch, initial channel sales, and OEM design wins. We expect this strong demand to continue and help drive revenue growth in the third quarter with the launch of the RX 470 and RX 460 desk top GPUs, and Polaris based notebooks from our OEM customers. We also delivered our third straight quarter of sequential professionals graphics revenue growth and believe we gained share driven by increased adoption of FirePro graphics by OEMs as well as several cloud data center GPU compute wins.
+In client, mobile APUs sales increased for the third straight quarter, partially offsetting decreased desktop processor sales led by channel softness in China. Shipments of our recently launched seventh generation APUs are ramping well and outpacing sales of our six-generation APUs at this point in their lifecycle.
+More than 25 new seventh generation APU systems, including several premium designs, are expected to be widely available in the coming months from Acer, Asus, Dell, HP, and Lenovo, providing us with confidence in this part of our business as we enter the seasonally stronger second half of the year.
+Turning to our enterprise embedded and semicustom segment, our 59% sequential revenue increase is the largest since our first full quarter of semicustom products shipments in 2013. As in the previous two years, we expect semicustom shipments to peak for the year in the third quarter, as both Microsoft and Sony prepare for the holidays. Based on strong demand, we believe semicustom unit shipments and revenue will grow on an annual basis.
+Last quarter at E3, Microsoft announced two new members of the Xbox One family powered by AMD. The Xbox One S is the slimmest Xbox console ever, and the first to support HDR. The system is expected to go on sale in the coming weeks. Microsoft also announced their next-generation game console, code-named Project Scorpio, for the 2017 holidays.
+Project Scorpios is designed to be fully compatible with existing Xbox One software, while leveraging AMD's leadership gaming technologies to create more immersive 4K and VR gaming experiences. Project Scorpio is one of the semicustom design wins we communicated previously.
+Our next generation Zen processor products passed several key milestones in the quarter as well. I'm excited to report that, in addition to conducting the first public demonstration of our next generation Zen-based processor at Computex in June, priority server customer sampling began in the quarter, and dual socket server platforms are now running at both our labs and our customers' labs.
+We are pleased with the performance we are seeing with Zen hardware, which is helping to expand our customer engagements and accelerating design win momentum across multiple OEMs and ODMs. We remain on track for volume shipments of our Zen server CPU in the first half of 2017.
+In closing, over the last 18 months, we have been diligently executing our strategic plan to improve our financial performance by delivering great products, strengthening our customer relationships, and simplifying our business. In the past six months alone, we released our game-changing Polaris architecture, completed our ATMP JV transaction, announced a JV and IP licensing transaction with THATIC, and returned to non-GAAP operating profitability.
+While we recognize we have more work to do, we believe that, based on the ongoing ramps of our semicustom SoCs, Polaris GPUs, and seventh generation APUs, we can deliver full-year revenue growth in 2016 and non-GAAP operating profitability in the second half of the year. We also remain focused on delivering our road map of high performance products and technologies, including Zen and our next generation Vega GPU architecture that can drive long-term growth.
+Now I'd like to turn the call over to Devinder to provide some additional color on our second-quarter financial performance.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [4]
+--------------------------------------------------------------------------------
+Thank you, Lisa, and good afternoon, everyone. The second quarter was a strong quarter, punctuated by better-than-expected financial performance, driven by demand for our semicustom SoCs and the closure of our ATMP joint venture transaction with Nantong Fujitsu Microelectronics, which bolstered our cash position.
+Second-quarter revenue was $1.027 billion, up 23% sequentially, driven by higher sales of semicustom SoCs. The year-over-year revenue increase was 9% with higher sales in both reportable segments. Gross margin was 31%, down 1 percentage point from the prior quarter, primarily due to a higher mix of semicustom SoCs sales.
+Operating expenses were $342 million, up $10 million from the prior quarter, primarily due to increased marketing investments. We also recognized a $26 million licensing gain associated with our JV with THATIC, and restructuring credits of $7 million, primarily related to facilities. We are pleased to report operating income of $3 million this quarter.
+Net loss was $40 million with loss per share of $0.05, calculated using 794 million basic shares in the quarter. We recorded a pretax gain of $150 million related to the ATMP JV transaction, an equity loss of $3 million based on our 15% ownership stake, and taxes of $27 million related to the JV transaction. Adjusted EBITDA was a positive $36 million compared to negative $22 million in the prior quarter.
+Now turning to the business segments -- Computing and Graphics revenue was $435 million, down 5% from the prior quarter, primarily due to decreased sales of client desktop processors and chipsets. Revenue was up 15% year-over-year, largely driven by higher client notebook Processor and Graphics sales.
+Computing and Graphics segment operating loss was $81 million compared to $70 million in the prior quarter, primarily due to lower revenue. Enterprise, embedded and semicustom revenue was $592 million, up 59% from the prior quarter and 5% higher than the prior year, driven by higher semicustom SoC sales. Operating income of this segment was $84 million, up from [$16 million] in the prior quarter, driven by higher revenue and a $26 million IP licensing gain compared to a licensing gain of $7 million in the first quarter.
+Turning to the balance sheet, our cash and cash equivalents totaled $957 million at the end of the quarter, up $241 million from the end of the prior quarter, primarily due to net cash proceeds from the ATMP JV transaction, offset by working capital needs in the quarter. Inventory was $743 million, up $68 million or 10% from the prior quarter, and higher than guided, in support of expected higher semicustom sales in the third quarter.
+In the second quarter, we recorded a $62 million investment on our balance sheet related to our 15% ownership stake in the ATMP JV. Total wafer purchases from GlobalFoundries in the second quarter were 75 million and year-to-date, we have purchased 259 million.
+Debt as of the end of the quarter was $2.24 billion, flat from the end of the prior quarter, and includes total borrowings of $226 million on our secured revolving line of credit. Free cash flow in the second quarter was negative $106 million compared to a negative $68 million in the first quarter of 2016, primarily due to the inventory build in support of strong second-half revenue.
+Now turning to the outlook, which is based on a 13-week fiscal quarter. For the third quarter of 2016, we expect revenue to increase 18% sequentially, plus or minus 3%, primarily driven by our graphics and semicustom products, including the ramp of new semicustom business; non-GAAP gross margin to be approximately 31%; non-GAAP operating expenses to be approximately $350 million, due to an increase in R&D investments; IP monetization licensing gain to be approximately $22 million to maintain non-GAAP operating profitability; non-GAAP interest expense, taxes or other -- and other to be approximately $45 million; cash and cash equivalents to be approximately flat; and inventory to be approximately $700 million. And lastly, for the full-year 2016, we expect low-single digit revenue growth year-over-year.
+In closing, we are pleased with the progress we've made this quarter. We launched exciting new products in the second quarter, with more expected to come to help drive strong revenue growth and improved financial performance in the third quarter. We recognize there's a lot more work to be done to return AMD to sustainable profitability and free cash flow generation, and look forward to continuing our progress over the coming quarters.
+With that, I'll turn it back to Ruth. Ruth?
+
+--------------------------------------------------------------------------------
+Ruth Cotter,  Advanced Micro Devices, Inc. - Chief Human Resources Officer and SVP of Corporate Communications and IR    [5]
+--------------------------------------------------------------------------------
+Thank you, Devinder. Operator, if you could poll the audience please for a question-and-answer session?
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) David Wong, Wells Fargo.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+My first question -- can you give us any detail on the ramp in dollar terms of revenues from new semicustom products in the September/December quarters, and what the seasonal pattern of these products might be?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [3]
+--------------------------------------------------------------------------------
+Sure, David. This is Lisa. Let me start with that. So, our semicustom business overall, we see as strong for the year. I think the predominant business is the current generation game consoles, and as they ramp into the second half and the stronger holiday season.
+We expect the seasonality of semicustoms to be similar to prior years. We'll see a peak in the third quarter and a decline in the fourth quarter, and we will see the new business layer in starting in the third quarter. But I don't expect that to change the seasonality pattern. So, we are building up for a strong holiday season overall.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. Great. Thanks, Lisa. And since the launch of your Radeon 480 graphics product end of last month, have you been able to supply to demand for the cards? Or if not, when do you expect demand will rise to match supply?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [5]
+--------------------------------------------------------------------------------
+Yes. So, David, we're very pleased with the launch of the Radeon RX 480. We had good supply at major retailers on launch day. Since then, the demand has continued to be strong and so some of the retailers are out of supply. We do see that the 14 LPP yields are good and we're ramping up production steeply.
+So we expect that will equalize as we go through the quarter. We're also very soon going to launch the rest of the Radeon RX family. And so you'll see three products in the third quarter in terms of overall product momentum.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [6]
+--------------------------------------------------------------------------------
+Great. Thanks very much.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [7]
+--------------------------------------------------------------------------------
+Thanks, David.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Mark Lipacis, Jefferies.
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Jefferies LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+Thanks for taking my question. First one -- Lisa, maybe for you -- the China licensing deal was -- I thought it was creative and fascinating. Can you characterize kind of the pipeline of IP deals that you have or the technology deals? Is this it? Or do you have more in the pipe? Can you talk about timing or the types of deals you might be working on?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [10]
+--------------------------------------------------------------------------------
+Sure, Mark. So the China JV, as you said, we announced it last quarter and it's now in operation. It's actually going well, so we're on track for some of the important milestone deliveries that we had.
+In terms of the overall pipeline, I would say we have a nice set of interesting opportunities. They're -- very much, as you know, they take a while for them to come to fruition, but we feel good about the model which is partnering with folks that need high-performance technology. And we'll continue to work those deals as we go through the next couple of quarters.
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Jefferies LLC - Analyst    [11]
+--------------------------------------------------------------------------------
+Okay. Great. And I'll follow-up if I may. I was hoping that you could just help me with the accounting of the semicustom design wins. So if I remember properly, there was two that you expect in the back half of this year, and then one -- I thought it was the first half of next year.
+So Scorpio is one of those three? But that's next year; so that's the one for next year?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [12]
+--------------------------------------------------------------------------------
+Yes, let me help you out with the accounting -- I know that we've had several different pieces of information on the semicustom new design wins. So what we said is we'll have a total of three semicustom new design wins that will account for about -- let's call it $1.5 billion of revenue approximately over the next three to four years.
+We are starting the ramp of new business this coming quarter, this third quarter, and that will be one of the semicustom design wins. Scorpio is also a design win, and that, as our customer said, will be in 2017. And we'll give you more information about the third one as we have more visibility.
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Jefferies LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+And do you have more design wins that you just haven't announced or mentioned timing of?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [14]
+--------------------------------------------------------------------------------
+Well, we're trying to get out a little bit of the counting game, but I think overall, we're pleased with the semicustom pipeline. I think some of the questions that we've been asked are, do we believe we have design wins outside of game consoles, and the answer is yes. We have design wins outside of game consoles. I think we view the pipeline as good, and it's a business model that works well with our high-performance technology plans and our SoC capabilities.
+
+--------------------------------------------------------------------------------
+Mark Lipacis,  Jefferies LLC - Analyst    [15]
+--------------------------------------------------------------------------------
+Thank you. That's very helpful.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [16]
+--------------------------------------------------------------------------------
+Thanks, Mark.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Matt Ramsay, Canaccord Genuity.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [18]
+--------------------------------------------------------------------------------
+Thanks for taking my questions. Lisa, I have a couple of questions on Zen. You gave some color in your prepared remarks about server opportunities for Zen starting in the first half of next year. Maybe you could give us a little color on potentially what markets you are going after there, where you see the opportunities?
+It seems to me that a lot of different moving parts in the cloud market with open power and ARM, and then custom CPUs from Intel, but a pretty big enterprise space that's x86 captive for you guys to go after. So I would just be interested to see what the strategy is going forward there and where the design wins might come from?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [19]
+--------------------------------------------------------------------------------
+Sure, Matt. So, yes, let me give you a little bit of color how we see it. First of all, look, Zen is a brand-new CPU design and we had very ambitious goals for it. And given where we are today, it's actually coming up very well.
+We've demoed both desktop systems, and now we have server systems working in both our labs and our customers' labs. I would say as the progress of Zen is -- goes along in terms of validation, the customer interest has increased. And so, while we did close a number of design wins in the second quarter and we have a number more in the pipeline, as we go into the third quarter and more widespread availability.
+Our view is, Zen is a general-purpose server architecture that can play in many different places. So you mentioned the cloud. I think that's certainly one target market given the growth there. We also see there are workloads that would be particularly -- fit well for sort of the performance areas that we're targeting. I think enterprise is also again very much a target area for Zen.
+What we are looking for again is ensuring that we have a very high quality launch, and so we're working very closely with customers to make sure that we run their workloads and demonstrate the performance improvement that we expect. But as I said overall, it's going well, and we continue to work with customers to ensure that they see the benefits of Zen and working with AMD.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [20]
+--------------------------------------------------------------------------------
+Thank you for the color and it's good to hear. I guess another question on Zen more in the PC market -- because I think your prepared remarks focused a bit more on server -- but maybe you could give us a little bit of an update in the timing of desktop and notebook potential launches.
+It just seems to me going into the holiday season that it's still a little unclear as to where Zen is going to land relative to holiday ramps in the Western market and to Chinese New Year. So any color around that would be really helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [21]
+--------------------------------------------------------------------------------
+Yes. No, that's a fair question, Matt. So we have been very focused on the server launch for first half of 2017. Desktop should launch before that. In terms of true volume availability, I believe it will be in the first quarter of 2017. We may ship some limited volume towards the end of the fourth quarter, based on how bring-up goes and the customer readiness.
+But again, if I look overall at what we are trying to do, I think the desktop product is very well-positioned for that high-end desktop segment, that enthusiast segment, in both channel and OEM, which is very much a segment that AMD knows well. And so that's where we would focus -- on desktop.
+You should expect a notebook version of Zen with integrated graphics in 2017, and that development is going on as well. And so I think it's just a time of a lot of activity around the Zen and the different Zen product families.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [22]
+--------------------------------------------------------------------------------
+Thank you very much. Congratulations on the return to profitability.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [23]
+--------------------------------------------------------------------------------
+Thanks, Matt.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [24]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Stacy Rasgon, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [26]
+--------------------------------------------------------------------------------
+Thanks for taking my questions. I was looking at the implied guidance for Q4. You said the -- I guess for the full year, up low single digits. So, I mean, call it 3%. But it would imply Q4 down 16%/17% sequentially, and actually down on an absolute basis, lower than I would've thought. I think Q4 also has an extra week in it.
+I was wondering if you could give us, I guess, some color on how you see the drivers, I guess, for seasonality going from Q3 to Q4 across both of the businesses, given that, I guess, the trajectory of the different product launches that we have in the back half? Like, how do you come to that number?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [27]
+--------------------------------------------------------------------------------
+Sure. Stacy, maybe I'll start and see if Devinder would like to add to it. So, look, our -- when we started the year, our expectation is that we would grow revenue in 2016 versus 2015, but we were coming off of a very low base in the first quarter. So we've been pleased with how it played out certainly in our second-quarter revenue and the third quarter revenue guidance.
+Overall, the businesses are performing well, so we do expect both Computing and Graphics and EEFC to both grow for the year. I think the semicustom business is the large driver of the fourth quarter in terms of just how we see the overall business playing out. But the Computing and Graphics business is playing out as you might expect.
+So the second half should be seasonally higher, certainly with Polaris, and as we launch broader availability across the product line, as well as the seventh generation APUs as they go into back-to-school and holiday. So that's the way we should think about it.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [28]
+--------------------------------------------------------------------------------
+Okay. Thank you. For my follow-up, I just wanted to take a look at your notebook shipments in the quarter. So they were up again sequentially -- I think they were up double digits in Q1; I think they were up in Q4 as well. So three quarters in a row of sequential increase. Obviously off a low base as well.
+But how confident are you -- like what's driving that? Is this -- is it actually sort of a sell-out that's actually driving the demand? Or is this sell-in into the channel? And how should we think about that potentially normalizing?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [29]
+--------------------------------------------------------------------------------
+Yes, so if you're talking about the notebook computing business, actually we are kind of pleased with how it performed. So if you look at it, overall, the -- our OEM customers have adopted our technologies, so we see that across both notebook and desktop, but presumably notebook.
+We are also making progress in commercial, and that was a very important initiative over the past five or six quarters. And so that's been nice to stabilize the business. And again, I don't believe it's a sell-in phenomenon. Actually it's consumption share that we see increasing. And I think we have a reasonable opportunity to add to that in the second half of the year. But it's really around our products in the platforms that we're putting together with the OEMs.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [30]
+--------------------------------------------------------------------------------
+Got it. If I could ask one more really quick. I was just a little bit surprised at how much your wafer purchases at GlobalFoundries came down quarter-over-quarter, given the increase in notebooks as well as the timing of the Polaris launch. Any -- what -- should we read anything into that?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [31]
+--------------------------------------------------------------------------------
+I think basically the purchases of the wafers are in line with product demand and mix of business. And as I said in the prepared remarks, the other day we purchased about [$260 million] of wafers, and we are getting into the back half of the year, which as you can see, with our revenue guidance in Q3, is pretty strong.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [32]
+--------------------------------------------------------------------------------
+Thank you, guys.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+John Pitzer, Credit Suisse Group.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse Group - Analyst    [34]
+--------------------------------------------------------------------------------
+Thanks for letting me ask the question and congratulations on orchestrating the turnaround. I guess, Lisa, my first question, I would kind of like to get your view on the news earlier this week around Softbank and ARM. You are sort of in a unique position because you are both kind of a partner with ARM as an ARM licensee. But if you look at your custom silicon business, especially on the x86 architecture, you could make the argument that you're a little bit of a competitor as well.
+So I'm kind of curious to know how you see kind of the reaction to that from a customer perspective? And does that change your view of how you might be able to monetize your own IP in the future?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [35]
+--------------------------------------------------------------------------------
+John, thanks for the question. Look, I think it's a very interesting deal -- the ARM SoftBank deal. I think we have a lot of respect for ARM; they are a close partner. I'm not sure we would call them a competitor. Overall, they are a partner.
+As it relates to how we think about our IP, we really believe that our IP, particularly the high performance element of it on the microprocessor and the graphic side, is very unique, and in some sense, there are very few places in the industry where you have access to it. I think the applications that need it, whether you are talking about consumer applications or enterprise cloud applications, are growing. And so it's an opportunity for us to look for larger markets to monetize beyond just our own products.
+And that's, in general, the way we think about IP monetization. We have a set of products that is very important to our business model, but our IP can go further than our products themselves. And so we would continue to look for opportunities to monetize our IP.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse Group - Analyst    [36]
+--------------------------------------------------------------------------------
+And again, I apologize if I missed this -- you commented on sort of your expectations for GPUs going into Q3 and for semicustom. How do you view the PC outlook within your total outlook above ATM? And I've got a quick follow-on.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [37]
+--------------------------------------------------------------------------------
+Sure. So let me talk about the PC market overall. I think our view of the PC market is pretty similar to others in the industry. We would say, overall for 2016, high-single digit decline. We have seen some positive signals, and we saw some positive data points from IDC earlier the last week. And then we saw a little bit of pickup in consumption in June from our OEM customers. But again, that was compared to -- let's call it a soft April/May.
+Our view is OEM business looks okay. The channel for us is still weaker than we would like, and that's our view of the PC business. Even in that framework, we believe we can grow our Computing and Graphics business on the strength of the products. The Graphics products, we've talked about, as they ramp in the second half of the year. And on the Computing side as well, I think we have a number of new platforms, and back-to-school and holiday are important for us. So that's the way would characterize PCs.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse Group - Analyst    [38]
+--------------------------------------------------------------------------------
+So, Lisa, not to put words in your mouth, but for Q3, PC's up but perhaps not up as much as seasonal? Is that the best way to think about it within your guide?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [39]
+--------------------------------------------------------------------------------
+I would say roughly seasonal -- roughly seasonal.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse Group - Analyst    [40]
+--------------------------------------------------------------------------------
+That's helpful. And then lastly, guys, I apologize, but Devinder, now that you've got revenue growth behind you and you've got some momentum here, how do we think about the gross margin progression from here and kind of the puts and takes? And I know there's lot of different dynamics there, including the mix of semicustom. But from these levels, how should we think about gross margin progression over the next, call it, two to four quarters?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [41]
+--------------------------------------------------------------------------------
+Yes, John, I think the way you think about it is, it is the mix of business, so that's a good observation. But also you see us making continuing investments in our roadmap in graphics and in other areas, and we believe that will help us improve the gross margin. And then as you look out longer-term, as you observe -- get beyond a couple of quarters and get into 2017, we do have the Zen product introduction coming up. We also have a product in the pro graphics area, and that should drive even higher gross margins compared to where we are today, given the mix will get better with those products.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse Group - Analyst    [42]
+--------------------------------------------------------------------------------
+Thanks. Well, thanks, guys.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [43]
+--------------------------------------------------------------------------------
+Thanks, John.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Ross Seymore, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Sidney Ho,  Deutsche Bank - Analyst    [45]
+--------------------------------------------------------------------------------
+Thanks for taking my question. This is Sidney Ho asking -- calling in for Ross. Just follow up to -- with the last question by focusing on third quarter, you guided third-quarter gross margin to be flat, but the profile seem -- of revenue growth seems to be -- would suggest gross margin should decline on a mix adjusted basis.
+How should we think about gross margin by segment in Q3? What are some of the moving parts? And maybe follow-up to that, do you expect the gross margin of the new custom design wins ramping this quarter to have better or worse margins than your game console business?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [46]
+--------------------------------------------------------------------------------
+Yes, I think that's well-put. I mean if you look overall when we have a higher mix of semicustom business, typically the gross margin is lower since the business model on the semicustom side has for the lower margin just the way the model is constructed. So keeping it flat at 31% with the guide in Q3 was variable in Q2. We were pretty pleased with that. And I think you're seeing some of the strength underlying the non-semicustom business is allowing us to keep it flat quarter-on-quarter.
+
+--------------------------------------------------------------------------------
+Sidney Ho,  Deutsche Bank - Analyst    [47]
+--------------------------------------------------------------------------------
+Okay. Great. And then my follow-up question is -- you guys talked about the Zen products at Computex and it's on track for launching in the first half of 2017. Can you talk about the impact on R&D expense and maybe on gross margin on the preparation of this launch over the next few quarters? And if you hit your revenue plan that you have thought about, at what point do you need to start increasing OpEx from the $330 million to $350 million level?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [48]
+--------------------------------------------------------------------------------
+The OpEx side of it, if I look at it from that standpoint, you have seen our OpEx actually go up; in Q3, we are guiding at the $350 million level with specific targeted investments we are making in key R&D areas and products, in particular the high performance roadmap that we have laid out. But we are also making some specific investments in the marketing area, given the new products that are coming out on the PC side as well as the GPU side, trying to attract end-users back to the AMD brand.
+And I think you'll continue to see us do that. And that helps obviously with this new product underlying the better margins that you get with the fresh cycle, in particular with the new technology areas that we are putting our products in.
+
+--------------------------------------------------------------------------------
+Sidney Ho,  Deutsche Bank - Analyst    [49]
+--------------------------------------------------------------------------------
+Great. Maybe just one quick follow-up. For Q4 with an extra week in the fiscal quarter, should we expect OpEx to be at the high end of levels, that that will be enough -- that $350 million?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [50]
+--------------------------------------------------------------------------------
+I'm not prepared -- you know, one of the things about OpEx as I always say even if you look at Q3, the OpEx is up on a guided basis at $350 million, but very much as I always say, we manage the OpEx pretty tightly. We've done that over the last several years, and obviously it gets modulated somewhat by revenue. Q3, our revenue is up 18%, OpEx is at $350 million and we'll talk about Q4 when we gather here in about 90 days.
+
+--------------------------------------------------------------------------------
+Sidney Ho,  Deutsche Bank - Analyst    [51]
+--------------------------------------------------------------------------------
+Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+Joe Moore, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [53]
+--------------------------------------------------------------------------------
+I was also curious about GlobalFoundries being so low in Q2. And I guess have you guys finalized the 2016 wafer supply agreement? And can you talk more generally about which products -- how you are deciding which products are allocated to Global and TSMC? And is there anything that's exclusive to one or the other?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [54]
+--------------------------------------------------------------------------------
+Yes, several parts to it. I mean the working relationship, as Lisa said, with GlobalFoundries is very good. We continue to work through the 2016 WSA and that's not finalized; we're in the process of negotiating that. In the meantime, we continue to get delivery of wafers for the products that we need in line with the product demand and mix of business. And relative to your -- which products from which foundry, we typically do not share the source of foundry for any of our wafers or products.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [55]
+--------------------------------------------------------------------------------
+Okay. That's fair. And then with regards to kind of thinking about next year's OpEx, when you look at the importance of a CPU that can attack the server market and can attack the high end of the sort of enthusiast CPU market, I guess I don't want you to necessarily be constrained by the R&D requirements of the last couple of years.
+I mean, so how do you think about that? If you start to show some revenue traction, I mean, can you -- how much flexibility do you think there is on spending? I'm not asking for a number, but just qualitatively, how are you thinking about profitability versus investing in these opportunities next year?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [56]
+--------------------------------------------------------------------------------
+Joe, I would say my engineers would be very happy to hear you say that. So look, I appreciate the question. I think you've seen -- and Devinder said this -- we're going to be disciplined in OpEx. And as this quarter was an important turning point for us, to return to operating profitability, I think we have a nice sort of a view into Q3.
+We will look for opportunities to ensure that we are strategically placing the big bets in R&D, and both on the CPU and the GPU side. For example, this year, we have ramped up our investments on the graphics side with the formation of the Radeon Technologies Group, and what we're doing in both hardware and software -- very significant investments.
+And similarly on the CPU side as well. So, I think we take very seriously our commitments in terms of profitability, but we will invest in the future and we'll continue to look for opportunities to balance those in the right way.
+I don't know, Devinder, if you want to add --?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [57]
+--------------------------------------------------------------------------------
+No, I think that's well-said. In 2017, obviously, as we get to the back half of the year, Q3 we have guided, we're getting to that -- get through Q3 and get into Q4. And at that point, we'll start thinking about where we want to place our bets as these are put in terms of the longer-term investments in 2017. Right now we're really focused on getting -- we got to non-GAAP operating profitability this quarter. We want to maintain that in Q3 and then we'll see what happens from there.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [58]
+--------------------------------------------------------------------------------
+Great. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Christopher Danely, Citigroup.
+
+--------------------------------------------------------------------------------
+Marco Chan,  Citigroup - Analyst    [60]
+--------------------------------------------------------------------------------
+This is Marco Chan calling on behalf of Chris Danely. Thanks for letting me ask the question. My first question is, could you please update us on your expectations on the THATIC x86 server JV in China? Are there any potential legal risks with it, potentially Intel?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [61]
+--------------------------------------------------------------------------------
+Yes. So relative to the server JV that we have with THATIC, as we stated before, we believe that our joint venture is operational. I think it's well underway. The technology that we're licensing is AMD technology, and so we don't have any issues relative to licensing. I think --
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [62]
+--------------------------------------------------------------------------------
+Yes. If I may add, I mean, one thing on the update, I guess, if you look at the prepared remarks and the commentary for Q3 is, we now expect, based on technology transfer milestone completion, to recognize $22 million to authorize a gain in Q3 and approximately $75 million for the year, which is higher than what we had said previously when we said it was $52 million for the year. So you can see it's incremental and therefore, as Lisa said, things are operationally on track and we continue to meet our technology transfer milestones from a date standpoint.
+
+--------------------------------------------------------------------------------
+Marco Chan,  Citigroup - Analyst    [63]
+--------------------------------------------------------------------------------
+That's very helpful. Thank you. And then my follow-up -- I know you guys mentioned PCs and Graphics segment should be up year-over-year. Could you guys get into more detail, maybe talk about each segment individually, your trends for PCs versus GPUs?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [64]
+--------------------------------------------------------------------------------
+Yes, we don't usually go into granularity about the subsegments of the business. I think it's fair to say that our PC business has stabilized. And what we're seeing now is the opportunity, as we go into the seasonally stronger half of the year on both the PC side and graphics side, on top of that with some new product launches, we believe that we will end up growing year-over-year. But again, we don't usually guide to the details within the segment.
+
+--------------------------------------------------------------------------------
+Marco Chan,  Citigroup - Analyst    [65]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+Ambrish Srivastava, BMO.
+
+--------------------------------------------------------------------------------
+Gabriel Ho,  BMO Capital Markets - Analyst    [67]
+--------------------------------------------------------------------------------
+This is Gabriel Ho calling in for Ambrish. Thanks for taking my question. I have a follow-up on your Project Scorpio comment. I think it's going to be launched in 2017. And I think you had significantly higher performance and support 4K and V. So how should we think about the pricing on ASP that compares to what you have indicated on the current generation game console platform?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [68]
+--------------------------------------------------------------------------------
+Yes. So, again we don't -- we wouldn't disclose anything that's incrementally more than what our customer has disclosed. So I think Microsoft has talked about their goals with Project Scorpio. I think we are in support of those goals. Given the performance level, you would imagine that there's more capability on chip, but I wouldn't want to go more than that.
+
+--------------------------------------------------------------------------------
+Gabriel Ho,  BMO Capital Markets - Analyst    [69]
+--------------------------------------------------------------------------------
+Okay. As a follow-up -- I think your competitor has launched a comparable mainstream product -- I think GeForce 10 6P, so given the absence of your maybe higher performance part launching maybe in the second half, so how should we think about the rest of the year on the demand on your graphics side?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [70]
+--------------------------------------------------------------------------------
+Yes, we are feeling very good about our Polaris launch. This was our strategy from the beginning. I mean we laid out a strategy where we were going after the mainstream, and growth rate, really a new experience in terms of both capability and price point. And I think we've done that.
+We've also been very focused on DX 12 and our performance -- on new APIs like Vulcan. So we are happy with our competitiveness. I think it's played out as we thought it would do. Certainly our aspirations in GPU are to certainly have very competitive products across the entire product line. And so I've talked about working on Vega, which is the next generation high-end architecture.
+But in terms of our competitiveness, you know, we -- again, we've executed what we thought we were going to execute. And it seems like, from both customer reviews and analyst reviews, that it's pretty well-received by the market.
+
+--------------------------------------------------------------------------------
+Gabriel Ho,  BMO Capital Markets - Analyst    [71]
+--------------------------------------------------------------------------------
+Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Ruth Cotter,  Advanced Micro Devices, Inc. - Chief Human Resources Officer and SVP of Corporate Communications and IR    [72]
+--------------------------------------------------------------------------------
+Operator, we'll take two more callers, please.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+Ian Ing, MKM Partners.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [74]
+--------------------------------------------------------------------------------
+Yes, thank you for fitting me in. So EESC -- looks like you achieved operating income same level as third quarter of last year but with $45 million lower revenue. So just wondering how you got more profitable in this segment, given these are both strong game console quarters and also you've got annual price declines in game consoles, I assume. Thanks.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  Advanced Micro Devices, Inc. - SVP, CFO and Treasurer    [75]
+--------------------------------------------------------------------------------
+I think if you look at the profitability, you've got to remember that in the EESC segment, we also have other businesses embedded for one, and also the investment we are making for the enterprise side of it, for the data center product that's coming out in 2017. So the profitability -- you're right about the observation, but profitability depends upon obviously -- the largest business we have in there right now is the semicustom business, but also the investments on the OpEx standpoint that we make year-on-year. And we talked about the targeted investments we are making in some of the product areas.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [76]
+--------------------------------------------------------------------------------
+Okay. Great. But these are relatively older products that are embedded into enterprise products at the moment then, it sounds like. Okay, great. And then my follow-on is -- you are at a one-year cadence for GPUs now. Could you talk about expectations on how last year's R9300 series winds down and how that plays out? It looks like in Q2, it was really just a lack of a pause ahead of a known refresh. And do you expect sort of a sharp wind-down at some point? Or is it more gradual?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [77]
+--------------------------------------------------------------------------------
+Actually, Ian, that's a good observation. The 390 series or the 300 series overall actually did do okay in the second quarter. We were also wondering whether there would be a pause prior to a new generation. I think we see it as a very orderly transition; it's actually one of our better product transitions as we go from the 300 series over to the 400 series.
+So again, nothing very spectacular to report other than the sellthrough has continued -- the sellthrough was good in the second quarter. And we believe that it's an orderly transition of the inventory.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [78]
+--------------------------------------------------------------------------------
+Okay, great. Thank you.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [79]
+--------------------------------------------------------------------------------
+Thanks, Ian.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+Thank you. Our final question today is coming from Jaguar Bajwa from Arete Research. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Jaguar Bajwa,  Arete Research - Analyst    [81]
+--------------------------------------------------------------------------------
+Thanks for taking my question. Just a question on Q3. Could you just lay out which would be the fastest-growing sequential segment in Q3? Will that be the GPU business, CPU or semicustom? Thanks.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [82]
+--------------------------------------------------------------------------------
+Jaguar, I think what we would say is that our Q3 guidance is both semicustom and graphics will be the drivers of the sequential revenue growth.
+
+--------------------------------------------------------------------------------
+Jaguar Bajwa,  Arete Research - Analyst    [83]
+--------------------------------------------------------------------------------
+Okay. Thanks. And then could you just give a bit more clarity around Vega timing? And also what do you expect to be your differentiation here versus what Nvidia has done with Pascal?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [84]
+--------------------------------------------------------------------------------
+Again, I think we'll talk more about the details of the Vega architecture in time, but certainly Vega is a high-performance GPU that will use high-bandwidth memory as part of it. So, I would leave the details for a more -- as we go -- get closer to the Vega launch date.
+
+--------------------------------------------------------------------------------
+Jaguar Bajwa,  Arete Research - Analyst    [85]
+--------------------------------------------------------------------------------
+Okay. Well, maybe just one final one then. When we get into the server CPU cycle with Zen, should we expect any kind of contribution from an APU format with CPU plus Vega? Because we're seeing a lot of acceleration now in the data center. Do you think that could be a key product for you guys which maybe your competitors may not have, bringing an APU to the server market for high-performance servers?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [86]
+--------------------------------------------------------------------------------
+Yes, I think it's fair to say that we do believe we can combine high-performance CPU with the high-performance GPU. As we look at our GPU compute in general, sort of our both professionals graphics and server markets for GPU, I think that will increasingly become an area of focus for us as we continue to grow the graphics business.
+So I think the answer is yes. I mean, obviously, it will come in time, but it's an area where combining the two technologies makes a lot of sense.
+
+--------------------------------------------------------------------------------
+Jaguar Bajwa,  Arete Research - Analyst    [87]
+--------------------------------------------------------------------------------
+Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices, Inc. - President and CEO    [88]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Ruth Cotter,  Advanced Micro Devices, Inc. - Chief Human Resources Officer and SVP of Corporate Communications and IR    [89]
+--------------------------------------------------------------------------------
+Operator, that concludes the question-and-answer session. If you wouldn't mind wrapping up the call, please?
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+Certainly. That concludes today's teleconference. You may disconnect your lines at this time and have a wonderful day. We thank you for your participation today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

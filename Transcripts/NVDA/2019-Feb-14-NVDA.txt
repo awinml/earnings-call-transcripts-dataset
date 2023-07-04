@@ -1,0 +1,526 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2019 NVIDIA Corp Earnings Call
+FEBRUARY 14, 2019 / 10:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Colette M. Kress
+   NVIDIA Corporation - Executive VP & CFO
+ * Jen-Hsun Huang
+   NVIDIA Corporation - Co-Founder, CEO, President & Director
+ * Simona Jankowski
+   NVIDIA Corporation - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Joseph Lawrence Moore
+   Morgan Stanley, Research Division - Executive Director
+ * Stacy Aaron Rasgon
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Timothy Michael Arcuri
+   UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+ * Harlan Sur
+   JP Morgan Chase & Co, Research Division - Senior Analyst
+ * Mark John Lipacis
+   Jefferies LLC, Research Division - Senior Equity Research Analyst
+ * Pierre C. Ferragu
+   New Street Research LLP - Global Team Head of Technology Infrastructure
+ * Christopher James Muse
+   Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+ * John William Pitzer
+   Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+ * Mitchell Toshiro Steves
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Toshiya Hari
+   Goldman Sachs Group Inc., Research Division - MD
+ * Vivek Arya
+   BofA Merrill Lynch, Research Division - Director
+ * Aaron Christopher Rakers
+   Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Analyst
+ * Blayne Peter Curtis
+   Barclays Bank PLC, Research Division - Director & Senior Research Analyst
+ * Matthew D. Ramsay
+   Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon. My name is Christina, and I will be your conference operator today. Welcome to NVIDIA's financial results conference call. (Operator Instructions) I'll now turn the call over to Simona Jankowski, Vice President of Investor Relations, to begin your conference.
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  NVIDIA Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the fourth quarter of fiscal 2019. With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer. I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the first quarter of fiscal 2020. The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent.
+During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Form 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, February 14, 2019, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements.
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.
+With that, let me turn the call over to Colette.
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Simona. As you know, we lowered our fourth quarter guidance on January 28, and our results are in line with our pre-announcement. Q4 revenue was $2.21 billion, down 24% from a year earlier, driven primarily by a 45% year-on-year decline in gaming. Full year revenue was $11.72 billion, up 21% from our previous year.
+Starting with our gaming business. Revenue of $954 million was down 45% year-on-year and down 46% sequentially, weaker than our expectations heading into the quarter. Full year revenue was up 13% to $6.25 billion.
+Three factors contributed to the Q4 gaming revenue decline. First, post-crypto inventory of GPUs in the channel caused us to reduce shipments in order to allow excess channel inventory to sell through. We expect channel inventories to normalize in Q1, in line with 1- to 2-quarter time line we had outlined on our previous earnings call. Second, deteriorating macroeconomic conditions, particularly in China, impacted consumer demand for our GPUs. And third, sales of certain high-end GPUs using our new Turing architecture, including the GeForce RTX 2080 and 2070, were lower than we expected for the launch of a new architecture. These products deliver a revolutionary leap in performance and innovation with real-time ray tracing and AI, but some customers may have delayed their purchase while waiting for new -- for lower price points or further demonstration of the RTX technology in actual games. The significant volatility in our gaming business over the last few quarters has been challenging to model. Crypto mining demand and its after effects have distorted the quarter-to-quarter trends in the gaming business and obscured its underlying trend line.
+Let me try to give you some visibility into what we believe the normalized business looks like. As you know, our gaming business consists of desktop gaming, notebook gaming and gaming console products. To get a sense of the underlying run rate in our gaming business last year, it is helpful to look at desktop gaming revenue across a period that doesn't include crypto demand. Let's look at the 4 quarters starting from Q2 of last year to the current quarter or Q1 this year.
+In Q2 and Q3 of last year, with the benefit of hindsight, we shipped a higher amount of desktop gaming products relative to where end demand turned out to be. To allow the channel to work down that excess channel inventory, we shipped a lower amount relative to end demand in Q4, and will do so again in Q1. Therefore, exiting Q1, we expect channel inventories to be at normal levels. On average, our desktop gaming revenue across these 4 quarters is about $900 million. We believe this represents the normalized level of desktop gaming for this period. Notebook gaming and gaming consoles have averaged close to $500 million per quarter over the same 4 quarters. Thus, in total, we believe our normalized quarterly gaming business revenue run rate is approximately $1.4 billion.
+As we look past Q1, we expect the channel inventory correction to be behind us and our business to have bottomed. On a full year basis, we expect our gaming business to be down slightly, given the tough first half compares with growth in Turing and notebook gaming.
+At CES last month, we launched into the recovery of our gaming business. We announced the GeForce RTX 2060 at the midrange price point of $349. The 2060 delivers a 60% performance improvement over the GTX 1060 while also bringing Turing's real-time ray tracing and AI features to the mass market for the first time. The 2060 has received rave reviews and is off to a great start.
+In addition, we announced a record of 40-plus new Turing-based gaming laptops, which became available on January 29. This is more than double the number of GeForce-powered notebooks in the market last year, featuring the energy efficiency of the Turing architecture and the light laptops are able to deliver the performance of desktop gaming PCs. We expect GeForce laptops to continue to be the fastest-growing segment of gaming.
+We are also pleased to see growing momentum in the RTX ecosystem as more game developers are creating content to take advantage of the Turing architecture's amazing capabilities. Just this week, DLSS technology is becoming available in 2 blockbuster games, Battlefield V and Metro Exodus and Anthem coming soon. In addition, at CES, Justice and Atomic Heart showed demos featuring ray tracing and DLSS. And a large pipeline of games plan to integrate RTX technology. Pairing DLSS with ray tracing can provide comparable frame rates to traditional rasterization but also much more beautiful cinematic visuals, the best of both worlds. This is the next generation of gaming. While this was a challenging quarter in our gaming business, we look forward to putting the channel inventory correction behind us and building on a solid foundation of our Turing architecture.
+Moving to datacenter. Revenue was $679 million, up 12% year-on-year and down 14% sequentially. Full year datacenter revenue was $2.93 billion, up a strong 52%. The Q4 sales decline was broad-based across vertical end markets and geographies. As the quarter progressed, customers around the world became increasingly cautious, due to rising economic uncertainty and a number of deals did not close in January. In addition, hyperscale and cloud purchases declined both sequentially and year-on-year as several customers paused at the end of the year. We believe the pause is temporary. The strength of NVIDIA's accelerated computing platform remains intact. We continue to lead the industry in performance for scientific computing and deep learning. And with CUDA's programmability, we can continue to expand the value of our platform. For example, we recently announced RAPIDS or CUDA acceleration stack for data analytics and machine learning.
+In December, the first objective third-party AI benchmark called MLPerf became available, and NVIDIA captured the top spot in the 6 test categories for training deep learning models that we competed in. And in January, Google Cloud announced that NVIDIA T4 Tensor Core GPUs are now available in beta in its datacenters in the U.S., Europe, Brazil, India, Singapore and Tokyo. The T4 is a universal cloud GPU that accelerates a variety of workloads, including high-performance computing, deep learning training and inference, broader machine learning, data analytics and graphics.
+Our visibility remains low in the current cautious spending environment, and we don't forecast a meaningful recovery in the data center segment until later in the year. However, we are working closely with hyperscales around the world to integrate NVIDIA TensorRT software and Tensor Core GPUs into their inference production flow. Inference currently drives less than 10% of our data center business, but represents a significant expansion of our addressable market opportunity going forward.
+We have also strengthened our product portfolio and go-to-market capabilities to address vertical industries that have an enormous data and analytics requirements, such as automotive, financial services, retail, health care and consumer Internet services. With our RAPIDS software stack, NVIDIA can accelerate data analytics and machine learning, and we have -- as we have done in deep learning. And we made it easier for customers to adopt our technology by partnering with Cisco, IBM, NetApp and Pure Storage to create pre-integrated systems that can be sold through their global IT channels.
+Moving to pro visualization. Revenue reached $293 million, up 15% from the prior year and down 4% sequentially. Full year revenue was $1.13 billion, up 21% year-on-year. New applications like data science, AI and VR as well as the need for thin and light mobile workstations remain key growth drivers for the business.
+We had key wins in the quarter, including Boeing, Google, LinkedIn and Toyota for applications including AI and robotics. This past week, with our partners, HP, Dell, Lenovo, we announced the availability of Quadro RTX workstations. Quadro RTX is the most significant workstation GPU upgrade in 10 years. It will enable millions of designers and creative architects for the first time to work interactively with super high resolution media and photorealistic 3D rendering, enabling them to be creative with dramatically improved productivity.
+Finally, turning to automotive. Q4 revenue was $163 million, up 23% from a year ago and down 5% sequentially. Full year revenue reached $641 million, up 15%. The sequential decline was largely seasonal. The year-on-year growth was driven by the increasingly adoption of next-generation AI cockpit solutions and autonomous vehicle development deals, partially offset by declines in legacy infotainment.
+Last month at CES, we announced DRIVE AutoPilot, the world's first commercially available Level 2+ self-driving car computer. The system offers sophisticated automated driving features that far surpass today's ADAS offerings, increasing the vehicle's performance, functionality and road safety while the driver remains in control. We delivered these capabilities. DRIVE AutoPilot uses multiple deep neural networks; surround camera perception, both in and outside of the car; and significant AI processing capability. Systems from our Tier 1 partners, including Bosch, Continental, Veoneer and ZF were all on display on at our booths.
+Volvo, as announced back in October, was our first Level 2+ design win with cars slated for production in the early 2020s. Mercedes-Benz has also chosen NVIDIA for its next-generation autonomous vehicle and cockpit computer. This centralized AI computing system replaces dozens of smaller processors inside current cars. DRIVE AutoPilot is a major milestone for NVIDIA and takes our high-functioning, self-driving capabilities into the mass market. This will be an important year for robo-taxi pilots and initial Level 2 design wins.
+Moving to the rest of the P&L and balance sheet. Q4 GAAP gross margins was 54.7%. And non-GAAP was 56.0%, down sequentially and year-on-year, primarily due to a $128 million charge for DRAM, boards and other components associated with our lower-than-expected Q4 revenue and current market conditions.
+GAAP operating expenses were $913 million, and non-GAAP operating expenses were $755 million, up 25% and 24% year-on-year, respectively. GAAP EPS was $0.92, down 48% from a year earlier. Full year GAAP EPS was $6.63, up 38% from the prior year. Non-GAAP EPS was $0.80, down 53% from a year ago. Full year non-GAAP EPS was $6.64, up 35% from the prior year.
+We returned $1.95 billion to shareholders in the fiscal year through a combination of quarterly dividends and share repurchases. As we announced last quarter, we plan to return $3 billion to shareholders through the end of fiscal 2020 in the form of dividends and buybacks. We repurchased $700 million during the fourth quarter of fiscal 2019.
+With that, let me turn to the outlook for the first quarter of fiscal 2020. We expect revenue to be $2.2 billion plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 58.8% and 59%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately $930 million and $755 million, respectively. GAAP and non-GAAP OI&E are both expected to be an income of $20 million. GAAP and non-GAAP tax rates are both expected to be 10% plus or minus 1%, excluding discrete items. Capital expenditures are expected to be approximately $150 million to $170 million.
+For fiscal 2020, we expect Q1 to mark the bottom as we pass the inventory correction in gaming. We expect total revenue for the year to be flat to down slightly with growth in our 4 end markets, compensating for the absence of crypto revenue and the excess selling from last year. We plan to grow OpEx in the high single digits this year, and we continue to invest in our focused growth areas of graphics, AI and self-driving cars. Further financial details are included in the CFO commentary, and other information is available on our IR website.
+In closing, I'd like to highlight upcoming events for the financial community. We'll be presenting at the Morgan Stanley Technology, Media and Telecom Conference on February 26. And our next earnings call to discuss our financial results for the quarter of fiscal 2020 will take place on May 15.
+We will now open the call for questions. Operator, would you please poll for questions? Thank you.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And our first question comes from the line of Toshiya Hari with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group Inc., Research Division - MD    [2]
+--------------------------------------------------------------------------------
+
+          I had 2 questions. First, Colette, you talked about the weakness you saw in the 2070 and the 2080 in the quarter. I guess this question is more for Jensen. Are you concerned at all about your ability to convince and incentivize gamers to -- as Colette pointed out, it's more of a timing thing? And second question is inventory was up on the balance sheet. Colette, if you can just provide some color there and expectations going forward.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes, Toshiya. When we launched the 2070 and 2080, it was the first time we've ever launched a new generation where the only available SKUs were very high end. And in addition to that, the early boards that came out into the marketplace were the special edition and the overclock versions, and the MSRP versions didn't show up for some short time after, couple of months after. And so the conditions weren't ideal, if you will. Now we weren't able to launch into the mainstream segment with 2060 for all the reasons that I think everybody understands now. And so I think that the situation wasn't ideal. When you take a look at our situation now, every single graphics card had the best performance at its price point, and it remain so today. And I think that right out of the box, it delivered excellent performance. It is true that everybody was hoping to see more games with RTX on day 1. But it's such a new technology with ray tracing and AI for image processing that it's only really possible to make available with new games, which is tied to the schedules of new games. And now they're starting to come out. Battlefield V, Metro Exodus, I think the reviews from this week are just spectacular. People are finally realizing what it is that we were talking about. And that it's possible with RTX technology, the combination of applying ray tracing and AI for us to deliver much more beautiful images without sacrificing performance. And so I think people are starting to understand now the benefits of the RTX technology. And we just needed some time to demonstrate it. And I think the takeaway is simply this. RTX is the best graphics card at every single price point without using ray tracing technology. And for new games that are coming out, each one of the new games that come out in the future will apply ray tracing, and work with developers to apply ray tracing technology. I think everybody agrees that it is surely the next generation. And then probably one of the biggest stories that came out just last week is Unreal Engine and Unity, both of the game engines are going to incorporate RTX and ray tracing technology in the engine itself. And so all future games in the future will be able to take advantage of that. So that's a really big news, and I'm excited about that.
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          So Toshiya, to answer your second question regarding our inventory balance. Our inventory balance at the end of Q4 rose just due to the weaker-than-expected finish to Q4. Inventory right now is primarily related to Turing, Volta and DGX. And we don't expect any further write-downs as we have incorporated approximately $128 million of write-downs within the current Q4.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Your next question is from C.J. Muse with Evercore.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [6]
+--------------------------------------------------------------------------------
+
+          I guess on the commentary regarding a pause in spending in datacenter and a handful of deals that got delayed, can you give a little bit more color in terms of, I guess what you're seeing across enterprise, cloud, high-performance compute? And I guess within that, how you're seeing the ramp of T4? And I guess if you can kind of then speak to I'm sure embedded in the fiscal '20 guidance is a pretty nice ramp into the second half. What are the key drivers, key milestones that you're looking for to see that business reaccelerate higher as we go through the year?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [7]
+--------------------------------------------------------------------------------
+
+          The slowdown is broad-based. We saw it across every vertical, every geography. There was just a level of cautiousness across all of the enterprise customers in the cloud service providers that we've not experienced in a while. And so I think that it has to be temporary. The computing needs of Earth has not certainly been satisfied with what we shipped last quarter. And so I think that the demand will return and customers will return. Our situation in datacenters is dramatically better year-over-year. And if you take a look at where we are, our deep learning solution is unquestionably the best in the world. We introduced T4 with inference capability. It's the world's first universal cloud GPU, and it does everything that NVIDIA does all in one GPU in 75 watts. And so it fits into every hyperscale datacenter. We're engaged with Internet service providers all around the world, optimizing, importing their high-production models, networks, so that we could deploy it into production. So we now have 4 different new growth drivers for our data center in addition to deep learning and scientific computing. We have inference that we're actively working on. We have data analytics that's called RAPIDS. Some people call it big data, but data analytics and machine learning. The third is rendering. And because of the partnerships that we've developed and the excitement that people see around enterprises around the world, we've developed partnerships with large IT companies to pre-configure systems that make it easier for enterprises to be able to adopt our technology. So we have 4 new ways for us to grow our enterprise business. And so we're looking forward to when the pause releases, and now we'll get back to growing.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Vivek Arya with Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [9]
+--------------------------------------------------------------------------------
+
+          I just had a clarification and a question. On the clarification, gross margins, Colette, what is the normalized run rate for gross margin that as you get your sales back to normalized levels, how should we think about the trajectory of gross margins? And will there be any impact from the balance sheet inventory? And then on the question, Jensen, can you give us more reassurance that gaming is still a growth business? But I understand that over the last year, there's been a lot of confusion, there's been macro issues. But if you look at the number of gamers and the mix of product that they are buying, so essentially the sell-through to gamers, has that been on an upward trajectory? And as part of that, when do you think we could see Turing exceed the demand you saw for Pascal?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [10]
+--------------------------------------------------------------------------------
+
+          So I'll go first. Thanks for the question. On gross margin, our gross margin, the largest contributor to our absolute gross margin is really just the mix of our products. The mix of our products based on our market platforms but also the mix of our products within data center as well as within gaming. We provided guidance for Q1, which has a good level of confidence from us, and we'll see how it goes from there.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [11]
+--------------------------------------------------------------------------------
+
+          Vivek, the fundamentals of gaming has not changed. There are more gamers than ever. Games are better than ever. There's been a recent shift in the popularity of multiplayer competitive eSports-like games. That's good for hardware. It lowers the barrier to entry because it's free to play with the exception of downloadable content. And so the barriers to entry is lower. But you could see that the excitement around Fortnite and recently with Apex Legend, PUBG is still popular, League of Legends is still popular. And so this genre of games, these genre of games is both competitive, requires great hardware. It attracts a lot more players because it's social, and you want to play with your friends. And it's much stickier because it happens to be social. It happens to be a game where you had to play with a whole bunch of other people. So I think that gaming is vibrant as ever before. If you take the methodology that Colette described earlier and you averaged out our underlying gaming business and you compare that to a year before, surely it grew. If you compare that -- if you compare also the rate of which our gaming notebook is growing, I think that's pretty exciting. I think last year, we had mentioned it before that our gaming notebook business grew 50% year-over-year. And just at CES, the number of new notebook designs that came out with Turing because of an invention that we created called Max-Q and because of the energy efficiency of the Turing architecture, you can now make notebooks that are really wonderful and also high performing at the same time. And so I think the dynamics are the same, and gaming is going to continue to be a growth business.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of John Pitzer with Crédit Suisse.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [13]
+--------------------------------------------------------------------------------
+
+          Colette, I appreciate all the data you gave us on trying to size normalized demand for gaming. What I have to ask, though, is if you're still going through of the channel inventory worked out in fiscal first quarter, it seems like to hit your full year guide, the expectation is for gaming revenue to accelerate well above that normalized level you talked about. One, am I doing the math right? And if I am, kind of what gives you confidence throughout the year that you can see that kind of gaming growth off of these bottoms?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [14]
+--------------------------------------------------------------------------------
+
+          I'll start, and I'll let Jensen finish that question. So along the lines of Jensen's response in terms of what we do believe are the key drivers of gaming and everything still intact in terms of gaming, both with our Turing architecture, the growth expected with our Turing architecture as well as the growth from the notebook, we do believe will be great drivers as we head into the rest of the year. We'll have to wait and see in terms of how that plays out, but that is really the underlying reason why we think the growth will continue.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [15]
+--------------------------------------------------------------------------------
+
+          Yes. I think your math isn't wrong. The part that you probably didn't consider is notebook. Our GeForce notebook business is quite large.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [16]
+--------------------------------------------------------------------------------
+
+          That's helpful, Jensen. And then maybe just a follow-up, just on the data center side. Clearly, you've talked about new applications that should help grow your TAM inside of datacenter. I'm just kind of curious, the calendar fourth quarter of last year, I think marked the first time that a competitor had some meaningful volumes of GPU in the datacenter. There's always talk about the hyperscale guys are wanting to do their own ASICs. What kind of anecdotal evidence can you give us to help us get more comfortable of what's going on here is more macro and not share loss either to competition and/or architectural differences between GPUs and ASICs?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [17]
+--------------------------------------------------------------------------------
+
+          We don't see them in high-performance computing. And so I haven't found where -- we haven't met them in high-performance computing and deep learning and in the areas that we serve. And so competitively, I can't -- I don't really -- we don't see it. But the bigger picture, I think is this, that the market segments that we serve, whether it's in deep learning, machine learning, data analytics, those segments are really quite large. And I think that it is, unquestionably, the future of high-performance computing is going to be highly data driven, both computational methods, algorithmic methods as well as data-driven methods. And so I think the fundamental trend has not changed. We have 4 new growth drivers, 4 new ways to grow in the datacenter. The first one, of course, is inference. We're making a lot of progress there. T4 is doing great. I think we're going to be quite successful with T4s. You just got to keep saying that. It has second-generation Tensor Core, 75 watts. And you can use that for training. You can use it for inference. You could use it for remote graphics. You could use it for high-performance computing. And it fits literally into any hyperscale data center. The second way is data analytics. This is a brand-new thing for us. You must know that big data and using data to predict dynamics in the marketplace is really important in retail, in e-tail, in health care, in financial services. And there's never been an accelerated approach to solve this problem for people. And because of the flexibility of CUDA and because of the performance of our architecture, over the course of last year, we reengineered the entire data analytics stack, so that we can accelerate it. It's called RAPIDS. That work is really, really important, and I hope to give you guys updates on that on a regular basis. Rendering is a brand-new market for us because of Turing. Finally, we can render photorealistic images in accelerated way. There are millions of servers in the world that are driving render farms, and they're getting upgraded on a regular basis. And then lastly, we've been successful with CSPs because they're easy for us to reach. But the world's enterprises are far and many and they're giant industries. And our companies' sales coverage doesn't allow us to reach every single health care company and every single insurance company and retail company. And that's where our network of partners really come in. We have great partnerships with HP. We have great partnerships with Dell and Cisco and IBM. And now we've developed relationships with the storage vendors, so that -- and the reason for that is because most of these big data problems require a great deal of storage. And they both -- they all see, they see the opportunities that we've created. And we came together to create pre-configured systems that are optimized and tuned, and these high-performance systems that you can just bring into the company, prop up and install. And we're seeing a lot of great success with that. And so we have 4 different ways to grow our datacenter business, and we're enthusiastic about it. I'm optimistic about it.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Timothy Arcuri with UBS.
+
+--------------------------------------------------------------------------------
+Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [19]
+--------------------------------------------------------------------------------
+
+          First I had a clarification, Colette. I just wanted to clarify what the mix is assumed for the fiscal Q1 guidance? Are you kind of assuming that datacenter and gaming are both kind of flat sequentially? And then I guess my question was can you help us sort of shape the revenue through the year? To get to your full year guidance, you have to add roughly maybe $1.3 billion, $1.5 billion from where you are in fiscal Q1. How does that shape through the year?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [20]
+--------------------------------------------------------------------------------
+
+          Yes. Our guidance for the next quarter is a makeup of many different types of options across our market segment. We feel confident in terms of that roll-up, as we've provided the guidance today. And we'll just have to see how that ends out. With the expectation that we will be flat or slightly down for the full year, you are correct in some case that we're growing to have to build up to that over the course of the several next quarters. Likely, the second half of the year, we'll definitely be stronger than the first half of the year, and that is our expectation at this time.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [21]
+--------------------------------------------------------------------------------
+
+          Yes, Tim, one of the things to keep in mind is that we have 4 growth drivers. We have 4 growth businesses. Our datacenter business is growing. It's unquestionably that our footprint is larger than ever. Our pro viz business is growing. Our workstation business now has 3 ways to grow. One is rendering. The second is data science -- data scientists are now a workstation customer. That has never happened before. And our software stack with Turing, turns a workstation into an ideal data science workstation. And the third is, finally, we're able to make workstations into notebooks. And they're delightfully thin, using all the same technologies that talked about for gaming notebooks. And so workstations is a growth business. And then lastly, our automotive is going to be a growth business. We've been investing, as you know, in self-driving cars. And this year, we announced entry into Level 2+, our first foot into the mainstream marketplace of autonomous vehicles. And the first design win is Volvo, and we have others to announce. And so I think this is going to be a good year for self-driving cars as well. So we have 4 growth businesses. Our 4 core businesses are all growing.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Stacy Rasgon with Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+
+          First, I wanted to get again at the mix. Colette, you -- this is a question for Colette. You have said that mix was going to be the primary driver of your gross margins. And I know that sequentially they're up, but if I correct for the inventory write-down in Q4, the normalized gross margin this quarter was 61.7%. And so you're guiding it to 59%, so it's down 270 basis points sequentially on flat revenues. So do I take from that guidance that that's an indicator of the mix between the businesses, it's the primary driver of that gross margin degradation? Is there something else going on that we should be aware of?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+
+          Thanks, Stacy, we'll start with that first question on gross margin. You're correct, mix is still the primary driver of our gross margin every single quarter. You have correctly reduced -- or excuse me, changed our Q4 numbers to remove the overall inventory write-down. So when you look at Q1, there is a mix around our products that we plan on shipping by platforms but also within our gaming business and within our data center business. We also have different gross margins that would influence. This is our best estimate that we have at this time, and we'll see as we move through the year.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [25]
+--------------------------------------------------------------------------------
+
+          So what do you think the bigger -- between those 2, whether it's intra-business mix or inter-business mix, between the businesses or within the businesses, which one of those is the biggest driver of the gross margin degradation sequentially into Q1?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [26]
+--------------------------------------------------------------------------------
+
+          I think it's more on the inter business. Now keep in mind, our Q4 has a very low percentage of gaming as a total in terms of there and then a different mix within there as we move to the next quarter as well.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [27]
+--------------------------------------------------------------------------------
+
+          So you think it's the mix between the businesses within, like you said inter, is that mix between the businesses that you think is the bigger driver then?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          The mix of the intra, both within the segments as well as between the segments.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Okay. For my follow-up, Jensen, you and Colette, I guess you mentioned the datacenter was growing. But if I got full year revenue sort of flat to down slightly, and I've got gaming revenues down a bit like you said and I have pro viz and auto growing, it's kind of really hard for me within the envelope of that guidance to get datacenter growing much if at all. I mean, it could even be down within that. I mean, how are you thinking about the idea of datacenter growing within the context of the full year guidance that you've given?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [30]
+--------------------------------------------------------------------------------
+
+          Well, in the short term, in near term, we have relatively limited visibility. We don't think it's going to remain this way. And with a little bit of tailwind, I think we could have a fairly good year. And so we'll just see how it turns out. This is our year guidance for now, and we'll update you as we go. The fundamental dynamics doesn't change. The fact of the matter is the world needs more computing. And a lot of that computing is related to machine learning, data analytics, deep learning. It's related to the things that we're working on. And we have 4 new ways to grow our datacenter business. I think our deep learning position is as good as ever. Our scientific computing position is as good as ever. And we have 4 new ways to grow. We have inference, we have data analytics and machine learning. We have rendering. And now we're taking that entire stack to the enterprise. And so I think we have the right strategy. We have the best platform. And the utilization -- the utility of it is really fantastic. And so with a little bit of a tailwind, I think we could have a fairly good year, and we'll just report it as we go.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          And your next question comes from Joe Moore with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [32]
+--------------------------------------------------------------------------------
+
+          I wanted to ask about again, competition in datacenter. AMD on their call had talked about graphics in their datacenter business being as big as server, which is sort of north of $100 million a quarter, which surprised me. My sense is they're doing quite a bit different applications than you guys are. But maybe if you can just give us some context around what they're doing and how you see the competition coming up from within other graphics vendors.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [33]
+--------------------------------------------------------------------------------
+
+          Our data center business is really focused on computing, and we just don't -- we don't see anybody. Our primary competitor is CPUs. That's really the starting of it and the ending of it. And it's very clear. The vast majority of the world's data center only runs on CPUs today. But the advance of technology has slowed. And it's creeping along at a few percent a year, and unfortunately, that's just not good enough. And so either datacenters are going to continue to increase in CapEx or they're going to have to find a new approach. And I think people are fairly enthusiastic about University, about accelerated computing. And I think our position is really quite good. And so I would say that those are largely the positions. If you think about competitively comparing our GPU to a competitor's latest GPU, I think the expectation was really high, and didn't turn out quite that way. I think our -- we've established that the Turing energy efficiency is much better. I think we've established that NVIDIA's Tensor Core architecture as a result allows our Volta to be 4x the performance of the highest end of the alternative. And the T4 is 1/4 the power at the same performance. And so the benefit of having great architectural advantage is a really rich software stack, and engineering that resulted in the energy efficiency that we've achieved, generation in, generation out, I think those are really great advantages. And then lastly, because of the broad reach of our architecture and OEM or a cloud service provider can adopt our architecture, and the utility of it is going to be greater because there's just a lot more applications. And the best way to reduce cost for any utility is to increase its utility. And I think that that's -- that our position there is really strong as you could imagine.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Matt Ramsay with Cowen.
+
+--------------------------------------------------------------------------------
+Matthew D. Ramsay,  Cowen and Company, LLC, Research Division - MD & Senior Technology Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I have just a couple of questions. The first one, Jensen, it seemed like the Turing platform is delivering some amazing results. But as you talked about relying on some new software features to do it. I wonder if you might talk about any steps you're taking in the road map to really upgrade performance for the installed base of games, given the time that it might take for some of those software features to roll out. And then secondly, you noted in the pre-announcement something about the write-down having to do with DRAM. I mean, obviously, that commodity pricing has been volatile. Colette, is there anything you can talk about, about how big of an effect that might have on the business and on pricing overall?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [36]
+--------------------------------------------------------------------------------
+
+          Yes, thanks a lot, Matt. First of all, the Turing architecture is the highest-performing architecture at every single price point. And it's a big jump from our last generation in every single way. Without ray tracing, the Turing architecture is the first GPU to do concurrent floating point and integer operations at the same time. The instruction per clock of the Turing processor is so much better than our last generation, so much better than what's available in the marketplace. The cache architecture is a big improvement, and you can just see it in all of the existing games. If you just measure the existing games without touching anything, Turing gives you a big boost. And that's before we talked about ray tracing. And we've already spoken about ray tracing earlier, Matt. And we know that every single game that are coming out, we're working with the developers to incorporate RTX technology. And a very, very big deal, both Epic with Unreal engine and Unity engine are going to incorporate Ray tracing. It is very, very clear that the next generation of computer graphics is ray tracing. And all of the work that we've done with RTX to move the industry forward is well worth it. But remember, that's just the graphics part of Turing. Turing comes with it several new opportunities for growth for us. The first is, of course, advancing games. Advancing games for notebooks, advancing computer graphics, photorealistic rendering for film. All the work that we've done with Tensor Core that we just talked about. It's our second-generation Tensor Core, making it great for training as well as inference, a big leap for us for inference. And then lastly, all of the work that we're doing for data analytics and machine learning, we'll take advantage of all the capabilities of Turing. And so Turing is a big deal for us. And that's one of the reasons why last year was so busy for us as we put Turing into workstations, into data centers, into clouds, into rendering, into video games. And so Turing is really a gigantic leap for us architecturally. We're really excited by it. It's -- I think that the turbulent Q4 kind of overshadowed all of it. But in the final analysis, I think Turing was a home run for us.
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+
+          And to also answer your question regarding DRAM prices. Yes, they have definitely been volatile over the historical period. It is great to see them coming down in price. Over the long term, yes, that is beneficial to us from a gross margin perspective. So if we look out to the horizon later, we will probably be able to incorporate that into our gross margins.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Aaron Rakers with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Kind of building on the discussion around the Turing platform and particularly to the gaming market, I'm curious, you mentioned in your prepared comments pricing of these new solutions was a bit of an inhibitor. Has the company invoked any changes in their pricing strategy around Turing? And then also, I'd be interested at can you help us frame how important China is to the gaming segment? And whether or not you're assuming that the China market rebounds in your annual assumption?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [40]
+--------------------------------------------------------------------------------
+
+          First of all, on the pricing part, the biggest inhibitor was that we didn't have -- we couldn't launch our midrange segment. The inability to launch 2060 was a big inhibitor for us. But we did so at CES. The launch is a great success. The reviews are fantastic. People loved 2060. The price point is great. And so now we have a great stack from the midrange all the way to enthusiasts. The other part which could have turned out better is at the time of the launch, there were so many special editions and there were so many overclocked versions that the price point appeared high. But now while we have MSRP pricing for all of our segments. And so that's terrific. China is an important market. China is an important market, and it's an important gaming market. And I have every confidence it's going to rebound.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Mark Lipacis with Jefferies.
+
+--------------------------------------------------------------------------------
+Mark John Lipacis,  Jefferies LLC, Research Division - Senior Equity Research Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Could you just -- a clarification, could you repeat what you said you thought the OpEx would grow in this fiscal year? And what is the -- where's the focus of that investment? To what extent is it R&D versus SG&A? And then maybe one layer deeper, where is the focus of the higher OpEx?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [43]
+--------------------------------------------------------------------------------
+
+          Sure, I'll start off. To repeat what we indicated in our transcript, we plan to increase OpEx in the high single digits over where we finished in terms of fiscal year '19. That is related to our opportunities that we see in front of us, gaming, AI as well as self-driving cars. Our focus in terms of investment, we are a very R&D-heavy significant company. But there are investments across the board, both in R&D as well as what we need in terms of go-to-market strategies to obtain these higher markets in front of us.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Mitch Steves with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mitchell Toshiro Steves,  RBC Capital Markets, LLC, Research Division - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          So I don't want to poke too many holes on the memory side and the downturn in gaming due to the crypto inventory. But if I think about kind of the gross margin profile, you guys almost reached 65%. So if I look out, let's call it a year or even call it 18 months and make it a -- more of a kind of a long-term target, is there any reason why you guys can't get back up to kind of the mid-60s level?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [46]
+--------------------------------------------------------------------------------
+
+          Yes. On your gross margin question, yes, we still have drivers within the mix of our products that allow us to grow our gross margin over the long term. Absolutely. And there is definitely a goal for us to continue doing that. So the focus in terms of what the cost components of what we do but also moving the entire portfolio into the higher value-added platforms that we sell. So over the long term, absolutely, all of those things are still in place and intact that we can do. And we'll look quarter to quarter to give the best guidance that we can to help you see that.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Blayne Curtis with Barclays.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays Bank PLC, Research Division - Director & Senior Research Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Obviously, a pause in datacenter, particularly the hyperscale, is pretty well documented. I'm just kind of curious to your perspective, particularly being AI still a growth area versus -- or run rate being memory and CPUs. Can you give any perspective as to how widespread it is? Maybe number of customers or geographic perspective. And just kind of curious how AI is affected with this greater slowdown.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [49]
+--------------------------------------------------------------------------------
+
+          Yes. Blayne, the hyperscalers, their pause is probably the most dramatic. We still see a lot of activity in enterprise. It's just a much smaller base for us, but we expect it to be a much larger base in the future. And the reason for that is because most of the enterprises today don't use deep learning, they use an approach called machine learning. They might use things like decision trees or graph analytics or regressions or clustering or things like that, algorithms like that. And they'll run data analytics applications for business intelligence on a large amount of data. And they might be running it on a -- on top of a Spark stack that was created out of Berkeley and open source from Databricks. And so there's a -- if you recognize some of these things, that's what health care companies do and financial services companies do and retail companies do. They use it for fraud detection, predicting inventory, trying to make the best matches between riders and drivers and trying to predict which route to take to deliver food, dinner to you. And so those kinds of applications, most of the developers today use machine learning in large -- and big data analytics. And so we invested in a stack called RAPIDS and built our architecture called T4. And we're in the process of partnering with large IT companies to take the stack and the solution out to the world's enterprise. And so I expect enterprise to be a fairly exciting growth opportunity for us. Meanwhile, the CSPs, their pause will end. The amount of computation they do is increasing. More and more of them are using deep learning. And we have inference opportunity with the work that we did with T4 and TensorRT. And so we've got a lot of exciting opportunities to go.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Pierre Ferragu with New Street Research.
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [51]
+--------------------------------------------------------------------------------
+
+          A question for Colette. I'm trying to figure out how your position with cloud data centers evolved last year in financial year 2019. So if I look at the cloud CapEx, they were up about 70%. If I look at the CPU going into the cloud, according to Intel, it was up about 60%. So I was wondering how much you guys have been increasing revenues within your cloud business? Did you grow faster than CPUs? Did you grow faster than the overall CapEx? And then I have a follow-up in 2020.
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [52]
+--------------------------------------------------------------------------------
+
+          Sure. Let me start on that piece. As we talked about earlier on the call, our hyperscale and our hyperscales, many of them are also cloud providers, did start to slow down in terms of their purchasing in the latter half of the year. But the overall growth rate, as you can see from our data center business, grew more than 50% for the full year. Now even with that strong growth, we are still a very small percentage of overall CapEx that we see in cloud providers or the overall hyperscales. We are likely one of their top priorities of areas where they need to grow in terms of in their data center as they focus on AI, as they focus on the cloud businesses and the importance of that compute is necessary. But we are still a very, very small percentage of it. So slow down in the second half of the year, full year growth, phenomenal growth of 50%. And we track with the (inaudible).
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [53]
+--------------------------------------------------------------------------------
+
+          But this 50% growth, is that for your overall datacenter business? Is that what like specifically your cloud hyperscale business grew as well? Or did that grow even faster with that?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - Executive VP & CFO    [54]
+--------------------------------------------------------------------------------
+
+          Yes, depending on the quarter, we will have a mix of what is hyperscale growth or what is cloud. And again, in the core -- in the fourth quarter, that was not a growth opportunity for us. But earlier in the year, definitely it was.
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [55]
+--------------------------------------------------------------------------------
+
+          Great. And then quickly maybe, Jensen, on 2020, so you seem to be very cautious on the datacenter outlook. When we listen to players like Google and Facebook and others, they all seem to be seem like very keen to grow their overall spending this year. And when we listen to other providers around you, they all seem to be -- I mean they all demonstrate a bit of a confidence that in the second half, spending should resume. Is that just because they are being more optimistic than you? Do they see something you don't see? What do you hear from your clients about the second half?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [56]
+--------------------------------------------------------------------------------
+
+          Well, we're enthusiastic about the second half. We're enthusiastic about our position, and we're enthusiastic about the solution we offer. And Pierre, as you know, we've also expanded our application and our market reach. We guided -- I think probably the biggest takeaway is we guided flight to slightly down for the whole year for the whole number. We do have 4 growth drivers. And maybe the best way to think about it is we should just wait and see how it goes. I think we've -- considering where we are, I feel pretty good about our guidance, and -- but I feel even better about our strategic position. And so I look forward to working through the year with you guys.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          And your last question comes from the line of Harlan Sur with JP Morgan.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JP Morgan Chase & Co, Research Division - Senior Analyst    [58]
+--------------------------------------------------------------------------------
+
+          On the China gaming weakness, is it the slower economic environment? Or is it sort of government policy related? Because we know that the China government has had a freeze on new gaming approvals, although they've recently started to approve new games. This ban is in place, I think since the first half of last year. So given what you know of the business, how much of the China weakness is coming from the China gaming bans? Or is this just overall slower economic environment?
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [59]
+--------------------------------------------------------------------------------
+
+          I don't know that we could tear that apart, tease that apart, Harlan. We just know that China, the consumer market is relatively slow towards the end of the year. But the China economy is in the final analysis of growth economy, and so we're looking forward to it recovering. And gaming is one of the most important pastimes of that culture, and so I'm excited about our prospects there. All of the things that we're seeing in the near term, Colette, has done a really good job describing. And as we leave the bottom and leave this inventory issue behind us, we're super well positioned. We have a full stack of RTX, the Turing architecture is fantastic. It is unquestionably the best in the world. We have the best performance at every single price point. And we have great notebooks that the market can now buy. And so I'm looking forward to reporting our status with you guys as the year goes on. This should be a good year.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          I will now turn the call back over to Jensen for any closing remarks.
+
+--------------------------------------------------------------------------------
+Jen-Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President & Director    [61]
+--------------------------------------------------------------------------------
+
+          2018 was a record year, but it was a disappointing finish. This quarter, we expect to put the channel inventory issue behind us and get back on track. As the pioneer of accelerated computing, our position is unique and strong. And the opportunities ahead in graphics, high-performance computing, AI and autonomous machines remain enormous. We are as enthusiastic about these growth opportunities as ever. Thanks, everyone, for joining us today.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          And this concludes today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

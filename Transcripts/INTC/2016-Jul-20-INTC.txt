@@ -1,0 +1,681 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2016 Intel Corp Earnings Call
+JULY 20, 2016 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stacy Smith
+   Intel Corporation - CFO
+ * Mark Henninger
+   Intel Corporation - VP of Finance & Director of IR
+ * Brian Krzanich
+   Intel Corporation - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Matt Ramsay
+   Canaccord Genuity - Analyst
+ * Chris Danely
+   Citigroup - Analyst
+ * Stacy Rasgon
+   Bernstein - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Harlan Sur
+   JPMorgan - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Joe Moore
+   Morgan Stanley - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+ * C.J. Muse
+   Evercore ISI - Analyst
+ * Romit Shah
+   Nomura Securities Co., Ltd. - Analyst
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Chris Caso
+   CLSA - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, ladies and gentlemen. Welcome to the Intel Corporation second-quarter 2016 earnings conference call. 
+(Operator Instructions) 
+As a reminder, this conference call may be recorded. I would now like to turn the conference over to Mark Henninger. You may begin. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and welcome everyone to Intel's second-quarter 2016 earnings conference call. By now you should have received a copy of our earnings release and the CFO commentary that goes along with it. If you've not received both documents, they're available on our investor website, intc.com. 
+I'm joined today by Brian Krzanich, our CEO, and Stacy Smith, our Chief Financial Officer. In a moment we will hear brief remarks from both of them, followed by Q&A. 
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. 
+Also if during this call we use any non-GAAP financial measures or references, we'll post the appropriate GAAP financial reconciliation to our website, intc.com. With that, let me hand it over to Brian. 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Mark. Our top-line results for the quarter came in right in line with outlook. And profitability this quarter exceeded our expectations. Year-over-year growth this quarter was 3% overall as we transformed Intel into a Company that powers the cloud and billions of smart, connected devices. We continue to focus on growth in line with this transformation, as evidenced by results in the data center, IoT and programmable solutions business this quarter. 
+I'd like to take a few minutes to walk through these results and their implications. I will start with the Client Computing Group, where we saw a 3% decline in revenue year over year this quarter while operating margin was up 19%. These results were a little better than we expected, as the PC supply chain reduced inventories at a slightly slower rate while the two-in-one and enthusiast product lines continued to grow. We also started shipping our seventh generation core microprocessor, formerly known as Kaby Lake, and our latest LTE modem, known as 7360. 
+Next the Data Center, where revenue grew 5% year over year. Cloud service providers grew 9%, comm service providers grew 10%, and enterprise was down 1%. We achieved some critical milestones in the quarter that give us confidence in our growing momentum as we enter the second half of the year. 
+In the data center, we're seeing an ongoing preference for performance up and down the pricing stack. Average selling prices increased year over year in every microprocessor product segment, from Adam and Xeon D SOCs at the low end up through Xeon and Xeon Phi at the high end. 
+We continued to gain share in network infrastructure throughout the entire segment, as Intel architecture becomes the solution of choice for the transformation of the network to SDN, NFE, and 5G. The significant share gains at the low end of the network infrastructure segment resulted in an overall 1% decline in data center CPU average selling prices. 
+Progress in the data center extended beyond our CPU product lines. Our latest Xeon Phi accelerator, formerly known as Knights Landing, continued to ramp after shipping the first limited production units in December of last year. Xeon Phi revenue grew eight times in the first six months of this year versus all of 2015, gaining share in the supercomputing and machine learning segments. 
+Omni-Path, our high performance computing fabric, was launched earlier this year and has already achieved 30% market segment share of the 100-gig fabric market. In June's top 500 supercomputing list, Omni-Path was deployed in half of the new 100-gig systems, pointing to the performance that this technology brings to the market. 
+This quarter we also shipped our first silicon Photonics products for revenue, the industry's only fully integrated solution. We expect DCG's adjacent product lines, including Omni-Path, Silicon Photonics and ethernet, to collectively grow more than 20% for the full year, and this quarter make up 12% of DCG's revenue. 
+The Internet of Things business was up 2% over last year, coming in below our expectations. We saw growth in the industrial and video verticals offset by an inventory burn after a very strong first quarter. We continue to see tremendous potential in this business. 
+A great example was demonstrated earlier this month when we announced our autonomous driving collaboration with BMW and Mobileye, marking a significant step for the auto industry as we work together to establish an industry standard, open platform for autonomous driving. In addition we're bringing Indian computing technology to power the next generation of BMW's highly autonomous and fully autonomous products, of the door locks to the data center. 
+Our Memory business was down 20% over last year, and fell short of our expectations as a result of a more competitive pricing environment. While we acknowledge the cyclical and competitive nature of this business, we remain confident in our long-term growth prospects as a result of the new technologies we're bringing to this market. 
+568 in Dalion, China started its initial 3-D NAND wafers late in the second quarter, but ahead of schedule. We also remain on track to ship 3-D Cross Point SSDs, branded Optane, by the end of the year, and look forward to delivering this exciting new breakthrough in memory to the industry. 
+The Programmable Solutions Group, formerly known as Altera, delivered great results. PSG grew 12% over Altera's results last year, a strength in [calms], infrastructure and the channel. PSG is on track to ship 14-nanometers, Stratex 10 samples this year. I'm very pleased with both the integration of this business and their strong execution. Our security business was up 10% as a restructuring the team completed last year, and their focused execution continues to deliver results. 
+And finally, our restructuring initiative that we began last quarter is solidly on track. This program is changing where and how we invest in everything from research and development to sales and marketing. 
+In April we announced some important changes to our roadmaps in areas like SOCs and perceptual computing. These changes are accelerating our transformation to a Company that powers the cloud and the billions of smart, connected computing devices while increasing the profitability in our Client business. In total we expect this initiative will drive in a net run rate OpEx savings of $1.4 billion by mid-2017. 
+Looking ahead, I am very excited about the growing momentum heading into the second half of the year. While we remain cautious about the PC segment and continue to expect a decline in the high single digits of this year, we're expecting our businesses outside of CCG to collectively deliver double digit growth in the third quarter. 
+We are seeing clear signs that our strategy is working, laying a solid foundation for growth built on the Data Center and the Internet of Things business, reinforced by the combination of Memory and FPGA, and bound together by connectivity. With that, let me turn it over to Stacy. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Brian. In the second quarter we met our financial commitments and made good progress towards our restructuring goals. Our forecast reflects growing momentum as we enter the back half of 2016. 
+Revenue for the second quarter was $13.5 billion, in line with expectations and up 3% year over year. Gross margin for the quarter of 62% was approximately 1 point higher than our expectations, primarily driven by lower platform unit costs. Spending on R&D and MG&A was $5.2 billion, in line with our expectations. We're on track to the restructuring announcement last earnings call, with a reduction of about 6,000 employees in the second quarter. 
+Operating income of $3.2 billion was down 2% from a year ago. The effective tax rate for the quarter was 20%. Earnings per share of $0.59 was down $0.03 from a year ago. 
+The Client Computing Group had revenue of $7.3 billion, down 3% year over year. Client Computing Group operating profit was $1.9 billion, up 19% from a year ago. This improvement is driven by lower overall spending and margin improvements in our mobile products and higher ASPs in the PC segment. The worldwide PC supply chain inventory levels came down a bit in the second quarter, and as we enter the second half they are at healthy levels. 
+Data Center revenue was $4 billion, up 5% year over year. The Data Center Group had operating profit of $1.8 billion, down 4% year over year, primarily driven by increased costs as we ramp 14-nanometer data center products. As we enter the second half we expect the enterprise segment of the business to stabilize and the cloud segment growth rate to accelerate. In addition, we expect increasing ASPs as we ramp our Broadwell-based server products. 
+Our Internet of Things segment achieved revenue of $572 million, with year over year growth of 2%. Our security business had revenue of $537 million, up 10% year over year. 
+Our Memory business had revenue of $554 million, down 20% year over year. This segment had an operating loss of $224 million as a result of continued pricing pressures, higher startup costs as we ramp 3-D NAND in our China factory, and an increased 3-D Cross Point spending. 
+The Programmable Solutions Group had revenue of $465 million, up 12% year over year when compared to Altera's results from a year ago. Operating profit was negative $62 million. This includes about $160 million in non-cash charges for inventory adjustments. Excluding these charges would result in about $100 million in positive operating profit. 
+Total cash balance at the end of the quarter was roughly $17.7 billion, up $2.6 billion from the first quarter. Our total debt is $28.6 billion. Our net cash balance, total cash less debt and inclusive of our other longer term investments, is negative $5.7 billion. We're projecting to improve this net cash balance over the second half of the year. 
+We are generating healthy levels of free cash flow, which enable us to invest in our business and return cash to shareholders. This is demonstrated in our Q2 results, as we generated $3.8 billion of cash from operations in the second quarter, purchased $2.3 billion in capital assets and repurchased approximately $800 million of stock. In the second quarter we also paid $1.2 billion in dividends. And as of yesterday's close of market our dividend yield was about 3%. 
+As we look forward to the third quarter of 2016, we are forecasting the midpoint of the revenue range of $14.9 billion. This forecast is at the high end of the average seasonal increase for the third quarter. We are forecasting the midpoint of the gross margin range to be 62%. 
+Turning to the full year 2016, we expect revenue growth in the mid single digits. We continue to expect the overall PC market to be down in the high single digits, and we expect to achieve low double digit growth in our Data Center business. Gross margin for the full year 2016 is expected to be 62%, consistent with our prior outlook. 
+You can see our strategy playing out in our first-half results and our expectations for the second half. We expect above seasonal growth in the back half of the year led by strong growth in the Data Center, Internet of Things and Memory businesses. And for the year we expect that growth in those business will offset the PC market decline, and with the addition of the Programmable Solutions Group, will result in mid-single digit revenue growth. 
+Additionally, we're executing to our restructuring program, which allows us to increase investments in strategically important areas, generate financial returns for our owners, and build the foundation for future financial growth. With that, let me turn it back over to Mark. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [5]
+--------------------------------------------------------------------------------
+Okay. Thank you, Brian and Stacy. Moving on now to the Q&A. 
+(Caller Instructions) 
+Operator, please go ahead and introduce our first questioner. 
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+Chris Danely, Citigroup. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [2]
+--------------------------------------------------------------------------------
+Thanks, guys. Just a question on the server expectations for the second half. What's given you the confidence that things are going to bounce back so nicely? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+Sure. I will start and then Stacy can add. This is Brian, Chris. 
+I think it's really a mix of a couple of things. One, we saw in the second quarter, and we project out into the second half, a bit of stabilization of the enterprise side of the market. Enterprise side was down only about 1%, which is a bit more stable than it has been. 
+Second thing is we are ramping our Broadwell E server in the second half of the year. So we expect strong demand. And we typically see an ASP uplift as people buy up in the stock with the new server systems coming out. And we have customers signals that just indicate that there is a second-half seasonal buying patterns kicking in a bit as well. 
+Those three things are the second-half keys. If you take a look at a broader view of this, just overall our view of the Data Center and really the cloud continues to be that the cloud is going to continue to expand. It's going to be driven by the many, many machines that connect to the cloud that drive orders of magnitudes more data than what the average human creates today, and that's getting to the cloud. So there's kind of the short versus the longer-term point of view. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+Perfect. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [5]
+--------------------------------------------------------------------------------
+And for my follow-up, you mentioned you started shipping the 7360. Was that material to Q2 or will it be material to the second half? And any comments on profitability there? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [6]
+--------------------------------------------------------------------------------
+Yes. So I'm not going to talk specifically about the 7360, because our policy is let our customers announce any design wins that they want to announce when they want to announce them. 
+In terms of the overall impact on financials, when I look at the second half, you will note that we have an above seasonal growth rate in there. The biggest driver of that is what Brian just talked about in the Data Center. So that's kind of the biggest driver. 
+We were kind of below the average annual growth rate in the first half. We expect to be above that low double digits in the back half driven by the three things he talked about that. But in particularly the cloud buying patterns that we've identified with some of those large customers. 
+And then behind that we see an improvement in revenue in Memory and an improvement in revenue in IoT. So those are the big drivers as we go into the back half. 
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [7]
+--------------------------------------------------------------------------------
+Thanks, guys. 
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+John Pitzer, Credit Suisse. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [9]
+--------------------------------------------------------------------------------
+God afternoon, guys. Thanks for letting me ask the question. 
+Stacy, you did a nice job relative to the full-year guidance, kind of giving us your expectation for PC demand for the year. I'm just kind of curious as you look into the third quarter, the guide is sort of the high end of normal seasonal, as you talked about. How would you characterize kind of your view of the PC business going into Q3? And to the extent that it's still a subdued view, is this really confidence in Data Center, or what other parts of the business would drive above seasonal -- or high end of seasonal, sorry? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [10]
+--------------------------------------------------------------------------------
+John, how about if I start on just the view of the PC, especially into the third quarter, and then Stacy can get into the where is the above seasonal numbers coming from? I think if you look at the second half, we already said that Q2 ended up being a little bit better than what we had anticipated. And we had built the year at the high single digits. And if you take a look at Q2, it ended up coming at kind of the mid-single digit decline. 
+We've tried to be relatively cautious as we look out into the rest of this year and built the year and the forecast around that high single digit number set for decline of the PC. We are carrying momentum out of Q2. So there's still data that needs to be collected on how it looks. But right now we have maintained our cautious view of the high single digits. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [11]
+--------------------------------------------------------------------------------
+So just to translate that into seasonality against the backdrop of what Brian just said, which is high single digit decline in the PC business, we're expecting that to play out more or less seasonally, John. We tend to do a little bit better than that because of mix in ASP, but from a unit standpoint should be fairly seasonal. And then the driver is what I just talked about. 
+The Data Center growth rate as we move into the back half should be significantly higher than what we saw in the first half based on stabilization in enterprise, what we see with the cloud customers. And then some ASP uplift as we ramp Broadwell server -- 14-nanometer Broadwell servers into the product mix. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [12]
+--------------------------------------------------------------------------------
+That's helpful, guys. Maybe for my follow-up, just looking at the Memory business. As you guys characterize, tough quarter in the June quarter, you analyze the operating loss, it's a fairly large number. 
+I'm just kind of curious, have startup cost there peaked? Did we have another couple of quarters of startup costs going up in Memory? And I guess more importantly, as Dalion ramps and as you think about Cross Point, how should we think about your profitability goals longer term and what the fall-through on that business looks like as revenue does start to accelerate? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [13]
+--------------------------------------------------------------------------------
+There's a short-term and a long-term component to this. In the short term, as I think about the second half, in rough math I would expect a consistent loss in the second half to what we saw in the first half. I think startup costs will be slightly higher. 
+We will see the first production cost play through on 3-D Cross Point, which as you know from watching us over the year, those first production costs tend to be fairly high in any factory when you're starting it up. Offset by the underlying existing NAND business, I think gets a bit better as we go into the back half. So that's the short-term answer. 
+To your longer-term question, and I will turn this over to Brian to talk about the technology, but I think the combination of 3-D NAND and the cost structure we're going to achieve, and then the disruptive nature of 4-D Cross Point, we should have a very good value proposition and a very good overall profit position for the business. 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [14]
+--------------------------------------------------------------------------------
+John, I would just echo was Stacy said. We're just now starting to ramp our 3-D NAND. So as we go through this back half of this year and into next year, it's really starting to ramp up. 
+We think large cost advantages and good performance position there. And as we said, 3-D Cross Point SSDs start to ship at the end of this year. 3-D Cross Point and DIMMs next year. 
+And so these investments that we are making this year, which we have talked about, are really playing forward those two technologies. So I'm still very bullish on the long-term prospects. The units and the gigabytes continue to grow. 
+Our cost structure gets better and better as we go through the back half and into next year. And then 3-D Cross Point, as we've said, will really, in our minds, change the whole memory storage architecture. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [15]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Joe Moore, Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [17]
+--------------------------------------------------------------------------------
+Great. Thank you so much. 
+I wonder if you could talk about, first the Data Center, the growth, your mid-single digit growth for about three consecutive quarters. And I know you had higher expectations for that a few quarters ago. Can you talk about, is that entirely an enterprise phenomenon, or is that a timing issue around cloud? Just how should we think about the last few quarters of DCG? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [18]
+--------------------------------------------------------------------------------
+So overall relative to expectations we had at the beginning of the year, let's say, it's primarily enterprise driven. And then there's what we commonly use as lumpiness quarter-on-quarter. 
+So to how you asked the question, we actually weren't surprised by the Q2 results. In fact, they came in right in line, actually just a hair above what our internal forecast was. We have, I think, pretty good insight into the large cloud customers. And so we had some good insight into the buying patterns as those customers went from Q1 to Q2. 
+And now as we look at the back half we see several purchasing cycles kicking in for some of the large guys. So we expect that the cloud piece will accelerate as we get into the back half. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [19]
+--------------------------------------------------------------------------------
+Great. That's helpful. Thank you. 
+And then with regards to the balance sheet, I noticed both day sales outstanding and days of inventory bumped up a little bit. And I hadn't expected that. Can you just talk about what drove that? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [20]
+--------------------------------------------------------------------------------
+Yes. Those are two different things. 
+I'll just start with the easy one, days sales outstanding. I'm not seeing anything unusual there. That's just the amount of net billings at the end of the quarter. The average day paid and all of that still looks really healthy. So I'm not seeing anything unusual there. 
+On the inventory side, as I talked to you last quarter, we ended Q1 higher than where I wanted to be. Our yields got better in Q1. Frankly, they got a lot better in Q2 as well. And we under-shipped a little bit in Q1 relative to the units that we were expecting. 
+So we took some actions in the second quarter to start bringing inventory levels down. What you see inside of inventory, it was kind of flattish, right in line with what we expected Q1 to Q2. It was a remixing. 
+So you see some more expensive server parts and some skylight parts going up, and then you see some of the older generation CPUs going down. And as we get into the back half we would expect inventory to click down, and be down pretty meaningfully by the time we get to Q4. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [21]
+--------------------------------------------------------------------------------
+Great. Thanks so much. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [22]
+--------------------------------------------------------------------------------
+Thanks, Joe. 
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Harlan Sur, JPMorgan. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [24]
+--------------------------------------------------------------------------------
+Good afternoon, and thanks for taking my question. PC gaming has been a bright spot for the team with growth in the double digits year-over-year range for the past number of quarters. Your desktop ASPs were up again in Q2, maybe due to the strength here. 
+Seems like the graphics guys are rolling out some new products. There appears to be a good pipeline of new games for the second half. So I guess the question is, did the PC gaming segment continue to drive double digits growth for the team in Q2? And how do you see that trending into the second half? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [25]
+--------------------------------------------------------------------------------
+Sure. If you take a look at it, there is 3-ish, maybe 4-ish, major segments of the PC that did better and continue to do better than the rest of the segment and overall. Laptops, mobile PCs continue to do better. They did better in the second quarter. Two-in-one devices specifically do -- are doing very well and continue to grow in double digits. 
+And then as you said, we often call it enthusiast gaming. You see our case SKUs in there. And then you saw us also announced the X SKU, which is our new 10-core system that has been selling much, much better than even we anticipated. And so yes, gaming and enthusiast continues to grow at a double digit rate. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [26]
+--------------------------------------------------------------------------------
+Great. Thanks for the insights there. 
+And then on the deceleration in the IoT business in June, you talked about an inventory burn. Sorry if I missed this, but what vertical is that focused on? And does the team expect reacceleration on a year-over-year basis as you move into the second half of the year? And if so, what verticals are going to be driving the growth? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [27]
+--------------------------------------------------------------------------------
+Let me take the revenue question and I will let Brian take the, what we see in the verticals part. It was not one vertical. 
+If you just look at it, I think our customers got out a little ahead of their skis in the first quarter. If you remember, I think we had a 21% or 22% year-on-year growth rate in Q1. There was a little more inventory out there than we anticipated, and that took some of the -- that was a bit of a headwind as we started Q2. 
+To your question on the back half, we do expect to reacceleration. I had said at the investor meeting that we expect double digit growth in excess of what we had achieved last year. We still expect that. We had a strong Q1, inventory burn in Q2, we expected a strong Q3 and Q4. 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [28]
+--------------------------------------------------------------------------------
+From a which verticals, the verticals that have been the strongest growing for us, especially in recent, has been industrial and in the security video type applications. Those have been the two real growth. 
+We have a lot of, I'll call it longer-term growth vectors. Retail's a longer-term growth factor. And then you saw, as we mentioned in the call, automotive ADAS section, like the announcement with BMW, some other programs in that space as well. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [29]
+--------------------------------------------------------------------------------
+Great. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Stacy Rasgon, Bernstein Research. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [31]
+--------------------------------------------------------------------------------
+Hi, guys. Thanks for taking my question. 
+I just wanted to verify, on the DCG growth target into the back half, it sounds like you need enterprise to keep getting better into the second half as well as for the cloud and comm side of DCG to significantly re-accelerate to get there. Cloud was up 9% year-over-year. It's good, but that's a significant deceleration. Can you sort of give us a feeling for what you need for enterprise into the back half and what drove the deceleration in the high growth parts of this business into Q2? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [32]
+--------------------------------------------------------------------------------
+Yes. I would say -- I'd characterize enterprise in the back half consistent with what we saw in Q2. If it stabilizes at that rate, that gives us the ability to grow to the levels that we are projecting. 
+And then for the cloud, yes, you are right. It's what I said earlier. We actually forecasted a pause in purchasing based on what we knew of the customer -- the big cloud players' ordering patterns. And based on the signals we are seeing from them, we do expect a reacceleration in the back half to something more consistent with what we were seeing through the last couple of years. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [33]
+--------------------------------------------------------------------------------
+So what gives you confidence in enterprise will continue to stabilize and that what we saw in Q1 is not a one-quarter blip, given it's been down pretty meaningfully for the last few years pretty consistently? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [34]
+--------------------------------------------------------------------------------
+It's what we saw in Q2. 
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [35]
+--------------------------------------------------------------------------------
+Q2, I mean. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [36]
+--------------------------------------------------------------------------------
+We saw it down slightly. And again, it's just what we see of the big enterprise customers' signals to us in terms of what they want to purchase. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [37]
+--------------------------------------------------------------------------------
+Thanks, Stacy. 
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Ross Seymore, Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [39]
+--------------------------------------------------------------------------------
+Hi, guys. Thanks for let me ask a question. 
+Given that dynamic in the cloud on the enterprise side within DCG, do you still expect a crossover in the percentage of revenues that those two generate in the back half of this year? Or is it pulled forward a little bit, or pushed out, given the dynamics that you've described so far? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [40]
+--------------------------------------------------------------------------------
+Sorry crossover from what to what, Ross? 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [41]
+--------------------------------------------------------------------------------
+When you said, I believe at your last analyst meeting you talk about the cloud revenue, the percentage of DCG would be somewhere in the mid-30%s and that would cross over the enterprise-generated revenue in that. And that was therefore viewed as a point of acceleration for the entire group. Wondering, given the slower growth year to date in the business, if that crossover is going to be achieved in the time you expected? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [42]
+--------------------------------------------------------------------------------
+I will be honest. I haven't looked at the data from that lens. But what I'd say, let me just take you back to the answer that I gave, I think it was to Joe's question earlier. 
+That if you look to the expectations we had at the beginning of the year, the enterprise is a bit weaker than we thought overall for the year. And I think cloud will be in line with what we thought. So my guess is that still true. Which quarter it happens maybe a jump ball, but my guess is this still true. 
+But I would like the opportunity to actually go look at the data and I can give you a crisper answer next time we talk. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [43]
+--------------------------------------------------------------------------------
+Okay. As my follow-up question, sticking with DCG then, is on the gross margin side. It sounds like you are expecting some pretty significant growth, not only in the unit side of the equation in DCG but also in the ASP side. 
+And then you also talked about some of the ASP benefits that might happen in CCG, at least in the PC portion of it. If I put that all together, I'm a little surprised that either mix or ASPs, neither of those are mentioned in your gross margin reconciliation for it to go to 62% in the third quarter. Can you talk a little bit about how those dynamics fit into your gross margin? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [44]
+--------------------------------------------------------------------------------
+Sure. So first let me start with your question on Data Center. There's a lot in there. 
+So I do expect an operating margin improvement in the Data Center as we work through this year. I think we were kind of around mid-40%s in the second quarter, and historical ranges been closer to 50%, as I expected, that ticks up some as we move into the back half. The big driver there is costs. 
+So the early production on the Broadwell server is fairly expensive. Costs come down as we get into the back half. And as you said, we do expect some ASP uplift in the back half. 
+Overall for the Company what we're seeing, I'll use Q3 as the anchor point, we are seeing some good news in Q3 associated with higher volumes. And then the big offset there is we are seeing 10-nanometer startup costs going up pretty significantly in the back half. So that may be the piece that you are missing in the equation in Q3. 
+That continues into Q4, by the way. We see a little bit more startup costs. If you do your algebra, you are probably coming up with a gross margin for Q4 that's about 62%. So think of that as some good things happen, but we have again an increase in startup costs and we have some of the Dalion costs with the first production of 3-D Cross Point that also kick in a bit more in Q4. 
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [45]
+--------------------------------------------------------------------------------
+Great. Thank you. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [46]
+--------------------------------------------------------------------------------
+You're welcome. 
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Chris Caso, CLSA. 
+
+--------------------------------------------------------------------------------
+Chris Caso,  CLSA - Analyst    [48]
+--------------------------------------------------------------------------------
+Just a clarification on some of your earlier comments on inventory and PC. You talked about the customers taking down the inventory a little bit less than you had expected in Q2. Can you clarify why they chose to do that? And I guess with the inventory levels right now, where do they stand relative to where you would expect them to be into the third quarter? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [49]
+--------------------------------------------------------------------------------
+Overall we continue to see inventory levels as being very healthy. I think that the PC -- the worldwide PC supply chain has moved towards a stance of being fairly lean and fairly cautious, and we see that continuing. 
+You would typically see an inventory burn in the second quarter. It was little bit less of an inventory burn then what we expected. I think it goes back to Brian's comments that he made at the beginning of the call that from their perspective the PC market was a little better in Q2. So I think they probably just brought down inventory levels a little bit less. 
+
+--------------------------------------------------------------------------------
+Chris Caso,  CLSA - Analyst    [50]
+--------------------------------------------------------------------------------
+Okay. As a follow-on to that, maybe you can clarify what you consider to be normal PC seasonality in the third quarter, because I think that's been changing over the past several years. 
+Last year the build into the third quarter was a little stronger. Obviously there were some product launches there. How do you characterize the build this year relative to what we have seen last year and the year before? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [51]
+--------------------------------------------------------------------------------
+I would say for the Company you would expect to see the seasonality, a revenue seasonality for us that's in the high single digits as we go from Q2 to Q3. Our guide is a little higher than that for the reasons that we've been talking about. PC market is probably in line with that, maybe just an inch higher in terms of the overall PC channel. 
+
+--------------------------------------------------------------------------------
+Chris Caso,  CLSA - Analyst    [52]
+--------------------------------------------------------------------------------
+Great. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Matt Ramsay, Canaccord Genuity. 
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [54]
+--------------------------------------------------------------------------------
+Yes. Thank you very much. Good afternoon. Thanks for taking my question. 
+I guess it's kind of a follow-on to the DCG question that Ross had brought up in terms of margins. Does the DCG business, is obviously going to diversify itself some going forward with some of the new products that you're introducing and the networking business taking off. 
+The operating margin percentage is down fairly sharply year-over-year. And I would expect that to ramp back up some as revenue reaccelerates, but maybe Stacy you could talk about what the long-term margin structure looks like from an operating margin perspective in DCG as the business diversified some? Thanks. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [55]
+--------------------------------------------------------------------------------
+Sure. So we'll talk about that in more depth at the investor meeting, but I'll give you some off-the-cuff comments here. 
+First, to just put it in perspective, the operating margin percent decline that we saw in Q2 had nothing to do with the new products, or the new products weren't driving it. It was the 14-nanometer cost of Broadwell server. And we get in the back half we're going to see an ASP impact associated with that because we think that the performance of that product brings -- enables customers to get a better value proposition by buying a richer mix. So that's why I'm pretty confident we get in the back half, we see the margin snapping back towards that 50% that we've articulated as our long-term goal. 
+We'll talk more about the mix of products and whatnot at the investor meeting. But the one thing I'd point you to is remember, something like networking, which is at atom-based server product that's going in. While it does have a lower ASP than the average within DCG, it has an ASP that's actually been going up and it has a very different cost structure than a Xeon does. So I won't just immediately assume that because it's a lower price segment of the market that it's a margin-hindered segment of the market because that's not the case. 
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [56]
+--------------------------------------------------------------------------------
+Great, thank you. That's very helpful. 
+And then I guess to follow up on, that sticking on margins, maybe you could talk a little bit about how adding the third chip on 14-nanometer may affect margins going into 2017 in the PC business to offset some of the 10-nanometer ramp costs you had talked about? I think it's a little bit of a different dynamic than we have seen with the business traditionally with the tick-tock approach. 
+So any sort of broader comments you could give there about margins would be really helpful. Appreciate it. Thanks. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [57]
+--------------------------------------------------------------------------------
+Let me take the margin side and then I will let Brian come in over the top to talk a little bit about the roadmap and how we think about that from the customer's perspective. 
+From a -- first off, we haven't forecast 2017 margins. So we will give you the first glimpse of that at the investor meeting and then we put a formal stake in the ground when we get to next January. 
+But I would say that there is nothing that I am seeing in the overall roadmap that for me is a significant headwind as we go into 2017. So we will give you a lot more insight in that in a few months. But I am not seeing anything that has me worried as we go into 2017. 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [58]
+--------------------------------------------------------------------------------
+I guess what I would talk about is Kaby Lake. One of the things we have learned on 14-nanometers is how to make meaningful performance and improvements, both in the silicon and then with the silicon combined with the architecture. So we said we already started shipping Kaby Lake to our customers and OEMs. We're seeing meaningful performance across all of the various SKUs of Kaby Lake relative to Skylight. Kaby Lake's built off a Skylight core. 
+And as a result, the die size does not significantly grow. So you don't see -- there's no driver in the silicon itself to shift the margin structure of this product. We're able to get the performance and feature enhancements with relatively small silicon increases but good improvement on the silicon -- raw silicon technology itself. 
+So there's not an intrinsic driver that should say, die size got twice as big so margins are cut. There's nothing like that. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [59]
+--------------------------------------------------------------------------------
+And it comes in on a process technology that's mature with healthy yields and healthy cost structures. So from that perspective you get a nice performance boost at a good cost structure. 
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [60]
+--------------------------------------------------------------------------------
+Thank you very much. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [61]
+--------------------------------------------------------------------------------
+Thanks, Matt. 
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+Romit Shah, Nomura Securities. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [63]
+--------------------------------------------------------------------------------
+Thanks. Brian, I know that you remain cautious overall in the PC market. But when you look at some of the third-party data it definitely seems like North America was better. Asia, Latin America, a little mix, I'm wondering has your view, at least on a regional basis, changed at all? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [64]
+--------------------------------------------------------------------------------
+So my regional view would say that certain of the -- some North America and Western Europe has been stronger for us for some period of time, and it continues to be the stronger segment for us. As you said, South America, Latin America continues to be weak. 
+We see weakness in Asia, but it did get a little bit better than in the past. And that combined with North America were the two drivers that made Q2 perform better than what we'd modeled in our high single digits. 
+And as I said, I'm being relatively cautious in this and making sure that we put an estimate out there that we are very comfortable with. And that's why we've gone with -- stuck with our high single digit view of the year. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [65]
+--------------------------------------------------------------------------------
+The other thing that's been reported is that commercial models have seen some momentum. Windows 10 has been a catalyst. Your view on commercial enterprise, has that improved at all over the last 90 days? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [66]
+--------------------------------------------------------------------------------
+Yes. And we are hearing that same thing from our customers. And as we go out and talk to CIOs, we are hearing the same thing. 
+Those cycles, though, can sometimes take -- you will hear them, and then they sometimes can take some time to really kick in. So again, we kind of built that into the cautiousness of the second half and making sure that we know what we are going into the second half with. 
+But we are hearing similar things around the enterprise conversion. It's comfort with Windows 10, ability to make that transition, they're wanting to do it on new hardware. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [67]
+--------------------------------------------------------------------------------
+Great. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+C.J. Muse, Evercore ISI. 
+
+--------------------------------------------------------------------------------
+C.J. Muse,  Evercore ISI - Analyst    [69]
+--------------------------------------------------------------------------------
+Good afternoon. Thank you for taking my question. I guess first question on Cross Point. 
+You talked about stronger growth expectations looking over the next couple of years. Just curious if you could share what conversations you have had with customers, what use cases you've uncovered? And any thoughts in terms of sizing the market? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [70]
+--------------------------------------------------------------------------------
+So we haven't really tried to -- we have pretty widespread guess times and models right now on sizing the market, because we are still really learning. We've actually started to ship some sample units to customers already to let them try out and start to learn. Those are to the big COG service providers, is mostly who we're sending those to. 
+You're going to see it enter as SSDs. You'll see those SSDs, both enterprise-class SSDs and also commercial consumer type SSDs. We've demonstrated in several live demonstrations, anywhere from 5 to 7, 8, 9, 10 times improvement in performance, depending on the workload through those SSDs. So you're going to see those be the first implications. 
+When I think about where the big volume will come from, I think it will come in that DIMM form factor. You're going to see it in cloud applications, everything from machine learning, big data, anyplace where you have memory-intensive and where you can do in-memory applications. The 3-D Cross Point is going to be nicely configured for that. It allows you to bring large amounts of storage-like data into a memory-like performance. And that's the real key here. 
+I also believe you will see it in consumer devices. You will see laptops and devices like that. Gaming machines, we think it will have gaming applications where you can preload in a cache-like environment the next level of your game. And so it loads almost instantly as you transition within the game. 
+So there's going to be a variety of those. And actually the more we go and start to play with it, start to give it out to customers, the more types of applications and workloads we're finding that it can be used for. 
+
+--------------------------------------------------------------------------------
+C.J. Muse,  Evercore ISI - Analyst    [71]
+--------------------------------------------------------------------------------
+That's very helpful. And I guess as a quick follow-up. 
+Stacy, can you provide an update on your targeted capital structure here? And at what point with net leverage, net cash we should start to see more aggressive buybacks? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [72]
+--------------------------------------------------------------------------------
+Sure. As I communicated, I think at the investor meeting or in the last six months, our goal is to get back to net cash zero. And one point I had predicted that that would happen in the back half of this year. 
+The combination of business levels being lower from what we thought at the beginning of the year as well as some pretty significant restructuring charges will push that out. So that will happen sometime in 2017, although I do think we will make good progress towards net cash zero as we move into the back half. Today our net debt level is right around $5 billion. So we will take a big chunk out of that as we move into the back half. 
+In terms of -- now that said, we're still generating excess free cash flow. You can see that even in the first half, even inclusive of the restructuring charges we did. 
+And so you can see we did, I think $1.6 billion of buybacks in the first half. And we have a dividend yield that as of yesterday was about 3%. So I think you see us executing to the priorities that we had articulated. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [73]
+--------------------------------------------------------------------------------
+Thanks, C.J. Operator, I think we have time for two more questions. 
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+Vivek Arya, Bank of America. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [75]
+--------------------------------------------------------------------------------
+Thanks for taking my question. For my first one Brian, I am curious, there are expectations of Intel becoming successful with your 4G modems in the back half. And I'm curious, how's the longer-term visibility around sustaining growth in the business? And just the timing as to when you can bring those products from foundry to your [facets]? 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [76]
+--------------------------------------------------------------------------------
+Sure. So let's just talk about modems. 
+Really to stay on a leading edge modem, you need to have a yearly cadence of modem technology. And so we have just that, a yearly cadence laid out. We had the 7260 last year. We had the 7360 this year. 
+We have a series of modems out. We've got them built out and planned for the next several years. 
+We haven't publicly stated when we will bring it inside, but clearly we plan to. We will do that when the right point of intercepting the roadmap and getting the right performance off the 14-nanometers is required. Right now I am more concerned about getting the leading edge momentum going for us with the 7360 and then the follow-on in 2017, and really showing that we are a world-class modem company. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [77]
+--------------------------------------------------------------------------------
+As my follow-up, staying on the BCG team, are you still comfortable this can be a double digit growth business over the longer term? And I guess as part of that, what role does competition play into it with all the recent noise around [Sofbang and Bangar] presumably putting more resources into it. I understand there are no near-term implications, but just longer term how do you think about growth and competition in DCG? Thank you. 
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [78]
+--------------------------------------------------------------------------------
+Sure. So let me try and talk about why I am so confident in growth. We could talk about competition. And we'll see if that does not answer your question. 
+When I think of the cloud, the cloud that we have today is really built on the backs of people. It's your Facebook data, it's your Salesforce data, it's your Twitter data. It's all data that is really across the devices that we pretty much handle day to day. 
+The current estimates are if you look out into 2020, that average person will generate about 1.5 gigabytes a day of data off those devices. Those are going to be all your posts and pictures and all that kind of information. 
+If you take a look at the average autonomous car in 2020, the estimates right now is it will throw off about 40 gigabytes a minute of data. If you take a look at the average autonomous drone doing some kind of scan looking for somebody lost in the forest or scanning a mine, it's going to throw off about 20 gigabytes a minute. If you take something like our replay technology that is filming in virtual reality a basketball game or a football game, it's throwing off 200 gigabytes a minute right now. And as we continue to refine the accuracy of that, that number will likely just grow. 
+So it's that growth in data and the need to both process it at the edge, and then through the data center and into the cloud to be able to store it, to be able to apply machine learning to all of those applications, those all tell me that the cloud is going to continue to grow. It's going to be lumpy. 
+These guys don't build out their data centers in a linear fashion. They go, they build out a big chunk of overcapacity so that they can go then sell that and have expansion space. And they don't build for a while. 
+And so I know people worry about, is it slowing down? But these trends and data that tell me, no, it's not slowing down over the long term. And what you're really going to see is just the buying patterns and the build-outs of the various structures that are going up. 
+As far as competition, there's always going to be competition in this market. I expect it. That's okay. We think of ourselves as competition, in fact. 
+We are built on a model that says we have to build a continuous improvement of our products such that we are replacing ourself with a better cost per performance model over time. And so we know that even if there was no competition, the competition is we've got to build a product that's better and drives replacement as well as growth. 
+And so, I look at the competition as it's welcome, it keeps us better, it's always been out there. There will always be somebody out there. But really what we have to do is build products that are so competitive that people want to replace our products with our new product. That then is one of the best models to use for making sure you stay ahead. 
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [79]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [80]
+--------------------------------------------------------------------------------
+Thanks, Vivek. Operator, can you go -- please go ahead and introduce our first questioner --  or last questioner, excuse me. 
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+David Wong, Wells Fargo. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [82]
+--------------------------------------------------------------------------------
+Thanks very much. Just following up from the earlier round. Can you give us some feel for your attitude to total amount of debt? 
+You have a goal of net cash neutrality, but do you have an upper limit on the total amount of debt you're willing to carry? Might you choose at some point to repatriate overseas cash to bring down debt or pay dividends and stock purchases? 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [83]
+--------------------------------------------------------------------------------
+So there certainly is a limit to the amount of overall debt that I'd feel comfortable with, but it's not something that we have articulated externally and it'll vary by the size of the Company and the cash flow. To my philosophy just generally, I'm not a believer in taking on debt to do stock buybacks. You really have not seen us do that. 
+Obviously it's a Board decision, but I'm just sharing with you my view of it. I wouldn't take on debt in order to do buybacks or to do a special dividend or anything like that. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [84]
+--------------------------------------------------------------------------------
+Great. Thanks so much. 
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [85]
+--------------------------------------------------------------------------------
+You're welcome 
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance & Director of IR    [86]
+--------------------------------------------------------------------------------
+David, did you have a follow up? Sounds like you're all set, David. 
+All right. Thank you all for joining us today. Operator, please go ahead and wrap up the call. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for participating in today's conference. That does conclude today's program. You may all disconnect. Everyone have a great day. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

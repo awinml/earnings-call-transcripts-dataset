@@ -1,0 +1,441 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2020 ASML Holding NV Earnings Call
+APRIL 15, 2020 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Skip Miller
+   ASML Holding N.V. - VP of IR
+ * Peter T. F. M. Wennink
+   ASML Holding N.V. - Chairman of the Management Board, President & CEO
+ * Roger J. M. Dassen
+   ASML Holding N.V. - Executive VP, CFO & Member of the Management Board
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Krish Sankar
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Joseph Michael Quatrochi
+   Wells Fargo Securities, LLC, Research Division - Associate Analyst
+ * Sandeep Sudhir Deshpande
+   JP Morgan Chase & Co, Research Division - Research Analyst
+ * Mehdi Hosseini
+   Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+ * Andrew Michael Gardiner
+   Barclays Bank PLC, Research Division - Director
+ * David Terence Mulholland
+   UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware
+ * Pierre C. Ferragu
+   New Street Research LLP - Global Team Head of Technology Infrastructure
+ * Christopher James Muse
+   Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+ * Mitchell Toshiro Steves
+   RBC Capital Markets, Research Division - Analyst
+ * Achal Sultania
+   Crédit Suisse AG, Research Division - Director
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. Welcome to ASML's 2020 First Quarter Financial Results Conference Call on April 15, 2020. (Operator Instructions) 
+I would now like to turn the conference call over to Mr. Skip Miller. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Welcome, everyone. This is Skip Miller, Vice President of Investor Relations at ASML. Joining me today on the call is ASML's CEO, Peter Wennink; and our CFO, Roger Dassen. The subject of today's call is ASML's 2020 first quarter results. 
+The length of this call will be 60 minutes and questions will be taken in the order they are received. This call is also being broadcast live over the internet at asml.com. A transcript of management's opening remarks and a replay of the call will be available on our website shortly following the conclusion of this call. 
+Before we begin, I'd like to caution listeners that comments made by management during this conference call will include forward-looking statements within the meaning of the federal securities laws. These forward-looking statements involve material risks and uncertainties. For a discussion of risk factors, I encourage you to review the safe harbor statement contained in today's press release and presentation found on our website at asml.com and in ASML's report on Form 20-F and other documents as filed with the Securities and Exchange Commission. 
+With that, I'd like to turn the call over to Peter Wennink for a brief introduction.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Skip. Welcome, everyone, and thank you for joining us for our Q1 2020 Results Conference Call. I hope all of you and your families are healthy and safe. 
+And before we start our normal quarterly results review, I would like to first talk about the topic on everybody's mind, which is the COVID-19 pandemic and the situation. Well, these are unprecedented and challenging times and the COVID-19 pandemic affects all of us. Our primary goal at ASML continues to be to ensure, as best as we can that our colleagues and their families stay safe. Our second goal is to ensure that we continue to serve our customers and to secure the delivery of our product road map, including the continuity of our supply. We have been taking and continue to take precautionary measures to limit the risks. Most of our nonmanufacturing employees now work from home and travel is restricted. In China, our colleagues are returning to the office, but also there, we remain vigilant. 
+In our own facilities, we have implemented a restricted access to our manufacturing facilities worldwide, and in particular, our clean rooms to ensure our colleagues can work safely. We put in place measures to help ensure isolation between shifts. We've also implemented additional safety and cleaning protocols to minimize contamination risks. We work closely with our customer, suppliers and partners to share information and determine best practices. We see a lot of creativity, resilience and dedication at ASML and the industry and overall, as we work to manage through this crisis. 
+To date, we have experienced limited impact on ASML's manufacturing capability, although there have been additional challenges with absenteeism, transportation and support logistics that we have had to manage. Some of the quarantine requirements have had an impact on our efficiency, while travel restrictions have posted challenge for installs and major upgrades. We're working with our customers to plan ahead and find creative solutions such as the use of remote monitoring, augmented reality solutions and diagnostic technologies to aid in the service and repair of systems. With regard to our supply chain as some of our suppliers have experienced temporary closures resulting from governmental lockdown and shelter-in-place orders. 
+At this stage, we've either been able to work around these temporary disruptions or the closure has been resolved. We are managing risk via alternative sourcing and again, a lot of creativity. We're closely monitoring the status and will use safety stock as much as possible to ensure minimum interruption. At this point in time, we've been able to find solutions for these challenges. Regarding customer demand, we've currently not seen a reduction in demand this year and we have seen a strong order intake. I will talk more on this later. 
+On cash management, although we have a very healthy balance sheet as well as flexibility in our cost structure. We feel it's prudent to preserve cash should the situation continue for an extended period of time, not just for our own operation, but also in order to be able to support our suppliers as best we can in these extraordinary circumstances and Roger will talk more on the detailed actions. You will all understand that in this environment, it's difficult to determine how things will develop, how long it will last, and the impact this will have on the global GDP development that can affect our entire industry. We're taking the necessary steps in terms of safety, risk mitigation and financial measures to best manage through these challenging times. It's very encouraging to see the creativity, resilience and dedication at ASML and the industry overall.
+Now I would like to turn our normal quarterly results process. Before we begin the Q&A session, Roger and I would like to provide an overview and some commentary on the first quarter. And Roger will start with a review of our Q1 financial performance with added comments on our short-term outlook. And I will complete the introduction with some additional comments on the current business environment and our -- on our future business outlook. 
+Thank you, Roger.
+
+--------------------------------------------------------------------------------
+Roger J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [4]
+--------------------------------------------------------------------------------
+Thank you, Peter. Welcome, everyone. I hope you're all safe and healthy. 
+I will first review the first quarter financial results and then make some comments on the second quarter of 2020. I would also provide more detail around measures we are taking with regards to cash management. 
+Net sales came in at EUR 2.4 billion, below our original guidance of EUR 3.1 billion to EUR 3.3 billion, which was primarily related to COVID-19 impact. Net system sales of EUR 1.6 billion was again heavily weighted towards Logic at 73% with the remaining 27% from Memory, clearly showing the continued strength of Logic business. We actually shipped 4 EUV systems in Q1, but we're only able to recognize revenue on 2 systems, which I will explain in more detail later. Installed Base Management sales for the quarter came in at EUR 857 million. This was around EUR 100 million lower than guided due to lack of access to machine time as well as a delay in acceptance of upgrades. We expect these upgrades to translate to revenue in Q2. 
+Let me provide a bit more detail on the items that occurred in the quarter that resulted in a system revenue shift of around EUR 700 million, consisting of a Deep UV-related revenue shift over EUR 200 million and EUV-related revenue shift of over EUR 500 million primarily related to COVID-19 impact. 
+First, we experienced some delays in Deep UV shipments to customers in Wuhan, China as well as other customers due to operational and travel restrictions regarding COVID-19. We are working with our customers to prepare for these shipments in the next quarters. Second, we experienced some issues in our supply chain as a result of a temporary disruption from EUV component suppliers that encountered operational restrictions due to COVID-19 regulations. These supply chain issues have been sourced for now. Also we experienced longer than initially planned EUV cycle times for the first NXE:3400C models in final configuration, primarily driven by the complex deployment of inline 10 refill as part of the modular vessel. 
+Cycle time related to this aspect is now being reduced every week and we are on track to achieving the aspired cycle time reduction envisaged for the end of this year. As you know, this is an important element in achieving the capability of 45 to 50 EUV tools in 2021 and beyond. As a result of the longer-than-expected cycle times as well as COVID-19-related supply issues, we saw some delays in EUV shipments for the quarter resulting in fewer system shipments than originally planned. Third, due to concerns around the continued ability to ship systems in the current circumstances, some customers have asked us to expedite the delivery of EUV systems in the quarter by shipping the systems before the normal factory acceptance tests. The implication of this is a delay in our revenue recognition as final acceptance will now take place after successful installation at the customer side. We expect the revenue that we were not able to recognize for Q1 as a result of the issues listed above to shift to Q2 and Q3 of this year.
+Gross margin for the quarter was 45.1%, also below our original guidance, primarily due to a combination of delayed field upgrades as well as delayed Deep UV systems revenue related to COVID-19 impact. Overall operating expenses came within guidance with R&D expenses at EUR 544 million and SG&A expenses at EUR 130 million. 
+Turning to the balance sheet. EUR 507 million worth of shares were repurchased in Q1. We ended last quarter with cash, cash equivalents and short-term investments at a level of EUR 4.1 billion.
+Moving to the order book. Q1 system bookings came in at a strong EUR 3.1 billion, including EUR 1.5 billion from 11 EUV systems. Logic order intake was 66% of the total value with the remaining 34% for Memory, again reflecting the continued strong Logic demand for leading-edge lithography for this year and next year, but also indicating a recovery of the demand for Memory. Net income in Q1 was EUR 391 million, representing 16% of net sales and resulting in an EPS of EUR 0.93. 
+With that, I would like to make some comments on Q2 of 2020. As Peter mentioned, we have not seen a reduction in demand this year and we continued to see a strong order intake, up around 28% from Q4. Based on current plans, without any COVID interruption, Q2 can be a strong shipment quarter with revenue up potentially over 50% from Q1 and a significant improvement of gross margin. We are still planning to execute to current plan. However, due to significant uncertainty in this COVID-19 environment, we decided it is prudent to refrain from giving formal guidance for Q2. 
+Finally, on cash management. Although we have a very healthy balance sheet as well as flexibility in our cost structure, we, like many of our peers and customers, are dependent on the short and longer-term implications of the COVID-19 outbreak. Due to these uncertainties, we feel it is prudent to preserve cash should the situation continue for an extended period of time, not just for our own operations, but also in order to be able to support our suppliers as best we can in these extraordinary circumstances. We have decided not to execute any share buybacks in Q2 2020. This decision follows the pause in the execution of the program in the first quarter after having already performed share buybacks under the new program for an amount of approximately EUR 507 million. The previously announced 3-year share buyback program of up to EUR 6 billion to be executed in the 2020-2022 time frame is still in place. 
+We have also implemented measures to limit our growth in the workforce. Nonbusiness-critical vacancies have been put on hold. We continue to hire for business-critical positions. This way, our workforce will grow less than originally planned this year. We are also postponing any nonbusiness-critical OpEx and CapEx. However, we will continue to invest in the development of future technology road maps, including High-NA, at an unadjusted pace in order to allow our customers the continuation of their road maps once the situation has been normalized. 
+As communicated last quarter, ASML has submitted a proposal at a 2020 Annual General Meeting of Shareholders to declare a total dividend for 2019 of EUR 2.40 per ordinary share. Recognizing the interim dividend of EUR 1.05 paid in November 2019, this leads to a final dividend payment of EUR 1.35 to be paid in the second quarter. This is a 14% increase compared to the 2018 dividend. The 2020 Annual General Meeting of Shareholders will take place on April 22 in Veldhoven. 
+With that, I'd like to turn the call back over to Peter.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Roger. As Roger highlighted, our order intake is strong and we have not yet seen any significant pushouts or cancellations this year. Many investments of our customers are strategic and support their technology road maps, a lifeline for our leading-edge customers. These strategic investments are, therefore, primarily related to leading-edge equipment, such as EUV and high-end immersion scanners, requiring longer lead times and qualification schedules. 
+It was also confirmed recently by leading-edge customers that have also told us that they see an unabated demand for leading-edge devices, at least throughout this year. Keep in mind, the lead time and the qualification of lithography systems are the longest in the fab, and customers will not want to jeopardize any adjustment to their technology and capacity ramps that will negatively affect their ability to keep serving their leading-edge customers. As the current situation is very fluid, we're meeting with our customers on a more frequent basis to understand any changes they may be seeing regarding demand outlook. In general, most customers are still indicating that they are continuing relatively normal fab operations so far. Logic customers are currently continuing to ramp their 7- and 5-nanometer node in support of end market applications like 5G, AI and high performance compute. 
+There are also some positive sign being reported on data center demand as well as demand for notebook and communication infrastructure driven by the significant increase in work from home and virtual learning activities. These applications drive the demand for both Logic and Memory. However, it can also be expected that consumer-related electronics, for example, smartphones, may be under stress, in addition to the potential negative impact the COVID-19 crisis will have on GDP. 
+We expect installed base business to continue to scale with growing installed base numbers, and we'll also see EUV contribute to service revenue as these systems are running wafers in volume manufacturing. We currently have plans for upgrades of several customers, however, with the realization, there is a supply and a demand risk in the current environment. 
+Our bookings show an increase in Memory over the prior quarter driven by Deep UV, while Logic continues to show a transition from Deep UV to EUV ordering as customers' confidence in EUV increases, translating into more layers in Logic production. On EUV, along with the industry, ASML continues to make progress in ramping EUV technology in high-volume manufacturing as was recently showcased at the SPIE Lithology Conference in February. Our customers continue to adopt and ramp EUV in high-volume manufacturing in both Logic and Memory. And one of our Memory customers recently announced that they have successfully shipped 1 million of the industry's first 10-nanometer class DRAM modules based on EUV technology. They also stated EUV will be fully deployed in future generation of DRAM, starting with its fourth-generation 10-nanometer D1A next year. 
+We continue to target EUV revenue of around EUR 4.5 billion from 35 systems this year, thereby assuming that we will not face any significant supply/demand risks, as mentioned before. On margins for EUV, we continue to drive profitability in both the systems as well as the service business. And we're still on track to achieve at least 40% system gross margin this year and breakeven with our EUV service business by the end of the year. Increased customer confidence in EUV technology is translating to strong EUV demand in both Logic and Memory. This is reflected in the strong order flow in the first quarter in support of our 2021 output. As mentioned in earlier calls, we're currently working towards a capacity of 45 to 50 systems in 2021, which we feel can be achieved through reductions in cycle time. We continue to make progress on our next-generation EUV technology, High-NA and are on track to ship the initial development systems in 2022. 
+Now regarding our outlook on the quarter and on the year, based on the current customer demand plans and without any COVID interruption, Q2 can be a strong shipment quarter, with significant improvement of gross margin, as Roger mentioned. We're currently in execution of this plan. On the full year, customer demand is currently strong as well and the current shipment plans would position us well for another year of growth. However, there is a significant uncertainty about how the current COVID-19 crisis will impact the global GDP development and markets, our manufacturing capability and supply chain. In light of these risks and uncertainties, we decided it's prudent to refrain from giving formal guidance for Q2 and for the full year 2020. 
+Again, these are unprecedented and challenging times, but we will get through it. The world looks a lot different today than it did 3 months ago. Though it is hard to make predictions and we're certainly not adding opinions, we continue to look at the facts day-by-day and act accordingly. We're taking the necessary steps for the safety of our employees, the community and our customers as well as the necessary risk mitigation and financial steps. 
+I would like also to take the opportunity to thank the entire ASML team and their families as well as our many partners who stepped up in these demanding times in support of our company and our stakeholders. I've seen great examples of teamwork and incredible creativity to make sure that we can continue our work, serving our customers by keeping our people and partners safe. Despite the fact that the current environment provides clearly near-term challenges and uncertainties, the positive industry momentum around innovation and expanding new markets further strengthens our confidence in our future growth scenarios.
+With that, we'd be happy to take your questions.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [6]
+--------------------------------------------------------------------------------
+Thank you, Peter and Roger. The operator will instruct you momentarily on the protocol for the Q&A session. (Operator Instructions) Now operator, can we have your final instructions and then the first question, please?
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question comes from Mr. Sandeep Deshpande.
+
+--------------------------------------------------------------------------------
+Sandeep Sudhir Deshpande,  JP Morgan Chase & Co, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Sandeep Deshpande, JPMorgan. My first question to you, Peter, is that you've seen very great order strength in the first quarter. Is this order strength, essentially, what -- if you remember in January, it said that you were hoping the Memory orders would come in through the year. It was these Memory orders coming in, which caused this order strength? Or was it something else like customers were worried that they could -- they may not get tools from you and so they expedited their orders to -- and brought them forward from later in the year, which is what caused this order strength? And my second question, which is a follow -- not a follow-up, but with regard to your 40% gross margin indication in EUV for the year, is -- I mean given this -- the social distancing, et cetera, associated with -- which you may be implementing even in manufacturing, will that not have an impact on the cycle times and thus the gross margin?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [3]
+--------------------------------------------------------------------------------
+Okay. Let me answer this first question. I think the order strength, and I think Roger said it, about 2/3 of the order intake was Logic and 1/3 was Memory. So I don't think it is an acceleration of it. It is something that we would -- that we expected. Also driven by, I think, what we observed as a continued increase in utilization in the Memory space of our machines. So that actually fits in quite nicely. I don't think there were pull-ins either. These orders are there to support our outlook for 2021 and this was planned. So basically, you could say it's more a confirmation of the technology road map that our customers have in front of them. So in that sense, good. 
+On the gross margin indication of 40%, the cycle time impact, we've been able to manage. I mentioned it. We did see an increase in absenteeism in the factories because of the guidelines that people followed by the government, the health authorities, basically saying, if you have symptoms like some of the COVID-19 symptoms, you should stay at home, which people did, even when they had a cold, which actually meant that we did have, indeed, some shortages in the factory, but we've been able to reorder shift patterns. And also what we're seeing is that people that are eligible to work in the factory, for instance, on R&D environment, they are now also working in the factory to make sure that we can do the output. So I think we can manage and I don't think it will have an impact on the 40% gross margin indication that we gave you.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+The next question is from Mr. David Mulholland.
+
+--------------------------------------------------------------------------------
+David Terence Mulholland,  UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware    [5]
+--------------------------------------------------------------------------------
+It's David from UBS. Just following up on one of the comments that Roger made in terms of how you're looking to, I guess, in some respects, support your supplier base. Can you just give us a little bit more detail about what you're considering there? And are there any particular suppliers that you might be worried about where a particular other part of their business might be, I guess, heavily, or that was exposed that we've seen a very sudden downturn? Just a little more color on how you're planning to support your supplier base.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [6]
+--------------------------------------------------------------------------------
+Yes. Let me answer that. I think we are managing our suppliers almost on a day-to-day basis. And most of what we see in the supply chain currently are delays in delivery of modules that are a result of those, let's say, lockdown situations or shelter-in-place situation where we need to find different solutions leading to a delay of parts. However, as you pointed out, when this situation lasts longer, we also could see that some of our suppliers that are also exposed to other industries that currently are not in the, perhaps, somewhat more enviable position where we are, they might be looking for help from our side. And then that help would largely be requests for prepayments. Now we don't see that yet. But I would expect if this lasts long that this would come and they want some prepayments on orders when our demand profile stays as strong as it is.
+Having said that, you have to look at the -- at our integral supply chain, which includes our customers. I mean what is true for our supplier is also true for us. So we are, of course, also in discussion with our customers to say, listen, we need to look at the continuity of the supply chain from an integral point of view. So if we need to prepay suppliers, I need prepayments from our customers, yes? So it is almost, you could say, it's a back-to-back link in terms of potential financing requests. I'm pretty sure that some of them will come, yes, and especially in those areas where, as you pointed out, some of our suppliers are losing significant business in other industries. 
+So this is what we are -- we don't see it yet, but I mean have been around long enough and also in some other crises, going back to the Internet bubble burst and then the financial crisis and 9/11, there will -- in the supply chain, some potential issues will pop-up, that will just happen. But again, we need to look at this from an integral point of view, from an integral supply chain point of view and our customers play a significant role there also which, by the way, we are in discussion with them and I think these are good discussions. So I'm pretty positive that we can help those areas in our supply chain, which could become critical going forward.
+
+--------------------------------------------------------------------------------
+David Terence Mulholland,  UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware    [7]
+--------------------------------------------------------------------------------
+That's great. And just one follow-up on the R&D side of the business. As you said as many as can are working from home, but I presume you haven't closed on R&D facilities because, I guess, a lot of the work you do still needs to be, I guess, physical tests, particularly in the case of High-NA and work that's going on there.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [8]
+--------------------------------------------------------------------------------
+Yes. I think if you really talk about the physical tests, I mean that is done in clean rooms and we build modules. So that's an agreement and we talked about this. I mean we have very strict regulations there now almost for -- I would say, almost for 2 months and they are effective. On the R&D side itself, it is -- when we look at the latest productivity numbers, which we follow on a day-to-day basis, I think 90% of our R&D engineers, they work from home. But with the current possibilities that we have in creating virtual teams and working off-site, I can say that I'm pleasantly surprised with the productivity numbers that I see, whether it's the number of design sign-offs, whether it's the number of software builds, the software calculations. Our IT infrastructure is holding up very well, which we prepared, by the way. So that's going well. 
+And when we look at those productivity numbers, they actually are very similar to the productivity numbers that we saw before starting to work at home, which I think is very good, which is also attributed to the flexibility of our people. You see also in the log-on numbers that people make much longer hours. I mean they log-on the same time, but they log-off much later. So there's a lot of working in the evening. And we check very regularly with our managers across the company of how we are doing. And there's a lot of virtual teamwork going on, even leading to virtual drinks in Friday afternoon where they all sit together in front of the camera with a glass of beer.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+The next question is from Mr. Joe Quatrochi.
+
+--------------------------------------------------------------------------------
+Joseph Michael Quatrochi,  Wells Fargo Securities, LLC, Research Division - Associate Analyst    [10]
+--------------------------------------------------------------------------------
+Yes, it's Wells Fargo. I was hoping you could kind of give us some more color on the strong Memory bookings that you reported. Can you help us understand are you starting to see demand largely driven by NAND or DRAM? And then to the extent that you can help us understand what was EUV in terms of the Memory bookings? Was that also a driver this quarter?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [11]
+--------------------------------------------------------------------------------
+Yes. EUV, the last question is, it's really Logic. So very few EUV orders. That will come -- sorry, very few EUV orders for Memory, and that will come. So it is predominantly Logic. And the strong Memory bookings are -- I actually said it earlier. They are also the result of what at least we're seeing in terms of utilization of our systems in the Memory space, both in DRAM and in NAND. The trend, we -- the cautious trend that we saw at the end of Q4 of last year has continued in terms of increased utilization throughout Q1 until -- very recently until last week. So the trends are upward. So that explains why Memory bookings are going up also because customers see this also.
+
+--------------------------------------------------------------------------------
+Joseph Michael Quatrochi,  Wells Fargo Securities, LLC, Research Division - Associate Analyst    [12]
+--------------------------------------------------------------------------------
+That's helpful. And then you talked a lot about what ASML is doing in terms of services to meet your customers' needs. Is there any kind of updated thoughts you can give us on -- I think you talked about EUR 3.4 billion for revenue for 2020 for services? And should we think about, like the first quarter or March quarter being kind of a low point for services this year?
+
+--------------------------------------------------------------------------------
+Roger J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [13]
+--------------------------------------------------------------------------------
+Yes. Yes. I think we mentioned why Q1 was about EUR 100 million below our guidance and we gave you the reason for that. It is the lack of machine time that we had on particular upgrades that we were doing. And as a result of that that will fall into Q2. And other than that, in the installed base business still looks good. So the number that we talked about in the past is a number that has still relevance with all the caveats that we talk about in the entire call around the current uncertainty. Indeed, the EUR 3.4 billion is the number that we talked about on the Q4 call. So that's a good recollection of what we mentioned there.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+The next question is from Mr. C.J. Muse.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [15]
+--------------------------------------------------------------------------------
+Yes, Evercore ISI. I guess, Peter, first question, just to follow-up on the Memory side of things. It looks like ex-EUV, your orders are up, like 80% Q-on-Q. And so curious on that front, is that more NAND versus DRAM? And then on the last call, you talked about optionality to a stronger DRAM recovery into the second half of the year. I'm curious what your thoughts are as it relates to that potential reality?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [16]
+--------------------------------------------------------------------------------
+Yes. I think when I answer, you have to take into consideration that customers, for instance, do, do relocations. So we might be shipping to a DRAM fab, a leading-edge machine that is replacing a machine that was on a pedestal that now goes to NAND. So there is some relocation there. But I would say that the Memory intake is driven by DRAM. And then with the caveat that we do obviously see some relocation out of DRAM into 3D NAND. But I would say if you would have to answer and say, where is the -- what's the emphasis, the emphasis is on DRAM.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [17]
+--------------------------------------------------------------------------------
+Okay. Great. Very helpful. My follow-up, can you speak directly to how you're thinking about cycle time improvements on EUV? And as part of that, what will it take to get the ability for you to have double-digit shipments on a quarterly basis, which it looks like you need to do to hit that 35-unit forecast? And I guess as part of that, should we be thinking about the potential for customers to expedite again in the coming quarters and therefore, perhaps maybe revenue on 1 or 2 tools gets delayed into '21?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [18]
+--------------------------------------------------------------------------------
+Well, on the last point, I mean it's April 15, so I don't know what's going to happen in December. So that's not what our customers tell us today. Our customers tell us today that they want the 35 systems. On the cycle time improvement and our ability to ship double-digit numbers, we are planning and without any supply chain or capacity disruptions because of COVID, we will ship double-digit numbers in this quarter in Q2 of 2020. So we have that capability. And when you look at this, and let's say, customers have a number of 36 units that they want, it's not 9999 every quarter. That's not how it works. And it works when do the customers need it because it's their ramp schedule that is going to determine when we ship. 
+For instance, in Q1, we only shipped 4 systems, but we planned before the COVID-19 impact, 6 in Q1, not that we couldn't make more, it just -- it also has to do it with when the customers need the machines, yes? So we will do double-digit in this quarter, yes? And actually, it means that we have the capability, which is, of course, very important to get to the 35 numbers. I think the cycle time reductions -- and was one of the earlier comment, we have some absenteeism in the factory. We're dealing with that. I think we will get to the cycle time reductions as planned and we will have the capability to do 35 systems this year.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+The next question is from Mr. Krish Sankar.
+
+--------------------------------------------------------------------------------
+Krish Sankar,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+Krish from Cowen. I have 2 of them. First one, Peter, to the extent you can answer this, what do you think you would ship in terms of DUV units this year either in absolute unit numbers or relative to 2019?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [21]
+--------------------------------------------------------------------------------
+Relative to 2019, you will see -- that's just a general comment. I'm not going to guide you on a specific Deep UV number. But as we said before and I have said for some time now that when you look at EUV, EUV is cannibalizing, you could say, some multiple patterning layers. So there will be a reduction of Deep UV systems in 2020 and that will be more than compensated by the sales number in EUV. And that's logical. That's what we've always said. EUV is there to cannibalize multiple pattern and layers. Now how much that in the end will be, it's going to be somewhat now lower. It's not going to be significant, but that is the trend. It's a trend going forward. As you can also see from our 2025 Capital Market Day information, where you also see that in 2025, the Deep UV numbers are lower than what they used to be and that's because EUV is going to replace those.
+
+--------------------------------------------------------------------------------
+Krish Sankar,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [22]
+--------------------------------------------------------------------------------
+Got it. Got it. That's helpful, Peter. And then as my follow-up, if I look at your -- for the last 2 quarters, if I look at your Memory shipments and compare it, it's very similar to the sales into China. So a, is most of your Memory shipments in the last 2 quarters coming mainly from China? And b, how do you expect that to trend over the next couple of quarters?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [23]
+--------------------------------------------------------------------------------
+Well, it's -- as you know, and I said, we actually mentioned that the shipments in Q1 were impacted by the COVID-19 crisis in China, especially Wuhan, where there's a Memory customer there, yes? Well, you can imagine, we didn't ship anything to that customer. The other customer took a few tools according to plan. But the majority, of course, of everything that we shipped, was outside China.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+The next question comes from Mr. Pierre Ferragu.
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [25]
+--------------------------------------------------------------------------------
+It's Pierre at New Street. So Peter and Roger, from your prepared remarks, I understand like the near-term of COVID-19 played out clearly not so bad for you and your value chain and that you're managing very well logistics disruption and more like the supply side of the story. Now, of course, my next concern is what happens next. And I hear you that we have very little visibility, so it's very -- it's impossible to make like a near-term forecast. But my question would be like a what-if question. So let's assume that in the second half of the year, demand for PCs, servers and smartphones are down 20%, 25% year-on-year. If that happens at a high level, how do you see your clients impacted -- are impacted? And how do you see that's impacting ASML? 
+And I have 2 specific like question marks in mind. One is, in that kind of scenario, would your clients push out EUV orders? Or do you think they need to take orders anyway because they need to take your supply of the technology? And then the second one I had in mind was what about a very steep decline risk in DUV because I imagine that if volumes are not where they were expected when rollout plans were made 6 months ago, I would expect a lot of reuse of DUV tools as node migrations continue.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [26]
+--------------------------------------------------------------------------------
+Let me first answer your question, how does it impact ASML on a certain scenario? Basically, I couldn't answer that. I would be a bit mean and say, that's your work, not mine, yes? But...
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [27]
+--------------------------------------------------------------------------------
+Point taken, point taken.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [28]
+--------------------------------------------------------------------------------
+So -- but what I would answer is that if you don't know where you're going, you'd better be flexible, yes? And this is what we're organizing. We're organizing for flexibility in the supply chain. As you know, 80% or 80% plus is in the supply chain. That means that we -- very like with every crisis, we hardly ever saw cancellations. We saw pushouts. So it basically means you would be looking at in the supply chain financing of working capital, which is also particularly important in the context of the answer I gave to a question earlier, what do you want to do in the supply chain, which I think is an integral supply chain problem, which includes our customers. I mean they cannot do without supply in the end either. So it's a working capital issue, which I think is manageable. 
+I think from a flexibility point of view, we have a lot of cost flexibility here with our variable cost on labor. It was a lot of variable cost, it's like variable income to our people, which, of course, when the business goes down, that will go down also. I don't think there will be a lot of pushouts for EUV orders. What our customers are telling us now. And when I listen well to them, they are not blind. They see that the impact on GDP will be recessionary. And that will very likely have an impact on consumer spending and on the consumer electronics. What they do notice is that the customers of our customers are not blind either that the demand on the leading-edge Logic, which includes 5- and 7-nanometer is still strong. 
+I mean our customers tell us every time, every week that we talk to them, please stay on target with your shipments of your leading-edge machines. Now if data centers would require 25% less service, which, by the way, if you think about it, it's probably that it's -- then something very bad has actually happened because we need more data center capacity and not less, yes? So -- and that's where the high compute goes, yes? So I think push out of EUV orders, it can always happen. I don't think it's going to be significant. We're not planning for an Armageddon scenario where the entire world economy crumbles into an abyss. We were not planning that. I don't think it's going to happen either. I think it's a low likelihood. 
+So all in all, I think we're flexible enough. I think EUV, with the -- with key focus on leading-edge solutions that our customers' customers need is going to be relatively safe. And I think reuse of Deep UV tools is -- the story of reuse of Deep UV tools has always been very prominent in every cycle. But you need to realize that when you look at leading edge, it's not only EUV, it's leading-edge Deep UV, but you need Deep UV not so much for the geometrical shrink, you need it for overlay, yes? And that is very important for those new leading-edge devices. So the overlay requirements for an NXT:2050, which will be our leading-edge immersion tool, is significantly different than in 1980, because in 1980 we will not be able to do what the 2050 should be doing to make sure that they can support our leading-edge nodes. So reuse will be limited. It simply has to do with the fact that the requirements that are needed for leading-edge nodes for Deep UV tools are different and they are also more difficult for the older generations to achieve.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+The next question is from Mr. Mehdi Hosseini.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [30]
+--------------------------------------------------------------------------------
+Peter, going back to the topic of where we're going to, I'm still confused. You talked about improvement in the supply chain. You talked about sequential revenue growth that could exceed 50%, but you're not providing a guide, not even for Q2. What is it out there? And we are halfway through April. What is it out there that makes you uncomfortable given what you see in the next 2 months? I'm not asking about the second half, I'm asking just the Q2. And I have a follow-up.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [31]
+--------------------------------------------------------------------------------
+Yes. No, I fully understand your question, Mehdi, because we always say, well, we have very long lead times in the supply chain, which is true for the critical suppliers like, for instance, ZEISS. We have, in the end, if you take Tier 2 also thousands of suppliers, which some of them have lead times which are a lot shorter. We've had delays in EUV in Q1 of a couple of weeks because one particular supplier couldn't provide rings, your flow rings, which is not the most advanced part that we need. But if you don't have it, you don't have it. So this is where our concern comes from. It's the tiered supply chain, which is not always that visible to us. 
+We have tiered suppliers coming from Malaysia, Mexico, you name it, and they are supplying to our Tier 2 and Tier 1 suppliers. And if that supply basically stops then even a part that has a relatively short lead time doesn't arrive on time, and we get a delay. I think, ultimately, we get those parts, it's just a delay. And if we tell you, if we give you a number and we get a significant delay in some of those short lead-time parts, we cannot ship tools and that can be significant. You may remember that the 3400C now is EUR 130 million tool. That's a big number. And I don't want to give you a range from x billion to y billion. That doesn't make sense, yes? So this is where it comes from, yes? 
+And I think it is really based on the experience that we've had in Q1 where we were able to manage it, but we did see some delays. And since we cannot judge what the impact will be of these governmental orders in different parts of the world, we cannot assess what that risk is. But it's there because we've seen it. We've been able to manage it with a lot of creativity. It doesn't give me any assurance or certainty that we will be able to manage it going forward always. So this is where it comes from.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [32]
+--------------------------------------------------------------------------------
+Very clear. And if you could give us an update on Hermes multi-beam shipment. I think the beta tool was supposed to be shipped to the customer in Q1. And what's the update there?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [33]
+--------------------------------------------------------------------------------
+Yes. I think it was ready. It was in packing. And then the shelter in place in the Bay Area, because that's where it comes from, it comes from San Jose, just stopped the tool. So it was -- that the trucks were pulling up and they had to return.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [34]
+--------------------------------------------------------------------------------
+But do you see the trucks are going to resume their destination in Q2? Or they're going to be more...
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [35]
+--------------------------------------------------------------------------------
+Well, I think -- listen, I mean what we are doing now, we are assessing whether we and this particular tool falls under the definition of a critical business. And actually, we're looking into what our possibilities are to actually ship the tool. And I would love to ship the tool ASAP because it's ready and the customer wants it. So let's see how things go.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+The next question is from Mr. Mitch Steves.
+
+--------------------------------------------------------------------------------
+Mitchell Toshiro Steves,  RBC Capital Markets, Research Division - Analyst    [37]
+--------------------------------------------------------------------------------
+This is Mitch Steves from RBC. Just had a question on the services business. I'm trying to understand it a little better. So I'm guessing you guys are able to do some of this remotely. But can you maybe walk us through how much revenue you guys think will come back? How much revenue you may have lost in Q1? And then how it would work if, like, we get out of the shelter in place, say, earlier? Would that be a lot of pent-up demand where you see a snap-up? Or does the services business kind of actually just get hit and some of the revenues are lost?
+
+--------------------------------------------------------------------------------
+Roger J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [38]
+--------------------------------------------------------------------------------
+I think the revenue, Mitch, that we lost in Q1, as we mentioned, is around EUR 100 million and it's primarily related to certain upgrades. I would say it's not even related to COVID-19 in particular. It was related to the fact that we didn't get sufficient machine time from customers. So that revenue we missed for Q1, we'll get it in Q2. There's hardly any doubt in my mind, we will get that in Q2. And other than that, I don't think there is going -- as far as we can see right now, we don't see any anomalies. So at this stage, still on track for the EUR 3.4 billion in IBM revenue that we talked about in the previous quarter.
+As we also mentioned in the video, and as Peter talked about in the introduction, we are deploying new technologies, right? So of course, we're less able than we were in the past to have people go from Veldhoven from Wilton, et cetera, and go to the customer locations for obvious reasons, for the travel restriction and what have you. But by using artificial -- by using virtual reality, augmented reality type technology, we are able to support the huge local support teams that we have with very specialized knowledge that we have at the different hubs. And in that way, so far, we think we're still well positioned to keep up providing the service and the upgrade work that we need to do.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [39]
+--------------------------------------------------------------------------------
+One additional comment here, it's more anecdotal, but actually, we were preparing as a kind of a prototype project somewhere deep in the organization, how could we support remotely through augmented reality and HoloLens, basically people sitting 6,000 kilometers from the actual service action. And then we have now over-the-shoulder 3D augmented reality support that service engineers with 6 months of training that would normally have to do this after a 2- to 3-year training, we're now operating and doing service actions with the support of experts that were sitting 6,000 kilometers away and basically providing them with 3D images, how they should do the service actions and it works. So this is also something that amazed us also. And actually, our service levels, we keep up all our service levels up in terms of maintenance and servicing of our tools, which I think is a really good achievement.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+The next question is from Mr. Achal Sultania.
+
+--------------------------------------------------------------------------------
+Achal Sultania,  Crédit Suisse AG, Research Division - Director    [41]
+--------------------------------------------------------------------------------
+It's Crédit Suisse. Peter, maybe one question from my side, on the services. You mentioned that so far, you've tried to do a lot of remote working and local team assisting to get maintenance and upgrades done. How should we think about the EUV installation part? Do you have teams in place at customer fabs or at customer locations to make sure that EUV installation can still go ahead as per plan, at least during Q2, if travel restrictions are not lifted?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [42]
+--------------------------------------------------------------------------------
+Yes, that's a very good question. Luckily, we have 3 main sites where we do EUV and that's also the sites where we have most of our service engineers. I mean we have to think of 1,000 plus. So there is a lot of experience there. And this is exactly where this remote support comes in. We do send people across the globe, but that's where we have hundreds of people, hundreds of people traveling, it's now probably not more than 50, 60. They have to go into 2 weeks of quarantine. They have to get a special travel visa. So we need to plan and prepare this much more rigorously than we did in the past. And this is where we do send experts. But I think a lot of these service actions that are not of the really topnotch expert level are being trained and being done with the kind of novel remote support technologies that I just mentioned. So it's a combination of both. And I think we'll be able to do all the installations. We have been able to actually do that and we are. So yes, we still do travel. It's not going back to 0, but it's a fraction of what we were able to do, but it works
+
+--------------------------------------------------------------------------------
+Achal Sultania,  Crédit Suisse AG, Research Division - Director    [43]
+--------------------------------------------------------------------------------
+And maybe one follow-up for Roger. Then, Roger, on the services side, you mentioned EUR 3.4 billion is still in sight for the full year. Can you help us understand like how much of that -- within that will be EUV specifically? And also how much of losses for EUV services can we expect? I know you mentioned breakeven, hopefully, by the end of the year. Because the thing that I'm trying to understand is how much of a drag on services gross margin has EUV been last year or maybe this year, just to help us get to what the number should be going forward.
+
+--------------------------------------------------------------------------------
+Roger J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [44]
+--------------------------------------------------------------------------------
+Let me be very short on that. So for this year, I think quarter-over-quarter, what -- so if you compare the last quarter, so Q4 to today, that would probably account for 0.5% in gross margin. So the improvement in EUV this year is going to account for about 0.5% in gross margin for the year. So that's an answer to that question. In general, if you look at the EUR 3.4 billion, it's about 50-50 in terms of regular service and maintenance, if you like, and upgrades. And the regular service and maintenance, EUV is still a fairly small number, given, of course, the installed base for Deep UV is so much larger. But the impact on the gross margin percentage, about 0.5%.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [45]
+--------------------------------------------------------------------------------
+All right. We have time for one last question. If you were unable to get through on this call and still have questions, please feel free to contact the ASML Investor Relations department with your question.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+The last question is from Mr. Andrew Gardiner.
+
+--------------------------------------------------------------------------------
+Andrew Michael Gardiner,  Barclays Bank PLC, Research Division - Director    [47]
+--------------------------------------------------------------------------------
+It's Andrew from Barclays. Just a follow-up, really, on the comments you guys have been making on the Memory tool utilization. Peter, you said you've seen it improve sort of from late fourth quarter into first quarter and just up this quarter. I'm just wondering, how much flex do you think the industry still has to continue to grow bit output by raising utilization? And when are they going to get close to full utilization, again, based on the current trends? Obviously, I know we've got the global caveats. But just if trends were to continue, how close are we to that full utilization where they'd need to start adding capacity again?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - Chairman of the Management Board, President & CEO    [48]
+--------------------------------------------------------------------------------
+I think that will be this quarter. When I look at the trend, it's going to be -- it's pretty close. There's still a little bit of underutilization to go, but it will be this quarter. Sorry to be short, Andrew, but it is what it is.
+
+--------------------------------------------------------------------------------
+Andrew Michael Gardiner,  Barclays Bank PLC, Research Division - Director    [49]
+--------------------------------------------------------------------------------
+That's just fine. The best answer.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [50]
+--------------------------------------------------------------------------------
+Do you have a second question, Andrew?
+
+--------------------------------------------------------------------------------
+Andrew Michael Gardiner,  Barclays Bank PLC, Research Division - Director    [51]
+--------------------------------------------------------------------------------
+No. I'll let you close quickly then.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [52]
+--------------------------------------------------------------------------------
+All right. Thank you. Now on behalf of ASML, I would like to thank you all for joining us today. Operator, if you could formally conclude the call, I'd appreciate it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+This concludes the ASML 2020 First Quarter Financial Results Conference Call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

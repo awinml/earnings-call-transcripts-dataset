@@ -1,0 +1,648 @@
+
+
+Thomson Reuters StreetEvents Event Brief
+E D I T E D   V E R S I O N
+
+Q4 2016 Apple Inc Earnings Call
+OCTOBER 25, 2016 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Luca Maestri
+   Apple Inc. - CFO
+ * Tim Cook
+   Apple Inc. - CEO
+ * Nancy Paxton
+   Apple Inc. - Senior Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Wamsi Mohan
+   BofA Merrill Lynch - Analyst
+ * Jim Suva
+   Citigroup - Analyst
+ * Katy Huberty
+   Morgan Stanley - Analyst
+ * Gene Munster
+   Piper Jaffray & Co. - Analyst
+ * Rod  Hall
+   JPMorgan - Analyst
+ * Shannon Cross
+   Cross Research - Analyst
+ * Toni Sacconaghi
+   Sanford C. Bernstein & Co. - Analyst
+ * Simona Jankowski
+   Goldman Sachs - Analyst
+ * Steve Milunovich
+   UBS - Analyst
+
+================================================================================
+OVERVIEW
+================================================================================
+Co. reported 4Q16 revenue of $46.9b, net income of $9b and diluted EPS of $1.67. Expects 1Q17 revenue to be $76-78b.
+
+================================================================================
+FINANCIAL DATA
+================================================================================
+
+    1. 4Q16 revenue = $46.9b.
+    2. 4Q16 net income = $9b.
+    3. 4Q16 diluted EPS = $1.67.
+    4. 4Q16 GM = 38%.
+    5. 2016 CapEx = $12.8b.
+    6. 4Q16 CapEx = $3.6b.
+    7. 4Q16-end cash plus marketable securities = $237.6b.
+    8. 4Q16 share repurchase = 28.6m AAPL shares for $3b.
+    9. 1Q17 revenue guidance = $76-78b.
+
+================================================================================
+PRESENTATION SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+I. 4Q16 Business Review (T.C.) 
+
+--------------------------------------------------------------------------------
+
+     1. Highlights:
+          1. Results for Sept. qtr. were strong.
+          2. Revenue $46.9b.
+               1. Towards high end of guidance.
+          3. GM 38%.
+               1. At the very top of range.
+          4. Sold 45.5m iPhones, reflecting continued improvement in YoverY performance vs. last two quarters as forecasted in Jan.
+               1. iPhone sales up YoverY in 33 of Top 40 markets.
+          5. FY16 saw more customers switch from Android to iPhone than ever before.
+               1. This is due to superior customer experience Co. delivers with its products and it's something no other co. can match.
+     2. Services:
+          1. Record-setting qtr. for services.
+               1. Revenue $6.3b.
+                    1. Growth accelerated to 24%.
+               2. App Store revenue continues to skyrocket.
+               3. Music revenue grew 22% due to growing popularity of Apple Music.
+               4. J.D. Power recently announced that Apple Music enjoys highest customer satisfaction rating in streaming music market.
+          2. In Japan, Apple Pay went live on 10/24/16.
+               1. Expects strong response and rapid adoption of Apple Pay.
+          3. Around the world, seeing strong growth in transaction volume through Apple Pay, which also launched in Russia and New Zealand, this month.
+               1. Coming to Spain in next few months.
+          4. Apple Pay transactions up nearly 500% YonY for Sept. qtr.
+               1. Completed more transactions in Sept. than Co. did across all of FY15.
+               2. With Apple Pay support now built into Safari, hundreds of thousands of websites are bringing Apple Pay to their customers.
+               3. Co.'s major partners state that Apple Pay shows highest conversion rate of any digital wallet.
+          5. Remains confident about future of services business given unmatched level of engagement, satisfaction and loyalty of growing installed base.
+          6. Almost doubled the size of services revenue in last four years.
+               1. As stated before, expected to be the size of a Fortune 100 co. in FY17.
+          7. Thrilled with customer response to iPhone 7 and iPhone 7 Plus.
+               1. These are the best phones Co. has ever made with breakthrough camera systems, immersive stereo speakers and best iPhone performance and battery life ever due to custom-designed Apple A10 Fusion chip.
+               2. Demand continues to outstrip supply.
+                    1. Working hard to get them into customers' hands as quickly as possible.
+          8. Off to a great start with Apple Watch Series 2, next generation of world's most popular smart watch packed with new features including built-in GPS, water resistance, dramatically brighter display and a powerful dual-core processor.
+               1. Individuals and businesses alike are recognizing potential of Apple Watch to help people stay healthy, motivated and connected.
+               2. Aetna has announced a new initiative to revolutionize its members' healthy experience by subsidizing Apple Watch for individual customers and select large employers.
+               3. Aetna is providing Apple Watch to nearly 50,000 of its own employees to encourage them to live a healthier day.
+     3. Key Details:
+          1. Just rolled out new versions of iOS, macOS and watchOS.
+               1. New features including Siri on Mac, enhanced health and fitness capabilities for Apple Watch and new way to experience photos on iOS with a feature called Memories.
+               2. Has made massive advances in messages, making them more expressive and fun than ever with powerful animations, invisible ink and hand written notes.
+               3. Seeing great offerings from developers in all-new App Store for messages.
+                    1. There has been a marked increase in monthly active users.
+          2. One of the great new features of iOS 10 is Home app, which is making home automation easy to set up and intuitive to use.
+               1. Customers can easily setup and securely control all their HomeKit accessories from lights and cameras to garage doors and air conditioners, all from their favorite iOS devices.
+               2. Expects over 100 HomeKit compatible products to be on market by end of this year, all reviewed and approved by AAPL to help ensure customer security when using them.
+          3. With latest operating systems, machine learning is making products and services smarter, more intuitive and even more personal.
+               1. Has been using these technologies for years to create better user experiences.
+               2. Has been invested heavily through R&D and acquisitions.
+               3. Today, machine learning drives improvements in countless features across products.
+                    1. It enables proactive features in iOS 10 which offers suggestions on which app one might want to use or which context one might want to include in an email.
+               4. Camera and photo software uses advanced face recognition to help one take better pictures and object and scene recognition to make them easier to sort and find.
+               5. Machine learning makes fitness features of Apple Watch more accurate; even helps extend battery life across products.
+               6. Machine learning continually help Siri get even smarter in areas like understanding natural language.
+                    1. Extended Siri to work in many new ways by opening it to developers and most recently by making Siri available to Mac users in Mac OS Sierra.
+               7. Already seeing great momentum in just first few weeks from developers leveraging Siri and Speech APIs.
+          4. Looking ahead, seeing some exciting developments in India.
+               1. Reliance Jio is rolling out a first of its kind all-IP network in India with 4G coverage in 18,000 cities and 200,000 villages across the country.
+                    1. They're offering a free year of service to purchasers of new iPhones; partnering with them to ensure great iPhone performance on their network.
+          5. iPhone sales in India up over 50% in FY16 vs. prior year.
+               1. Believes Co. is just beginning to scratch service of this large and growing market opportunity.
+          6. Progress of enterprise market initiatives continue to expand.
+               1. Just last month, announced a partnership with Deloitte to help companies quickly and easily transform the way they work by maximizing power, ease of use and security of iOS platform.
+               2. Deloitte is creating a unique [AAPL practice] with over 5,000 strategic advisors focused on helping businesses transform work in functions across the enterprise.
+               3. Collaborating on development of Enterprise Next, new Deloitte consulting service designed to help clients across more than 20 industries takes full advantage of iOS ecosystem and quickly develop custom solutions through rapid prototyping.
+
+--------------------------------------------------------------------------------
+II. 4Q16 Financials (L.M.)
+
+--------------------------------------------------------------------------------
+
+     1. Highlights:
+          1. Revenue $46.9b.
+               1. Towards high end of guidance.
+               2. Revenue grew strongly in many emerging markets including Russia, Turkey, Middle East, Thailand and Vietnam.
+               3. Continues to see solid growth in Japan and in Latin America.
+          2. GM 38%.
+               1. At the top of guidance due to favorable cost performance.
+          3. Operating margin 25.1% of revenue.
+          4. Net income $9b.
+          5. Diluted EPS $1.67.
+          6. Cash flow from operations $16.1b.
+               1. New record for Sept. qtr.
+     2. iPhone:
+          1. Sold 45.5m iPhones due to successful launch of iPhone 7 and iPhone 7 Plus and continued strong demand for other iPhones, including 2.7m iPhones that were in transit at qtr.-end.
+          2. Increased channel inventory by [2.5m units].
+               1. Exited qtr. well below 5-7 week target range of channel inventory.
+          3. Experienced strong iPhone from growth in many markets around the world, including Canada, Latin America, Western Europe, Central and Eastern Europe, Middle East, India and South Asia.
+          4. Sales in Greater China declined.
+               1. Initial customer response to iPhone 7 and 7 plus gives confidence that Dec. qtr. performance in China will be significantly better on a YoverY basis than Sept. qtr. results even as Co. laps all-time record period from a year ago.
+          5. Worldwide demand for iPhone 7 and 7 Plus significantly outpaced supply, particularly on iPhone 7 Plus.
+               1. Working hard to get new iPhones into hands of customers as quickly as possible.
+          6. ASP increased to $619 in Sept. qtr.
+               1. Above expectations.
+               2. Up from $595 in June qtr. when Co. launched iPhone SE and it had a significant channel inventory reduction.
+               3. Expects iPhone ASP to increase markedly on a sequential basis to a level similar to ASP in Dec. qtr. last year.
+          7. Customer interest and satisfaction with iPhone remains extremely strong.
+               1. In US, latest survey fielded by 451 Research found that among consumers planning to purchase a smartphone within 90 days, 65% plan to purchase iPhone with current iPhone owners reporting a 97% customer satisfaction rate.
+          8. Among corporate smartphone buyers, latest survey measures 95% iPhone customer satisfaction rating and found that of those planning to purchase phones in Dec. qtr. 79% plan to purchase iPhone.
+     3. Services:
+          1. Revenue $6.3b.
+               1. All-time record.
+               2. Up 24% YoverY.
+          2. App Store growth rate has now accelerated for five consecutive quarters reaching 43% in Sept. qtr.
+               1. App Store remains preferred destination for customers and developers.
+               2. App Annie, it generated 100% more global revenue than Google Play in Sept. qtr.
+          3. In addition to great performance from apps, saw strong double-digit revenue growth in several other service categories.
+               1. Apple Pay transaction volume has grown dramatically as Tim stated.
+     4. Mac:
+          1. Sold 4.9m, facing a difficult YoverY compare, given launch of new Macs in spring 2015.
+               1. Despite this, Mac installed base reached a new all-time high at end of Sept. qtr.
+          2. Ended the qtr. below 4-5 week target range for Mac channel inventory.
+     5. iPad:
+          1. Flat revenue YoverY.
+          2. ASP $459.
+               1. $26 higher YoverY with increase driven by new iPad Pro line.
+          3. Sold 9.3m iPads.
+          4. Reduced channel inventory by about 80,000 units, exiting qtr. below 5-7 week target.
+          5. Continues to be highly successful in terms of market share and customer metrics in segments of tablet market, where Co. competes.
+          6. Recent data from NPD indicates that iPad gained share in US tablet market in Sept. qtr.
+               1. Had 82% share of tablets priced above $200.
+          7. In Aug., 451 Research measured 96% consumer satisfaction rate for iPad Mini, 95% rate for iPad Air and 93% rate for iPad Pro.
+          8. Among US consumers planning to purchase a tablet within the next six months, 73% plan to purchase an iPad.
+               1. More than eight times purchase intention rate of next highest brand measured, with iPad Pro once again the top choice for planned purchases.
+          9. Corporate buyers reported 94% satisfaction rate for iPad.
+               1. Purchase intent 68% for Dec. qtr.
+          10. In enterprise market, seeing some great examples of iPad and Mac deployment.
+          11. Mobility partner program continues to grow stronger with over 120 partners around the world, offering tailored solutions to businesses of all sizes.
+          12. Revel Systems, a leading iPad point of sale solution partner, recently announced a global agreement which Shell Retail to implement Revel's iPad-based POS system services at 34,000 Shell locations worldwide including support for Apple Pay in countries where Apple Pay is available.
+          13. IBM has just released new data on great results of its Mac roll out.
+          14. With more employees choosing Mac than ever before, there are now more than 90,000 Macs across the organization in addition to 48,000 iPads and 81,000 iPhones.
+          15. IBM reports PCs are three times cost to manage, drive twice the number of support calls and are five times more likely to require a follow-up appointment to resolve an issues than Macs.
+               1. Due to much lower support cost and significantly higher residual value, co. saving as much as $535 per computer when comparing the total cost of Mac ownership to a PC over a full year life cycle.
+     6. Cash Position:
+          1. 4Q16-end cash plus marketable securities $237.6b, sequential increase of $6.1b.
+               1. $216b of this flow or 91% of the total was outside the US.
+          2. Issued $7b of debt in July, leading Co. with $79b in term debt at qtr.-end.
+          3. Returned over $9b to investors during the Sept. qtr.
+               1. Paid $3.1b in dividends and equivalents.
+               2. Spent $3b on repurchases of 28.6m AAPL shares through open market transactions.
+               3. Launched new $3b ASR, resulting in initial delivery and retirement of 22.5m shares.
+          4. Completed seventh accelerate share repurchase program, retiring additional 12.3m shares.
+               1. Total buyback activity reduced share count by 1.5%.
+          5. Has now completed $186b of current $250b capital return, including $133b share repurchases.
+     7. Key Details:
+          1. During Sept. qtr., completed four acquisitions and incurred $3.6b in CapEx.
+               1. Total CapEx for year $12.8b.
+          2. Effective tax rate 26%.
+               1. Slightly higher than 25.5% guided to because of a different geographic mix of earnings relative to original expectations.
+          3. Tax rate for full FY 25.6%.
+     8. Dec. Qtr. Outlook:
+          1. Revenue $76-78b.
+               1. This represents a return to growth over all-time revenue record set in Dec. qtr. a year ago.
+          2. GM 38.0-38.5%.
+          3. OpEx $6.9-7.0b.
+          4. OI&E about $400m.
+          5. Tax rate about 26%.
+     9. Other Details:
+          1. On 10/25/16, Board of Directors has declared cash dividend of $0.57 per share of common stock, payable on 11/10/16 to shareholders of record as of 11/07/16.
+
+
+================================================================================
+QUESTIONS AND ANSWERS
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+First we'll hear from Gene Munster with Piper Jaffray. 
+
+--------------------------------------------------------------------------------
+Gene Munster,  Piper Jaffray & Co. - Analyst    [2]
+--------------------------------------------------------------------------------
+Good afternoon and congratulations. Tim, now that we're a month in the iPhone 7, are you seeing anything measurable in terms of the growing trend of annual upgrades?   Second is, historically in terms of new product categories, you have always looked for you unique advantage before getting into a segment.  And, I'm curious about the car. There are a lot of rumors out there and would like your perspective on how you think about an advantage that Apple could add in the auto space?  
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+In terms of iPhone 7, Gene, the carriers that had upgrade plans, the information that we have from them is that the demand is very robust. But, from a worldwide point of view, the truth is that demand is outstripping supply in the vast majority of places, particularly on the iPhone 7 Plus. And so, it's -- we're in a situation at the moment, it's difficult in the early weeks to be able to differentiate. But, on an anecdotal basis, it's clear the upgrade programs are a win. 
+I can't speak about rumors, but as you know, we look for ways that we can improve the experience and the customers' experience on different sets of products, and we're always looking at new things.  The car space, in general, is an area that it's clear that there's a lot of technologies that will either become available or will be able to revolutionize the car experience. So, it's interesting from that point of view, but certainly nothing to announce today. 
+
+--------------------------------------------------------------------------------
+Gene Munster,  Piper Jaffray & Co. - Analyst    [4]
+--------------------------------------------------------------------------------
+Just one quick follow-up in terms of the supply. Do you think we'll be at equilibrium by the end of the quarter, for iPhone supply? 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [5]
+--------------------------------------------------------------------------------
+It's hard to say. I believe that on iPhone 7, we will. On iPhone 7 Plus, I'm not sure. I wouldn't say yes at this point because the underlying demand looks extremely strong on both products, but particularly on the iPhone 7 Plus versus our forecast going into the product launch. 
+
+--------------------------------------------------------------------------------
+Gene Munster,  Piper Jaffray & Co. - Analyst    [6]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [7]
+--------------------------------------------------------------------------------
+Thanks, Gene. Can we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Katy Huberty with Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Katy Huberty,  Morgan Stanley - Analyst    [9]
+--------------------------------------------------------------------------------
+Thanks. Good afternoon.  Luca, can you help us understand what's embedded in revenue guidance for the extra week as well as any rebuilding of channel inventory, given all the major products are running below target. Just trying to get at whether you see revenue, and in particular, iPhone growth year on year on more of a sell-out basis when you adjust for those two factors. And then, I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [10]
+--------------------------------------------------------------------------------
+Sure. Let me say a few things on the 14th week and revenue outlook for the December quarter. Keep in mind that the December quarter a year ago for us was an all-time quarterly revenue record. 
+We think we can grow this year. As Tim said, the interest from customers on iPhone 7 and 7 Plus is very strong. The strength of our services business, you've seen we've grown 24% in September. We think we can continue to grow very well into the December quarter. 
+You mentioned the 14th week and the few extra days do help us this quarter, but I think it's important to keep in mind that there are other factors that go and offset these extra few days. As you know, the launch timing of the new iPhone is different this year. We had the first nine days of sales this year hit Q4. There were only two days last year. So, the cadence has moved more towards Q4 this year versus Q1 last year. As you know, we increased iPhone channel inventory by 3.3 million units in the first quarter of 2016. 
+As Tim said, we are very supply-constrained on iPhone 7 Plus this year. We are simply more supply-constrained this year than we were a year ago. And then, keep in mind there were a couple of things that affected compare as well, which is the fact that a year ago we had an award for a patent infringement of $548 million which is obviously a one-off item that is not going to repeat this year.  And, also, the foreign exchange environment remains difficult, and we expect FX to be about $650 million headwind on a year-over-year basis into the December quarter. 
+So, I hope that gives you a bit of a sense that when you take into account all these factors, we believe that this is a good guidance for the December quarter. 
+
+--------------------------------------------------------------------------------
+Katy Huberty,  Morgan Stanley - Analyst    [11]
+--------------------------------------------------------------------------------
+That's great color. Thank you for that. Follow-up for Tim. What should we read into the fact that R&D has more than doubled over the past three years, while sales growth was one-fifth of that. Are R&D investments just less efficient than they were in the Company's history?  Or, should we think about that as incremental spend for products that haven't yet come to market? 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [12]
+--------------------------------------------------------------------------------
+There's clearly some amount of R&D that are on products that today are in the development phase that have not reached the market. And so, that's a part of it. 
+We feel really great about the things that we've got. We've also put a lot of emphasis on our services business as well and on making the ecosystem even better. And so, we're very much -- we're confidently investing in the future, and that's the reason you see the R&D spend increasing. 
+
+--------------------------------------------------------------------------------
+Katy Huberty,  Morgan Stanley - Analyst    [13]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [14]
+--------------------------------------------------------------------------------
+Thank you, Katy. Could we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+From Cross Research, Shannon Cross. 
+
+--------------------------------------------------------------------------------
+Shannon Cross,  Cross Research - Analyst    [16]
+--------------------------------------------------------------------------------
+Thank you very much. A couple of questions. The first, Tim, can you talk a bit more about China?  Just how you're thinking about it?  Where you're seeing pressure? I know you mentioned that you expect to see a significant rebound during the first quarter.  But, what are your customers telling you about the demand in China? 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [17]
+--------------------------------------------------------------------------------
+It's a good question, Shannon. So, to back up from our results for the quarter, the 90-day clock and look at the full year of 2016.  We were down 17% compared to the FY15 which was up 84% from the previous year. So, if you look at 2014 to 2016, the revenue grew 52%, and the CAGR was 23% which really are pretty good results. 
+Also, as you probably know, the FY16 performance was hurt by the devaluation of the currency which affected it about 3%. So, the underlying business performance was 14% down.  And so, why was it down? There's lots of reasons, but the largest one in our view is that when you look at what happened in 2015 in China, we had a surge of upgraders that came into the market for the iPhone 6 or iPhone 6 Plus, and the upgrade rate increased relatively more in Greater China than elsewhere around the world. 
+And so, when that upgrade rate in FY16 returned to a more normal upgrade rate, which would be akin to what we saw with the iPhone 5S [as a point], it had further to fall. So, that's the main reason in our view that you see a difference. 
+Now, that spun or created another issue for us because we didn't forecast that accurately. So, in Q1 of last year, we put in too much channel inventory and had been resetting the channel inventory over the few quarters that came beyond it or came after it. So, those two issues, which really the main one is really the first one and the second one was a symptom of it, are in our views the main issue. 
+Now, looking forward, the response to the iPhone 7 and 7 Plus has been very positive. It's very hard to gauge demand, as you know, when you're selling everything you're making. And so, we'll find out more through the quarter, but we're confident enough to give you guidance that we're returning to growth this quarter which obviously feels very good for us. 
+And, from a longer term point of view, out of the 90-day clocks and so forth, we are very bullish on China. We continue to see a middle class that is booming there. There might be some sort of a new normal in the economy, but a new normal there is still a good growth rate. And so, with the number of middle class -- people growing into the middle class and the LTE adoption rate being still fairly low, around 45%, 50% or so, then I think we continue to have a really good opportunity there. And so, we continue to focus significantly in China. 
+
+--------------------------------------------------------------------------------
+Shannon Cross,  Cross Research - Analyst    [18]
+--------------------------------------------------------------------------------
+Great. Thank you. And then, can you talk a bit about acquisitions. I don't mean like the smaller ones that you've done at a normal cadence, but there was clearly a fairly large one announced at least this week in the content world.  And, especially if you find a way to have [cash] repatriation of some of the cash at a low tax rate possibly with the next administration.  So, just if you can give an overall view of how you think about acquisitions that might be a little bit larger than normal?  
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [19]
+--------------------------------------------------------------------------------
+We're open to acquisitions of any size that are of strategic value where we can deliver better products to our customers and innovate more. And so, we look at a whole variety of companies, and based on that, we choose whether to move forward or not. But, we're definitely open, and we definitely look. 
+
+--------------------------------------------------------------------------------
+Shannon Cross,  Cross Research - Analyst    [20]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [21]
+--------------------------------------------------------------------------------
+Yes. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [22]
+--------------------------------------------------------------------------------
+Thank you, Shannon. Could we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+We'll go to Toni Sacconaghi with Bernstein. 
+
+--------------------------------------------------------------------------------
+Toni Sacconaghi,  Sanford C. Bernstein & Co. - Analyst    [24]
+--------------------------------------------------------------------------------
+Yes, thank you. I have a question and a follow-up, please. I guess a cynic could say Apple is benefiting from an extra week this quarter and is benefiting from Samsung being in complete disarray.  And yet, from your guidance, it's unclear that iPhone unit growth will be up or certainly not up more than low single digits implied from your guidance. And, I appreciate some of the issues around channel inventory build and the timing of the launch. 
+But, if I just stand back from that and say you have terrific new products.  Your major competitor is laying down.  You have an enormous -- you have a significant contribution from an extra week, arguably, 7% or 8%, and yet the iPhone growth is sort of flattish.  What does that really say about how investors should think about iPhone on a sustained basis growing forward?  And, is it reasonable to think that this is an ongoing, growing business for the Company? 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [25]
+--------------------------------------------------------------------------------
+Toni, let me take this one. I think you mentioned a number of the things that are affecting us in the December quarter, and I went through them with Katy just a few minutes ago. 
+You're right.  We've got an extra few days. You know very well the launch timing is different. You know that we increased iPhone channel inventory by 3.3 million units a year ago. I mentioned two issues that affect us, the one-timer from a year ago that you obviously need to exclude from the compare and the FX that is the reality of our business right now. 
+But, maybe the most important element of this is the fact that we are supply-constrained on 7 and 7 Plus. And so, when you talk about other competitors, it's not particularly relevant to us right now because we are selling everything that we can produce. And so, when we look at all these things in its totality, we think that for the total Company, of course, we believe that revenue is going to grow.  You know that we don't get into specific product from a unit standpoint giving guidance. And so, we feel very confident about the trajectory for the Company and for iPhone going forward. 
+
+--------------------------------------------------------------------------------
+Toni Sacconaghi,  Sanford C. Bernstein & Co. - Analyst    [26]
+--------------------------------------------------------------------------------
+Tim, if I could ask you one, please. You've talked in the past about television being an area of intense interest. I was wondering if you could reaffirm that statement? Is that still the case? 
+And then, additionally, given what's happening with acquisitions, how broadly you think about the role of content?  Apple has started creating on a very limited scale some of its own content, and whether you think content creation and ownership is important to Apple?  Or, whether Apple ultimately sees its place in the value chain as being more around ecosystem and distribution? 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [27]
+--------------------------------------------------------------------------------
+I would confirm that television has intense interest with me and many other people here. In terms of owning content and creating content, we have started with focusing on some original content as you point out. We've got a few things going there that we talked about. And, I think it's a great opportunity for us, both from a creation point of view and an ownership point of view. And so, it is an area that we're focused on. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [28]
+--------------------------------------------------------------------------------
+Thank you, Toni.  Could we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+From Goldman Sachs, Simona Jankowski. 
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  Goldman Sachs - Analyst    [30]
+--------------------------------------------------------------------------------
+Thank you. I have a question for Luca, and then one for Tim as well. Luca, I wanted to dig into the services business a bit more. As you pointed out, it accelerated again to 24%. How does that compare to the pace of growth of the installed base, just to help us decouple how much of it is consumption-driven on a per-user basis versus the base as a whole? 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [31]
+--------------------------------------------------------------------------------
+Simona, the installed base number is something that we talk about periodically. Last time we talked about it was in the January call. It is growing. Our installed base is growing very well which is very important for us. It's growing on all major products, and it's growing, of course, in total. 
+When you look at our services revenue, the growth of the services revenues has been accelerating during the course of the year. During a period when, as you know, our revenue came down slightly. So, what that means in practice is that what we are seeing with our customers that consume our services is that the people that are actually taking advantage of our services, over time, they tend to spend more and more on our services. 
+We've got customers who are very engaged with our products. They're very loyal, and so you see this upward trajectory of our services business. It's not only with the App store but several categories that are growing very well for us. Tim mentioned Apple Music, but we've got other parts of the business that continue to do well. Even as I said, during a period of time when our sales have come down a bit. 
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  Goldman Sachs - Analyst    [32]
+--------------------------------------------------------------------------------
+Thank you. And then, Tim, we've seen an increasing focus on artificial intelligence both in smartphones like the new Pixel from Google, but also in some of the home assistants like the Amazon Echo.  And, you have obviously had Siri for a while as well. But, I just am curious how you think about balancing AI with your focus on privacy. Also, how important it is to have a dedicated home assistant versus just having the phone as the home assistant?  
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [33]
+--------------------------------------------------------------------------------
+I think that, to answer your second question first, I think that most people would like an assistant with them all the time. And, we live in a mobile society. People are constantly moving from home to work and to other things that they may be doing. And so, the advantage of having an assistant on your phone is it's with you all the time. That doesn't say that there's not a nice market for a home one. I'm not making that point. 
+I'm just saying on a balanced point of view I think the usage of one on the phone will likely be much greater. In fact, you can just look at Siri today, and this is now accelerating with iOS 10 and the Mac. But, we've been getting 2 billion requests a week for Siri. 
+And so, it's very large, and to the best of our knowledge, we've shipped more assisted, enabled devices than probably anyone out there. Our focus is on this worldwide. And so, it's not only a US focus, but we want to deliver a great experience around the world and deliver globally.  So, we've put a lot of the energy into doing that. 
+In terms of the balance between privacy and AI, this is a long conversation.  But, at a high level, I think it's a false tradeoff that people would like you to believe that you have to give up privacy in order to have AI do something for you. We don't buy that. It may take a different kind of work. It might take more thinking. But, I don't think we should throw our privacy away. 
+It's like the age-old argument about privacy versus security. We should have both. It shouldn't be making a choice. And so, that at a high level is how we see it. 
+
+--------------------------------------------------------------------------------
+Simona Jankowski,  Goldman Sachs - Analyst    [34]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [35]
+--------------------------------------------------------------------------------
+Thank you, Simona. Could we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+We'll go to Steve Milunovich with UBS. 
+
+--------------------------------------------------------------------------------
+Steve Milunovich,  UBS - Analyst    [37]
+--------------------------------------------------------------------------------
+Thank you very much. Luca, I wanted to ask you about the total deferred revenue, which was down about $1.3 billion in June, and down I think another $400 million in September. Those are rather large declines even given the fact that your units are coming down, and you had the accounting change back in September. Could you talk about some of the drivers of that, and what you might expect going forward? 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [38]
+--------------------------------------------------------------------------------
+Steve, you mentioned by far the largest driver. The largest driver is the fact that we made the change, an accounting change to our ESPs exactly a year ago. So, we are lapping the year where you see the effect. I think you're not going to see the same thing going forward. 
+And then, we tend to defer some revenue on some other categories like, for example, gift cards or some AppleCare. But, in general, by far the largest element is the change in ESPs. I don't think you're going to see the same impact going forward. 
+
+--------------------------------------------------------------------------------
+Steve Milunovich,  UBS - Analyst    [39]
+--------------------------------------------------------------------------------
+Okay. Thank you. And then Tim, some investors are antsy that Apple has not acquired new profit pools or introduced a financially material new product in recent years. The question is, A, does Apple today have a grand strategy for what you want to do?  I know you won't tell us what it is. But, do you know what you want to do over the next three to maybe five years?  Or, is it more a read the market and quickly react? 
+B, do you have any sense, we're kind of in a gap period where the technology and arguably what we've called the next job to be done haven't yet aligned?  So, maybe in a couple years, we will see this flurry of new products, and it will sort of match what people want to do but it's not quite here yet?  
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [40]
+--------------------------------------------------------------------------------
+We have the strongest pipeline that we've ever had, and we're really confident about the things in it. But, as usual, we're not going to talk about what's in it. 
+
+--------------------------------------------------------------------------------
+Steve Milunovich,  UBS - Analyst    [41]
+--------------------------------------------------------------------------------
+But, in terms of your approach, I guess, to new products.  Do you have a strong sense of where technology is going?  Where you're going to play?  Or, is it still enough up in the air that you're willing to react fairly quickly which arguably your organization allows you to do for the size of the Company you are. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [42]
+--------------------------------------------------------------------------------
+We have a strong sense of where things go, and we're very agile to shift as we need to. 
+
+--------------------------------------------------------------------------------
+Steve Milunovich,  UBS - Analyst    [43]
+--------------------------------------------------------------------------------
+Okay. Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [44]
+--------------------------------------------------------------------------------
+Thanks, Steve. Can we are have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+From Bank of America, Wamsi Mohan. 
+
+--------------------------------------------------------------------------------
+Wamsi Mohan,  BofA Merrill Lynch - Analyst    [46]
+--------------------------------------------------------------------------------
+Thank you. So, Tim and Luca, you saw that you could raise the ASP on the iPhone 7 Plus by $20, and you're completely sold out. So, clearly this device plays a central role in our lives, so much that owners probably look at that incremental cost as a great tradeoff to get the best device out there. 
+As you see more and more features being added into iPhones, do you conceptually expect that you're anywhere close to the point where raising ASPs further would be net-disruptive to demand?  Or, do you see more room to raise ASPs over time as you add incremental features.  And, I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [47]
+--------------------------------------------------------------------------------
+With the iPhone 7 Plus, we've put an incredible amount of innovation into the camera and the overall photo experience, and customers are obviously using that and have discovered that they love it. So, we're getting an incredible amount of feedback there. We also get incredible feedback on the iPhone 7. 
+But, the mix that we projected on an iPhone 7 Plus is short of what the reality is. So, we are chasing supply there. In terms of the ASP, the way we think about it is we want to charge a fair price. And so, we don't want to charge more than that, and we think it's worth being fair. And so, that's how we look at it. 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [48]
+--------------------------------------------------------------------------------
+If I can add, Wamsi, keep in mind that in a lot of countries around the world the reality is that our customers have seen some significant price increases because of the FX situation, right. And, that's something that we need to keep in mind as well. 
+
+--------------------------------------------------------------------------------
+Wamsi Mohan,  BofA Merrill Lynch - Analyst    [49]
+--------------------------------------------------------------------------------
+Great. Thanks for the clarification. And, Tim, this year, we saw carrier incentives come back to force, post the launch of the iPhone 7, 7 Plus.  Two years ago, there was a giant upgrade cycle from the iPhone 6, 6 Plus. 
+Do you think every couple of years we are likely to see carrier incentives come back into play given worries around customer churn?  Thereby, making the phone even more affordable?  Thanks. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [50]
+--------------------------------------------------------------------------------
+We clearly saw that this year. There's a lot of competition for customers in the US which I think is the market that you're talking about. Whether that will happen every two years, I don't know. But, I suspect that any time there are large numbers of customers that have a phone that's in that two-year kind of range that it tends to be a sweet spot, and I think you probably will see a lot of people trying to recruit those customers. 
+
+--------------------------------------------------------------------------------
+Wamsi Mohan,  BofA Merrill Lynch - Analyst    [51]
+--------------------------------------------------------------------------------
+Thanks, Tim. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [52]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [53]
+--------------------------------------------------------------------------------
+Thank you. Can we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Jim Suva with Citi. 
+
+--------------------------------------------------------------------------------
+Jim Suva,  Citigroup - Analyst    [55]
+--------------------------------------------------------------------------------
+Thank you very much. A strategy question for Tim and then more of a financial question for Luca. Tim, you had mentioned in your prepared comments a little bit about India, and we've been doing a lot of work talking about the opportunities in India. And, we get a lot of pushback talking about disposable income metrics and lots of things like that, yet the population being so large. 
+Can you talk a little about, do you see that India could at some point be as [big] of an opportunity as China, and it appears that the legal rules have prevented you from going in a lot.  But, it looks like that's changing. Can you give us a little more clarity on India?  
+And then, Tim, for the clarification questions.  Is it fair to say that the OpEx has a disproportionate more expense side with the 14th week that we should think of maybe as we go forward, that we shouldn't expect the OpEx to be chugging along at that high rate?  Or, is it just kind of the rate of investing that you're going?  Thank you very much, gentlemen. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [56]
+--------------------------------------------------------------------------------
+Thanks for the question. I'll let Luca talk about the OpEx piece of it. On India, I think it's important to look not only at per-capita income, which may be what you're looking at, but sort of look at the number of people that are or will move into the middle class over the next decade. And, the age of the population, if you look at India, almost 50% of the population is under 25. So, you have a very, very young population. The smartphone has not done as well in India in general. 
+However, one of the key reasons for that is the infrastructure hasn't been there. But, this year, or this year and next year, there are enormous investments going in on 4G, and we couldn't be more excited about that because it really takes a great network working with iPhones to produce that great experience for people. 
+And so, I see a lot of the factors moving in the right direction there. I also think the government is much more focused on the infrastructure and on creating jobs, which is fantastic, because you really need the infrastructure and the technology to do that. 
+Will it be as big as China? I think it's clear that the population of India will exceed China sometime in the -- probably the next decade or so, maybe less than that. I think it will take longer for the GDP to rival it. 
+But, that's not critical for us to have a great success there. The truth is, there's going to be a lot of people there and a lot of people in the middle class that will really want a smartphone. And, I think we can compete well for some percentage of those.  And, given our starting point, even though we've been growing a lot, there's a lot of headroom there in our mind. And so, we're working very hard to realize that opportunity. 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [57]
+--------------------------------------------------------------------------------
+And, Jim, on OpEx, our approach to OpEx is quite clear and quite simple. We want to continue to invest in the business in all the areas where we think it's critical for us to invest. 
+So, you see that we make significant investments in R&D. You've seen the growth rates over the last couple of years. We are making important investments in data centers because we want to support our services business. We continue to open retail stores around the world. We continue to invest in marketing and advertising. 
+At the same time, we want to continue to be efficient and lean. It's something that we've done very well over the years. We want to continue to do that. So, what you've seen, for example, in FY16, you've seen investments in R&D growing at 25% and then our SG&A expenses to be about flat. This is kind of the approach that we want to take and continue to take going forward. 
+If you step back for a second and you look at our implied guidance for the December quarter, we've got an expense-to-revenue ratio of 9%. This is extremely competitive in our industry, and I would I say in general. So, we want to continue to have this balance. Make the right investments and remain efficient. 
+
+--------------------------------------------------------------------------------
+Jim Suva,  Citigroup - Analyst    [58]
+--------------------------------------------------------------------------------
+Thank you and congratulations, and thanks for the details, gentlemen. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [59]
+--------------------------------------------------------------------------------
+Thank you, Jim. Can we have the next question, please. 
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+We'll go to Rod Hall with JPMorgan. 
+
+--------------------------------------------------------------------------------
+Rod  Hall,  JPMorgan - Analyst    [61]
+--------------------------------------------------------------------------------
+Hi.   Thanks for the question. I had one for Luca and then a follow-up for Tim. So, Luca, I wanted to ask about the gross margin guidance?  I think that the Street and we were expecting something a little bit higher, and I guess that's about 50 basis points lower.  The Street -- it was 70 basis points lower. I'm just curious, do you think that people are mis-modeling that?  Or, is there something going on with pricing or mix there that you could provide us more color on? That's my first question. 
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO    [62]
+--------------------------------------------------------------------------------
+Rod, let me give you some details both on a sequential basis, and I'll give you also something on a year-over-year basis because maybe that's where the disconnect comes from looking at last year's gross margins in the December quarter. 
+On a sequential basis, we're essentially guiding to some improvement in gross margins. We had 38% both in the June quarter and in the September quarter. We're guiding slightly higher for the December quarter because on the positive we're going to have, of course, better leverage and the mix in the December quarter tends to be better. But, we need to keep into account the fact that these positives are going to be partially offset by the cost structures of the new products that we are launching now, and we launched already a few during the September quarter and that will have an impact on our December-quarter results. 
+On a year-over-year basis, keep in mind that last year we did in Q1 we did 40%, around 40%, 41%.  But, there's a couple of things that I think need to be considered before doing a year-over-year compare. And, it's a fact that last year we had this award for a patent infringement of $548 million that is at the gross margin level is 40 Bps. 
+And then, we've got the FX situation which I mentioned before which is worth another 60, 70 Bps. And so, you're left with less than 100 basis points deterioration on a year-over-year basis where, again, we have the reality of new cost structures into our products. 
+It is very, very important, I think, for investors to understand that what's happened during the last two years. During the last two years the US dollar has appreciated by 15% over the basket of currencies where we do business. And, we are a Company that generates two-thirds of our revenues outside the United States. 15% appreciation of the US dollar. So, on a year-over-year basis, just 2016 over 2015, was 340 Bps impact from foreign exchange. 
+This is something that we have offset almost entirely through a number of initiatives going from pricing actions to cost initiatives to our hedging program.  But, at some point, the strong dollar becomes the new normal, and we need to work with that.  And, I think over the years, we have made very good tradeoffs, and our gross margins have been quite stable over time. 
+
+--------------------------------------------------------------------------------
+Rod  Hall,  JPMorgan - Analyst    [63]
+--------------------------------------------------------------------------------
+Okay. Great. Thanks, Luca. And then, Tim, I wanted to ask you, this question comes up once in a while.  But, I just wanted to ask you if you could talk to us a little bit about the arguments on both sides of the dividend question. 
+Apple seems to be perpetually undervalued. It's a very large Company.  It is getting harder and harder to grow. Your payout ratio is significantly below the S&P 500. I know you can't tell us what your intentions are here, but if you could help us understand how that thinking around the dividend works it would be great. 
+
+--------------------------------------------------------------------------------
+Tim Cook,  Apple Inc. - CEO    [64]
+--------------------------------------------------------------------------------
+We review the capital return annually, and we've established a cadence now to announce our thinking on that every April. So, we have a robust discussion around the dividend and the buyback. 
+We very much believe that Apple is very undervalued, and so we're investing with confidence in the Company that we know really well. And so, that thinking has I think proven out over time, and I think been very good for our shareholders. And, in addition to that, we know that some shareholders really like a dividend and some ongoing income, and so we provided an amount that we think is a good amount and have a good track record of raising it annually. And so, we'll be able to say more on that I'm sure in April of next year. 
+
+--------------------------------------------------------------------------------
+Rod  Hall,  JPMorgan - Analyst    [65]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR    [66]
+--------------------------------------------------------------------------------
+A replay of today's call will be available for two weeks as a podcast on the iTunes store, as a webcast on www.apple.com/investor, and by telephone.  The numbers for the telephone replay are 888-203-1112 or 719-457-0820.  Use our confirmation code 2017273. These replays will be available by approximately 5 PM Pacific Time today. Members of the press with additional questions can contact Kristin Huguet at 408-974-2414, and financial analysts can contact Joan Hoover or me with additional questions.  Joan is at 408-974-4570, and I'm at 408-974-5420. Thanks again for joining us. 
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+That does conclude today's presentation. We do thank everyone for your participation. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

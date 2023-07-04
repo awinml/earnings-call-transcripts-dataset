@@ -1,0 +1,456 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2017 Intel Corp Earnings Call
+JANUARY 25, 2018 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian M. Krzanich
+   Intel Corporation - CEO & Director
+ * Robert H. Swan
+   Intel Corporation - Executive VP & CFO
+ * Mark H. Henninger
+   Intel Corporation - VP of Finance and Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Vivek Arya
+   BofA Merrill Lynch, Research Division - Director
+ * Joseph Lawrence Moore
+   Morgan Stanley, Research Division - Executive Director
+ * Stacy Aaron Rasgon
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Ambrish Srivastava
+   BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst
+ * Blayne Peter Curtis
+   Barclays PLC, Research Division - Director and Senior Research Analyst
+ * Christopher James Muse
+   Evercore ISI, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+ * John William Pitzer
+   Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and welcome to the Intel Corporation Q4 2017 Earnings Conference Call. (Operator Instructions) As a reminder, this conference call is being recorded. I would now like to turn the conference over to Mark Henninger, Head of Investor Relations. Sir, you may begin.
+
+--------------------------------------------------------------------------------
+Mark H. Henninger,  Intel Corporation - VP of Finance and Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and welcome, everyone, to Intel's Fourth Quarter 2017 Earnings Conference Call. By now, you should have received a copy of our earnings release and the CFO earnings presentation, which replaces the CFO commentary that we've previously used. If you've not received both documents, they're available on our investor website, intc.com. The CFO earnings presentation is also available via the webcast window for those joining us online. I'm joined today by Brian Krzanich, our CEO; and Bob Swan, our Chief Financial Officer. In a moment, we'll hear brief remarks from both of them, followed by the Q&A. 
+Before we begin, let me remind everyone that today's discussions contain forward-looking statements based on the environment as we currently see it and, as such, does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. 
+A brief reminder that, this quarter, we have provided both GAAP and non-GAAP financial measures. Today, we will be speaking to the non-GAAP financial measures when describing our consolidated results. CFO commentary and earnings release available on intc.com include the full GAAP and non-GAAP reconciliations. 
+With that, let me hand it over to Brian.
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. 2017 was a record year for Intel, and fourth quarter results were outstanding, well ahead of the forecast we outlined in October, based on the strength of both our PC-centric and data-centric businesses. I'll review our results with you in just a moment, but before I do that, I'd like to share a few words about security. 
+We've been working around the clock with our customers and partners to address the security vulnerabilities known as Spectre and Meltdown. While we've made progress, I am acutely aware that we have more to do. We've committed to being transparent, keeping our customers and owners appraised (sic) [apprised] of our progress and, through our actions, building trust. Security is a top priority for Intel, foundational to our products, and it's critical to the success of our data-centric strategy. Our near-term focus is on delivering high-quality mitigations to protect our customers' infrastructure on these exploits. We're working to incorporate silicon-based changes to future products that will directly address the Spectre and Meltdown threats in hardware, and those products will begin appearing later this year. However, these circumstances are highly dynamic, and we updated our risk factors to reflect both the evolving nature of these specific threats and mitigations as well as the security challenge more broadly. 
+Security has always been a priority for us, and these events reinforce our continuous mission to develop the world's most secure products. This will be an ongoing journey, but we are committed to that task, and I'm confident we are up to the challenge. To keep you informed, we've created a dedicated website and we're approaching this work with customer-first urgency. I've assigned some of the very best minds at Intel to work through this, and we're making progress. 
+With that, let's turn to our 2017 and fourth quarter results. We just wrapped up the best year in Intel's history with the best quarter in Intel's history. Revenue was up 4% year-over-year in the fourth quarter, 8% if you exclude McAfee, setting an all-time record. Our data center, IoT and FPGA businesses each set revenue records. We met or exceeded all of the financial commitments we made to you at the beginning of the year, and our focus on efficiency and profitable growth produced significant leverage, driving non-GAAP operating income up 21%. 
+Our data-centric businesses delivered the technology foundations for the new data economy, making the analysis, storage and transfer of data possible, giving our customers the ability to turn data into amazing experiences and actionable insights. They're essential to our strategy. Data-centric revenue, excluding McAfee, was up an impressive 21% over the fourth quarter of last year, and I'd like to share a few highlights with you starting with DCG. 
+DCG's revenue was up 20% over the fourth quarter. The cloud segment was up 35%, comm service providers were up 16%, enterprise was up 11%, and our adjacency revenue was up 35%. We saw broad-based demand strength with customer preference for high-performance products driving richer ASP mix. Cloud segment results were driven by significant volume growth and continued customer preference for higher-performance products. In the comms service provider segment, we continued to take share and grow revenue as customers chose IA-based solutions to virtualize and transform their networks. Enterprise segment strength was driven mostly by ASP as customers transitioned to Xeon Scalable products in a seasonally strong fourth quarter IT buying window. 
+While we continue to see enterprise customers offload workloads to the public cloud, we are also seeing those customers prioritize performance solutions for hybrid and on-premise buildouts. Customers across all of our segments are accelerating deployment on Xeon Scalable processors, which is ramping roughly in line with our historical Xeon transition. 
+We continue to demonstrate leadership and progress in artificial intelligence with the data center, the edge and some hundreds of watts to milliwatts. Our software optimizations for the Caffe framework has improved already strong, beyond scalable ResNet-50 inference performance by 2x just since the launch in July. The first-generation Nervana neural network processor ran a neural network less than 2 weeks after we received silicon, and we've shipped our first customer units.
+At the edge, Google announced its AIY Vision Kit featuring our Movidius vision processing unit, and Amazon announced DeepLens, the world's first deep learning-enabled video camera for developers, which uses an Intel CPU, graphics and compute libraries for deep neural networks. 
+We're also seeing design wins that combine technologies from multiple data-centric business units, reinforcing the idea that we have developed a unique and differentiated collection of capabilities that can address customer challenges together more effectively than any one business could alone. 
+A great example is Dahua's recent announcement of their Deep Sense product line, which combines Core CPU, Intel FPGA-based network video recorders, along with Movidius VPU-based cameras, to enable people and automobile detection and smart city application using artificial intelligence. 
+In the Programmable Solutions Group, we saw strong double-digit growth in the data center, auto, embedded and advanced products categories as well as last-time buys of legacy products. That strength was partially offset by softness in comms infrastructure. In Q4, we launched the Intel FPGA SDK for OpenCL that dramatically increased productivity for our customers. We also delivered first-to-market leadership innovations in the Stratix 10 product line, including the first SoC FPGA with an ARM processor at more than 1 million logic elements and the industry's first FPGA with integrated HBM2 memory. 
+Our Internet of Things Group grew 21% with continuing momentum in retail, video and in-vehicle infotainment verticals. Wind River saw strong multiyear contractor growth and delivered its profitable quarter ever for Intel. The memory business grew 9% and achieved profitability in Q4 as strong client volume was partially offset by a 1-quarter qualification delay of a data center's SSD volumes. 
+Last quarter, I shared with you that our leadership technology is resulting in strong customer interest in long-term supply arrangements. That interest has continued to grow. We have since signed additional agreements and now expect prepayments totaling roughly $2 billion over the course of 2018. 
+Mobileye had another strong quarter, and business momentum is growing. Our 30 design wins over the course of 2017 and 15 new program launches in 2018 are both increases of 2.5x over the prior period. We now have Level 2-plus and Level 3 design wins with 11 automakers who collectively represent more than 50% of global vehicle production. These advanced programs launch over the next 2 years, and they represent a major leap in functionality versus current semiautonomous system and are a significant step towards a scalable Level 4 and Level 5 fully autonomous system.
+We reached an important milestone in the fourth quarter: the announcement of our Level 3 through 5 autonomous driving platform based on EyeQ5 and Atom, which we'll sample over the next few months. We believe this will be the most advanced, scalable and efficient platform of its kind. EyeQ5 will deliver 24 tera ops of deep learning performance in a 10-watt power envelope, or about 2.5x the efficiency of the competition. Just a couple of weeks ago at CES, we announced that, by the end of 2018, we expect 2 million EyeQ-equipped cars will be collecting crowdsourced data for REM, our Road Experience Management mapping solution. The resulting map will first be utilized in Level 3 beginning in 2019. The ability to crowdsource data to build and rapidly update the precision maps required for higher levels of automation is a major differentiator in our plan to build out the safest and most affordable autonomous vehicle system. It's also a great example of our data-centric strategy at work.
+And finally, I'd like to touch on our PC-centric businesses, the Client Computing Group. Over the course of the year, the PC market improved. Our 14-nanometer manufacturing costs came down and the competitive environment intensified. Against that backdrop, PCG's focus on innovation and performance, especially in growth segments like gaming, 2-in-1s, thin and light notebooks and enterprise, led to a record Core mix and record i7 volume in the fourth quarter. We also shipped our first low-volume 10-nanometer SKU, and our modem business grew 26% over the fourth quarter of last year.
+Intel is undergoing one of the most significant transformations in corporate history from a PC-centric company to a data-centric company. We have made thoughtful, disciplined investments along the way that have expanded our TAM to $260 billion. Those same investments have produced a collection of data-centric businesses that are unmatched, growing at double-digit rates and approaching 50% of the company's revenue. Our opportunity is larger than it's ever been, and we're hungry to compete and win. 
+In 2018, our highest priorities will be executing to our strategy and meeting the commitments we make to our owners and our customers. This includes our commitment to restoring customer confidence in the security of their data. 
+This year, Intel will celebrate 0.5 centuries of innovation that has profoundly changed the world. Over the last 50 years, we invented the architecture and manufacturing technologies that have made personal computing, the Internet and the cloud not only possible, but pervasive. The journey hasn't been without challenges. Nothing worth doing ever is. Our culture has been forged through taking challenges head-on and developing solutions our customers can count on. That includes working directly to address the Spectre and Meltdown security threats. 
+We leave 2017 on a financial high note, but I'm even more excited about what's to come, about our strategy producing great products for our customers and great returns for our owners. I see Intel innovation changing the world for another 50 years, and that journey starts with 2018. Over the coming year, we'll bring amazing innovation and performance to the PC market, advance the state of art in the artificial intelligence, lead the way towards mass 5G deployment, launch the industry's first new memory architecture in 2 decades and take another step toward a safer world in which autonomous driving is a reality. 
+Looking back on 2017, I could not be more proud of our team and all they have accomplished. As I look to our 50th year, I'm more optimistic and confident than I've ever been about Intel's future. 
+And with that, let me hand it over to Bob.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian. The fourth quarter was an outstanding close to a record 2017, and we are building real momentum heading into 2018. Revenue for the quarter was $17.1 billion, up 8% year-over-year; operating income was $5.9 billion, up 21% year-over-year; and EPS of $1.08 cents was up 37% year-over-year.
+From a capital allocation perspective, we redeemed $1.6 billion of 2035 convertible debt, reducing our share count by 59 million shares, and repurchased $500 million of higher-coupon debt and exchanged $1.8 billion into 30-year debt at a 1% lower coupon rate.
+On tax reform, our Q4 GAAP earnings reflect a onetime tax impact of $5.4 billion, and our guidance reflects approximately 7-point improvement in our effective tax rate going forward. 
+To summarize, we had a fantastic quarter and year and are on track to exceed the 3-year targets we laid out at our Analyst Day, 1 full year ahead of schedule. Our Q4 results demonstrated continued momentum in our transformation from a PC-centric to a data-centric company. Intel's data-centric businesses, those outside of the PC segment, are at an all-time-high mix of 47% of our revenue, up from approximately 40% in 2012. We have made significant investments to expand our TAM into new data-rich markets like memory, programmable solutions and autonomous driving. These investments are just starting to pay off and will fuel Intel's growth going forward. 
+Our PC-centric business was down 2% in a declining PC market, and it continues to be a great source of profitability. DCG delivered its most profitable year since 2011 by focusing on premium and growth segments with industry-leading products. This business generated the cash to fund Intel's investments in new data center growth.
+Moving to Q4 earnings. We generated significant EPS expansion in the quarter, up 37% year-on-year. Our EPS improvement was driven by strong top line growth, a 5-point improvement in operating margins and significant gains from our ICAP Portfolio.
+Our gross margins expanded 2 points in the quarter, and our spending as a percent of revenue declined by 3 points as we delivered $700 million more revenue and $300 million less spending.
+In terms of operating efficiency, we're well ahead of schedule of meeting our commitment by reducing spending to 30% by 2020. We now expect to achieve this goal no later than 2019. Total spending was down 6% year-over-year in the fourth quarter, while we continued investing in our key priorities including driving Moore's Law forward, winning in artificial intelligence and autonomous driving. R&D spending as a percent of revenue was down approximately 1 point, and our SG&A costs were down over 2 points as we rationalized our marketing and sales programs and generated significant leverage in our SG&A functions.
+Let me touch briefly on our segment performance. Client Computing Group had another strong quarter. Revenue of $9 billion was down 2 points and operating margins were down 2 points. Operating margins were lower on 10-nanometer transition costs. We saw strength in the commercial gaming business, and we believe the worldwide PC supply chain is operating at healthy levels.
+The Data Center Group had record revenue of $5.6 billion, up 20% year-over-year, and operating income of $3 billion grew 59%. Q4 operating margin was 54%. As Brian mentioned earlier, we had strong growth in execution across all segments. Overall unit volume was up 10%, ASPs were up 8%, and our adjacencies grew by 35%. Our ASP strength demonstrates the value customers see in our high-performance products. Xeon Scalable launched in July, is ramping well, with customers broadly deploying its leadership product family. Revenue scale from leadership products, ASP strength and the exclusion of 2016 onetime charges drove strong operating income growth for the business. For the full year, revenue was up 11% and operating margin came in at 44%, both ahead of the expectations we provided at the beginning of the year.
+The IoT, NSG and PSG business segments are becoming a larger component of our overall business, collectively growing 19% year-over-year. Our Internet of Things business achieved record revenue of $879 million, growing 21% year-over-year, driven by strength in industrial and video and continued momentum in our retail business. Operating profit was $260 million, up 43% year-over-year. 
+The Mobileye business also had a record quarter, and we are on track to our deal thesis. As we called out last quarter, results for the Mobileye acquisition are included in our all other segment and reflects the Q4 integration of Intel's autonomous driving group spending into Mobileye. 
+Our memory business had revenue of $889 million, up 9% year-over-year, with strong demand for data center SSD solutions and demand signals outpacing supply. This segment was profitable for the quarter, and we expect this segment to be profitable for the full year of 2018. 
+Programmable Solutions Group had record revenue of $568 million with 35% growth, driven by strength in data center, automotive and embedded. Operating profit was $156 million, up 95% year-over-year. The Stratix 10 design win pipeline, which represents PSG's largest ever, doubled over the last year due to engagements in 5G, cloud computing and the infrastructure transition to network function virtualization.
+We laid out our capital allocation priorities early in the year: invest organically, expand acquisitively and return capital to our shareholders and do it wisely. In the year, we delivered on our promise. First, we generated strong free cash flow of $10.3 billion in the year and returned $8.7 billion to shareholders through dividends of $5.1 billion and share repurchases of $3.6 billion. Second, we funded a majority of the Mobileye acquisition from the sale of noncore assets during the year, including McAfee and the sale of ASML shares. And third, we redeemed $1.6 billion in convertible debt, reducing 59 million shares, and we also tendered higher-coupon debt for lower-coupon debt. 
+Let me expand on the ICAP- and treasury-related transactions we executed in the quarter. First, we sold 11.4 million shares of our ASML holding, which generated $2 billion in cash proceeds and a gain of $1.5 billion. 
+Second, we redeemed our 2035 convertible debenture. This redemption created a $2.8 billion cash outflow and a noncash loss of $385 million, which was tax-deductible. Since this debenture was convertible and therefore dilutive, the redemption effectively acted as a buyback that will reduce diluted share count by 59 million shares. 
+And third, we successfully tendered $2.3 billion of high-coupon debt in the quarter. We exchanged $1.9 billion of old debt into $2 billion of 30-year new debt, reducing our coupon rate by 1%. We also redeemed $425 million of old debt for cash. This transaction both lowered our leverage and our interest expense. 
+Adding it all up, 2017 was another record year for Intel. Revenue of $62.8 billion was up 9% year-over-year, driven by 16% growth in our data-centric businesses and 3% growth in PC-centric business. Operating income of $19.6 billion was up 18% on strong execution across the businesses and disciplined spending. 
+Earnings per share of $3.46 was up 28% on excellent operational performance and the benefit of $0.35 from ICAP net gains. With the change to the accounting rules for recognizing price changes on equity investments, we do not expect to see these ICAP gains repeat. 
+Before I turn to guidance, let me provide a little more context on the impact of tax reform on our business. Intel's fourth quarter results reflect a higher GAAP income tax expense of $5.4 billion as a result of U.S. corporate tax reform enacted in December. This includes a onetime required tax adjustment on previously untaxed foreign earnings, payable over 8 years, which was partially offset by the remeasurement of deferred income taxes for the new U.S. statutory tax rate. Looking ahead, we expect the Tax Cuts and Jobs Act will help level the playing field for U.S. manufacturers like Intel that compete in today's global economy. We expect a 2018 tax rate of approximately 14%, driven by a lower U.S. statutory tax rate of 21%, lower tax on foreign income, benefits from U.S. exporters and the continuation of the R&D credit. The change in our tax rate drives approximately $0.28 in 2018 EPS. 
+Intel has a rich history of investing in U.S.-led research and development and U.S. manufacturing. Just last year, we committed to the fit-up of our Fab 42 facility, creating thousands of jobs at completion. These tax reforms provide further incentive to continue investments like this. 
+Before we turn to our 2018 outlook, I also want to highlight 2 accounting rule changes: first, new accounting rules for revenue recognition; and second, accounting for equity gains and losses. We do not expect a material impact to revenue from the revenue recognition accounting change. The changes in accounting for equity gains and losses will require the recognition of unrealized price changes each quarter, so equity holdings like our ASML position will see mark-to-market adjustments that will flow through earnings in 2018, which may create greater volatility on a GAAP basis. This change resulted in an impact of $2.7 billion of net unrealized gains at year-end that we booked to equity on January 1, 2018.
+Now moving to the full year. We are forecasting the midpoint of the revenue range at $65 billion, up 4% year-over-year. We expect operating margin of approximately 30%, with gross margins down 2 to 2.5 points and spending as a percent of revenue to be down 1 to 1.5 points. The decline in gross margin is driven by growth in our adjacent businesses as we play in an expanded TAM and transition cost associated with 10-nanometer, both partially offset by higher gross margins from our 14-nanometer products. 
+We expect EPS of $3.55, up 14%, excluding the ICAP net gains, driven by a strong top line growth and a lower tax rate of approximately 14%, which will increase EPS by approximately $0.28.
+We expect net capital deployed of $12 billion. This reflects gross CapEx of $14 billion, offset by approximately $2 billion of customer prepayments for memory supply agreements. Increase in CapEx reflects our and our customers' confidence in our memory technology leadership. 
+We expect free cash flow of $13 billion, an increase of approximately 30%, directly contributing to our decision to raise our dividend by a full 10%.
+As we look to the first quarter of 2018, we are forecasting the midpoint of revenue range at $15 billion, up 5% year-over-year. We expect operating margin of approximately 27%, flat year-over-year, with a 3-point decline in gross margins offset by a 3-point decline in spending. We expect EPS of $0.70, up 11% excluding ICAP net gains, from strong top line growth and a lower effective tax rate. 
+We believe 2018 will be another record year for Intel, and we feel great about where we are entering year 2 of our 3-year transformation. We've met and exceeded our commitments. Our PC-centric team continues to operate very well in a down market, and our data-centric businesses are up double digits collectively as we continue to transform the company to power the cloud and smart connected devices. 
+With that, let me turn it back to Mark.
+
+--------------------------------------------------------------------------------
+Mark H. Henninger,  Intel Corporation - VP of Finance and Director of IR    [5]
+--------------------------------------------------------------------------------
+
+          All right. Thank you, Brian and Bob. Moving on now to the Q&A. (Operator Instructions) 
+Operator, please go ahead and introduce our first questioner.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Our first question comes from the line of John Pitzer from Crédit Suisse.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [2]
+--------------------------------------------------------------------------------
+
+          Yes, my first question just revolves around the revenue guidance for the March quarter. At the midpoint, down about 12% sequentially is a lot worse than, I guess, normal seasonal. And I guess I'm trying to figure out kind of the parameters that you guys are using to come up with that number. Was there something in the DCG strength in the calendar fourth quarter that you don't think is repeatable? Given your comments around the PC supply chain being healthy, that to me feels a little bit more seasonal than not in the March quarter. So I'm just kind of curious as to why Q1 revenue would be so much below what has been kind of the 5-year median seasonality for Q1.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          John, thanks. It's Bob. So really 2 things going on. One, the enterprise growth in DCG, as Brian highlighted, was up 11% in the fourth quarter. So extremely strong seasonal growth for enterprise, a little bit more than we expected, frankly. That's number one. Number two, PSG's 35% growth was helped by end-of-life sales during the course of the quarter. And if you adjust for maybe a more normalized enterprise growth and PSG growth, you get to more of a seasonal Q4 to Q1 dynamic, so in line with seasonal if you make those 2 adjustments.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [4]
+--------------------------------------------------------------------------------
+
+          That's very helpful. And then, Brian, on my second question revolves around CapEx. I think it was a year ago on this conference call that you kind of mentioned that you thought that calendar year '17 and calendar year '18 would be sort of above trend-line CapEx spending for you guys, and then you thought it would come down again in calendar year '19 to a more normal trend, albeit you didn't quantify the trend. Just given the big uptick in '18 to $14 billion, I realize $2 billion of that's already being covered by prepayments, but how do we think about kind of the trend-line CapEx from here, especially in light of the changing relationship between yourself and Micron on IMFT?
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Sure, John. So my perspective is, if you take a look at it, right, memory kind of -- I mean, logic on our CapEx just scaled with our increase in revenue and kind of our overall growth rate. So that's fell in line. With memory, we're going to take a look at it really on a year-by-year basis. And I'd tell you that Bob's really doing a good job of helping that business unit look over the capital. And when we have demand and people are willing to pay up front for that demand and reserve the capacity, like we've done this year, we're going to go ahead and put that capacity in place plus what we think the overall market we can do as distributing across the overall market. And that's really independent of that changing relationship with Micron. That's really more about how we're doing development work out in time, really, and that's actually still 2 generations away. That really didn't affect 2018. This was really about what we saw for the overall NAND memory market plus the additional capital and capacity that people wanted to reserve through that process. We'll look at that each year, John, and say, "Okay, as we look out into '19 at the end of '18, we'll do that same analysis."
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [6]
+--------------------------------------------------------------------------------
+
+          (inaudible)
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          I would just -- sorry, I would just follow on to Brian's comments. The way we're looking at memory, and we talked a bit about this on the last call, is increased confidence in our customers and the technologies that we're developing where, those relationships, they will help fund the scaling of the capacity to grow the business. And we're really trying to match net capital employed to be in conjunction with known customer demand. So what that means -- what that meant for 2017 is the net capital was roughly $1.5 billion, and we've held that relatively flat in 2018. So while gross capital is higher, we have more conviction in the customer base to fund $2 billion of the gross capital. So memory, we're really trying to focus on customer adoption of our technology to effectively and efficiently scale the business. And then just the only other point I would make on logic, remember, a year ago in terms of our outlook for growth, we're well ahead of our outlook for growth. We were probably, at the time, implied in our outlook was probably a $62.5 billion kind of number in 2018. Obviously, with our guide now, it's $65 billion. We're $2.5 billion higher. And it's that incremental growth that's placing more demands on logic capacity, both for 14- -- 10-nanometer and, as we think forward, on that 7-nanometer.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Joe Moore from Morgan Stanley
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [9]
+--------------------------------------------------------------------------------
+
+          I wonder if you could talk about OpEx. Obviously, you've been pretty disciplined there bringing that down, but you've also got some other initiatives. You've -- you announced a discrete graphics effort. Maybe if you could talk about -- it seems like that would cost a lot, if I just look at what your competitors are spending. And then, at some point, you're going to spend money on NAND that used to be shared with Micron. So just can you talk about the puts and takes there? And is there something that we should think about that's coming down to sort of offset those potential increases?
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          Sure. I'll start, and I'll let Bob kind of give you the under-the-cover detail of the dollars. But Joe, this -- really, we've already factored all of those things in. So things like the discrete graphics is a ramping spend. The memory is R&D spending out in time, so for '18 has no, really, effect. And then we've driven an overall efficiency in all of our R&D spending to offset that. So increasing in GPU spending, there's some other increases as well around things like autonomous driving and some of the other artificial intelligence and some of the emerging areas. You're right. Over time, we'll increase spending in NAND in R&D, but those are being offset by efficiencies that we're driving into the rest of our product R&D. And we really feel like we're getting to a good point where we can keep the pace of innovation going on our core products while we fund these new initiatives as well and not take a beat from our continued efficiency efforts across the spending as a percent of revenue.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [11]
+--------------------------------------------------------------------------------
+
+          Yes, Joe, I'd just add some numbers to Brian's words. We've kind of come down from 36% to 35% to 34% to a second half of 2017 at roughly 31% of revenue. So we've been coming down as we've been doing 2 things: One, the investments that we'd been making are paying off in terms of higher growth; and number two, we're making real trade-offs in where we're investing our money. As we go into -- implied in our guidance, as we go into '18, we're expecting our spending levels to be roughly flat with an annualized 2017 spending level. So we're going to -- and underneath that, continuing to drive efficiencies in sales and marketing as we become more of a B2B or data-centric company and getting real leverage on our G&A functions across the board. So we've made real progress during the course of the last couple of years. Including the second half, we expect to make continued progress while making the critical investments in things like discrete graphics, autonomous driving, artificial intelligence and continuing to invest in Moore's Law.
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [12]
+--------------------------------------------------------------------------------
+
+          Okay, great. And then as you think about that NAND investment, I guess people have asked me what you're -- what the separation from Micron on a long-term path means. Does that mean there's sort of more of a focus on propriety products like 3D XPoint? Or do you remain firmly committed to sort of more -- to a more competitive NAND market?
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Sure. So I just want to make sure you -- we clarify a little bit, Joe. The separation of development work is, again, out in time. Think of it in the 2020 time frame is when the real independence come, and it's NAND-specific. So we continue to work together on 3D XPoint. So -- and this is really just -- it's not a separation of the companies or something about the relationship. The relationship with Micron continues to be a good one, and I foresee it will continue to be a good one in the future as well. This is about direction of where we're going to take our products. And we've talked about ours are very data center-centric and really tied to performance and aligning to the customer market that we're really looking at. And so the spending in R&D we're talking about right now is purely NAND-specific. 3D XPoint continues to be a joint effort.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Ambrish Srivastava with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Brian and Bob, I wanted to go back to DCG, specifically on the op margin front. We have not seen a [5-handle], if my model is correct, it's been 8-plus quarters. So can you please speak to the sustainability of the op margin and kind of what were the drivers that got you to that level? And then I had a follow-up as well, please.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [16]
+--------------------------------------------------------------------------------
+
+          Yes, so we came into the year and we indicated that we expected margins for the full year to be in the kind of 40% to 45% range. And obviously, we started out low, but we said our expectations were that it would grow throughout to the course of the year. A couple of things in the fourth quarter. Obviously, growth. So real good leverage on our existing investment was a big contributor. Secondly, ASPs were up 8%. So of the 20% growth, ASPs accounted for 8 points of that. And as Brian highlighted, whether it's cloud, comms or enterprise, customers in the quarter were really paying for performance. That performance for us was higher ASPs. Third, our continued progress on unit cost. And then, last, you may remember, last year's fourth quarter, we had some warranty- and IP-related charges in the data center business that I think cost us roughly 4 points a year ago. So last year's were a little bit deflated. But good volume leverage, strong ASPs as customers paid for performance and unit cost improving.
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+
+          So we should expect this level going forward, Bob?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [18]
+--------------------------------------------------------------------------------
+
+          Yes, I think I wouldn't get too far away from the 40% to 45%, to be honest with you. I think, as we go into 2018, the good -- we think good cloud momentum, that's been consistent performance over the course of the year, last couple of years. Comms, our performance, we believe, was real strong in a somewhat sluggish market, so real share gains. But the high kind of seasonal enterprise growth and strong ASPs in the quarter, we think, are more seasonal in nature, and we're not anticipating enterprise growth to stay at these levels as we go into '18.
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Okay, that's helpful. And then for my follow-up on the gross margin for next year, you provided the -- sort of qualitatively the adjacency as well as the cost impact from the XRAM. But, a, I was surprised you didn't mention competition because now AMD will have a full year of product in an area they never were for -- I shouldn't say never -- they were not in an area for a long time. So question is are you seeing any competition? Are you factoring that in? And then, b, would it be possible to quantify the 2 impacts that you mentioned?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [20]
+--------------------------------------------------------------------------------
+
+          Yes, I'd just -- I'd highlight 3 things that are driving the deterioration. But I'd start first with we've always characterized our long-term gross margins to be in the 55% to 65% range. And for the last several years, and included in our guidance this year, we'll be at the upper end of that 60% to 65% range. But for the last couple of years, there's -- we've had maturity of 14-nanometer. And that maturity, both in terms of getting more and more performance and lower and lower unit costs, has been contributors to gross margin. As we go into '18, we see 14-nanometer modest contribution from profitability because we've matured on the cost curve. That's an increasingly competitive environment, and we don't anticipate dramatic ASP improvements over the entire company. In some cases, yes, but for the most part, no. So we'll see some continued improvement in 14-nanometer products during the course of the year. Secondly, we are really accelerating the growth of our adjacent businesses. The investments that we've been making in both the data-centric businesses and our growth in modem, those are contributing to our year-on-year EPS growth. However, those -- both of those product lines or businesses have lower margins. So our success in modem and memory is having a mix impact on our gross margins. The third area is we're going from 10-nanometer start-up, where our costs are coming down, to more the ramp to the 10-nanometer. And that ramp is going to weigh on the margins as we begin to develop production going into the second half of the year where we're way up the curve on where our yields and costs are. So those are kind of the 3 things as we see it, and if I were to characterize, roughly plus 1, roughly minus 2, roughly minus 1, rounding those.
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [21]
+--------------------------------------------------------------------------------
+
+          Ambrish, on your question about -- specifically around competition, I think, every year we look at it as a competitive environment, and we're out to compete for our customers. And so we factor that in each year appropriately, I think, against the competition. So we've looked at the competitive environment, and we believe Xeon Scalable, great performance that has, our overall product road map, we think we have a highly competitive road map and -- have adjusted for that in our forecast.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Stacy Rasgon from Bernstein.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Firstly, can you walk us through your free cash flow waterfall? I can't get there. Flattish operating income on 4% revenue growth. You lose a couple billion dollars in ICAP gains. CapEx, I guess, maybe it's flattish with the memory prepayments. Taxes maybe gets me 1/3 to half of the way there, but where does the rest of the free cash flow come from? Are you just draining a ton of working capital or what? Can you walk us through?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+
+          Yes. First, $13 billion in free cash flow, up roughly 30% year-on-year. First, higher cash earnings. Our guide has EPS up roughly 14%. In that guide, there's -- depreciation has grown in '18 relative to 2017. So that has just higher cash earnings. Secondly, we do expect lower working capital as we go through 2018. Third, we have higher strategic customer supply agreements. And those 3 things are all contributing to the positive. And then obviously, Stacy, the higher gross capital is a bit of an offset. So stronger cash earnings, better working capital, more strategic supply, partially offset by higher CapEx.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Okay. For my follow-up, I want to ask about the growth next year of your kind of adjacent businesses versus your core businesses. Of that $65 billion of that 4%, can you give us a feeling how much of that is coming from the adjacent, I guess mostly memory and modems, versus the core? It must be decent, given the gross margin pressures. And I guess, as a corollary to that, you mentioned a one delay -- 1-quarter delay in data center memory. Is that -- was that a statement on XPoint?
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [26]
+--------------------------------------------------------------------------------
+
+          No, that was a NAND -- I'll start with just the answer to that question first, Stacy, that, that was a 3D NAND SSD. We had some delays in the fourth quarter, and those are being addressed now. So that was that comment.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Okay. And growth -- I'm sorry, go ahead.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          No, I think, on your first question, in the $65 billion, we characterized it as roughly low single-digit decline in our PC-centric businesses. So implied in that is PC maybe declining a little bit more and modem, i.e., adjacency within the CCG segment, partially offsetting that. In the overall guide, we said that the data-centric businesses would be growing in the mid-teens. And obviously, that's -- we believe that'll be -- the strongest growth segment within the makeup of our data-centric businesses will be in memory. And it will be a function of customer quals that Brian just highlighted, and we expect NSG growth to accelerate throughout the course of 2018, so single-digit decline on PC-centric and mid-teen growth on data-centric businesses.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [29]
+--------------------------------------------------------------------------------
+
+          So what does that memory strength imply for the data center growth, the DCG growth, particularly given the strong performance in Q4?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [30]
+--------------------------------------------------------------------------------
+
+          For the most part, the [wins] for NSG that will go through data center will be late in 2018 and won't really have an impact on the overall growth rate of that business. So it's primarily about growth of 3D NAND during the course of the year.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Our next question comes from C.J. Muse from Evercore.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [32]
+--------------------------------------------------------------------------------
+
+          I guess a couple of housekeeping questions, if I could kind of put them together. Curious if you could share with us how you're thinking about CapEx spend between logic and memory. And then, on the 10-nanometer start-up, can you share with us when you're expecting to begin depreciating those costs?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [33]
+--------------------------------------------------------------------------------
+
+          First on the CapEx, we indicated gross capital in the year of $14 billion, that we get customer strategic supply agreements of roughly $2 billion. So our net capital is $12 billion, $12 billion in the year. Again, I'd kind of break that into 2 pieces: memory, net capital employed, no change; and logic, CapEx up roughly $1 billion year-on-year. And as we mentioned earlier, that $1 billion is a function of, primarily growth, continuing to grow 14-nanometer; second, scaling up 10-nanometer; and third, investing in next node 7-nanometer during the course of the year. So those 3 things are really driving the $1 billion increase in CapEx for logic. The second part of your question, the -- so for 10-nanometer, as we bring that equipment online, we turn on -- there's some equipment now that's being depreciated. But as we build -- bring more online, as we ramp in the second half of the year, when we turn that equipment on is when we start depreciating it. So we'd expect our depreciation bill in the second half of the year to be growing. That's one of the contributors to -- yes, really to come full circle, that's one of the contributors to the gross margin deterioration during the course of the years as we start to ramp 10-nanometer.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Vivek Arya from Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [35]
+--------------------------------------------------------------------------------
+
+          For the first one, Brian, I'm curious, are you baking in any effect on sales or cost or pricing from any resolution on the processor security issues? There is one line of thinking that says customers might decelerate their purchase, and then you have others in the industry saying that customers might accelerate their purchase later on. So I'm just curious how you're looking at the financial implications, positive or negative, from this issue near term and longer term.
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [36]
+--------------------------------------------------------------------------------
+
+          Sure. So we'll try and kind of break it into 2 kind of answers for that, Vivek. From a cost standpoint, we've baked in and we've talked about that we don't expect any material impact of this security exploit on our spending or product costs or any of that. So that's how we baked that in. From a forecast standpoint, we actually made our forecast, and we've checked it, as we go through this -- the first few weeks here of the year, against our prior forecasts to make sure that the forecast incorporated any changes or any signs we're seeing up or down. And I'll tell you, at the highest level, we're not seeing much of a change in those forecasts as a result of this. So I'd tell you, it's pretty balanced right now. So spending, not material and didn't make any adds there. And then our forecast, we had a forecast. We've checked it as we go through the first few weeks of the year, and it hasn't really changed or altered as we looked at it.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+
+          And the only other thing I'd add, per Brian's comment earlier, we kind of go into the year realizing that it's an increasingly competitive environment. And our focus is on, right now, continuing to bring the best, highest-performance products to market, but also to -- lots of time and energy spent on focusing on fixing this issue, primarily through software patches as opposed to short-term hardware things.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [38]
+--------------------------------------------------------------------------------
+
+          Got it. And as my follow-up, for the full year, how should we think about growth in just the DCG business? I understand you gave some color around the entire data-centric group, which includes memory and other segments. But just sort of apples-to-apples, how should we think about growth in just DCG, which had a very strong double-digit growth year in '17?
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [39]
+--------------------------------------------------------------------------------
+
+          Yes. Throughout the course of the year, we -- sorry, throughout the course of '17, we kind of guided to high single digits, and we kind of executed to that throughout. And then Q4 wasn't dramatically different than the first 3 quarters of the year, really, with the exception of the high seasonal spend for enterprise. And that really took us from a high single-digit to low double-digit or 11% growth for the year. As we go into '18, we do not expect that -- we think that, in the enterprise space, things will go back down to the negative single-digit range and, therefore, don't anticipate a dramatic difference in how we laid out DCG a year ago. So that's how we're thinking about it. If I maybe elevate that back up a little bit and just think about when we're putting together our plans for the year, there's 2 areas where our tendency is to be a little cautious on the outlook. One is PC TAM. We tend to be a little more cautious on PC TAM, and we tend to be a little more cautious as we think about enterprise growth in the DCG business. And the reason we do that is we think it's important to be cautious, get our costs in line. And if our assumptions on market rate to growth turn out to be conservative, we'll benefit from -- we believe we'd benefit from higher volume and real strong flow-through to net income. That's how we planned the year coming into 2017, and we did kind of the same thing for 2018. So I don't anticipate dramatically different DCG growth in how we laid out 2017 as we enter 2018, because we really haven't assumed a change in trajectory of enterprise CIO spending in the course of the year.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Yes, our last question comes from Blayne Curtis from Barclays.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays PLC, Research Division - Director and Senior Research Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I just wanted to go back to the DCG ASPs. You had talked about the ramp of Scalable being kind of to plan, but then I think you got a nice tailwind. I think you implied enterprise had a higher percent of Scalable. So I just wondered if you could just talk on broad strokes just where the Scalable ramp is here, and how your expectation kind of getting through the year, where that could go.
+
+--------------------------------------------------------------------------------
+Brian M. Krzanich,  Intel Corporation - CEO & Director    [42]
+--------------------------------------------------------------------------------
+
+          Sure. So I'll start, and Bob can add some number detail and all. The Xeon Scalable ramp is right in line with prior ramp of similar products on our DCG road map. And what you saw when we talked about Q4 was not necessarily more Xeon Scalable but people buying up the stock on Xeon Scalable, which drove ASP. So they're buying the higher-performance, higher-priced parts. And that's not uncommon when, at the early stages of a ramp, people come in and they typically want to buy the highest-performing parts at the beginning, and then they fill out their distribution as other buyers come in and other parts of the market kind of open up. So ramp's on schedule and aligned with prior ramps, and the ASP was more about buying up on the higher-performance parts than necessarily a volume statement.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays PLC, Research Division - Director and Senior Research Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Got you. And then I also want to go back on just -- sorry. I just want to go back on gross margin as well. As you look for March, you mentioned the drop is from adjacent business as well as 10-nanometer. Obviously, memory, you're signaling a big ramp, but it doesn't resolve fully. I'm just wondering if, Bob, you could just walk through the 10-nanometer start-up costs as they kind of move through the year, and kind of if you can outline, between those 2 in Q1, what's the bigger factor.
+
+--------------------------------------------------------------------------------
+Robert H. Swan,  Intel Corporation - Executive VP & CFO    [44]
+--------------------------------------------------------------------------------
+
+          So I see mix dynamics are going to be a bigger factor overall for the year, both in Q1 and for the rest of the year, as our memory and modem business continue to accelerate strong growth. So that's going to be the biggest impact. I think 10-nanometer will have an impact just right out of the gate and will kind of continue throughout the year as we scale volume, but also need to improve yields during the course of the year. So hopefully, that's helpful.
+
+--------------------------------------------------------------------------------
+Mark H. Henninger,  Intel Corporation - VP of Finance and Director of IR    [45]
+--------------------------------------------------------------------------------
+
+          All right. Thank you all for joining us today. Operator, please go ahead and wrap up the call.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for your participation in today's conference. This concludes today's program. You may now disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

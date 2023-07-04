@@ -1,0 +1,477 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2019 Alphabet Inc Earnings Call
+FEBRUARY 03, 2020 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Ellen West
+   Alphabet Inc. - VP of IR
+ * Ruth Porat
+   Alphabet Inc. - Senior VP & CFO
+ * Sundar Pichai
+   Alphabet Inc. - CEO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen D. Ju
+   Crédit Suisse AG, Research Division - Director
+ * Eric James Sheridan
+   UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
+ * Brent John Thill
+   Jefferies LLC, Research Division - Equity Analyst
+ * Daniel Salmon
+   BMO Capital Markets Equity Research - Analyst
+ * Justin Post
+   BofA Merrill Lynch, Research Division - MD
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Kevin Michael Rippey
+   Evercore ISI Institutional Equities, Research Division - Co-Head of Internet Research
+ * Benjamin Wheeler
+   RBC Capital Markets, Research Division - Associate
+ * Heather Anne Bellini
+   Goldman Sachs Group Inc., Research Division - MD & Analyst
+ * Douglas Till Anmuth
+   JP Morgan Chase & Co, Research Division - MD
+ * Youssef Houssaini Squali
+   SunTrust Robinson Humphrey, Inc., Research Division - MD & Senior Analyst
+ * Ross Adam Sandler
+   Barclays Bank PLC, Research Division - MD of Americas Equity Research & Senior Internet Analyst
+ * Colin Alan Sebastian
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by, and welcome to the Alphabet Fourth Quarter 2019 Earnings Conference Call. (Operator Instructions)
+I would now like to hand the conference over to your speaker today, Ellen West, Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Ellen West,  Alphabet Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Candace. Good afternoon, everyone, and welcome to Alphabet's Fourth Quarter 2019 Earnings Conference Call. With us today are Sundar Pichai and Ruth Porat.
+Now I'll quickly cover the safe harbor. Some of the statements that we make today regarding our business performance and operations and our expected level of capital expenditures may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer to the risk factors discussed in our most recent Form 10-K filed with the SEC.
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc.xyz/investor.
+And now I'll turn the call over to Sundar.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Ellen, and good afternoon, everyone. It's a privilege to join the call as the CEO of both Alphabet and Google after 4 years as CEO of Google. I'd like to start by thanking Larry and Sergey for giving all of us at Google a timeless mission, endearing values and an opportunity to have an impact on the world.
+There's a lot I want to cover today, and I also want to leave plenty of time for any questions you may have for me and Ruth. As you've seen in our press release, we've added new revenue disclosures to give greater insight into our business. Search and other Google properties continue to drive great results with total revenues in 2019 of $98 billion and strong growth. I'm also really pleased with 2 of our newer growth areas. YouTube reached $15 billion in ads revenues in 2019, growing at 36% compared with 2018, and it now has over 20 million music and premium paid subscribers and over 2 million YouTube TV paid subscribers, ending 2019 at a $3 billion annual run rate in YouTube subscriptions and other nonadvertising revenues. Google Cloud ended 2019 at a more than $10 billion run rate, up 53% year-on-year, driven by significant growth in GCP. The growth rate of GCP was meaningfully higher than that of Cloud overall, and GCP's growth rate accelerated from 2018 to 2019.
+Before I talk about the highlights of the quarter, I want to take a step back and give some early thoughts about my approach to managing Alphabet and Other Bets. We have always taken a long-term view, investing in deep computer science and technology. Important trends like the wider adoption and application of artificial intelligence, ambient computing and the move to the cloud underline our investments across Google and our other Alphabet companies.
+Our work in health care is a great example of how our investments in these areas allows us to deliver solutions across an entire sector. Google Cloud works with hospitals and health care providers to securely manage their patients' data, data that is much more secure in the cloud than in paper records or on-premises. Our AI teams at Google also work with partners to apply AI to help them and their patients, whether it's developing better health systems or helping with the diagnosis and deduction of disease.
+Among their broader efforts are Other Bets. Verily and Calico are also partnering with industry leaders to use AI and cloud technologies to improve clinical trials, research and drug development. Our thesis has always been to apply these deep computer science capabilities across Google and our Other Bets to grow and develop into new areas. The Alphabet structure allows us to have a portfolio of different businesses with different time horizons without trying to stretch a single management team across different areas. We'll continue to take a long-term view, managing the portfolio with the discipline and rigor needed to deliver long-term returns.
+Many of our Other Bets are getting to the stage where it now makes sense for them to partner closely with other players and investors in the industry. Waymo's technological leadership is widely reported. Its cars have driven 20 million miles across more than 25 U.S. cities. Waymo is now serving over 1,500 monthly active riders in Metro Phoenix and continue scaling fully driverless by matching early riders with driverless vehicles and charging for these rides. As Waymo looks to its evolution as a business, it's focusing on strategic partnerships. For example, it's working closely with OEMs and other businesses to build out ride-hailing and delivery business lines. And Verily is an example of a company in the portfolio that has outside investors, Silver Lake and Temasek as well as its own board. We'll consider opportunities for some of our Other Bets to take similar steps over time.
+Now on to highlights from the quarter. First, Search and related Google properties. As I mentioned on our last call, our neural network-based technique for natural language processing called BERT is the biggest advancement in search in the last 5 years. It now impacts 10% of searches. And in Q4, we rolled it out in over 70 languages.
+In Maps, we are celebrating our 15th anniversary very soon. And in the past year, we brought reliable directions to 630 million additional people in locations that previously weren't well mapped. We added as many buildings to maps using ML in 2019 as we have added using all techniques in the previous decade. With all these improvements, user growth is strong, and the range of things people are doing with Google Maps continues to expand as well.
+The Google Assistant now helps more than 500 million monthly users across 90 countries get things done, across smart speakers and smart displays, phones, TVs, cars and more.
+Shopping and commerce is another exciting area. We are making strong leadership hires in this area to help build a thriving business for partners of all sizes. Over the Black Friday and Cyber Monday holiday weekend, we had the largest number of daily shoppers on google.com ever in our history. Throughout the entire holiday shopping season, we also expanded the selection of products on Google due to a 4x uptick in the number of U.S. merchants participating in our Shopping Actions program.
+Second, YouTube. Speaking of shopping, people can now easily buy products in YouTube's home feed and search results, making it possible for advertisers to reach even more audiences. Try searching for Puma shoes review on YouTube to see an example. With all the related content on YouTube like unboxing and beauty videos, this is a format people love, and it delivers a simple in-video buying experience.
+A huge focus is continuing our work to keep YouTube safe for users, creators and advertisers. You may have seen a blog post today about our work to promote authoritative content and remove misleading information about the upcoming 2020 elections. For example, we are applying our disruptive content policies to reduce misleading information about voting locations or the census process. As I mentioned earlier, we are pleased with YouTube's growth in advertising and subscriptions, and we're also pleased with the early results from other revenue options we offer creators, including memberships, brand integrations, merchandise and ticket sales.
+Continuing on now to Cloud. We are really pleased with the momentum we are seeing in Cloud. Year-on-year, the number of deals over $50 million more than doubled. The investments in Cloud's go-to-market expansion are resulting in customer momentum. Wayfair is one of the many retailers who successfully ran holiday operations on Google Cloud. In addition, Lowe's, which began transitioning off its legacy e-commerce system in late 2018 to Google Cloud, worked with us during this year's peak holiday buying season to improve the stability of their e-commerce site.
+Worth noting, at peak time, customers in our Black Friday/Cyber Monday program used 4x the compute resources compared to previous year, and our platform experienced 100% uptime. Lufthansa Group is using our AI solutions to develop new tools that will improve air travel operations. The U.S. Postal Service also chose Google Cloud AI to improve business processes and customer experience. We have recently signed a 10-year agreement with Sabre to help them improve operations and develop new airline and hospitality services.
+Finally, Google other revenue. Android continues to thrive. I'm proud to announce that over $80 billion has been earned by developers around the world from Google Play, showing the popularity of our platform. There are now over 2 billion active monthly users of Google Play. Hardware is still in the early stages of delivering on our vision for ambient computing. Our home devices demonstrate how this vision can come to life in creating the home of the future with our new Nest Mini and Nest Hub Max selling well over the holidays, following on from the Pixel 3a, which sold well last year. With Pixel 4, we continue to build out our capabilities and are keenly focused on execution, delivering great user experiences and broadening our distribution. And our pending acquisition of Fitbit will give us a foundation in wearables. I'm excited about our road map ahead across our products.
+Overall, in 2020, our teams at Google are focusing on 4 key things. First, creating the most helpful products for everyone. We are really focused on ensuring that our products like Search, Maps and Assistant are helping people in their daily lives. Second, providing the most trusted experiences for our users. We are doing lots of work to keep improving users' privacy and security while also keeping harmful content off our systems. Third, executing at scale. This will show up as more seamless products across various surfaces and platforms like the Google Assistant, deeper partnerships and better use of our shared infrastructure. For example, Activision Blizzard recently chose Google as a strategic partner, using Google Cloud's computing infrastructure, YouTube for live streaming and our AI tools. Putting together these multiproduct partnerships helps us unlock great opportunities for our partners. And fourth, creating sustainable value. This means optimizing our usage of computing resources and also growing business opportunities in areas like YouTube, Cloud, Play, Hardware and beyond.
+So as you can see, there's a lot happening at the company and a real sense of excitement and focus. I want to thank our employees for all the great work in 2019.
+With that, I'll turn it over to Ruth, and I look forward to your questions.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Sundar. We're very pleased with our strong 2019 results with total Alphabet revenues of $162 billion, up 18% year-on-year or 20% in constant currency. In dollar terms, this represents an increase of $25 billion in revenues relative to 2018. I will review our quarterly and annual results, including our new revenue disclosures, and conclude with our outlook. Sundar and I will then take your questions.
+Starting with consolidated Alphabet results. In the fourth quarter, our total revenues were $46.1 billion, up 17% year-on-year and up 19% in constant currency. Our results were driven by ongoing strength in Search, YouTube and Google Cloud, offset by a decline in Hardware revenues. Details of Alphabet's consolidated revenues by geographic region are available in our earnings press release.
+Regarding our key expense lines. On a consolidated basis, total cost of revenues, including TAC, was $21 billion, up 17% year-on-year. Other cost of revenues on a consolidated basis was $12.5 billion, up 19% year-over-year, primarily driven by Google-related expenses. The biggest factors here again this quarter were costs associated with our data centers and other operations, including depreciation, and then content acquisition costs, primarily for YouTube and mostly for our advertising-supported content in what has been a seasonally strong quarter for YouTube, but also for our newer paid YouTube Music and Premium subscription services as well as YouTube TV, which have higher content acquisition costs as a percentage of their revenues. These were partially offset by a decline in costs associated with lower Hardware sales.
+Operating expenses were $15.8 billion, with head count growth being the largest driver of year-on-year growth for R&D and sales and marketing expenses. Head count drives both compensation and related facilities expenses. After head count growth, the biggest driver in R&D expenses was an increase in valuation-based compensation charges in certain Other Bets.
+Stock-based compensation totaled $2.6 billion. Head count was up 4,803 from the third quarter and up 20% over 2018. Again, the majority of new hires were engineers and product managers. In terms of product areas, the most sizable head count increases were again in Google Cloud for both technical and sales roles, including the impact of the Looker acquisition, which closed in December.
+Operating income was $9.3 billion, up 13% year-over-year for an operating margin of 20%. Other income and expense was $1.4 billion, which primarily reflects an increase in the market value of certain publicly traded equities as well as a noncash gain from the Verily transaction. We provide more detail on the line items within OI&E in our earnings press release.
+Our effective tax rate was 0.3% for the fourth quarter and was 13% for the full year. The fourth quarter ETR reflects the impact of discrete items, including the resolution of multiyear audits. As you have seen in prior years, ETR can vary on a quarterly basis. Net income was $10.7 billion, and earnings per diluted share were $15.35.
+Turning now to CapEx and operating cash flow. Cash CapEx for the quarter was $6 billion, which I will discuss in the Google segment results. Operating cash flow was $14.4 billion with free cash flow of $8.4 billion. We ended the quarter with cash and marketable securities of approximately $120 billion.
+Let me now turn to our segment financial results, starting with the Google segment. Revenues were $45.8 billion, up 17% year-over-year, and this, of course, is on a GAAP or floating FX basis. Google Search and other advertising revenues were $27.2 billion in the quarter, up 17% year-over-year, reflecting ongoing momentum in mobile and desktop. YouTube advertising revenues were $4.7 billion, up 31% year-on-year, driven by substantial growth in direct response and ongoing healthy growth in brand advertising, which remains the largest component. Network advertising revenues were $6 billion, up 8% year-on-year, led by growth in Google Ad Manager.
+Turning to Google Cloud, including GCP and G Suite. Revenues were $2.6 billion for the fourth quarter, up 53% year-over-year driven by significant growth at GCP and ongoing strong growth at G Suite. The growth rate of GCP was meaningfully higher than that of Cloud overall. GCP growth was led by our infrastructure offerings in our data and analytics platform. We also saw a strong uptake of our multi-cloud Anthos offering. Ongoing growth in G Suite continue to reflect growth in both SMB and enterprise segments and both seat count and average revenue per seat.
+The other revenues line now consists of Google Play, followed by Hardware and YouTube's nonadvertising services, mainly its subscription offerings, YouTube Premium, YouTube Music and YouTube TV. In the fourth quarter, other revenues were $5.3 billion, up 10% year-over-year, primarily driven by growth in YouTube and Play, offset by declines in Hardware. YouTube's contribution to other revenues benefited from subscriber growth across its various offerings. Within Play, app revenues had strong growth driven by an increase in the number of active buyers.
+Total traffic acquisition costs were $8.5 billion or 22% of total advertising revenues and up 14% year-over-year. Total TAC as a percentage of total advertising revenues was down year-over-year, reflecting once again a favorable revenue mix shift from network to Google properties.
+Google operating income was $11.5 billion, up 20% versus last year, and the operating margin was 25%. Google accrued CapEx for the quarter was $6.6 billion, reflecting investments in data centers, followed by servers and office facilities.
+Moving on to the performance of Other Bets. For the full year 2019, revenues were $659 million, up 11% versus 2018, primarily generated by Fiber and Verily. Operating loss for Other Bets was $4.8 billion for the full year 2019 versus an operating loss of $3.4 billion in 2018.
+Let me conclude with a few observations on the quarter and our longer-term outlook. Based on the strength of the U.S. dollar to date relative to the first quarter of last year, we expect continued FX headwinds again in the first quarter of 2020. With our expanded revenue disclosures this quarter, I'll talk about the revenue and investment outlook for each of these newly disclosed component parts.
+First, with respect to Search and other advertising. Although we don't report Search revenues on a fixed FX basis, the delta between fixed and floating growth rates at the Alphabet level is a good proxy for the effect on Search revenues or a headwind of approximately 2 percentage points in 2019. At our scale, we are pleased with our rate of growth for 2019 and see ample opportunity going forward. What's exciting for us as we look ahead at Search and other Google properties is the ongoing opportunity to support users and advertisers with new ads experiences and improved measurement.
+Second, with respect to YouTube advertising. At a year-on-year growth rate of more than 30% in the fourth quarter, we're pleased with the ongoing strength and opportunity at YouTube. We see substantial, continuing opportunity in direct response as well as with brand advertisers. As Sundar shared earlier, the nonadvertising services at YouTube, mainly from subscriptions, reached a $3 billion revenue run rate in the fourth quarter. We continue to invest across YouTube to grow over the long term. In the ad-supported portion of YouTube, we pay out a majority of revenues to our creators, reflected in our content acquisition costs. On top of that, there are other expenses, including infrastructure and networking costs as well as the cost of our content responsibility efforts to keep YouTube safe for users, creators and advertisers. We're also investing meaningfully to grow our subscriptions, which have higher content acquisition cost ratios.
+Turning next to Google Cloud. We are very confident that there is an enormous opportunity here that plays to our core strengths. We're pleased with the growth trajectory of GCP, which we see in customer momentum, the growing size of the average contract and, of course, revenues. The traction we're having with large customers who are making multiyear commitments with us is reflected in our backlog, which ended the year at $11.4 billion, substantially all of which relates to Google Cloud. Given our position as a challenger, we're investing aggressively, focused on building out our go-to-market capabilities, executing against our product road map and extending the global footprint of our infrastructure focused on 21 markets and 6 industries.
+In terms of Hardware, as Sundar noted in his opening remarks, we remain focused on the long-term opportunity with ambient computing. We believe our strengths in AI and software give us an advantage in providing seamless experiences to users wherever they are across multiple surfaces. We have been investing heavily in developing our capabilities in hardware engineering as well as building out supply and physical distribution chains, and we've created a multi-billion dollar revenue business in the past 3 years.
+We're looking forward to our acquisition of Fitbit, which will add strong capabilities in wearables and advance our vision of ambient computing for the Android ecosystem. As we look at the near-term product road map, we continue to execute at a measured pace.
+In Other Bets, we are sharpening our focus on the metrics and milestones against which capital allocation is determined, and we continue to assess where external capital is additive to governance and execution.
+I'll now turn to the investments we're making in head count and in CapEx to support the growth opportunities we see across Alphabet. With respect to head count, in 2019, Alphabet head count grew by 20%, reflecting investment in key areas such as Cloud. Overall, we expect the growth rate of head count to be slightly higher in 2020 due to the combined impact of investment in priority areas plus the decision to move certain vendor functions in-house as well as from the planned impact of the Fitbit acquisition.
+On SBC, as a reminder, our full year equity refresh grants are made to employees during the first quarter of 2020, and you will see the step-up in our first quarter results. In terms of CapEx, in 2020, we intend to increase our investment in both technical infrastructure and office facilities versus 2019. Within technical infrastructure, the investments, in particular, support ongoing demand for machine learning across our business as well as for Cloud, Search, Ads and YouTube. Relative to 2019, we anticipate relatively more spend on servers than on data center construction. At this scale of investment, we remain very focused on driving efficiency through fleet optimization and tight management of our supply chain.
+Finally on capital returns. In the fourth quarter, we repurchased $6.1 billion of shares, which was more than double the amount of repurchase in the fourth quarter of 2018. As of year-end, we had $21 billion remaining in the program and are focused on executing on the remaining authorization at a pace that is at least consistent with what you saw in the fourth quarter.
+In conclusion, we remain very confident about the opportunities across Alphabet and in our ability to continue to deliver at the steady pace we've shown.
+Sundar and I will now take your questions.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) 
+And our first question comes from Heather Bellini from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heather Anne Bellini,  Goldman Sachs Group Inc., Research Division - MD & Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Sundar and Ruth, and I guess -- I'm sure you're going to hear this a million times tonight, but thank you so much for the enhanced disclosure. I think this is the best Google call or Alphabet call I've been on since I've covered the company. So thank you again. You've given us a lot of stuff here.
+I just wanted to focus a little bit on GCP and the comments that you made and either if you want to think about this for Google Cloud collectively or just for GCP. Just given the revenue run rate that you're at, how do we think about the gross margin profile of this business? Is it fair to look at some of the other cloud players when they were disclosing similar run rates to get a sense of what their gross margins were? Or is there a reason why your business might look slightly different?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you for those comments. So first and foremost, we're obviously really pleased with the momentum here. GCP had fantastic revenue momentum in the fourth quarter, and as we noted, it is growing at a meaningfully higher pace than Google Cloud overall.
+In terms of your margin question, look, I think our view is, obviously, the competitive dynamics in the cloud market are very different today. We are investing aggressively given the opportunity, which I tried to make clear in opening comments. Given the opportunity we see and the momentum we're having, we've accelerated our investment in our go-to-market team. And as we've talked about before, we've set a goal to triple the size of the sales force. We're also focused on building out our product road map and extending the global footprint of our infrastructure. And I'll leave the forecasting to you.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Eric Sheridan from UBS.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Maybe 2 parts, if I can. Sundar, for you first, a lot of innovation that the company put on display over the past year. Ruth talked in her sort of forward commentary section about sustainability of growth and outperformance going forward. What are you most excited about when you see the company trying to align what improves consumer utility along with what continues to drive growth in the various segments of the business? That would be number one.
+And two, Ruth, maybe for you, you had talked about variability of revenue last quarter going into Q4. But unless I missed that, I don't think you used the same word again in Q4. What were you expecting in terms of variability in Q4? And any color you could give on how that played out or how we should be thinking about variability of revenue going forward?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [6]
+--------------------------------------------------------------------------------
+
+          Eric, I think overall, I presume you're meaning across everything we do, and if that's the case, I am -- I mean the trends we are seeing -- and we've been investing on it for a while but applying it and actually driving use cases to users. So for example, using AI to dramatically improve natural language processing to make 10% of our search results better is a kind of opportunity I'm excited by. When I look at -- we do see a lot of commercial experiences across our properties, be it Search or YouTube and the opportunity to create a better experience there and hence bring more value to our users, that's something which we see as a big opportunity. And across our businesses, be it YouTube, Cloud, Play or Hardware in addition to Search, we are seeing strength in a lot of these areas, and we share a common technological approach across all of them. And so that gives us a synergistic way to approach these areas as well.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          And then on your second question, at our scale, we're pleased with the rate of growth in 2019 here in Search and our ads business overall, and we do see ample opportunity ahead. When we talk about variability of revenue, the way we've talked about it in the past very much holds true, which is we're -- we don't manage for any particular quarter, we manage focused on what's in the best -- best for users, and we have a lot of testing that goes around it. And so really, the point is there will be variability, and we're focused on continued -- the continued long-term opportunity and we do see that opportunity, the ads opportunity, to be significant. Apart from the secular shift to digital, we continue to be very focused on the benefit from better measurement, better ad delivery, better user experience. Our view is that all helps grow the addressable market, but there will be variability over time because we're very focused on what's in the right long-term interest.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Doug Anmuth from JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [9]
+--------------------------------------------------------------------------------
+
+          One for Sundar and one for Ruth. Sundar, first, just hoping you could talk more about Google Cloud. Great to see the $10 billion run rate. Just curious if you can help gauge the progress over the past year. Then where do you think the biggest areas of differentiation lie in an increasingly competitive space?
+And then Ruth, can you just give some of your latest thoughts on balancing growth and profitability across the Google segment and Other Bets? And as you enter this year, do you see additional opportunities to drive increased profitability without impacting the long-term potential of the businesses?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          Doug, on Cloud, I think maybe a few thoughts on some of the progress we made last year and talk about the differentiation, which you asked about as well. Definitely under Thomas' leadership, I think we have clearly focused on 6 industry verticals across 21 markets and so doubling down on those efforts, bringing in a lot of new products and compliance certifications, so effectively expanding the TAM, which we serve. Ruth mentioned the team is on track to triple our sales force in 3 years, including bringing in a number of senior strategic hires and supplementing it with a channel partnership program. I think the progress I've seen in our customer focus with our customer success organization and the contracting framework have all been great progress for us.
+Overall, every time we're in especially in one of these larger deals, they are effectively looking for a technology partner. So differentiation is not just what we bring to table in terms of Cloud where we have differentiated capabilities but, in many cases, it's what we bring as Google. So if you take an area like health care, all the investments we are making in health care across Google and, in some cases, Alphabet. If you look at Sabre, the partnership we can bring to them across our experience working in travel verticals as well. So I think -- and over time, I also think the AI-based, industry-specific solutions we are working on will end up being a differentiating factor as well.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [11]
+--------------------------------------------------------------------------------
+
+          And in terms of your second question, investing for growth and how we balance growth and profitability, the approach to capital allocation and the pace of investing continues to be guided by the same 3 drivers that we've talked about previously: first and most important is investing to support the long-term earnings growth and the opportunities that we see there; second, we do remain focused on optimizing investments within each product area; and then third, as we've talked about on prior calls, is investing to support operational excellence, and that includes things like driving efficiencies in our technical infrastructure, which I spoke about.
+When we look at the biggest investment areas within Google, we, as we've talked about already on this call, continue to be focused on investing to support the growth that we see. It starts with Search while also investing to build new businesses, and we've talked about a couple of them already today. Cloud is clearly an area where we're investing aggressively. In Hardware, we've been investing heavily by developing our capabilities in hardware engineering as well as building out supply and physical distribution chains. And then in YouTube, as I mentioned in opening comments, we do continue to build out our subscription services. It's still in the early days there, and we're making a sizable investment to build it out, taking a long-term view here.
+So we are leaning into investing for long-term growth. That's been a core principle here and remains such while looking at where can we optimize within portfolios and where can operational efficiencies be additive.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Brian Nowak from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [13]
+--------------------------------------------------------------------------------
+
+          I have 2. Just Sundar, I thought your 2020 focal points are really helpful, creating the most helpful products for everyone and then the most trusted experience for users. Was curious to kind of focus in those comments on payments in YouTube. You've had a lot of payment strategies over the last couple of years, so talk about what types of investments or products you think you need to really remove friction and drive better payment adoption. And then on the YouTube side, if you sort of look at how people are using YouTube now from an engagement perspective, what types of changes do you foresee you need to make in order to really make it a more helpful product to drive engagement even higher on the YouTube platform?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [14]
+--------------------------------------------------------------------------------
+
+          Brian, thanks. On the payment side, clearly, I spoke earlier about the kind of experiences people see across our properties, including people do come with an intent to discover, learn and commercially engage as well. And when they're looking to transact, payments ends up playing a critical role. So the less friction you have, it tends to work better. So we've been really focused on doing that and getting more of our users set up in the right state. We've had a lot of traction with our payments product over the past 18 months. We had a tremendously successful launch in India from which we learned a lot of features, and we are bringing that and we are revamping our payments products globally. And so I'm excited by that rollout, which is coming up in 2020. I think that will make the experience better.
+On the YouTube side, what -- I guess your question is about how are users engaging with the product. Overall, all our user metrics are very strong. They're global in nature, and increasingly, we see newer verticals beginning to grow as well. So YouTube is working horizontally well at scale. And for us, it's making sure, as an ecosystem, it works better so that the content there, the experiences there are improving. We take our content responsibility work seriously, which makes more content creators engaged and makes it a more valuable product for advertisers as well but also supplementing the content you see there with other types of accessorizing things, be it merchandising, ticket sales. When we make it contextually relevant, what we have done in Search and Search ads over time, if we can bring that at YouTube when we see an opportunity, I think that sets us up well for the long term there.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Brent Thill from Jefferies.
+
+--------------------------------------------------------------------------------
+Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Ruth, in North America, was there anything that was abnormally unusual? Facebook had cited some weakness in North America. It looks like your North America number was relatively weak versus the last 4 years. Is there -- was there any anomaly that we should be aware of?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [17]
+--------------------------------------------------------------------------------
+
+          Thanks for that. So the regional breakdown also reflects product mix within regions. The U.S. year-on-year growth rate does reflect a decline in Hardware revenues relative to what was a fairly strong Hardware revenue growth rate in 4Q '18 and not much more to call out than that.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Stephen Ju from Crédit Suisse.
+
+--------------------------------------------------------------------------------
+Stephen D. Ju,  Crédit Suisse AG, Research Division - Director    [19]
+--------------------------------------------------------------------------------
+
+          So Sundar, I guess some of the more cross-product line synergies are showing up in an integrated software and hardware effort with stuff like the Pixel. But you've come up through the ranks at Google, so you're undoubtedly pretty sensitive to the various interests across various teams. But we're wondering what you may be looking to do to break down, I guess, what might have been more of a siloed effort in Google's history.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+
+          I think -- I spoke about execution at scale. And so for us, that means you have these product areas, which are focused on their users, but we are setting up teams which cut across all these areas and make sure they can bring their synergies and work at scale. So last year, we set up a core infrastructure team, which looks at things like how does the user journey work across, what does the shared infrastructure engineers can't use so that we don't reinvent the wheel in multiple areas, how can we commonly deploy AI across all these products. So I think that's been a good example of bringing teams together.
+Another big area where we invested like that to break down silos is our partnerships. We set up a global partnerships team. And our ability to bring a common Google perspective to our big global partners has helped us strike many new partnerships. I mentioned Activision Blizzard as an example. And they work and they're very synergistic with Cloud as well. To my point earlier, when people engage with us on cloud, they're looking for -- they're interested in a bigger digital transformation across the board.
+Google Assistant is a great example of -- because we are focused on the user, and the experience cuts across several of our product areas, it's been a great mechanism by which we can break down silos as well. But it's a great question, and I spend a lot of time on it.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Dan Salmon from BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Daniel Salmon,  BMO Capital Markets Equity Research - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          I had 2 questions, one clarifying one for Ruth and then maybe a big picture one for Sundar. Ruth, you distinguished between the growth of brand advertising and direct response on YouTube. Those comments were very clear. I just want to follow up and ask you just how you make that distinction between brand and direct response. Is it a different pricing model? Is it the presence of ad revenue share with a creator or both? Would just be curious on that distinction.
+And then to Sundar, the big picture one, we have heard others in the ecosystem talk about headwinds from targeting growing. Certainly, there are regulatory changes that also apply to you. You've made some changes to various Google advertising platforms. And of course, you're an owner of 2 of the largest, most important platforms in Chrome and the Android operating system. I could ask you 1 billion things on that last one. But what I'd really like to ask is the big picture question. If we roll up these sort of things for your total advertising business, how important are changes here to your top line growth? Are you seeing notable headwinds from these types of changes in the ecosystem as well?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [23]
+--------------------------------------------------------------------------------
+
+          So on the first one, we have again this quarter talked about brand and direct response. And as we've talked about in prior quarters, brand is growing at a healthy pace and remains the largest component of YouTube ads. Direct response is growing -- continues to grow at a very substantial growth. The distinction here is the format for -- in direct response, we're letting brands insert a tailored call to action in a video ad, such as signing up for a newsletter or scheduling an appointment or downloading an app or booking a trip, things of those sort. And that's why it's the direct response category.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [24]
+--------------------------------------------------------------------------------
+
+          And on the broader questions about headwinds, it's something we always need to take a look at. We try to stay focused on users and our partners. And we realize for these things to scale, you need to make sure the ecosystem is working well. And so we are engaged in these issues, and we anticipate and structurally work on them early on. So it's how we broadly approach these things. And so there's nothing notable to call out other than there will be continued changes in these ecosystems, and our ability to anticipate and adapt is key to the years ahead.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Justin Post from Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [26]
+--------------------------------------------------------------------------------
+
+          I'd like to ask a couple of bigger picture things on the new disclosures. So first on YouTube monetization, assuming you have about 2 billion users, it's about $7 or $8 per user. Just wondering how you feel about that monetization level given all the usage you're seeing there. And is there significant room to raise that when you compare it to other social networks?
+And then secondly, on the Cloud backlog, a very strong number, $11.4 billion versus our IaaS/PaaS revenue rates. Just wondering about how strong the new deals have been that you've signed in the last 6 months. It sounds like really good traction there. And then the profitability of these deals, how you feel about that?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [27]
+--------------------------------------------------------------------------------
+
+          On the question around YouTube, I do think there is a lot of opportunity ahead. You're right, it's a platform working at scale. I think -- Ruth spoke a little bit about brand and direct response. I think direct response is a huge growth area for us. And increasingly, I think when you look at the fact that people are consuming a lot of goods and services as part of their experience in YouTube, how can we create better commerce experiences also is a big opportunity for us. So looking across, I think there is more room, significantly more room, over the mid to long term on monetization levels. And so I think we see that as a big opportunity and are investing for it.
+On Cloud, definitely, we are increasingly doing much larger deals. And these deals can sometimes span beyond Cloud as well, and they can touch many areas. So as an example, if you're an automotive company, we can be talking to you across Cloud, Android Auto, in some cases, Waymo, and they all happen to be strong platforms -- partners on the advertising side as well. So these are large deals, and we do want to build these in a sustainable way so that we can serve the partner well, and so profitability has been something we are very focused on as well.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          And just to add a little more to that, where the $11.4 billion backlog number is, for us, we view it as a way to quantify the traction that we're having. And as you know well, in the enterprise phase, these tend to grow over time, and profitability as such comes across the cohorts. However, the point that we were trying to make and have made a couple of times here on the call is we are investing aggressively in Cloud overall given the opportunity that we see and the momentum we're having, and we'll continue to do so.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Youssef Squali from SunTrust.
+
+--------------------------------------------------------------------------------
+Youssef Houssaini Squali,  SunTrust Robinson Humphrey, Inc., Research Division - MD & Senior Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Two quick ones. First, Ruth, has the shortened holiday season had much of an impact on your Search business in North America? And then Sundar, as you talk about automation, machine learning, AI, how much of advertisers' search spend is now on auto bidding? And how do you think smart bidding is effective -- is affecting spending growth and pricing?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [31]
+--------------------------------------------------------------------------------
+
+          So on the holiday shopping season, there's really nothing to highlight there. What we find is there are seasonal puts and takes in any given period, so really nothing to note.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [32]
+--------------------------------------------------------------------------------
+
+          On -- I don't have specific numbers here but -- to add here, but effectively, we do see significant traction in these areas, and advertisers are leveraging the features we have, we are bringing here, be it smart bidding, auto bidding. There's tremendous traction with our advertisers here.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Kevin Rippey from Evercore.
+
+--------------------------------------------------------------------------------
+Kevin Michael Rippey,  Evercore ISI Institutional Equities, Research Division - Co-Head of Internet Research    [34]
+--------------------------------------------------------------------------------
+
+          This is primarily for Sundar. As you think about the risk profile of some of your businesses like Waymo, like Verily in health care, how do you manage those risks, which likely in a scenario where autonomous cars have some accident or something like that, having those in-house and perhaps brand damage that could do to Google versus what you could do if those were entirely separate enterprises? I know they're all held underneath the Alphabet umbrella, but just sort of big picture how you think about managing that risk over time.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [35]
+--------------------------------------------------------------------------------
+
+          Thanks, Kevin. We are -- as I spoke earlier in the remarks, part of the reason we are making sure we are investing in the proper governance structures so that we don't try to scale as a management across these important areas. Some of these are -- have regulatory aspects to it. We are, for some of these bets as well, and Verily is a great example, we have brought in outside investors, people with expertise and setting up proper Board structures and governance for these. So I think those all help, and we'll continue to evaluate these on a periodic basis and bring that rigor and discipline. But I do think Alphabet gives us a more flexible framework, if you will, to both have the independence when we need but where we can have common shared synergies, like our AI investments, bring that to bear as well.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Mark Mahaney from RBC.
+
+--------------------------------------------------------------------------------
+Benjamin Wheeler,  RBC Capital Markets, Research Division - Associate    [37]
+--------------------------------------------------------------------------------
+
+          This is Ben on for Mark. Ruth, I just kind of want to double-click on something you said before in terms of Other Bets kind of like a sharpening focus on the allocation there. Was that kind of -- is that kind of signaling more of the same? Or is that kind of potentially maybe prioritizing investments more towards like share buybacks and stuff like that as opposed to -- like basically, I'm trying to ask, should we expect greater rationalization in the Other Bets segment going forward? Or is it more of the same?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [38]
+--------------------------------------------------------------------------------
+
+          So what I was saying is that when we look at the Other Bets and execution, we've talked over time about measuring them against specific metrics and milestones: operating, business, technology, financial performance. And we look at that as we calibrate the pace of investment, the approach to investments, and we are continuing to do that. We're putting a sharper focus on this, as Sundar indicated, looking at where does it make sense to work with external capital as we did with Verily as an example. But the bigger point is we continue to invest for the long term. And when we look at our capital return approach, it's very consistent with what we've talked about previously. The primary use of capital continues to be to support long-term growth in Google and in Other Bets, and then it's about strategic investments and, on top of that, return of capital to shareholders.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Ross Sandler from Barclays.
+
+--------------------------------------------------------------------------------
+Ross Adam Sandler,  Barclays Bank PLC, Research Division - MD of Americas Equity Research & Senior Internet Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Two questions. The Google segment margin looked really strong in the fourth quarter. I think this is the first time that mix shift actually helped you guys from a margin perspective. So Ruth, can you just talk about how much of that margin increase year-on-year was from the Hardware business dropping off versus improving elsewhere? And then as you look forward, you mentioned that head count is going to accelerate in 2020. So is this an investment year in your view or just kind of more of the steady kind of increase?
+And then second question, on YouTube, a lot of discussion here about direct response impact and the opportunity there. What percent of AdWords advertisers are buying Search only versus buying Search and YouTube at this stage? And it looks like from your new disclosure that you did decelerate a little bit in the fourth quarter. Any color on what's driving that relative to the full year '19 growth rate?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [41]
+--------------------------------------------------------------------------------
+
+          Okay. So taking the first part of that. In terms of the operating margin in the fourth quarter, there were a number of discrete items in the fourth quarter last year in 2018, so that did result in a favorable Google op inc year-on-year comparison for this year. And as you said, the other cost of sales does reflect lower expenses related to Hardware in Q4, in particular, versus last year. But I think the main point to leave you with is that we do intend to continue to invest aggressively to support growth in the areas that we've already talked about quite a bit on this call: in Search, in Cloud, in Hardware and in YouTube.
+In terms of head count, I tried to break it out in my closing comments that it starts with those areas -- putting head count behind the areas where we're investing for the long term, and then we have a couple of additional factors that are somewhat expected to boost the year-on-year growth rate. One is bringing some support in-house that's OpEx-neutral, and the other is the Fitbit acquisition.
+In terms of the third part of your question, I'm just trying to recall it. The -- in terms of the mix, I'm not sure there's much to add there.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          And our final question comes from the line of Colin Sebastian from Baird.
+
+--------------------------------------------------------------------------------
+Colin Alan Sebastian,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [43]
+--------------------------------------------------------------------------------
+
+          I guess, first, just given the focus and new leadership team in commerce, was wondering if you could talk a little bit more about the opportunities you see for innovation there at the transactional part of the funnel. And then as a quick follow-up on the acceleration in GCP, beyond the size of the deals, were there particular product areas, like BigQuery or something else, worth calling out that might have inflected to drive that acceleration?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Alphabet Inc. - CEO & Director    [44]
+--------------------------------------------------------------------------------
+
+          Great. On commerce, I'm really excited Bill Ready is here. He brings a lot of experience. And you mentioned the transactional part of the funnel, and I think it's an area where he brings a lot of experience given his prior work. But we definitely see opportunity to improve the overall user experience in terms of how we present our results, the visual nature of it, making that experience more delightful. And when people are interested in something, how do you make it more seamless to complete the transaction and bringing in deep partnerships with merchants and retailers to making that happen. So excited about the opportunity there, and that's where we are investing.
+On GCP, we did see -- it's been a lot to do with bringing to bear all the resources we have and engaging well on these deals, and the execution there has been great. And it's -- definitely, we see strong traction in data analytics. And so our strength there as a company is definitely contributing significantly as well as our overall leadership in AI.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Ellen West for any further remarks.
+
+--------------------------------------------------------------------------------
+Ellen West,  Alphabet Inc. - VP of IR    [46]
+--------------------------------------------------------------------------------
+
+          Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter 2020 conference call. Thank you, and have a good evening.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. Thank you for participating, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

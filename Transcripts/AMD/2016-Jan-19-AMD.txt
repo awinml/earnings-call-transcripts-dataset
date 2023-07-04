@@ -1,0 +1,691 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2015 Advanced Micro Devices Inc Earnings Call
+JANUARY 19, 2016 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Lisa Su
+   AMD - President, CEO
+ * Devinder Kumar
+   AMD - SVP, CFO, Treasurer
+ * Liz Morali
+   AMD - Director, IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Matt Ramsay
+   Canaccord Genuity - Analyst
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Stacy Rasgon
+   Bernstein - Analyst
+ * Hans Mosesmann
+   Raymond James & Associates, Inc. - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+ * Srini Pajjuri
+   CLSA Limited - Analyst
+ * Steven Chin
+   UBS - Analyst
+ * Ian Ing
+   MKM Partners - Analyst
+ * Sanjay Chaurasia
+   Nomura Securities Intl (America) - Analyst
+ * Joe Moore
+   Morgan Stanley - Analyst
+ * Chris Rolland
+   FBR & Co. - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and thank you for your patience. You have joined AMD's fourth-quarter and year-end earnings conference call. (Operator Instructions) As a reminder, this conference may be recorded.
+I would now like to turn the call over to your host, Director of Investor Relations, Ms. Liz Morali.
+
+--------------------------------------------------------------------------------
+Liz Morali,  AMD - Director, IR    [2]
+--------------------------------------------------------------------------------
+
+          (technical difficulty) fourth-quarter and year-end conference call. By now, you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you have not reviewed these documents, they can be found on AMD's website at ir.amd.com.
+Participants on today's conference call are Lisa Su, our President and Chief Executive Officer, and Devinder Kumar, our Senior Vice President, Chief Financial Officer, and Treasurer. This is a live call and will be replayed via webcast on amd.com.
+I would like to highlight a few dates for you. Mark Papermaster, Senior Vice President and CTO, will present at the Morgan Stanley Technology, Media, and Telecom conference on March 3 in San Francisco. And our first-quarter quiet time will begin at the close of business on Friday, March 11, 2016.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions, and expectations, speak only as of the current date, and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectation.
+Additionally, please note that we will be referring to non-GAAP figures during this call, except for revenue, which is on a GAAP basis. The non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measure in the press release and CFO commentary posted on our website at quarterlyearnings.amd.com.
+Please refer to the cautionary statements in today's earnings press release and CFO commentary for more information. You will also find detailed discussions about our risk factors in our filings with the SEC and in particular AMD's quarterly report on Form 10-Q for the quarter ended September 26, 2015.
+With that, I will hand the call over to Lisa. Lisa?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Liz, and good afternoon to all those listening in today. While 2015 was a challenging year from a financial perspective, the dedicated commitment of our employees, combined with our long-term technology investments and sharpened focus, have created a strong foundation for future growth.
+In the fourth quarter, revenue decreased 10% sequentially to $958 million, as seasonally lower semi-custom SoC shipments were partially offset by the second straight quarter of double-digit percentage revenue growth in our computing and graphics business.
+Looking at our computing and graphics segment, revenue increased 11% sequentially as we continued to improve the performance of our PC business. We had strong double-digit sequential percentage growth in mobile APU sales, driven largely by increased Carrizo shipments and good sellthrough of AMD-based PCs on Black Friday.
+In the channel, we delivered our third straight quarter of sequential revenue growth and further reduced downstream product inventories based on improved demand for FX CPUs and A-Series APUs. We also made progress diversifying our client computing revenue as we further expand into the commercial PC market.
+Second-half 2015 commercial APU unit shipments increased more than 15% from the first half of the year. We believe we can continue to grow our commercial shipments based on the high-volume wins we are securing both across large enterprises and the public sector.
+Now shifting to graphics, GPU revenue increased sequentially for the second straight quarter, driven by improved AIB channel sales of our Radeon 300 series across the enthusiast performance and mainstream segments and growth in professional graphics sales. The PC gaming market strength helped fuel a richer GPU mix and improved demand for our high-end Radeon R9 series in the quarter. We expect this momentum to continue throughout 2016 as Oculus and HTC begin shipping consumer-ready VR headsets.
+The buzz and interest in VR is an exciting trend that is focusing the software industry's attention and some of its brightest minds back on the PC platform. While the initial wave of VR will be focused on gaming, an increasing number of developers see VR as the most significant advancement in how we interact with technology since the introduction of the mouse and graphical user interface. Most importantly, these breakthrough software experiences will only be enabled with high performance energy efficient GPUs.
+Overall, we made good progress further stabilizing our PC business in the fourth quarter. And we believe we are well positioned to navigate the seasonally weaker first half of the year and ongoing challenges in the China PC market due to macro conditions.
+Turning to our enterprise embedded and semi-custom segment, revenue declined 23% sequentially, in line with our expectations as semi-custom sales decreased from their third-quarter seasonal peak. We had record annual semi-custom unit shipments in 2015 and have shipped more than 50 million semi-custom APUs as a critical and trusted partner to Sony and Microsoft.
+Demand for game consoles looks strong for 2016 and we remain on track to generate additional revenue from new semi-custom business in the second half of 2016. We also began production shipments of our first 64-bit data-center-class ARM SoC and expect additional system introductions from our partners throughout 2016 as the ARM 64 infrastructure ecosystem further develops.
+Now turning to the year ahead. We remain focused on completing our strategic work around three key growth pillars. First, in PCs, even in a declining overall market, we believe we can regain client compute and discrete graphics share for the year, driven by gaming, VR, commercial, and our most competitive product roadmap in more than a decade.
+We have clear opportunities to regain GPU share in 2016 based on the performance per watt of our new GPUs and software leadership. Earlier this quarter at CES, we announced our new Polaris GPU architecture, which we expect to begin shipping in the middle of 2016.
+Polaris combines significant design enhancements as well as 14-nanometer FinFET process technology to deliver double the performance per watt of our current GPU offerings. Customer response has been excellent, particularly in the notebook space, where for the first time ever there will be a GPU architecture capable of bringing high-end gaming and VR experiences to thin and light notebooks.
+In client computing, our opportunities to regain share in 2016 will be driven by our design win momentum, continued progress expanding into the commercial market, and reentering the high-performance desktop market late in the year with our Zen-based Summit Ridge CPU.
+Our second growth pillar is in the $15-billion-plus data center and infrastructure markets, driven by our FirePro GPUs and next-generation server CPUs.
+Our Zen-based GPU development is on track to achieve greater than 40% IPC uplift from our previous generation and we're on schedule to sample later this year. We have secured several key design wins with global OEMs for our Zen-based server CPU and believe we can rapidly reestablish our presence in the data center when we bring our new products to market in 2017.
+With FirePro, we plan to leverage our upcoming Polaris architecture and suite of new software tools designed to dramatically simplify GPU computing to accelerate the adoption of FirePro in the HPC and data center markets.
+Our third growth pillar is focused on further expanding the TAM for our products and technologies through ramping our previously communicated semi-custom wins, converting additional semi-custom pipeline opportunities, and gaining share in targeted embedded markets.
+We also have near-term opportunities to strategically monetize our valuable IP in 2016 through licensing and partnerships that are complementary to our product development efforts. I look forward to sharing the initial results of our IP monetization strategy in the coming quarters.
+While we expect revenue to be lower in the first half of 2016 compared to the second half based on the seasonality of the PC and game console businesses, we remain focused on successfully executing our product and technology roadmaps and plan to return AMD to non-GAAP operating profitability in the second half of 2016 and generate positive cash flow from operations for the year.
+Now I'd like to turn the call over to Devinder to provide some additional color on our fourth-quarter financial performance. Devinder?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Lisa, and good afternoon, everyone. In 2015, notwithstanding a difficult PC market and financial losses, we continued our multiyear effort to transition our business model by diversifying revenue and establishing a foundation for improved financial performance.
+We made progress in stabilizing the computing and graphics segment and achieved strong double-digit percentage revenue growth in the second half of 2015. We also reduced overall channel inventory significantly from the prior year. In our EESC segment, we had record shipments of our semi-custom SoCs powering the Playstation 4 and Xbox One game consoles.
+In total, against a backdrop of a 28% revenue decline from 2014, we reduced our cost profile with a 14% decrease in OpEx, managed our inventory down, and maintained our cash well within our target range of $600 million to $1 billion.
+Now let me provide the specifics of the fourth quarter. Revenue was $958 million, down 10% sequentially, driven primarily by seasonally lower sales of semi-custom SoCs, partially offset by higher computing and graphics segment sales. The year-over-year decline was 23% due primarily to lower client processor and chipset sales and lower game console royalties.
+Gross margin was 30%, a 7 percentage point improvement from the prior quarter, with 6 percentage points resulting from the impact of a $65 million inventory write-down in Q3.  And the remainder primarily from improved product mix in the computing and graphics segment.
+Operating expenses were $323 million, down $13 million from the prior quarter, primarily due to lower headcount and ongoing expense control. Operating loss was $39 million and net loss was $79 million, with loss per share of $0.10, calculated using 791 million shares.
+Net interest, other expense, and taxes were $40 million in the quarter compared to $39 million in the prior quarter. The GAAP results include a $13 million tax settlement in a foreign jurisdiction. Adjusted EBITDA was negative $5 million, improving from negative $55 million in the prior quarter.
+Now turning to the business segments. Computing and graphics revenue was $470 million, up 11% sequentially, primarily due to higher notebook processor sales. This is the second consecutive quarter of double-digit percentage revenue growth for this segment as we increased sales on both our client compute and graphics processors in Q4. Computing and graphics segment operating loss was $99 million, improving from $181 million the prior quarter, primarily due to higher sales and the absence of a third-quarter 2015 inventory write-down.
+Enterprise embedded and semi-custom revenue was $488 million, down 23% from the prior quarter, primarily due to seasonally lower sales of our semi-custom SoCs. The operating income of this segment was $59 million, down from $84 million in the prior quarter, driven primarily by lower semi-custom product sales.
+Turning to the balance sheet, our cash and cash equivalents totaled $785 million at the end of the quarter, up $30 million from the end of the prior quarter. Inventory was $678 million, down $83 million or 11% from the end of the prior quarter, primarily due to reduced levels of semi-custom SoC inventory.
+We have concluded our wafer reprofiling discussions related to the 2015 WSA amendment with GLOBALFOUNDRIES and will be moving approximately $60 million of wafer purchases from that amendment to later in 2016. To date, total wafer purchases under the 2015 WSA amendment are approximately $1 billion, including approximately $150 million of wafer purchases which were not taken until early in our fiscal first quarter 2016. We are currently negotiating the 2016 WSA amendment.
+Debt as of the end of the quarter was $2.26 billion, flat on the end of the prior quarter, including total borrowings of $230 million on our secured revolving line of credit, unchanged from the prior quarter. Free cash flow in the fourth quarter was a positive $21 million, an improvement of $105 million from the third quarter of 2015.
+Turning to our outlook for the first quarter of 2016, which is based on a 13-week quarter, AMD expects revenue to decrease 14% sequentially, plus or minus 3%, driven by game console seasonality and a cautious macro environment in China. Gross margin is expected to be approximately 32%.
+Non-GAAP operating expenses are expected to be approximately $320 million. Interest expense, taxes, and other to be approximately $42 million. Cash and cash equivalent balances to be down approximately $100 million from the end of the fourth quarter, including $70 million of cash interest payments.
+This cash balance does not include any cash proceeds related to the ATMP JV with Nantong Fujitsu Microelectronics. We expect to close that transaction in the first half of 2016 pending regulatory and other approvals and expect cash flow proceeds of approximately $320 million net of taxes and other expenses upon closure. Inventory is expected to be approximately flat from fourth-quarter levels.
+Our fiscal year 2016 is based on 53 weeks and we plan to take the extra week in our fiscal fourth quarter. For the full year 2016, we expect revenue to grow year over year. Non-GAAP operating expenses between $320 million and $340 million per quarter as we continue to invest in leadership products and in line with our expected revenue profile.
+Interest expense, taxes, and other will be approximately $45 million per quarter. Cash and cash equivalent balances to be in the optimal zone of $600 million to $1 billion. Capital expenditures of approximately $70 million. Inventory to be down year over year, and to return to non-GAAP operating profitability in the second half of 2016 and generate positive free cash flow from operations for the year.
+In closing, as we begin the new year, we remain focused on financial and operational execution and look forward to building on our second-half 2015 product and roadmap momentum throughout 2016 across the three areas that Lisa outlined: high-performance PCs, the data center, and TAM expansion through semi-custom and embedded opportunities.
+With that, I'll turn it back to Liz. Liz?
+
+--------------------------------------------------------------------------------
+Liz Morali,  AMD - Director, IR    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Devinder. Operator, can you please poll the audience for questions?
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+David Wong, Wells Fargo.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks very much. Looking at your guidance for growth, year-over-year growth in revenue in 2016, you are ending with the last quarter your game console revenues down year over year. Do you expect game console revenues to grow in 2016 as a whole? And what other things will drive overall growth for 2016?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [3]
+--------------------------------------------------------------------------------
+
+          David, thanks for the question. So let me give you a bit of color through the guidance and how we view 2016. So if you look at overall 2016, we do expect to grow revenues. And if you look at our business, we see certainly the second-half revenue will be stronger than the first half because of both of our businesses.
+Game consoles -- we see units going up 2016 to 2015. We've also said in the enterprise embedded and semi-custom segment that we will be ramping some new design revenue in the second half of 2016.  So we see that as a positive growth driver.
+And then if you look overall at our computing and graphics business, we do believe even in a down PC market that we have the opportunity to gain share as a growth vector in computing and graphics. So those are the overall drivers for the 2016 comments.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. Great. And just a quick follow-up. I understand that you don't breakout all the details, but can you give us some feeling as to whether your discrete GPU business is showing year-over-year growth at the moment, either in the December quarter or expected for the March quarter?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [5]
+--------------------------------------------------------------------------------
+
+          Yes. So as you say, we don't go into that level of detail. I think what we have said is that we did see growth in our discrete graphics business sequentially in both Q3 and Q4. As we look into 2016 with our discrete graphics business, we have a strong product portfolio. And particularly the ramp and introduction of our new FinFET products -- codenamed Polaris -- will happen in the middle of 2016, so that will be a 2016 growth driver.
+So certainly we've seen some sequential improvement in the second half of 2015 and we look forward to those product releases in 2016.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Ian Ing, MKM Partners.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Thanks. Could you talk more about the channel business in light of your cautious comments on macro in China. Are you seeing weakness potentially in the ODM business or the white box market?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [8]
+--------------------------------------------------------------------------------
+
+          Yes. So Ian, I think overall if you look at the channel business in the second half of the year for us -- second half 2015 relative to first half 2015 -- we have made quite a bit of progress in the channel in terms of just overall inventory levels. We saw a good quarter in the fourth quarter in both North America and Europe.
+We did see a degradation in China towards the end of the fourth quarter. And I think there are cautious comments throughout the industry about sort of the early 2016 start for China. So I think overall what I would say is I'm pleased with the progress we've made in the channel. I think in both the desktop channel as well as the AIB channel we've made some progress in the second half of the year.
+I think China is a factor as we go into the first quarter, but I think overall we still view the channel as a positive business for AMD and one in which we believe we can grow share.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Okay. Great. And then Devinder, your OpEx guidance range: $320 million to $340 million in the coming quarters. Can you give us a sense of the timing of some of the upcoming mask costs, given you've got Zen-based cores and Polaris coming up?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [10]
+--------------------------------------------------------------------------------
+
+          I would say I think you've hit the nail on the head. There are new products coming out and there's some [mask to the] cost. I think that's more weighted towards later in the year. From a Q1 time frame, we have given the guidance on the OpEx at the $320 million level compared to where we ended up in Q4 of 2015.
+So yes, we do have support for the investments in the products we need and in particular the technology and product transitions that we have coming out in 2016.  And that's why you see a range in OpEx of between $320 million and $340 million.
+And then a last factor that obviously affects the OpEx is obviously the revenue profile, because Lisa said earlier it's stronger in the second half of the year than the first half of the year.
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Okay. And my last question. You're talking now about some GPU share gains in 2016. I mean, does a lot of that come from the Polaris launch starting midyear or is that sort of sustained business from the R9 Series? Or a combination?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [12]
+--------------------------------------------------------------------------------
+
+          Yes. So we have made some progress in with the R9 Series, particularly as in the fourth quarter. I think as we go forward, it's a combination of things. If you look at our investments in graphics, they really include both hardware and software.
+So the Polaris family is excellent from a hardware standpoint in terms of the performance per watt that we get. But we have a number of software initiatives that we've started over the past couple months and will continue. And we see all of those contributing to graphics momentum.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Sanjay Chaurasia, Nomura.
+
+--------------------------------------------------------------------------------
+Sanjay Chaurasia,  Nomura Securities Intl (America) - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          One question on gross margin. I noticed that you are not providing gross margin guidance for 2016 and I was wondering if you have clarity that your revenue would be up year on year. What are some of the puts and takes here that's making you hold gross margin guidance?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [15]
+--------------------------------------------------------------------------------
+
+          I think the key is if you look back over the last few quarters, we have made progress on the gross margin front, ending Q4 2015 at a 30% level. And the guidance specifically for Q1 of 2016 is 32%.
+You're right -- I haven't given guidance for the year. But some of the puts and takes are really the mix of product as we get more into 2016. And then obviously the mix of business between our computing and graphics segment and the EESC segment.
+In computing and graphics, we have introduced some new products in the second half of 2015 and even going into 2016 and you have some of the commercial success we've had. And that obviously has gross margin, but at the same time, we want to see how the year unfolds, in particular on the PC side of the house, given some of the comments we made about caution in China in particular.
+So for the year, I'm not giving guidance today. This is kind of a first-quarter guidance at a 32% for gross margin and we'll get through the year as we get into the next one or two quarters.
+
+--------------------------------------------------------------------------------
+Sanjay Chaurasia,  Nomura Securities Intl (America) - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Okay. And then a follow-up, Lisa, a question on servers. You indicated you are shipping your Seattle, but at the same time in your guidance, you didn't mention anything about ARM contributing in 2016. And my question is, is ARM servers a meaningful share for you in 2017 and 2018?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [17]
+--------------------------------------------------------------------------------
+
+          So Sanjay, the ARM server did start shipments and we have shipped our first production unit. I think we have some design wins with it and I would call it a modest revenue contributor in 2016.
+We still see ARM strategically as a interesting market for the infrastructure markets, but it is certainly developing a bit slower than expected. So I think overall I think it's an important proof point in terms of enterprise class server architectures with ARM, but it's a modest revenue contribution in 2016.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Vivek Arya, BofA Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. Lisa, just to follow-up on the last one, on ARM servers. The comment about progress being somewhat slower -- do you think that's an AMD-specific trend or does that apply to all the ARM server vendors?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [20]
+--------------------------------------------------------------------------------
+
+          I think it's more of a market statement, Vivek, than an AMD-specific statement. I think the overall commentary -- maybe if I just expand a little bit -- is the data center market is really, really interesting. And I think we all agree with that. I think x86 has a lot of momentum and that's one of the reasons that we've put quite a bit more emphasis on our x86 data center and infrastructure play.
+Now that being said, I think ARM does have a lot of specific areas where it can contribute and it has done so. But I would say in servers in particular perhaps slower than originally expected, but still something to watch for the medium term.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Got it. And as I follow up perhaps a longer-term question, which is what is the strategy to actually get to a meaningful earnings and cash flow growth? I understand the macro environment is a little tough right now, but the way I see it, a lot of the progress you guys are making on your embedded products is being offset by the declines in your legacy businesses.
+And as the mix is shifting to your embedded products, gross margins are sort of holding around that 30% level, but you're not really able to reduce cost. So sales are finding it tough to grow with that offset; gross margins are not moving up that much and you are now going to hold OpEx steady also. So I'm just trying to understand what are we missing here that can help AMD be a more sustainably profitable company? Thank you.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [22]
+--------------------------------------------------------------------------------
+
+          Sure, Vivek. So let me try and then Devinder can add if he has some comments. So I think what you have to do is take a step back and look at overall, the progress in year 2015 from a foundation standpoint and then what we hope to accomplish in 2016 and forward.
+I think the most important message around sustainable profitability for AMD is around our product and technology roadmap and ensuring that we grow share in our target markets. So that is certainly the goal. I think if you look at some of the progress that we made in the second half of 2015, we have seen some stabilization in our computing and graphics business and actually a return to some sequential growth.
+As we go forward into 2016, we certainly have to continue that momentum in both our client, compute, as well as our graphics business in terms of gaining profitable unit market share. And then as we go forward, we have our data center strategy as well as our semi-custom and new markets that will bring additional opportunities.
+So from a product standpoint, it is about getting our technology out there and I think we will enter 2016 with the strongest product portfolio we've had in a long time. And we need to continue to work with our customers on design opportunities and moving the platforms into production as we go through the year 2016.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [23]
+--------------------------------------------------------------------------------
+
+          If I can add, Lisa, I think the other thing I would add is if you look at a couple of areas that Lisa mentioned -- data center in particular, but also the embedded space. As we talked about in our financial analyst day in May, those are businesses that command higher gross margins.
+So, Vivek, to your point about the gross margins, I think longer term with that business kicking in in 2017, we believe that we can get closer to the longer-term model. 2016 we've guided to operating -- free cash flow positive from an operation standpoint. And as we continue to manage the cost, as you said, especially on the OpEx side of the house, improving the gross margin in and of itself obviously benefits the bottom line. And that's kind of heading toward the longer-term model we outlined at the analyst day that we had in May of 2015.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Thank you. One last quick clarification: what PC unit declines, Lisa, are you assuming for 2016? Thank you.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [25]
+--------------------------------------------------------------------------------
+
+          So if you look at the current market projections, it's somewhere in the low single digits. I think if you were to talk to the customer set, it might go from low single digit to mid single digit. So that's the environment that we are forecasting unit share growth.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you. Good luck.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Stacy Rasgon, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my questions. First, I was wondering if you could elaborate a little more on how you plan to gain share on PCs for the year? Especially since it looks like Zen isn't really launching until the tail end of the year and it looks like you're starting Q1 already in the hole if I compare your guidance versus Intel.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [29]
+--------------------------------------------------------------------------------
+
+          Okay, Stacy, why don't I start and again Devinder can add. So overall if you look at PCs, I think we'll have to wait until the numbers come out, but we believe we have gained a bit of share in Q4.
+I think if you look at the driving factors behind that, Stacy, there were a couple factors. In 2015, I think we did a concerted effort to clean up some of our channel inventory, both on the OEM side as well as in the DIY channel. So that factor will be gone in 2015 relative to 2016.
+I think if you look at the product roadmap, I think the product roadmap is stronger. I think if you look at our commercial business, that is also stronger. So it's leading to a stronger product mix, so those are the key factors.
+Relative to the Q1 guidance -- I'll make a comment about Q1 guidance overall. Our Q1 guidance includes obviously both the computing and graphics and the enterprise embedded and semi-custom business. The semi-custom business is historically significantly lower in the first quarter of the year. If you look at the past couple of years it's been the case because they are coming off of a strong holiday season. So I would say that has to be factored into the guidance.
+And then if you look at the computing and graphics business, I think what we're seeing is very consistent with what's out there in the market. And we believe in that market -- that set of market conditions we can gain share.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [30]
+--------------------------------------------------------------------------------
+
+          The only thing I would add, Stacy, is I think too early to tell from a viewpoint of your thinking in terms of the guidance for Q1, that just based on the guidance, we lose share in Q1 in the PC space.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Well, if I just looked, you're down 14% and Intel down what they are, there is a differential there.
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [32]
+--------------------------------------------------------------------------------
+
+          I think the key is to look at the guidance that we gave and trying to parse out where the decline is. And it's kind of more weighted towards the EESC segment than the computing and graphics segment.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Got it. Okay. Thanks. For my follow-up --
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [34]
+--------------------------------------------------------------------------------
+
+          The other thing -- just one last clarification. I think the thing to bear in mind -- I think I said in my prepared remarks in our quarter this year, actually both from a viewpoint of the quarter and the year, we have a 53-week year and we have a 13-week quarter in Q1.  As opposed to what the competitors and you are doing, I think it's more on the 14 weeks as opposed to 13 weeks.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Well, even if you correct for that, but okay. In terms of my follow-up, just very briefly, does your guidance for positive free cash flow for the year include the proceeds from the backend sale? And does your guidance for a 32% gross margin for next quarter contemplate you selling any of the inventory that you wrote down in Q3?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [36]
+--------------------------------------------------------------------------------
+
+          So the first one is no, it does not. The free cash flow from operations being positive for the year does not include the proceeds from the joint venture for the backend facilities. And then the guidance for the margin at 32% Q1 does not contemplate any sale of previous [sales] of inventory.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Got it. And that free cash flow -- that's not operating cash flow guidance, that's free cash flow guidance? (multiple speakers)
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [38]
+--------------------------------------------------------------------------------
+
+          No, that's free cash flow. I think the way we defined it is operating cash flow less CapEx.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Got it. Okay. Thank you, guys. Good luck.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Matt Ramsay, Canaccord Genuity.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Thank you very much. Good afternoon. I think there's some -- my observation looking at the product roadmap is there's some pretty big hurdles past: getting Polaris on FinFET, getting Zen on FinFET over the next few quarters.
+I guess relative to some lower operating spending that you guys are doing as a Company, maybe Lisa, you could lay out some priorities for how you are going to roll out these products? I guess particularly I'm looking at how you balance semi-custom versus discrete GPU? How you balance enterprise GPUs versus APUs when you roll out Zen. It seems like quite a bit to take on, given the lower spending levels of the business at a whole and I just wonder how you are prioritizing that versus the guidance for the year? Thanks.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [42]
+--------------------------------------------------------------------------------
+
+          Sure. So Matt, I think maybe a couple comments. I will say that I am pleased with the execution on engineering that we have accomplished over the last 12 months. I think we have passed some significant hurdles. The transition to FinFET for us was very, very critical across our businesses and I feel good about the state of the progress there.
+As it reflects on 2016 spending, I think Devinder commented earlier, but I would say that's why we're giving ourselves a range in the OpEx from $320 million to $340 million. And we are being prudent in where we spend. However, clearly there is a significant focus on discrete graphics and what we can do in that space.
+I think we're very excited about the momentum around virtual reality and the momentum in gaming. And we think that that's a very good market for us.
+I think relative to our CPU competitiveness and retaining competitiveness there, that is a very key priority as well. So Zen across both our client computing as well as our server markets are a priority.
+Relative -- the good thing about our semi-custom business is it does rely on customer investment to customize the roadmap. So I think the combination of those things gives us a reasonable envelope to execute the go-to-market around the product portfolio.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          All right. Thank you. Thank you for that. And I guess as my follow-up, I think I took away as an impression at least from CES a refocusing of investment on developers, particularly in the GPU space. So Lisa, maybe you could speak to that little bit and how you guys are trying to I guess balance the priorities of the semi-custom business in consoles and gaming with sort of rekindling the brand and maybe rekindling mindshare with developers in the PC gaming community? Thanks.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [44]
+--------------------------------------------------------------------------------
+
+          I think the Radeon Technologies Group has added a lot of focus to our graphics activities. And I think as you said, it's both a hardware and software statement. So the work we've done around our drivers and trying to ensure that we have a good customer experience as well as a good development experience is certainly there. I think the main takeaway is: we know how to do this. It's really a matter of getting the focus and getting it done.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Canaccord Genuity - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          All right. Thanks. Good luck.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Srini Pajjuri, CLSA Securities.
+
+--------------------------------------------------------------------------------
+Srini Pajjuri,  CLSA Limited - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Thank you. Lisa, just going back to your annual guidance for growth. If I start from down 14%, I think, you have to model double-digit for the next three quarters, which is well above seasonal for you. So I'm trying to understand where the growth is coming from.
+Obviously you said you expect to gain share, but can you talk about the semi-custom win that's supposed to ramp in the second half, how big that opportunity is, and when exactly you expect those ramps to come in?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [48]
+--------------------------------------------------------------------------------
+
+          Let me try to frame it in this way. So if you look overall at our business -- yes, we are projecting full-year revenue growth 2016 compared to 2015 and so we would have to have some significant growth as we go into the second half of the year.
+Independent of any new designs, the semi-custom business naturally is significantly higher in the second half than in the first half; especially third quarter. It's kind of a peak for the business as we go into the holiday season and we continue to see that phenomenon as our customers are giving us their forecast.
+We expect the base semi-custom business or the base game consoles to continue unit growth in 2016 versus 2015. There will be some modest ASP decline with that, and then we expect to layer over it some new semi-custom revenue starting in the second half of the year.
+So from what we see, obviously a lot of things have to happen, but the semi-custom business is one that we've been able to predict pretty well, given the customer long-term forecasts. And then we have to continue the conversation around the computing and graphics business as we see how the market sorts itself out in the first half of the year going into the stronger second half for the PC business.
+
+--------------------------------------------------------------------------------
+Srini Pajjuri,  CLSA Limited - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Okay. Then as a follow-up, I think, Lisa, it was last quarter you told us that you were looking to monetize some of the IP properties that you have. Can you give us an update as to -- based on your discussions how you see that opportunity short term and long term? Thank you.
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [50]
+--------------------------------------------------------------------------------
+
+          Yes. So on the IP monetization strategy, we will continue to update that quarterly as we go through the process. I think we have had really a good discussion around where to go there. I think there are several different avenues that we believe our IP will be valuable.
+I think on the straight patent side, we've said before we have 10,000 patents that are over a substantive number of technical areas, including graphics and microprocessors and other semiconductor patents. Those can certainly be licensed or in some cases there may be sales.
+However, another area that we think has a lot of potential is the area of technology licensing, where we can help partners accomplish their objectives with both patents and know-how. So we will update the results on that as we go through 2016, but we do believe it's a significant area for us going forward.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Ross Seymore, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Thanks for letting me ask a question. Lisa, one for you on I guess what you'd call now the base enterprise embedded and semi-custom business. You talked about the gaming SoC business being up on a unit basis, but in 2015, that whole segment was down about 8% year over year.
+So I guess my question is I know new things are coming in in the back half of this year, but what gives you confidence that today's core business can actually remain anywhere close to flat considering that it fell in 2015?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [53]
+--------------------------------------------------------------------------------
+
+          Yes, Ross. So let me give you some more color on the compare, which might help. So on the base EESC business, if you were to look at product revenues of semi-custom game console SoCs, they were actually up a bit. So overall, units were up double-digit percentage. ASP declined, but less than that. So product revenue was up.
+What you saw as segment decline was actually legacy revenue from server and embedded. And if you remember, we have some legacy revenue based on some of the older updrawn products that we continue to sell. And that has seen a drop off as well as our DCSS or C Micro business was there in 2014 that we exited in 2015. So that was the year-on-year decline that was there.
+And then I think as you go forward to 2016 -- I'm not being that specific about the base business, but I will say I think units will be up. And we will have to see exactly how much up and as the markets go, but we certainly don't see it substantially down, if that's what you're implying.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          That's very helpful. And I guess piggybacking off that to an earlier question -- this time for Devinder on the gross margin side. Correct me if from wrong here, but what I heard as to the answer to the earlier question as to why you're not guiding for the full-year gross margin was partially because the unknown mix dynamic in revenues.
+To the extent that's true, does that imply that the gross margin delta between the computing and graphics group and the EESC group, even with the new ramps in semi-custom, is likely to remain as wide as it has in the last year or so?
+
+--------------------------------------------------------------------------------
+Devinder Kumar,  AMD - SVP, CFO, Treasurer    [55]
+--------------------------------------------------------------------------------
+
+          I think we have to see how the year unfolds, to be honest. I think Q1, like I said, the guidance at 32%. We need to see mix of product. We have new products being introduced in both the businesses with the new design wins in the second half on the semi-custom side. And then obviously on the CG side, you've heard us talk about graphics and computing new products kicking in.
+So from my standpoint, I want to see how it unfolds in terms of the mix of product, mix of the business before getting into the gross margin. But fair to say, as you know, the semi-custom business -- just the way the model works on an NRE standpoint has lower gross margin than the computing and graphics side of the business, so that's a fair statement.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Chris Rolland, FBR & Co.
+
+--------------------------------------------------------------------------------
+Chris Rolland,  FBR & Co. - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Thanks for the question. On the semi-custom business, I'm sure you guys have looked at prior console platform price cuts for customers and their effect on sellthrough. So I'd love to know how you are kind of thinking about that and the potential re-acceleration if that were to happen. Do you have any prior metrics you can share with us?
+And then also, I think I know the answer, but if there was a platform price cut, should we still expect to slow in linear reduction in your ASPs or might there be something a little bit more aggressive, like a one-time step down?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [58]
+--------------------------------------------------------------------------------
+
+          Yes. Okay. So Chris, if you look at the semi-custom cycle -- and again, these cycles are hard to predict -- through this year, through the end of 2015, the game console units are far ahead of the previous cycle. So on the order of 20 million units ahead of the previous cycle.
+When you look at the significant price points, I would say there are sub-$300 price points that start accelerating demand. And you saw some of that this holiday season, so that had some impact.
+Your question overall in terms of acceleration -- I think, again, the game console guys know how to do this cost reduction and they've done it very well. Our price or ASP reductions are not step-function reductions. They end up being pre-negotiated and in line with cost reductions that we have agreed to with our partners.
+
+--------------------------------------------------------------------------------
+Chris Rolland,  FBR & Co. - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Okay. Very helpful. Also, perhaps you can talk about ASPs in 2016, how do you see them trending with Summit Ridge and server products. And how big a driver is that for top line and for profitability?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [60]
+--------------------------------------------------------------------------------
+
+          I think it is very important that we see an improvement in our product mix. And that's something that we've certainly been striving for in both our mobile products and as we introduce higher-performance desktop and server products we should see that reflected in the ASPs.
+So the mix of business, focusing on commercial versus sort of the low-end consumer, will help all those things. But when the vendor talks about some of the pluses and minuses on gross margin, it really is our ability to increase and improve that mix in our overall business going forward.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          Hans Mosesmann, Raymond James.
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James & Associates, Inc. - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Lisa, a clarification on Zen. You said that you have some design wins already on the server side of that roadmap. Can you give us a sense on what kinds of server wins and what kind of an opportunity you see in terms of market share over the next several years as you come back to the market?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [63]
+--------------------------------------------------------------------------------
+
+          Yes. So Hans, overall on the Zen design wins, we have been engaged very early on with large OEM and cloud providers on the Zen design point and the platforms that would be useful for Zen. So we have closed our first design wins. We are working very closely with these OEM partners to make sure that they bring up their platforms concurrently with our own design validation and testing.
+I think the main message is we are on track with the schedule that we previously discussed in terms of sampling this year. We will introduce first in desktop and so we are having conversations with some of the PC OEMs about getting their platforms ready for desktop. And then we will go into enterprise server first full year in 2017.
+
+--------------------------------------------------------------------------------
+Hans Mosesmann,  Raymond James & Associates, Inc. - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Okay. And then as a follow-up, what kind of performance point should we look at your initial Zen in the server space? Is this kind of Xeon E3 Class-type products or E5s? Or maybe you can help with some granularity there if you can?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [65]
+--------------------------------------------------------------------------------
+
+          So we believe that we will be able to address, let's call it, 80% of the server CPU market with our Zen class of products. So that's a very high end, but really the meat of the market.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+
+          Joe Moore, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [67]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. I wonder if you can talk about the discrete GPU market business. You were first to market with high-bandwidth memory and saw the benefit of that. Did you see the benefit that you had hoped for? And with your competitor ramping HBM at some point presumably this year, does that blunt the momentum that you've seen in the GPU side?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [68]
+--------------------------------------------------------------------------------
+
+          Yes. I would say HBM was a very good technology. I think we got the performance benefit that we expected. It is still at the high end of the cost point range and so that's why we've introduced it just at the high end.
+I think HBM and all this 2.5D packaging technology is going to be really important over the next three years -- three to five years -- but definitely over the next three years. So I think being first to market, we've gotten a lot of experience on the technology. We will continue to use high-bandwidth memory in our portfolio. And as the cost goes down, it will give us an opportunity to use it in a broader set of segments.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [69]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. And then as my follow-up, have you talked about potentially semi-custom products in virtual reality? And to the extent that you have or can, is that going to have the same type of GPU requirement that we've seen on the PC platform or is it possibly scaled down from that level of performance requirement?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [70]
+--------------------------------------------------------------------------------
+
+          So I think there are opportunities to do custom implementations of GPU for virtual reality. I think the amount of graphics horsepower that's required and perhaps some of the form factors that you want to go into being smaller and more portable would enable you to do that.
+I think it's early to talk specifics, but I think that the general idea that VR has a lot of requirements and doing something custom might be helpful I think is absolutely on the mark.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+          Steven Chin, UBS.
+
+--------------------------------------------------------------------------------
+Steven Chin,  UBS - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for taking my questions. Lisa, if I could on the graphics roadmap side, with the upcoming Polaris architecture later this year, that's going to come out about four to five quarters after Fiji was released, which is a pretty good improvement in terms of timing or cadence compared to the previous generation.
+So I guess my question is is this sort of one-year-plus cadence for your GPU roadmap, is this something that can be assumed going forward? And how does that compare relative to the OpEx run rate that Devinder guided for for this year -- is that the right quarterly run rate for [that consisting] that type of graphics roadmap, first of all?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [73]
+--------------------------------------------------------------------------------
+
+          Yes. So I think the overall answer is we do believe the cadence of graphics requires annual refreshes, and we're going to invest to enable that. And I think the Polaris launch is significant because it's also a change of process technology, which sometimes can run into other issues. But I think we feel very good about where we are there and you should expect that cadence to continue.
+
+--------------------------------------------------------------------------------
+Steven Chin,  UBS - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Perfect. And as my follow-up, just given some of the product announcements on the professional commercial graphics side and some of the design wins you were talking about with Dell, for example, I was wondering if you could help provide any color from your customers in terms of qualitative or even quantitative, potentially, in terms of the opportunity for AMD this year, especially given the macro backdrop -- is there going to be some large step-function up this year from those design wins? Or it pulls the macro potentially play somewhat of a modest headwind for that new opportunity?
+
+--------------------------------------------------------------------------------
+Lisa Su,  AMD - President, CEO    [75]
+--------------------------------------------------------------------------------
+
+          So I really view the macro has more of a headwind for the overall PC market. When you talk about professional graphics, I think it's such a specialized market that it is more about the product you offer and is competitive and differentiated enough.
+I think it's fair to say that most of our customers would say the products are actually very good. So the overall product capability and performance is good. Our issue has really been are we investing enough in the software resources to help customers use some of our products.
+So I think on the professional graphics base, we do believe it's a growth opportunity. I think we're going to continue to invest in some of the software around professional graphics and continue to make steady progress into 2016.
+
+--------------------------------------------------------------------------------
+Liz Morali,  AMD - Director, IR    [76]
+--------------------------------------------------------------------------------
+
+          Thank you. That concludes our call for today. We'd like to thank everyone for participating. Operator, you may close the call now.
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+
+          Okay. Ladies and gentlemen, this does conclude your conference. You may now disconnect and have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,623 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2016 Micron Technology Inc Earnings Call
+OCTOBER 04, 2016 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Mark Durcan
+   Micron Technology Inc. - CEO and Director
+ * Ernie Maddock
+   Micron Technology Inc. - CFO
+ * Ivan Donaldson
+   Micron Technology Inc. - Senior Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Harlan Sur
+   JPMorgan - Analyst
+ * C.J.  Muse
+   Evercore ISI - Analyst
+ * Steven Fox
+   Cross Research - Analyst
+ * Kevin Cassidy
+   Stifel Nicolaus - Analyst
+ * Mehdi Hosseini
+   Susquehanna Financial Group / SIG  - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Rajvindra Gill
+   Needham & Company - Analyst
+ * Joe Moore
+   Morgan Stanley - Analyst
+ * Romit Shah
+   Nomura Securities Co., Ltd. - Analyst
+ * Mark Delaney
+   Goldman Sachs - Analyst
+ * Timothy Arcuri
+   Cowen and Company - Analyst
+ * Ian Ing
+   MKM Partners - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon. My name is Abigail, and I will be your conference facilitator today. At this time, I would like to welcome everyone to the Micron Technology's fourth quarter 2016 financial release conference call. 
+(Operator Instructions) 
+Thank you. It is now my pleasure to turn the floor over to your host, Ivan Donaldson. Sir, you may begin your conference. 
+
+--------------------------------------------------------------------------------
+Ivan Donaldson,  Micron Technology Inc. - Senior Director of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and welcome to Micron Technology's fourth quarter and FY16 financial release conference call. On the call today with me are Mark Durcan, CEO and Director, and Ernie Maddock, Chief Financial Officer. This conference call including audio and slides is also being webcast from our Investor Relations website at investors.Micron.com. 
+In addition, our website contains the earnings press release filed a short while ago, and supplemental information including quarterly operational and financial metrics and guidance, GAAP to non-GAAP reconciliations, slides used during today's conference call, and a convertible debt and capped call dilution table. 
+Today's call will be approximately 60 minutes in length. A webcast replay will be available on our website for one year. We encourage you to monitor our website at Micron.com throughout the quarter for the most current information on the Company, including information on the various financial conferences that we will be attending. You can also follow us on Twitter @MicronTech. 
+As a reminder, the matters we will be discussing today include forward-looking statements based on the environment as we currently see it. These forward-looking statements are subject to risks and uncertainty that may cause actual results to differ materially from statements made today. We refer you to the documents the Company files with the SEC, specifically our most recent Form 10-K and Form 10-Q for a complete discussion of these important risk factors and other risks that may affect our future results. 
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements after today's call to conform these statements to actual results. I'll now turn the call over to Mark. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Ivan. For FY16 Q4, Micron posted total revenue of $3.2 billion, with gross margin of 18%, and a non-GAAP net loss of $56 million or $0.05 per share. Both revenue and gross margin were at the high end of the guidance range, and together generated earnings per share that exceeded guidance. Operating cash flow was $896 million. 
+On the last call, we reported that -- while we were seeing signs of improvement in selected markets, we were uncertain of the extent and duration of the improvements. During the quarter, we continued to see market conditions improve, driven by both supply and demand fundamentals. Industry inventory appears lean, and the current market outlook for both NAND and DRAM continues to be positive. Currently prices are increasing in a number of segments, stabilizing in others, and we are seeing fewer segments showing residual declines. This environment framed our thinking in the guidance that Ernie will provide a little later on. 
+We made significant progress on a number of key initiatives in the quarter, including the completion of the mobile product qualifications that we have been discussing, and our early 1X nanometer DRAM deployment. We are also seeing benefits of the 3D NAND yield ramp, which generated stronger than expected NAND bit growth in the quarter. I'm going to provide a high level overview of each of the business units, and Ernie will follow with more details on each business' financial performance. 
+In our compute and networking business unit, we experienced accelerating revenue growth in the face of moderating pricing environment. Revenue growth was driven by continued increases of 20-nanometer shipments, as well as a significant transition to DDR4 in the cloud and client segments, where shipments exceeded DDR3 for the first time. We saw ongoing strength in graphics, driven by our GDDR5 and 5X products which supported NVIDIA's introduction of the 5X based Titan X, the highest performance consumer graphics card in the market. In the enterprise segment, Micron was recognized at the Flash Memory Summit as the innovation leader in non-volatile DIMMs, an important solution for high performance servers. 
+Turning to our mobile business unit. China is becoming a more significant growth driver in mobile devices. Most of these devices are differentiated by large amounts of memory, including up to 6 gigabytes of low power DRAM. Additionally, the top of the line Apple and Samsung models now ship with 256 gigabytes of NAND, and we see mid range Chinese handsets heading in the same direction in order to compete. Although there is a moderating pace of smartphone unit growth, significant content increases of both NAND and DRAM will generate strong overall bit growth. 
+During the quarter, we introduced four new mid to high density mobile 3D NAND products with positive reviews from the press and from our customer base. Mobile DRAM and eMCP price declines moderated in the quarter with more recent signs of stabilization and increases. Revenue growth in our embedded business unit has been driven by a record automotive business, and increased performance in the consumer and connected home segments, as well as a strengthening industrial multi-market business during the quarter. 
+We have maintained our leadership position in automotive to strong customer support and the introduction of new products that meet the fast-growing memory content requirements for infotainment, ADAS and instrument cluster applications. High temperature DRAM and automotive grade NAND products are enabling a strong design win pipeline. 
+The introduction of several new industrial solutions has positioned us to grow our share within IMM, and retain our high market share in machine-to-machine communication modules as the industry migrates from 2G to 4G and LTE. We have also been successful in achieving strong market share positions in consumer applications from action cameras and home automation to high volume markets including digital TV and set-top boxes. 
+Finally our storage business unit is continuing to transition it's product line to our leading edge 3D NAND technology. We've seen positive response from customers this quarter related to our refreshed SSD portfolio, which offers a breadth of solutions to meet diverse application requirements. We're finalizing qualification with eight major OEMs on our 1100 client drive, and are engaging with cloud customers on future designs. 
+In the enterprise, we're seeing companies begin to retrofit HDD infrastructure with SAS SSDs as they modernize existing investments. Our customers in demanding sectors like financial services and energy are moving storage closer to the server. We've seen significant interest in our PCIe, NVMe drives in these applications due to their ability to deliver very consistent high performance. We are actively expanding TLC 3D NAND across our cloud and enterprise portfolio, and expect to introduce our first TLC 3D SATA drive for these markets later this year, followed by a server-focused version early next year. We expect to see positive supply and demand dynamics in the SSD market for 2017. 
+Turning to the memory industry more generally, we've seen further evidence that DRAM wafer output is declining as a result of lost throughput related to the 20-nanometer and 1X nanometer conversions. Absent some replacement of these wafers, we could see industry supply growth as low as mid-teens in 2017. If some of the lost wafer output is replaced, industry supply growth could be in the high teens percent range. This compares to our long-term bit demand growth forecast in the low to mid 20% range. 
+For NAND, we estimate 2017 industry bit growth in the high 30% to low 40% range, which is in line with 2016. This compares to our long-term bit demand growth forecast in the low to mid 40% range. Despite significant investments in 3D conversions across the industry, we believe that 2017 supply growth will be relatively balanced with demand, given the disruption in the fab output related to these conversions. 
+For our operational priorities for FY17, or our operational priorities for FY17, continue to be targeted at ramping advanced technologies with an added focus on building out a more robust product portfolio, in particular for non-volatile memory products. For DRAM, we begin the 1X nanometer ramp, and expect to have meaningful output by the middle of 2017. At our Winter Analyst day, we shared two year bit growth targets for DRAM, and we are on track to meet these targets. We were slightly below the range in FY17, and expect to be above the range in FY17. 
+All of the DRAM bit growth will come from technology transitions, and we currently have no plans to add wafer capacity. We expect our FY17 DRAM costs per bit to decline 20% to 25%, as a result of completing the 20-nanometer migration, and initiating the 1X nanometer conversion. Our cash costs per bit declines will be meaningfully higher than this range. 
+For NAND, we will continue to focus on ramping our Gen 1 3D as well as TLC. As we updated at our last Analyst meeting, 3D bit output will exceed 2D output in the current quarter, ahead of our initial target. We will also be working on deploying second-generation 64-layer 3D technology. 
+Similar to DRAM, our 2016 NAND bit growth came in below the two year CAGR shared at our Analyst event, and we therefore expect 2017 to be above that range. We are forecasting our FY17 NAND cost per bit to decline 20% to 25%, as a result of the 3D and TLC conversions. This cost per bit includes the impact of our planned build-out of SSDs, eMCPs, and Managed NAND solutions, all of which carry additional bill of materials costs but will also enable a richer ASP mix. On a like-for-like basis, cost per bit will decline more substantially. 
+Relative to 3D Xpoint technology, we are working with market enablers on adoption of our QuantX solutions, and continue to believe this innovative technology will be an important contributor to Micron's future success, with initial revenue later in 2017. Now I'd like to turn the mic over to Ernie. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Mark. We had a solid end to our fiscal year, as our continued focus on execution, coupled with a more favorable business environment resulted in improved financial performance. I'll begin my comments today with some technology and business unit details, followed by an overview of the Company's results for the quarter, and guidance for our first quarter of FY17. 
+DRAM represented 60% of our total revenue with the following segmentation. Mobile represented about 25%, similar to the prior quarter. The PC segment was in the upper 20% range, up slightly from the prior quarter. The server business was in the high teens percent range, down from the prior quarter. And specialty DRAM which includes networking, graphics, auto, and other embedded technologies was in the low 30% range, up from the prior quarter and primarily driven by an increase in graphics which represented more than 10% for the quarter. 
+In our non-volatile memory business, trade revenue represented 31% of total revenue with the following segmentation. Consumer, which includes memory cards, USB, and components represented about 50%, down slightly from the prior quarter. Mobile was in the high teens percent range, up from 13% in the prior quarter, as we began to see the impact of our completed customer quals. As a reminder, eMCPs are primarily in the mobile segment. SSDs represented 13% similar to last quarter, and the automotive, industrial multi-market and other embedded applications were in the high teens percent range, similar to prior quarter. 
+Turning to performance by business unit. The compute and networking business unit delivered fiscal Q4 revenue of $1.25 billion, up 14% sequentially primarily driven by 20-nanometer shipment growth, accompanied by strengthening demand, and a moderating pricing environment across all segments. The non-GAAP operating loss was $7 million or less than 1% of revenue. 
+In the enterprise segment, conversions to DDR4 are now largely complete, and we are focused on enabling our solutions for the next-generation server platform. We are seeing continued interest in both higher density RDIMMs and LRDIMMs, as well as NVDIMM solutions. The cloud component of the enterprise segment is growing quickly, driven by continued growth in density across both DDR3 and DDR4 solutions. 
+In graphics, we saw growth well above typical seasonality, driven by our GDDR5 and GDDR5X products. There are additional G5X based product announcements from NVIDIA in both the graphics and workstation segments during the quarter. In networking, we enjoyed double-digit revenue growth, with strength across all regions, and growing interest in applying the high bandwidth capabilities of GDDR5 and GDDR5X to the networking segment. Finally, within the client segment, we saw market demand which exceeded our expectations, as well as a continued transition to DDR4 which for the first time represented a majority of client shipments. 
+The mobile business unit delivered fiscal Q4 revenue of $671 million, up 20% sequentially driven by a strong quarter in our eMCP products. The non-GAAP operating loss was $45 million or 7% of revenue, and was partially impacted by the consumption of higher cost early production inventory accumulated over the last two quarters. We saw significant growth in the recently qualified higher density MCPs, and as smartphone OEMs are positioning their products based on higher memory density specifications, which is helping to accelerate adoption of smartphones with richer memory content. 
+The embedded business unit delivered fiscal Q4 revenue of $513 million, up 5% sequentially. Non-GAAP operating income was $133 million or 26% of revenue. The results were primarily driven by record automotive and increasing consumer business, combined with some recovery in our industrial multi-market business. 
+The automotive business delivered solid results with revenue up 6% sequentially, driven by strong and increasing demand for both DRAM and eMMC solutions for infotainment, instrument cluster, and advanced driver systems applications. European, Korean and Japanese customers continue to fuel this growth, and our portfolio of leading edge automotive grade solutions is continuing to enable platform design wins. The industrial and multi-market business increased [16]% sequentially, primarily driven by the ramp of our NAND solutions into the Japanese amusement market. In addition, we continue to see strong demand for our NOR and NAND-based MCPs used in machine-to-machine wireless communication modules. 
+Consumer and connected home revenue was up 7% sequentially, with solid demand for MCPs used in action cameras and home automation applications. We continue to see this demand pattern continue in the current fiscal quarter which typically sees strong seasonal demand. Our 20-nanometer DDR4 products continue to ramp into set-top boxes and IMM applications. 
+The storage business delivered fiscal Q4 revenue of $758 million, up 5% sequentially. The non-GAAP operating loss was $69 million or 9% of revenue. 
+During the quarter, we entered production and OEM qualification of TLC 3D NAND based SSDs in the client and consumer segments, providing customers with a refreshed 3D-based portfolio of storage products that span the demand spectrum in these markets. In the enterprise SSD segments, consecutive quarter bits sold were up 45% based on higher sales of our planar MLC-based cloud drive. We are deploying 3D TLC across the enterprise and cloud portfolio, with several product launches over the next two quarters. 
+Moving on to overall Company results. Revenue for the fourth fiscal quarter was $3.2 billion at the top end of our guided range, and up 11% sequentially. Fairly significant increases in volume shipments for DRAM were offset by moderating ASP declines, while trade NAND shipments increased as a result of early success of our 3D ramp, and we experienced generally stable ASPs. Gross margin for the quarter was 18%, also at the top end of our guided range. 
+The non-GAAP net loss for the quarter was $56 million or $0.05 per share, significantly better than our guidance. For the full fiscal year, we achieved non-GAAP profitability, despite our technology transition and memory market pricing pressure, achieving non-GAAP net income of $66 million or $0.06 per share. As a reminder, Micron included both amortization of acquisition-related intangibles and stock compensation expense in our fiscal Q4 non-GAAP results. Taken together, these two items represent $0.04 a share in the fourth fiscal quarter, and $0.20 per share for the full FY16. 
+Turning to results by product line. DRAM revenue increased 13% compared to the prior quarter, as a result of a 20% increase in bit shipments, partially offset by a 6% decrease in ASPs. DRAM gross margins for the fourth quarter increased 2 percentage points to 20%, primarily driven by strong cost reductions as a result of the continued 20-nanometer ramp. Our non-volatile trade revenue increased 12% compared to the prior quarter, reflecting a 13% increase in bit shipments, partially offset by a 1% decrease in ASPs. 
+Gross margin decreased a couple of percentage points to 16%, as costs per bit was up related to the 3D ramp, and build-out of higher cost storage and mobile solutions to support future growth. Non-GAAP operating expenses for the quarter were $559 million. This was below our guidance primarily due to continued expense control and the timing of pre-qualification expenses for the fourth quarter, some of which will now occur in fiscal Q1. The Company generated operating cash flow of $896 million, which included a strong quarter for collection activity, and we ended the quarter with cash and marketable investments of approximately $4.8 billion. In the fourth fiscal quarter, capital expenditures net of partner contributions were approximately $1.7 billion. 
+Before we move on to our guidance for the upcoming quarter, I wanted to share some changes to our reporting. The first of these changes relates to the depreciation schedule for our DRAM capital equipment. Previously, this equipment had been depreciated over five years, however, given the longer intervals between technology transitions, we've changed the depreciable life of our DRAM capital equipment from five years to seven years. This change will reduce depreciation by approximately $100 million per quarter on a going forward basis. 
+The depreciation schedule for NAND-related equipment remains unchanged. Additionally, and to be consistent with the majority of semiconductor companies who report non-GAAP results, Micron will exclude stock-based compensation and the amortization of acquisition-related intangibles from our non-GAAP reporting. These expenses on average are approximately $50 million per quarter. 
+Moving on now to our guidance for the first fiscal quarter, which we developed in the context of the market environment that Mark described earlier, on a non-GAAP basis we expect the following. Consolidated revenue in the range of $3.55 billion to $3.85 billion, gross margin in the range of 23% to 25.5%, operating expenses between $600 million and $650 million, due to the resumption of variable compensation expense, and the higher pre-qual expenses that we spoke of earlier. Taken together, these items represent a sequential increase of approximately $80 million, of which $25 million resulted from the timing of pre-qual between fiscal Q4 and fiscal Q1. Operating income in the range of $245 million to $330 million, and EPS ranging between $0.13 and $0.21 per share based on [1.046 billion] diluted shares. 
+Relative to our capital spending plans for FY17 as we shared last month, we expect to spend between $4.8 billion and $5.2 billion net of partner contributions. Between 40% and 50% of the total will be allocated to DRAM, between 30% and 40% to non-volatile memory, and between 15% and 25% to technology and product enablement. Consistent with our public comments, this level of CapEx allows us to appropriately fund our technology investments, while achieving neutral to positive free cash flow generation in FY17. 
+Operationally, we are on track to deliver the bit growth and cost per bit reduction targets that we previously shared, as we complete the 20-nanometer DRAM conversion, reach crossover of first-generation 3D NAND this quarter, and commence the ramp of 1X nanometer DRAM and second-generation 3D NAND in 2017. For FY17 specifically, we expect DRAM and NAND cost per bit reductions between 20% and 25%. 
+Finally, relative to the Inotera transaction, Micron and Inotera have concluded that sufficient progress has been made in Inotera addressing the issues that caused the delay in closing. An Inotera Board meeting has been scheduled for October 11, and the Directors of Inotera are expected to set a Share Swap record date at that meeting. We anticipate that the Share Swap record date will be set for the first half of December of 2016. With that, I'll turn it back to Mark. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Ernie. To summarize, we faced challenging market conditions in FY16, in addition to going through a transition period for our technology migrations. Despite these headwinds, we ended the year with positive non-GAAP EPS. Compared to prior cycles, this represents a material improvement in our performance, and further reinforces our belief in structural industry improvements. 
+We are now experiencing a more positive and improving environment, and Micron is committed to making even further improvements in our relative performance, with enhanced growth and cost reductions, and expanded capability to deliver value-added products to enable our customers. Okay, operator, we are now ready to begin Q&A. 
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+Our first question comes from C.J. Muse with Evercore. 
+
+--------------------------------------------------------------------------------
+C.J.  Muse,  Evercore ISI - Analyst    [2]
+--------------------------------------------------------------------------------
+Yes, good afternoon. Thank you for taking my question. First question, Ernie, for you on the pricing front. I know you don't want to go into specific details, but curious as you think about November, what you're embedding in terms of changes to mix, and perhaps any flow through of lower margin inventory, and any other kind of factors that we should be thinking about as it relates to DRAM ASPs? 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [3]
+--------------------------------------------------------------------------------
+This is Mark. Maybe I'll take that one, C.J. Certainly relative to the sell-through of inventory, there is an impact there, given some of the inventory we've built up over the last couple of quarters relative to the qualifications we mentioned. Relative to market assumptions, we're not going to get into the detail as always of the embedded margin, because we don't want to forecast the ASPs for you. But I think that it's fair to say that we are seeing early signs of significant price movements. And as we've done in the past, we want to wait before we get ahead of ourselves in predicting what may come as we move further out into the quarter. But I do think that that the trend is positive, and the bias is positive. 
+
+--------------------------------------------------------------------------------
+C.J.  Muse,  Evercore ISI - Analyst    [4]
+--------------------------------------------------------------------------------
+Mark, that's very helpful. As my follow-up, how do you think about channel inventory today? And this is another DRAM question. And then, as part of that, how do you expect customers to act as you look into 2017, in an environment where bit supply is sub 20%, and demand presumably higher than that? How do you expect changes in behavior there? Thank you. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [5]
+--------------------------------------------------------------------------------
+Yes. Well, certainly, if we think about inventory in the marketplace, certainly channel inventory I think is very, very tight, maybe one to two weeks, or less than a week. At the major customers, we have less precision relative to that. But I'd say it's certainly down, and there's a sense of urgency at the large OEM customers as well. In some cases, we may be looking at allocation of certain products in certain markets. And certainly, the customers are beginning to ask for longer term price commitments, which is in my mind always a good thing. And we'll look at those on a case by case basis, and potentially take customers up on that where appropriate, but obviously always keeping the long-term interest of the shareholders in mind. 
+
+--------------------------------------------------------------------------------
+C.J.  Muse,  Evercore ISI - Analyst    [6]
+--------------------------------------------------------------------------------
+Very helpful. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Romit Shah with Nomura. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [8]
+--------------------------------------------------------------------------------
+Yes, I just want to come back to the guidance, because it's something that people are trying to gauge, given that last quarter, at least relative to how you originally guided, you guys came in a lot better. And I know at the time that there was a lot of moving pieces, and you guys wanted to give yourself cushion. So could you talk a little bit about visibility? And at least on the pricing front, if we could get a sense just directionally, how you're thinking about ASPs in the November period? And then I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [9]
+--------------------------------------------------------------------------------
+Sure. This is Ernie. So I think it's important to acknowledge, that although we beat our EPS guidance, we actually were well in the ranges of both our revenue and our gross margin guidance. And so we did think about the opportunity that was ahead of ourselves as we were giving the guidance for last quarter, and we've done the same thing in essence this quarter as well. So I think you can look at the range of our guidance, and it generally contemplates the outcomes that we see. And obviously, if things continue on a strong and favorable momentum, it's reasonable to think that you'd end up at the upper end of both pieces of the range, which would generate a result similar to this quarter. 
+And I think consistent with Mark's prior comments, we are continuing to see positive momentum. I do think it's important to understand that that momentum has existed and has started to strengthen. And so, as a result of its actual impact in our fiscal quarter, with part of it already completed and we're in negotiations for others, I think that the trap we want to avoid is presuming that whatever the latest pricing news is gets retroactively applied across the entire quarter, because that's certainly not the environment that we're living in. But I do think that we were pretty thoughtful about the revenue range. And obviously we're going to work hard and try to do as well as we can. But we put a lot of thought behind the numbers we've just shared with you. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [10]
+--------------------------------------------------------------------------------
+Yes, that's helpful. And then Mark, I have a strategic question for you which is, you talk about one of the priorities being to just ramp advanced products in non-volatile memory. But at the same time, implicit in the FY17 free cash flow guidance is that you, at least the way I'm interpreting it, is that you'll continue to burn cash in NAND. And so my question is, at what point do you consider a partnership to lessen the period expense and the CapEx burden associated with running this business? 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [11]
+--------------------------------------------------------------------------------
+Yes, we're always looking for ways to improve our relative competitive position, and we've used partnerships and strategic relationships extensively in the past. We'll continue to evaluate that, and again, always with the long term in mind. We're -- there's an embedded assumption in there that there are lots of opportunities out there today, and I think I would not try to dissuade you of that view of life. I would just caution you that we're going to be pretty careful and deliberate about making sure we take a long-term view relative to the relationships and the partnerships we engage in. And that we're doing something that really drives a long-term strategic benefit for the Company, as opposed to a short-term fix of more supply in the marketplace. 
+
+--------------------------------------------------------------------------------
+Romit Shah,  Nomura Securities Co., Ltd. - Analyst    [12]
+--------------------------------------------------------------------------------
+Helpful, thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Mark Delaney with Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [14]
+--------------------------------------------------------------------------------
+Yes. Good afternoon, and thanks very much for taking the questions. First question is, I was hoping you could update us on the Inotera transaction, and if that were to close, if you could help us understand the potential accretion or dilution from that transaction? And then related to it, to what extent is Inotera closing already embedded in any of the financial guidance that you gave for FY17? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [15]
+--------------------------------------------------------------------------------
+So as we had in our prepared remarks, we do expect the transaction to close at this point in -- some time in the middle of December. We did contemplate that timing in our guidance, so it doesn't really have a dramatic impact on our FQ1 guide at all. And certainly the transaction will continue to be accretive to gross margins. It will continue, and continues to be accretive to free cash flow. And essentially, the EPS accretion is really dependent on how we choose to finance that last $1 billion component, which we don't have to make a decision on until about 30 days or so prior to closing. So as we said before, we have the option of using equity, or a convert, or cash, or a combination of those. And so, the specific EPS accretion will really be dependent upon what we finally decide for those things. 
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [16]
+--------------------------------------------------------------------------------
+That's helpful. And then a clarification on your comment that Micron will be above the CAGR that it provided for DRAM and [N] bit growth in FY17. I just want to clarify, you would expect to be above the high end of your guidance for both DRAM and NAND? So I think it was over 30% in DRAM for FY17, and over 40% in NAND for FY17? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [17]
+--------------------------------------------------------------------------------
+Well, what we said Mark was that we had given these two year CAGRs and we were slightly below for both NAND and DRAM in FY16, so it's reasonable to think it would be slightly above the range that we provided in FY17. So that we, over the two year CAGR fulfill the commitment that we made around those bit growth CAGRs. So yes, that's a reasonable thing to assume. 
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [18]
+--------------------------------------------------------------------------------
+That's very helpful. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Timothy Arcuri with Cowen. 
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [20]
+--------------------------------------------------------------------------------
+Thank you, I had two. Ernie, I'm still a little confused on the guidance. If I try to adjust for the changes in the reporting, it sounds like you're excluding about $150 million per quarter now. So on an apples-to-apples basis, the guidance is actually like $0.13 or something like that lower than what the headline number is, or more like $0.04 at the mid point. Am I not thinking about that right? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [21]
+--------------------------------------------------------------------------------
+Yes, that's a reasonable way to think about it, sure, Tim. 
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [22]
+--------------------------------------------------------------------------------
+Okay. And then that leads me to the question about OpEx, because it seems like some of that is related to OpEx. If you add the stock comp back and you assume that it's mostly OpEx, you're guiding to like $650 million to $700 million. But it sounds like maybe $80 million of that is really one-time in nature. So maybe the baseline is more like $600 million going into next quarter? Is that -- or sorry, going into the fiscal Q2? Is that the right run rate headed into the January quarter? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [23]
+--------------------------------------------------------------------------------
+So let me try to frame that for you a little bit. We had a couple things that are impacting this quarter's OpEx. The first was, that about $25 million give or take of pre-qual expenses that had planned to spend in FQ4 are appearing in FQ1. And then secondly, we have -- we had, even prior to this rollover, the highest point of pre-qual expenses for the entire fiscal year was actually occurring in Q1, plus we have the resumption of variable compensation, given the new pricing environment. And so, what we've try to frame for folks is sequentially, between the variable comp being reinstated, as well as the pre-qual expenses, that's a sequential increase of about $80 million from FQ4 to FQ1. So that predominantly explains the change to the OpEx. 
+And it certainly, we're hopeful that the variable compensation piece continues, because we're hopeful that the business environment is favorable. And we would expect pre-qual expenses to moderate, such that we should be in that range of $600 million plus or minus, so we'd probably mid point around $600 million a few quarters -- maybe a couple quarters higher, a couple quarters a little bit lower, under the new framework for recording OpEx. So those numbers would still exclude stock-based comp. But you would expect to see a pretty meaningful moderation of OpEx, as we go forward throughout the year as a result of this pre-qual situation being resolved from the rollover. 
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Our next question comes from Ian Ing with MKM Partners. 
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [25]
+--------------------------------------------------------------------------------
+Yes, thank you. Congrats on the guidance. DRAM question here. You've got favorable contract pricing. You didn't quite get the bit output acceleration in Q4. Just wanted to understand that a bit. And are there any shortages in terms of meeting customer demand at this point? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [26]
+--------------------------------------------------------------------------------
+I think part of the explanation of Q4 bit growth being slightly below, I think what we previously talked about was in fact that as we watched the market evolve, we made some choices around where we would like that output to be. And the result is that our Q1, fiscal Q1 bit output would -- is now going to be higher than what we had expected it to be. So obviously, that did play into our thinking as we saw the market evolve. 
+Relative to specific shortages, I'm not aware of any. I don't know, Mark, if you are, but certainly, all of our customers are being very attentive to making sure that their supply needs are taken care of, and we are seeing certain segments and certain customers where the possibility of allocation is present. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [27]
+--------------------------------------------------------------------------------
+Yes, I don't think we want to call those out today on this call, but there's certainly that risk. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [28]
+--------------------------------------------------------------------------------
+Yes. 
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [29]
+--------------------------------------------------------------------------------
+Okay. Thanks. And for my follow-up here, server as a percent of DRAM, that is down sequentially, and August is -- what's happening here, perhaps enterprise is offsetting the cloud. And shouldn't this be a pretty attractive market to serve? I think, pricing in server typically attracts PCs, with a little bit of lag? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [30]
+--------------------------------------------------------------------------------
+Yes, I think it will reaccelerate relatively quickly. It has been a little bit more of a lumpy business here over the last year or so, but we like the trends there. 
+
+--------------------------------------------------------------------------------
+Ian Ing,  MKM Partners - Analyst    [31]
+--------------------------------------------------------------------------------
+Okay, thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Rajvindra Gill with Needham & Company. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [33]
+--------------------------------------------------------------------------------
+Yes. Thanks, and congrats on good execution. Just a question on the inventory increase on a year-over-year basis, relative to the revenue increase year-over-year based on your guidance. So it seems like the -- it seems like that the inventory is increasing at a faster clip than revenue, so just wanted to get a sense in terms of any concerns you see there? (multiple speakers) 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [34]
+--------------------------------------------------------------------------------
+Sure -- I'm sorry, go ahead. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [35]
+--------------------------------------------------------------------------------
+So with inventory outgrowing revenue on a year-over-year basis? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [36]
+--------------------------------------------------------------------------------
+Yes, I think you have a couple things. First, as we talked about in the last quarter or so, as we are ramping on the new technologies, and predominantly because of these delayed mobile quals, we had some inventory built up that is now flowing through. However, we absolutely still continue to get more and more output from the factory, and it's going to be a couple quarters before that inventory actually starts to decline. But we have a very clear view of an ability to decrease inventory meaningfully over the course of FY17. 
+I'd also remind you that we are also building supply chains for SSDs and MCPs, which take longer in terms of their aggregate end-to-end cycle time than selling components. So we have that effect as well. That will cap out here in the next quarter or so, and then you'll see a normalization and a flow through of that as well. So we're not -- we're cognizant of the inventory position. We like to think that we anticipated that, and shared that with you. And we're equally confident that the inventory will decline nearly every quarter in FY17. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [37]
+--------------------------------------------------------------------------------
+Yes, to be honest, we feel pretty good about where we sit, given the trends in the marketplace as well, and we don't feel quite as much urgency as we might under different market conditions. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [38]
+--------------------------------------------------------------------------------
+Okay. That was helpful. And just a last question for me on the cash flow. Obviously, you can't talk a little bit about FY17. But if you take your CapEx guidance and your depreciation add back, it does seem like it would still be difficult to generate a meaningful free cash flow next year, assuming a fairly big ramp, and gross margins and revenue -- gross margins maybe, continue to increase above and beyond what you're guiding for November. So I just wanted to get a sense of how you're looking at free cash flow, and the Inotera agreement, how much free cash flow does that add to the Company, if we were to add that back on? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [39]
+--------------------------------------------------------------------------------
+On average, the Inotera transaction is going to add somewhere between [$300 million] and $600 million of cash flow on a free cash flow basis. But I'd really stress that that's an average amount which would be the free cash flow net of the incremental depreciation -- I'm sorry, the incremental CapEx. But I think that the best way I could guide your thinking there is that we have prepared pretty conservative plan, and we have a free cash flow neutral position in the context of that conservative plan. 
+Obviously, Q4 is a little bit stronger. It's fair to say that Q1 was a little bit stronger, as we look at it now versus our conservative plan. And so we would expect to be able to accumulate cash over the course of 2017, if in fact this current market environment continues. Any time we use words like significant, it gets hard to determine what's significant to you or significant to me, but trust me every dollar is significant to us. And so we're being very careful and monitoring that very carefully. 
+
+--------------------------------------------------------------------------------
+Rajvindra Gill,  Needham & Company - Analyst    [40]
+--------------------------------------------------------------------------------
+Thank you very much. 
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Harlan Sur with JPMorgan. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [42]
+--------------------------------------------------------------------------------
+Good afternoon. Thanks for taking my question. NAND cost per bit was actually up slightly in Q4. Was most of this mix related? Maybe you could just tell us what cost per bit declines were on a like-for-like basis? And should we anticipate an acceleration of cost per bit starting here in the first quarter, especially I think as you mentioned you'd get 3D bit crossover over 2D? But it seems like to me, as gross margins for NAND should be inflecting up here in Q1, but I'm just trying to get a sense for that? 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [43]
+--------------------------------------------------------------------------------
+Yes, a lot of moving pieces, Harlan. I think just to get to the crux of your question, yes, you should anticipate cost per bit, start coming down nicely with the 3D ramp, as we start flushing those wafers through the back end, and out in the marketplace. Costs are coming down nicely this quarter, and [see] a continued road map ahead for that, as we move through the year. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [44]
+--------------------------------------------------------------------------------
+Yes, and we provided a cost per bit reduction forecast for the year to you, and I think everything Mark said is absolutely true. And counter balancing that just a bit is the supply chain build up that I talked about, because as MCPs and those SSDs have a higher COGS component theoretically, they are also generating more margin. But if we're only looking at the cost perspective, that will have a tendency to dampen the cost per bit reduction because the mix is changing. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [45]
+--------------------------------------------------------------------------------
+Great. Thanks for the insights there. And then, on the 1X DRAM ramp that you highlighted in your slides, when does that ramp actually commence? Is it end of this year, beginning of next calendar year? And you've mentioned also that you'd expect significant output by middle of next year, maybe you can just be more specific on when you expect bit crossover 1X versus 20-nanometer? Thank you. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [46]
+--------------------------------------------------------------------------------
+Yes, so we have actually wafers in manufacturing fabs in both Hiroshima and Taiwan that are yielding. The output today is insignificant. We'll continue to run at engineering pilot line lots. And by the time we get to the middle of next year, you should see it be significant in terms of our overall output. I think probably going to wait another quarter before we give you a little bit more precision on what the --  when the bit crossover might be. 
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [47]
+--------------------------------------------------------------------------------
+Great. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Steven Fox with Cross Research. 
+
+--------------------------------------------------------------------------------
+Steven Fox,  Cross Research - Analyst    [49]
+--------------------------------------------------------------------------------
+Thanks. Good afternoon. Just two questions for me. Just following on that prior question regarding NAND cost per bit and all of the mix issues, can you just take that one step forward and talk about maybe how the storage business unit starts to recover in terms of profitability? Is there a path to turning profitable this fiscal year? And then secondly, could you just talk about seasonality this year maybe versus last year in terms of what kind of unit shipments you're seeing versus content shipments from some of your core markets, and whether it's stronger or weaker than a year ago? Thanks. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [50]
+--------------------------------------------------------------------------------
+Sure. So let me address the question about the storage business. We are certainly hopeful that we can exit the year at least with a profitable note for the storage business. I think it's dependent on a few things. Obviously, we're in the middle of a very significant portfolio change-out, and we have to execute on those. So far, our record has been good with respect to the client and consumer segments. But we have some big product launches, with respect to both data center and enterprise coming up here toward the end of this calendar year and in early calendar 2017. And those would be really pivotal to us in completing that transition. I think that again, track record has been good. The SSDs have been well reviewed, and we're very optimistic that our subsequent product launches will be equally successful. 
+I also think it's important to keep in mind that we also are seeing benefit of 3D in the memory -- or I'm sorry, in the mobile business unit as well. We saw that -- we had the mobile percentage of our NAND business this quarter move from the low teens essentially to the high teens, as a result of more and more quals there, and the increasing importance of the MCP portfolio. So we are seeing benefit of that, really across multiple business units. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [51]
+--------------------------------------------------------------------------------
+Let me just add to that on the seasonality question. Q4 obviously, typically is a very strong quarter for NAND. Hard to know for sure, but our sense is that the demand picture probably has more staying power than just the typical seasonality that you would see, given the strong growth in the end applications. 
+
+--------------------------------------------------------------------------------
+Steven Fox,  Cross Research - Analyst    [52]
+--------------------------------------------------------------------------------
+Thanks very much. 
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Kevin Cassidy with Stifel. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [54]
+--------------------------------------------------------------------------------
+Thank you for taking my question. Your guidance for first quarter is a significant increase over fourth quarter. Can you give us a ranking of the end markets or the end products that are driving the increase? 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [55]
+--------------------------------------------------------------------------------
+Yes, I'll take that. So obviously, as has been the case, the specialty markets, the embedded markets, whether it's automotive, industrial, medical probably top of the list. Within the computing and networking segment, graphics has been quite strong. Server probably next, and then followed up with mobile and client. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [56]
+--------------------------------------------------------------------------------
+Okay. And are you seeing a significant increase with 3D NAND versus the planar NAND? 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [57]
+--------------------------------------------------------------------------------
+In terms of demand? 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [58]
+--------------------------------------------------------------------------------
+Gross (multiple speakers). Sorry, no, gross margin (multiple speakers). 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [59]
+--------------------------------------------------------------------------------
+But that -- it's a very quickly moving dynamic right now. So yes, we're seeing that happen real-time as we sell through the early production and move more and more of the products into the TLC format. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [60]
+--------------------------------------------------------------------------------
+And certainly more of that opportunity is ahead of us than it is behind us, given that we're just going to hit bit crossover for 3D in this quarter. And as Mark said, we're continuing to transition which adds costs because it suppresses output. But with more significant bit growth ahead, we would expect the cost reduction opportunity to accelerate a little bit here throughout FY17. 
+
+--------------------------------------------------------------------------------
+Kevin Cassidy,  Stifel Nicolaus - Analyst    [61]
+--------------------------------------------------------------------------------
+Okay, great. Congratulations on the good results. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [62]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from John Pitzer with Credit Suisse. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [64]
+--------------------------------------------------------------------------------
+Yes, good afternoon, guys. Thanks for letting me ask a question. I want to go back to the cost side of the equation, guys. Just given the change in the depreciation schedule for the November quarter, I would have thought your ability to get gross margin to the high 20% range, especially in this pricing environment, would have been fairly easy. 
+So I'm just curious as to what the offsets are in the November quarter. Is this all about the quals on mobile? And if it is, what do you estimate that to be a hit to gross margins, and when might that be done? And then, Ernie, I know you gave full year cost targets on a per bit basis. Did you give them for the fiscal first quarter? If you did, I missed them. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [65]
+--------------------------------------------------------------------------------
+I think, John, actually it's really a little bit more about the lag that you typically see as pricing starts to turn around in some of these things. Yes, there is an inventory effect relative to some of these products that we built up in inventory that were early production on either 20-nanometer or 3D NAND, et cetera. As we sell-through, that's a little bit of a headwind until that's flushed out. 
+But it's really more around, as ASPs turn around, they don't turn around instantaneously. And they didn't turn around until we were into the quarter last quarter. So remember, we had a pretty significant beat relative to the mid point of our guidance last quarter, which gives you an indication that the pricing was starting to accelerate then. It takes a little while to play out, and to flush through as we see these things happen. So the trends are all in place. And I think we're heading where you think you are, where we ought to be, but it can take a little while to play out through the financials. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [66]
+--------------------------------------------------------------------------------
+Yes. And I didn't provide a cost specific cost per bit target for FQ1. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [67]
+--------------------------------------------------------------------------------
+Okay. And then as my follow-up, Mark, just on the Inotera acquisition. If you go back and look at what you guys have tried to accomplish over the last seven or eight years, it's actually been to try to mitigate the cyclicality of the industry within your financials by setting up some of these JVs, buying Inotera reverses that. I'm curious, is this purely a financial decision on your part? You mentioned in your prepared comments that this downturn troughed at much higher levels than past downturns. So is that giving you the confidence, or is there actually a fundamental reason to own the asset? Will this allow you to ramp 1X or 1Y or 1Z more quickly owning Inotera? If you could just give a justification that would be great. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [68]
+--------------------------------------------------------------------------------
+Yes. Well, there's a lot of components to it. I think you put your finger on a piece of it, which is that the volatility in this business, I think we can conclude is going to be less going forward. This certainly seems to have been borne out as we move through this last cycle. It doesn't mean the cycles are gone, it just means that the volatility is less, and so that is less of a defensive driver so to speak. 
+An important thing for us in this whole picture is operational flexibility and control. As we think about our ability to drive new technologies, either into manufacturing or to transition technologies with the Inotera assets, having ownership of that asset and the ability to mix and match different technologies, as well as potentially more value-add products and capture that value as significant. 
+Notwithstanding the fact that we have a good operating relationship with Inotera, we believe that there is more value we can bring as sole owners than as Board members and operational partners. And at the end of the day, it gives us the ability as well to take the cash flow that's going to be generated with Inotera, and deploy it across our network where we find that most useful. So a number of different factors playing into it, all of which, I think, point in the direction that we're moving. 
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [69]
+--------------------------------------------------------------------------------
+Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Mehdi Hosseini with SIG. 
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group / SIG  - Analyst    [71]
+--------------------------------------------------------------------------------
+Yes, thanks for taking my question. Ernie, just going back to your CapEx for the next fiscal year, it sounds like you're incrementally more confident with the Inotera deal. And in that context, how should we think about the incremental CapEx requirements for Inotera, in the context of your comment that Inotera would help with free cash flow accretion? I'm just trying to reconcile everything, and I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [72]
+--------------------------------------------------------------------------------
+Sure. So when we provided that CapEx guidance of essentially midpoint of $5 billion net of partner contributions, we did say it included contemplated investments from Inotera. So that's an all-in number, as you know, we don't break out specific CapEx by fab, so we don't plan to start doing that now. But that $5 billion midpoint, with [a little] range around it is inclusive of anticipated investments at Inotera. 
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group / SIG  - Analyst    [73]
+--------------------------------------------------------------------------------
+Got it. Thanks for the clarification. And then with the 3D NAND and a crossover with [300] NAND is, should I assume that all of the 3D NAND, the capacity coming online is TLC, or is there still any MLC left in the mix? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [74]
+--------------------------------------------------------------------------------
+No, the first out 3D was MLC, but we very quickly introduced TLC. And as we said in our prepared remarks, most of our client consumer SSDs are now out on TLC, and we're qualifying TLC into mobile applications as well. And we will be a majority TLC by the middle of FY17 here as we go forward. So that's part of the engine of the significant bit growth that we've contemplated and forecast. 
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group / SIG  - Analyst    [75]
+--------------------------------------------------------------------------------
+Okay, thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Joe Moore with Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [77]
+--------------------------------------------------------------------------------
+Great. Thank you. Wonder if you could talk about the decision to move to seven year depreciable life on DRAM? That strikes me as a long time, and I look at your CapEx ratio to PP&E as a third. What was the thinking behind seven years, and can you remind us the depreciation life of the NAND equipment? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [78]
+--------------------------------------------------------------------------------
+So depreciation life of the NAND equipment is about five years. And really, we conducted quite an extensive study around how long the technology transitions existed, or took in the DRAM world, how long they were contemplated to take on a going forward basis. We looked at the practices of others, both competitors and partners. But really, the substance of the decision was related to what we anticipate and what we've been saying for some time is a slowing of the technology transitions, and therefore, the longer use ability of that equipment as the technology transition times change. 
+And the reality is, there's a range of answers you come up with when you do a study like that. And much like the midpoint of a guided range, and seven years felt to us like it was not overly aggressive, but not overly conservative either. So you could assume that we could have gone a year or two on either side of that, and we chose a position that we thought was reasonable, given what we know and understand about the pace of technology transition. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [79]
+--------------------------------------------------------------------------------
+Okay, great. Thank you for that. And then, as a follow-up, have you given or can you give an absolute number for depreciation for either the quarter or the fiscal year? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [80]
+--------------------------------------------------------------------------------
+We -- yes, we expect depreciation to be somewhere in the range of $4 billion for the year, give or take. 
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [81]
+--------------------------------------------------------------------------------
+Great. Thank you very much. 
+
+--------------------------------------------------------------------------------
+Mark Durcan,  Micron Technology Inc. - CEO and Director    [82]
+--------------------------------------------------------------------------------
+And operator, I think we have time for one more question. 
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+Thank you. Our last question comes from David Wong with Wells Fargo. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [84]
+--------------------------------------------------------------------------------
+Thanks very much. Ernie, earlier you noted that you might be able to generate cash over, some point over the next few quarters. Can you give us any idea of what you would do with any net cash generated? Would you be able to pay down debt, or are there other uses for cash? 
+
+--------------------------------------------------------------------------------
+Ernie Maddock,  Micron Technology Inc. - CFO    [85]
+--------------------------------------------------------------------------------
+Certainly, first thing we're going to be focused on is actually accumulating the cash. So that's my first priority, because I have to have some of it to be able to decide what to do with it. And certainly at that point in time, we would certainly look at the opportunities that were available to delever. And we would look at those in the context of, everything else that's going around. And it's really impossible to say specifically what we would decide to do in the context of a future that's not yet here. But I can tell you that delevering is an important priority. And depending on how much cash we generate, we may choose to deploy a $100 million of that or so back into CapEx, if that's the right decision. But delevering is certainly nearest and dearest to our hearts at the moment. 
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [86]
+--------------------------------------------------------------------------------
+Great. Thanks very much. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's Micron Technology fourth quarter 2016 financial release conference call. You may now disconnect. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

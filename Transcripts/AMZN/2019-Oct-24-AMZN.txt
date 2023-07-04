@@ -1,0 +1,355 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2019 Amazon.com Inc Earnings Call
+OCTOBER 24, 2019 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian T. Olsavsky
+   Amazon.com, Inc. - Senior VP & CFO
+ * Dave Fildes
+   Amazon.com, Inc. - Director of IR
+ * Shelly Kay Pfeiffer
+   Amazon.com, Inc. - Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen D. Ju
+   Crédit Suisse AG, Research Division - Director
+ * Eric James Sheridan
+   UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
+ * Youssef Houssaini Squali
+   SunTrust Robinson Humphrey, Inc., Research Division - MD & Senior Analyst
+ * Heath Patrick Terry
+   Goldman Sachs Group Inc., Research Division - MD
+ * Justin Post
+   BofA Merrill Lynch, Research Division - MD
+ * Mark Stephen F. Mahaney
+   RBC Capital Markets, LLC, Research Division - MD and Analyst
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Colin Alan Sebastian
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Lloyd Wharton Walmsley
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Scott William Devitt
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * Douglas Till Anmuth
+   JP Morgan Chase & Co, Research Division - MD
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you for standing by. Good day, everyone, and welcome to the Amazon.com Q3 2019 Financial Results Teleconference. (Operator Instructions) Today's call is being recorded. For opening remarks, I will be turning the call over to the Director of Investor Relations, Shelly Kay Pfeiffer. Please go ahead.
+
+--------------------------------------------------------------------------------
+Shelly Kay Pfeiffer,  Amazon.com, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Hello, and welcome to our Q3 2019 Financial Results Conference Call. Joining us today to answer your questions is Brian Olsavsky, our CFO; and Dave Fildes, Director of Investor Relations. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter.
+Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2018.
+Our comments and responses to your questions reflect management's views as of today, October 24, 2019, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings.
+During this call, we may discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates; changes in global economic conditions and customer spending; world events; the rate of growth of the Internet; online commerce and cloud services; and the various factors detailed in our filings with the SEC. Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements. It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+With that, we will move to Q&A. Operator, please remind our listeners how to initiate a question.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from the line of Eric Sheridan with UBS.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [2]
+--------------------------------------------------------------------------------
+
+          I wanted to know if I can go a little bit deeper in the framework you gave around revenue guidance for Q4. Historically, you have seen deceleration in the year-on-year growth rate in Q4 versus Q3, but many of your businesses look like they reaccelerated in Q3 over Q2. So just wanted to know whether it was AWS or advertising or some of the things in the e-commerce business, whether there are things we should be keeping in front of mind from a headwind or tailwind perspective as we dig through some of the moving pieces in Q4.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Sure, Eric. Yes. Let me make clear. We are really excited and looking forward to a great holiday season. We feel like we had a great Q3 as well and have made rapid progress on our one-day shipping. The Ops team has done a great job getting us in a position where we're in, and I think it's going to be a great additional service for customers in Q4.
+On the guidance front, here's what I would have you keep in mind. If you look back over the last few years and adjust for the acquisition of Whole Foods and Souq, which obscured this a bit in the last couple years. There's been a noticeable drop in run rate between Q2 -- or excuse me, Q3 and Q4 generally along the lines about 300 basis points. We are factoring that in this year. That's just something we're expecting. It's a bit about the law of large numbers and the differential between growth in the holiday season, that very tight few weeks of the holiday season versus the rest of the year, but -- so we factored that in.
+And then there's also 2 other issues. The Diwali holiday in India was all in Q4 last year, and a bit of it was in Q3 this year. Also, the Japan consumption tax was raised from 8% to 10% on October 1. And what we saw was a prebuy a bit in Q3 at the end of the quarter. And based on our history with the last time that consumption tax went up many years ago, we've expected a slight negative impact from that tax in Q4 in Japan. So if you wrap those together, we expect it's going to be more of an issue with our international growth rate. I would say it's -- has made -- have helped us by 150 basis points in Q3 and will be a negative headwind of 300 basis points year-over-year in Q4.
+For the company, it's not as large an issue at -- it's about 40 basis points of favorability in Q3 and it's expected to be about an 80 basis point headwind in Q4.
+So that's a little bit more on our guidance, but again, we're looking -- really looking forward to Q4. I think we're well positioned to make it the best holiday ever for our customers. I think one day should help with holiday shipping. We've got a great new device line up you may have seen announced in September. And on the AWS side, we're looking forward to our re:Invent conference in Las Vegas, where we welcome over 65,000 conference attendees.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Our next question is from Doug Anmuth with JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [5]
+--------------------------------------------------------------------------------
+
+          Brian, just wanted to ask you kind of more broadly about Prime One-Day, what your biggest learnings have been so far over the past several months as you've been increasing availability. And then how should we think about that availability now when we get into the heart of the holiday season? And can you also just help us understand how that's playing into your operating income guidance for 4Q?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [6]
+--------------------------------------------------------------------------------
+
+          Sure, sure. Let me start with the second part of that. So we're -- back in Q2, I said that we were estimating an $800 million expense in -- tied to one-day in Q2, and we actually were just above that in Q2.
+In Q3, we expected that to grow. We've put it into our guidance, and we hit essentially where we expected on the guidance. So as we head into Q4, we've added what's just nearly $1.5 billion penalty in Q4 year-over-year for the cost of shipping, which is essentially transportation cost, the cost of expanding our transportation capacity, things like adding additional pulls in shifts in our warehouses, the cost of forward deploying inventory closer to customers. There's a lot of tangential costs. But by and away, the biggest expenses is on the actual transportation cost.
+So we've built that into our Q4 guidance estimate. But we're very pleased with the customer response to one-day. You can see it in our revenue acceleration and also in our unit growth acceleration. Once again, the Ops team has really done yeoman's work here to create this capacity for us, and they continue to unlock additional capacity daily. We're expecting that it will be, again, a great help to customers in Q4. We have seen Prime members increase their orders, spend more, so they must also see it as a real help to them in their daily lives.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Youssef Squali with SunTrust Robinson Humphrey.
+
+--------------------------------------------------------------------------------
+Youssef Houssaini Squali,  SunTrust Robinson Humphrey, Inc., Research Division - MD & Senior Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Brian, just a couple of quick ones. Of the 400 basis point sequential acceleration growth, can you help us just understand maybe how much of that was driven by Prime Day, which I think you guys said was a record day for you versus one-day shipping. Just trying to extract one versus the other because, obviously going into Q4, you're only going to have the latter.
+And then on a lot of news around counterfeit and whatnot on the site, can you just help quantify that for us if there is a way for you to do that? And is the higher OpEx for Q4 also driven, at least in part, by the higher investment to combat that?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [9]
+--------------------------------------------------------------------------------
+
+          Yes, sure. So on the second one, I would say, the -- we're certainly very diligent on the -- trying to catch counterfeit products. I would put a lot of effort into that. We put a lot of human effort. We put a lot of machine learning and algorithmic effort into that as well. But I would say the bigger investments in Q4 are certainly twofold, one, around the AWS -- excuse me, the one-day shipping that I just mentioned. The other would be on AWS. We have -- we continue to invest in AWS. If you look at the progression of our operating margin in that business, we've reached a high of 31% last Q4 -- or excuse me, Q3. That was a time when we were -- as we mentioned at that time, it was very efficient. We had been banking some savings from forward investments in infrastructure in 2017. We continue to feel really good about not only the top line but also the bottom line in that business, but we are investing a lot more this year in sales force and marketing personnel mainly to handle a wider group of customers, a increasingly wide group of products. We continue to add thousands of new products and features a year, and we continue to expand geographically.
+So the biggest impact that we saw in Q3 year-over-year in the AWS segment was tied to costs related to sales and marketing year-over-year and also, to secondary extent, infrastructure, which, if you look at our capital leases or equipment leases line, it grew 30% on trailing 12-month basis in Q3 of this year, and that was 9% last year. So there's been a step-up in infrastructure cost to support the higher usage demand. So we see those trends continuing into Q4, and that's essentially probably the other element of operating income year-over-year that's shorter than in prior quarters.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Brian Nowak with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+
+          I have 2. Just to go back to the one-day cost, appreciate the color. Be curious to hear about how you think about what portion of these costs are sort of transitory versus structural. It sounds like there are some shipping costs in there. Can you just sort of talk to some of the steps you have to take over the next 1 to 2 years to get the one-day shipping cost closer to what they used to be for two day? And how do you think about how long it's going to take? Then secondly on one day, I think it's mostly U.S. to date. Is that right? And then if not, how do we think about sort of timing and pushing more internationally?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [12]
+--------------------------------------------------------------------------------
+
+          Sure. Yes, most of the expense has been in international -- or excuse me, in the U.S., but we have also increased our one-day selection internationally. We're starting to see some benefits from that. But I would say, the biggest impact so far both on the top line lift and also the bottom line cost is in the U.S.
+We're still learning here on the one-day cost as we go about what the long-term cost structure will be. We have -- we know we have temporary cost in the short run as we do things like forward deploy inventory, get greater inbound into those warehouses, set up new Amazon Logistics, AMZL capacity staff, multiple shifts so that we can have later pull times to hit one-day cutoffs, things like that, adding sort centers.
+So it's a drastic change to the whole network topology that we're glad to do and working through it. And we've been down this road before obviously in a number of different incarnations in Amazon's history. So we will keep you posted on a quarterly basis as best we can, but right now, all I'm really forward guiding is for Q4.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Heath Terry with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heath Patrick Terry,  Goldman Sachs Group Inc., Research Division - MD    [14]
+--------------------------------------------------------------------------------
+
+          I know most of the focus on one day has been on speed, but based on the vans we're all seeing, it would seem that the shift to more of your own last-mile infrastructures may be the bigger part of this. As it scales and you get to higher levels of efficiency and utilization, does that become margin accretive or profitability accretive relative to using third parties almost exclusively in the way that you have in the past? And then this was also a very big hiring quarter for you, 100,000 people. Can you give us a sense of where those people are going relative to AWS fulfillment, retail, kind of understanding sort of where they've been prioritized?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [15]
+--------------------------------------------------------------------------------
+
+          Sure. Thank you for your questions, Heath. On the first question, I think it boils down to whether we'll be competitive long term with other options out there. Yes, we will be. We believe that in many cases we already are and places where we have very high AMZL percentages, the U.K. for instance. There, in some cases, there's -- we're lacking alternative options for the type of delivery that we're doing. But in the long run, we're going to have a combination both of our own capacity certainly fueled by -- helped with third-party carriers, large carriers that we've used in the past.
+So we see a role for all carriers. In fact, including the delivery service partner program that we've developed to help spur small businesses to help fill this need as well. So -- but on the cost side, yes, it's going to be the route density, and other things will improve over time and get our cost structure down. But for now there's certainly some start-up pain in adding new capacity.
+On the headcount question, yes, we increased, as you said, close to 100,000 people in Q3, and we're up 22% year-over-year. In the past, I've pointed to investments in technology teams, and that's certainly part of it. But by and away, the biggest driver this time is the people that we're adding for fulfillment and transportation roles, especially as we head into Q4 and add this additional transportation capacity to service one day.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Steven Ju with Crédit Suisse.
+
+--------------------------------------------------------------------------------
+Stephen D. Ju,  Crédit Suisse AG, Research Division - Director    [17]
+--------------------------------------------------------------------------------
+
+          So Brian, wondering if you can weigh in on the puts and takes on the long-term potential margin for AWS. When this was first launched, it pretty much sold itself, and now you are employing a greater number of salespeople and with that, I guess, the incremental marketing dollars. But -- and on the other hand, it seems like the engineering talent hiring just slowed down over time. So I'm just wondering if you can weigh in on the -- on what's coming in and what's coming out.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [18]
+--------------------------------------------------------------------------------
+
+          Yes, sure. I would say the margins -- our margins expectations are that we will price competitively and continue to pass along pricing reductions to customers both in the form of absolute price reductions and also in the form of new products that will, in effect, cannibalize the old ones. And we're -- we also see a point out that in -- increasingly, what we're doing is renegotiating or negotiating incremental price decreases for customers who then commit to us long term. And if you look in our disclosure on our 10-Q, it shows that we have $27 billion in future commitments for AWS -- from AWS customers, and that's up 54% year-over-year. So that's another thing to watch. It's not only the short-term commitment but also the long-term commitment that we see.
+On the rest of the P&L there, again, we have, I believe, some of the best infrastructure people in the industry, if not, the best. We're continually driving up efficiency and lowering down -- lowering costs, and we see that in our bottom line. The sales and marketing investment, we're chasing a large opportunity here, and that will be, as we say, bumpy as we go along. But we're fully confident that, that will be a very leveraged cost as we get to scale. So -- and then on technology side, as you said, yes, we will continue to invest in tech, SDEs and software engineers to build these products that customers love, continue to respond to their demands, and that'll push our -- inform our product portfolio.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Our next question is from Lloyd Walmsley with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Lloyd Wharton Walmsley,  Deutsche Bank AG, Research Division - Research Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Can you talk about the key drivers of the acceleration in what looks like advertising revenue within "Other?"[KJ1] And related to that, the press release mentions, I think, you now have 37 million Fire Stick users worldwide. So can you talk about maybe how much ad inventory you've been able to get inside of networks within that? And how meaningful is this to the overall kind of advertising strategy?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [21]
+--------------------------------------------------------------------------------
+
+          Yes, sure. Let me start with the first question on advertising. So "Other Revenue," [KJ2]which is principally advertising, grew 45% this quarter, up from 37% last quarter. And the biggest thing in there is advertising, and advertising grew at rate higher than that, 45%. So we're very happy with the progress in the advertising business, continue to focus on inventing advertising experiences that are helpful for customers, helping them to see new products. We want to empower our businesses to find, attract and engage these customers. And it's increasingly popular with vendors, sellers and third-party advertisers. So it's still early, and what we're focused on really at this point is relevancy, making sure that the ads are relevant to our customers, helpful to our customers. And to do that, we use machine learning, and that's helping us to drive better and better relevancy.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [22]
+--------------------------------------------------------------------------------
+
+          Yes, and then Lloyd, hey, Dave -- this is Dave. Just quickly on Fire TV, I mean I have to start with the fact that we did recently introduce 20 new Fire TV products. That includes the new -- the first Fire TV Edition soundbar, Fire TV Cube. So a number of things have come out recently we're really excited to get into customers' hands. So more to come there.
+I think specifically on the advertising side and the opportunity with that, we are continuing to see some increased adoption. One of our areas of focus is expanding our video and OTT offerings for brands. It's still early in the space, but we've done a few things with IMDb TV, live sports, things like adding more inventory through Fire TV apps and as I said, IMDb TV, adding more OTT video supply through Amazon Publisher Services or APS integrations and streamlining access for third-party apps and really just making it easier for advertisers to manage their campaigns and provide better results. So as I said, early days, but I think with the engagements of the device community, the fact that we're really excited with the progress and improvements of these devices, I think, yes, we gain a lot of opportunity there.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Our question comes from Scott Devitt with Stifel.
+
+--------------------------------------------------------------------------------
+Scott William Devitt,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [24]
+--------------------------------------------------------------------------------
+
+          There's been a meaningful reacceleration in paid unit growth in the past 2 quarters with the expansion of the one-day guarantees from Prime customers and just wondering if consumers are responding more in certain categories that you would highlight over others. Or is the response fairly broad based across the product categories where one day has been expanded?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [25]
+--------------------------------------------------------------------------------
+
+          Scott, yes, what I can tell you is that, yes, the unit growth has been reaccelerated in the last 2 quarters. And actually, the Amazon fulfilled unit growth is growing at a higher clip. So we do attribute it to one day. We're seeing broad sales across all categories. So yes, there's been some reduction in the threshold for some low ASP items that we've been doing separately over the last 6 months that have spurred some sales in lower ASP items. But we think that is, again, the right decision for customers, especially over the long term.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Mark Mahaney with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  RBC Capital Markets, LLC, Research Division - MD and Analyst    [27]
+--------------------------------------------------------------------------------
+
+          I want to go back to AWS. When asked about the margins, you referred to -- Brian, you first referred to bringing down prices. Have you seen anything different in terms of the level of price competition? Could you talk about what kind of traction you've had building out into the enterprise? And I know it's a broad question, but take a shot at it. And the third part of this is your interest and your success in going in and generating more app -- going up the stack and getting more into the application software space, all that AWS related.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          Sure. So yes, I would say my comments around pricing were as much mix as absolute price decreases or competitive price pressures. It's certainly a competitive market that we see and we've seen for really a number of years. So everyone is very sharp on their pricing, is very eager to lock up long-term commitments from AWS customers. We do it with a combination of price and capability that we think is unmatched. So the bigger element of that really is around us creating new products and services that are cheaper and less expensive than the old ones. So there's a certain bit of mix issue that we're always up against.
+But again, on the -- and your question on enterprise penetration. I think the enterprise, we're making great progress there. It's going to be hard to -- on revenue growth, it's going to fluctuate quarter to quarter. It's hard to predict the pace of some of the sales cycles and the enterprise migrations that companies are willing to make or some are faster than others and some have other work to do before they can migrate. So there's a lot of factors at play there on the enterprise business. But we are having great success, and we're adding a lot of the sales force -- or sales representatives, especially for the enterprise market.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [29]
+--------------------------------------------------------------------------------
+
+          Yes. And Mark, hey, this is Dave. Just really quickly just in terms of your question on the stack. I mean I think for really since as long as AWS has been around, we really pride ourselves in getting really top, high-caliber people, both the technical side but also salespeople, that are plugged in and listening to customers, understanding issues that are emerging, having open lines of communication. And that's really allowed us to innovate quickly and really faster than anyone else. And we see that in terms of the services and feature breadth and depth that we have. So a lot of the focus for us is really making sure that that flywheel keeps spinning and that we continue to roll out a lot of great services that customers are looking for. So I think that's largely what dictates our road map and making sure that we give ourselves autonomy and availability to look to new areas and stay on the cusp of whether it's kind of emerging technologies or really just our customer needs or pain points that need to be solved.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Colin Sebastian with Baird.
+
+--------------------------------------------------------------------------------
+Colin Alan Sebastian,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Maybe first as a follow-up on the logistics and delivery side. Wondering if you'd give us some sense for the portion of SKUs in the U.S. or orders in the U.S. that are now delivered through your own network of drivers and partners. And then secondly, there have been some reports that Amazon is or, on occasion, is delivering products for other merchants or suppliers not specifically tied to an Amazon order. So just wondering if you view this as another potential opportunity down the road as you get excess capacity on the logistics side.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [32]
+--------------------------------------------------------------------------------
+
+          Yes, Colin. Hey, it's Dave. Thanks for the question. On that second point in terms of how we think about the capacity we might have for our own, I think I'd start with we've got a great relationship with third-party carriers across the countries where we operate. Over time, I think we'll look and expect to be able to grow our internal volumes using AMZL or Amazon Logistics but also continue to grow our 3P volumes with carriers and transporters around the world. But our focus is really on ensuring that we've got capacity from available resources, whether it's our own or our great -- our carrier partners to be able to serve the small- and medium-sized businesses in the 3P realm but also the first-party items that we're receiving orders from customers, making sure we're able to deliver those things quickly and reliably.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Our final question will come from Justin Post of Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [34]
+--------------------------------------------------------------------------------
+
+          I'll grab you a couple here. Just wondering back on the shorter holiday season. Do you think that's going to be a headwind for overall online sales in the quarter? Anything specific to Amazon? And then secondly, just thinking about the regulatory environment. I wonder if you can just comment on the opportunities and the competitiveness for third-party sellers. Are there other platforms that you see for them? And how do you think about their profitability on Amazon if you can comment on that at all?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [35]
+--------------------------------------------------------------------------------
+
+          Sure. Yes. On third party, I would say we only succeed if the third-party seller succeeds. So we're heavily invested in them as they are in us. So we are constantly investing on their behalf, adding new projects -- products and features, and we're cognizant of their economics as well, and we want a business that works for both of us, and we set our fees accordingly.
+So I think that we've -- and I'll also point out that with the one-day, the increase in one-day, sellers have participated in that as much as anyone else -- I mean as much as our 1P offering. So it's been a great boon for sellers as well as particularly our FBA program.
+On the holiday season question, we are not anticipating that the move of the shorter time period between Thanksgiving and Christmas Day is going to be that impactful. What we've found in the past is that there's generally a holiday budget that is spent somewhere between November 15 and -- or November 1 maybe and December 25. And while certainly Black Friday and Cyber Monday are important dates in that holiday period, there's -- the purchases tend to move around. Some have been moving early in the quarter. Some have been moving later in the quarter as customers count on and receive very quick shipments at the end and have higher faith in delivery just before the holidays. So that's all the color. That's what's anticipated in our guidance that we've given.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [36]
+--------------------------------------------------------------------------------
+
+          Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+[KJ1]This is referring to a financial line item on our earnings release. Not sure how you guys would prefer to format this.
+[KJ2]Same comment as above. How do you prefer to format this name of our financial line item?
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,469 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2018 Micron Technology Inc Earnings Call
+SEPTEMBER 20, 2018 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David A. Zinsner
+   Micron Technology, Inc. - Senior VP & CFO
+ * Sanjay Mehrotra
+   Micron Technology, Inc. - CEO, President & Director
+ * Farhan Ahmad
+   Micron Technology, Inc. - Senior Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mehdi Hosseini
+   Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+ * Aaron Christopher Rakers
+   Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Analyst
+ * Romit Jitendra Shah
+   Nomura Securities Co. Ltd., Research Division - Executive Director
+ * Amit Jawaharlaz Daryanani
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Timothy Michael Arcuri
+   UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment
+ * Harlan Sur
+   JP Morgan Chase & Co, Research Division - Senior Analyst
+ * Christopher James Muse
+   Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+ * John William Pitzer
+   Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon. My name is Latif, and I will be your conference facilitator today. At this time, I would like to welcome everyone to Micron Technology's Fourth Quarter 2018 Financial Release Conference Call. (Operator Instructions)
+It is now my pleasure to turn the floor over to your host, Farhan Ahmad, Head of Investor Relations. You may begin your conference.
+
+--------------------------------------------------------------------------------
+Farhan Ahmad,  Micron Technology, Inc. - Senior Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Welcome to Micron Technology's Fourth Fiscal Quarter 2018 Financial Conference Call. On the call with me today are Sanjay Mehrotra, President and CEO; and Dave Zinsner, Chief Financial Officer. 
+Today's call will be approximately 60 minutes in length. This call, including audio and slides, is also being webcast from our Investor Relations website at investors.micron.com. In addition, our website contains the earnings press release filed a short while ago.
+Today's discussion of financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A reconciliation of GAAP to non-GAAP financial measures may be found on our website, along with the convertible debt and capped call dilution table.
+As a reminder, the prepared remarks from this call and webcast replay will be available on our website later today. We encourage you to monitor our website at micron.com throughout the quarter for the most current information on the company, including information on the various financial conferences that we will be attending. You can also follow us on Twitter, @MicronTech.
+As a reminder, the matters we will be discussing today include forward-looking statements. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today. We refer you to documents we file with the SEC, specifically our most recent Form 10-K and Form 10-Q, for a discussion of risks that may affect our future results. Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements after today's date to conform these statements to actual results.
+I'll now turn the call over to Sanjay.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Farhan. Good afternoon, everyone. Our fourth quarter results contributed to a year of unprecedented success for the company. With record profitability and revenue over $30 billion, Micron ended fiscal 2018 as the second largest semiconductor company in the U.S. The new Micron is undergoing a fundamental transformation, driven by our 34,000-plus employees around the world, whom I would like to thank for their intense focus on our key priorities.
+Our markets are propelled by diversified secular growth trends, our industry is more rational and the Micron team is executing well against the company's strategy. Over the last 12 months, we have sharpened our focus on improving our cost structure and on increasing the mix of high-value solutions in our portfolio, all of which position us well for the future.
+Our technology road map and manufacturing execution is driving strong cost reductions for the company. Over the last year, we have increased production DRAM bits per wafer at a higher rate than the industry, reducing the cost gap with competitors.
+We are on track to achieve total bit output crossover on 1X nanometer DRAM in the first quarter of fiscal 2019 and have already achieved bit shipment crossover for 1X nanometer in the client and graphics markets in the fourth quarter.
+We expect 1Y nanometer sales to commence before the end of calendar 2019, with meaningful production increases beginning in the fiscal third quarter as we recently announced new cleanroom space comes online at our Hiroshima facility.
+We are also making good progress on our 1Z nanometer technology development. 
+In NAND, cost reductions and mix improvements have helped us deliver sequential gross margin expansion even as pricing declined in the industry. At this time last year, our bit output share was meaningfully below our wafer market share. Over the last 12 months, through the strong execution of our 64-layer ramp and a higher mix of TLC, we have reversed this trend and now have our bit share ahead of our wafer share. We remain on track to move 96-layer NAND into production this calendar year and will continue to ramp it next year, which should provide us with solid cost reductions in fiscal 2019.
+We have already commercialized CMOS Under the Array, QLC and array stacking on 3D NAND, while most competitors still have these challenges ahead of them. Our technology leadership positions us well for the year ahead, and we are pleased with the headway we are making on our fourth-generation 3D NAND technology, which uses a replacement gate architecture.
+We also made excellent progress increasing our mix of higher value-added solutions, delivering record revenue in our SSD and multichip package products this quarter.
+Our enterprise and cloud SSD quarterly revenues more than doubled year-over-year as we strengthened our position in SATA SSDs. A third-party research firm recently recognized Micron as the #1 market share leader in enterprise SATA. We achieved well over $2 billion in annual SSD revenue in fiscal 2018.
+Our first-generation NVMe SSD is in the final stages of product development. Looking ahead, we are focused on introducing new NVMe SSDs over the course of the next several quarters. Consumer and client NVMe SSDs will come first, and then late in calendar 2019, cloud and enterprise NVMe drives. As the market rapidly shifts to NVMe, 2019 will be a year of transition for us, following solid SSD share gains in 2018, and we expect to start growing SSD share again in 2020 with a fuller product portfolio.
+We also look forward to leveraging our market advantage with QLC SSDs in 2019 and beyond.
+Fiscal Q4 saw a continuation of our stellar performance in managed NAND growth, with MCP revenues growing 21% sequentially. MCPs are used in the vast majority of smartphones, and we have robust demand from customers for these products. We are focused on growing MCP revenues and are introducing new differentiated products to enhance our portfolio.
+In the fourth quarter, our new 128-gigabyte NAND plus 4-gigabyte DRAM MCP ramped revenue faster than any other managed NAND product in our history, demonstrating our strong execution as well as the market demand for high-capacity, high-value MCPs for flagship smartphones. We are pleased with our progress and believe we still have a lot of room to grow in this market over the coming year.
+Now turning to highlights by market. More than 1/3 of our total revenues in fiscal 2018 were from data center and graphics. Our annual revenues in these markets have more than doubled year-over-year. We are confident about the long-term demand growth in this market as AI and big data analytics continue to create new value for end customers. Our collaboration with customers in these markets is deep, and we work closely with them to bring new technologies to market.
+For example, in Q4, we started shipping a new custom persistent memory solution to a large hyperscale company. In graphics, NVIDIA chose us the lead GDDR6 partner for their GeForce RTX products, and we expect to see strong growth in our GDDR6 shipments in fiscal 2019. 
+We are also collaborating with customers on 3D XPoint solutions and expect to start sampling products in late calendar 2019.
+Markets requiring our long life cycle products make up more than 15% of our revenues. We win in these markets on high-quality, deep partnerships, committed long-term support and the breadth of our DRAM, NAND and NOR product portfolio. These businesses in our portfolio typically show higher stability in revenues, profitability and cash flows and are supported by secular growth drivers such as autonomous driving, networking, IoT and industrial automation.
+Our automotive business had record revenues in the quarter. We have a strong design win pipeline for automotive products, with a lifetime value of several billion dollars. To support our long-term growth in these markets, we recently announced a multiyear $3 billion investment to expand our fab in Manassas, Virginia over the next decade. This site will be a world-class center of excellence for developing and manufacturing these long life cycle solutions.
+Turning to mobile. The market continues to grow, driven by content increases for DRAM and NAND across all frontiers. We shipped our first high-performance UFS-managed NAND products in the fourth quarter and expect this to be a growth area for us in fiscal 2019.
+We delivered record results in mobile, with revenues up 8% sequentially, driven by strength in NAND as we grew NAND bits 80% quarter-on-quarter. DRAM and NAND content will continue to grow in mobile devices in fiscal 2019, driven by customer preferences and the need to support new camera and video features utilizing machine learning.
+Looking at the industry broadly, calendar 2018 has been a phenomenal year so far, with a total DRAM and NAND TAM on track to reach record highs and total industry revenues forecasted to grow 29% year-over-year to $168 billion.
+As we discussed at our Investor Day event, we expect industry cyclicality to be more dampened than in the past as industry supply growth from nodes transitions slows structurally and supply growth requires higher levels of CapEx.
+In addition, we continue to see robust diversified demand drivers and are confident in the long-term outlook for our business.
+Turning to bit growth. In DRAM, we see the calendar 2018 industry bit output growth tracking slightly above 20%, with Micron growing in line with the industry. NAND industry bit output growth is tracking close to 45% in calendar 2018, and we expect to grow roughly in line with the industry.
+Looking ahead to calendar 2019, we plan to grow DRAM bits in line with estimated industry growth of approximately 20% and plan to grow NAND bits somewhat above our expectation of industry growth of 35% to 40%.
+In fiscal 2019, we expect that DRAM profitability will remain strong as the market continues to benefit from long-term structural growth drivers and from structurally slowing supply growth.
+Turning to NAND. We have seen an acceleration in supply growth in calendar 2018, driven by the ramp of highly efficient 64-layer 3D NAND across the industry. Looking ahead, we expect a moderation in supply growth beginning in the first half of calendar 2019 as the industry transitions to more challenging 96-layer designs, which provide less benefit node over node.
+We also expect higher demand due to elasticity, resulting in higher SSD adoption and increasing average capacities across multiple end markets. In our fiscal first quarter, we see some impact to our client compute customers due to a shortage of CPUs. In addition, there is some limited inventory adjustment underway at a few customers, but their end customer demand remains solid.
+Turning to CapEx. Dave will provide more details, but I want to emphasize that our fiscal 2019 CapEx plans are consistent with our strategy to focus on technology transitions while maintaining existing wafer capacity. As we have highlighted previously, future technology transitions in NAND and DRAM require substantially more cleanroom space than prior nodes. As a result, our fiscal 2019 CapEx related to manufacturing facility construction and facility upgrades is increasing by nearly $2 billion year-over-year, primarily due to our previously announced NAND and DRAM cleanroom expansions. This investment will provide us the flexibility to better manage our manufacturing operations and drive the manufacturing ramp of new technologies in a timely manner.
+As I reflect on the tremendous progress we have made improving our competitive position this year and the amazing opportunities that drive our industry, I'm very excited about Micron's future. Against this backdrop, we certainly view our stock as being undervalued at current prices and are aggressively implementing our stock buyback program. We will continue to maintain a healthy balance sheet and use strong free cash flow to support over $10 billion buyback and assess opportunities to accelerate the time line for its completion.
+With that, I will pass this over to Dave.
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Sanjay, and good afternoon, everyone. Micron continues to perform exceptionally well and delivered strong financial results in the fourth quarter.
+We set new records for revenue, gross margin, free cash flow and earnings per share. In addition, we continue to strengthen our financial foundation, achieving our highest-ever net cash position.
+Total fiscal fourth quarter revenue was $8.4 billion, up 8% from fiscal third quarter and 38% from the prior year. For fiscal 2018, total revenue was $30.4 billion, up 50% from fiscal 2017. 
+Gross margins for the quarter expanded to a record 61%, up approximately 50 basis points from the prior quarter and up from 51% in the prior year. In the fiscal fourth quarter, we saw the benefit of strong execution on technology transitions for both DRAM and NAND. This strong execution resulted in a significant sequential cost decline, which drove expanded gross margins in both DRAM and NAND. For fiscal 2018, gross margins were 59%, up from 43% in fiscal 2017. 
+Operating expenses came in at $740 million, approximately flat from fiscal third quarter 2018. As previously communicated, moving forward, we expect to increase our investments in R&D for fiscal 2019 as we add resources to expand our portfolio of new high-value solutions and phase out partner contributions for technology development.
+Our record revenue and gross margin performance drove strong profitability in the fiscal fourth quarter, and operating income grew to $4.4 billion, representing 53% of revenue. This compares with operating margins of 52% in fiscal third quarter and 41% in the year-ago period.
+Now turning to our revenue trends by business unit. We achieved record revenue for the compute and networking business unit of $4.4 billion in the fiscal fourth quarter, up 9% from the prior quarter and 53% year-over-year. Growth trends were strong in cloud and graphics, which almost doubled year-on-year. 
+Fiscal fourth quarter operating income in CNBU was up 11% sequentially to $2.9 billion or 67% of revenue.
+Revenues for the Mobile Business Unit increased to a record $1.9 billion, up 8% quarter-over-quarter and 60% year-over-year. Sequential growth was primarily led by multichip packages and discrete/managed NAND. Fiscal fourth quarter operating income increased 14% quarter-over-quarter to a record $979 million or 52% of revenue.
+The Embedded Business Unit continues to deliver solid results, with record revenue of $923 million, up 3% versus fiscal third quarter and up 12% year-over-year. Sequential growth was driven by the automotive and industrial markets. Fiscal fourth quarter operating income in EBU was $382 million or 41% of revenue.
+And finally, turning to the Storage Business Unit. Fourth quarter revenue was $1.2 billion, up 9% sequentially and down 4% year-over-year. We set a record for overall SSD revenues, driven by our continued success in the SATA SSD market. Fiscal fourth quarter operating income in SBU was $157 million or 13% of revenue, which included the impact from the underutilization charges related to 3D XPoint. 
+And now, moving to performance by product line. DRAM represented 70% of total company revenue in fiscal fourth quarter. DRAM revenue was up 7% from the prior quarter and 47% year-over-year as Micron executed well in a robust market environment. On a blended basis, ASPs were flat to the prior quarter, while shipment quantities were up mid to upper single digits percent. Gross margins for DRAM were 71%, up from 69% in the prior quarter as cost benefited from the ramp of our 1X nanometer technology. 
+Trade NAND revenue represented 26% of total company revenue in fiscal fourth quarter. Trade NAND revenue was up 15% quarter-over-quarter and 21% year-over-year, driven by strong sequential growth in managed NAND products. Our overall NAND ASP decreased in the mid-teens percentage range, and shipment quantities increased in the mid-30 percentage range compared to the prior quarter. Trade NAND gross margins were 48%, up 50 basis points from the prior quarter and up 720 basis points from the year-ago quarter, driven by robust cost reductions and product mix improvements.
+Our solid execution and healthy industry environment led to a record non-GAAP earnings per share of $3.53, up 12% from the prior quarter and 75% from the prior year.
+For the full fiscal 2018, we achieved net income of $14.7 billion or $11.95 per share compared with $5.6 billion or $4.96 per share for fiscal 2017.
+In the fiscal fourth quarter, we generated a record $5.2 billion in cash from operations, representing 61% of revenue. Micron has historically shown strong cash flows from operations, even in our most difficult years, and our current cash flow levels are now structurally higher as we have made significant improvements on our underlying cost competitiveness and enhanced our product mix.
+Capital spending net of third-party contributions was $2.1 billion in the fiscal fourth quarter and $8.2 billion for the fiscal year. While our annual capital spending was well below our CapEx model of low 30s as a percent of revenue in fiscal 2018, we do plan to increase our CapEx as a percent of revenue in fiscal 2019. We currently expect our fiscal 2019 CapEx, net of partner contributions, to be in the range of $10.5 billion, plus or minus 5%.
+Our investments will continue to be focused on technology transitions for DRAM and NAND while maintaining flat wafer capacity. We expect that about 25% of our capital spending will be associated with facilities expansions and facilities upgrades needed for successful technology transitions. These expansion and upgrade projects are underway, and as a result, CapEx will be more weighted towards the first half of the fiscal year. Our strategy is to be flexible and disciplined regarding our CapEx, and we will be responsive to market conditions. As an example, we cut back our fab equipment CapEx for NAND in fiscal 2019 compared to fiscal 2018 levels.
+In the fourth quarter, our free cash flow was $3.1 billion, up $900 million from the third quarter and up nearly $1.4 billion from the prior year period. Free cash flow for the full fiscal year was $9.2 billion compared to $3.3 billion last fiscal year.
+We ended the fiscal year in a record net cash position of $2.7 billion, with approximately $7.4 billion in cash, marketable investments and restricted cash, and $4.6 billion in debt. 
+During the fiscal year, we used $9.4 billion for the repurchase or prepayment of debt and redemptions of converts and reduced our debt position by $6.5 billion. In the fiscal fourth quarter alone, we reduced our debt position by approximately $2.7 billion, including the repayment of $2 billion of Taiwan secured debt.
+Combining the debt and equity components, we spent about $1.3 billion for redeemed convertible notes during the fiscal fourth quarter. Our convert redemption in fiscal third and fourth quarter have lowered the share count in the first quarter by approximately 31 million or 2.5% from what it would have been had the converts not been redeemed.
+Prior to turning to our outlook, I wanted to provide some context for our fiscal first quarter guidance. As Sanjay indicated, our markets remain healthy and demand from our customers is strong, but we are seeing some impact of CPU shortages in the client compute market and limited inventory adjustments at select customers.
+We expect gross margins to remain very healthy in the fiscal first quarter, although lower than fourth quarter levels, and our gross margins will also be impacted in the near term by the announced 10% tariff on $200 billion of imports from China, which will go into effect on September 24. We are working to gradually mitigate most of the impact from these tariffs over the next 3 to 4 quarters.
+Our fiscal 2019 tax rate should increase to approximately 12% versus 2.8% in fiscal 2018, with the new U.S. corporate tax rules enacted this year.
+With the revenue, gross margin and tax factors in mind, our non-GAAP guidance for the first fiscal quarter is as follows: we expect revenue to be in the range of $7.9 billion to $8.3 billion; gross margins to be in the range of 57% to 60%; operating expenses are expected to be $750 million, plus or minus $25 million; and based on share count of approximately 1.2 billion fully diluted shares, we expect earnings per share to be $2.95, plus or minus $0.07.
+Now let me take a moment to provide an update on our share repurchase program. I'm pleased to report that our buyback has been in effect since the beginning of September. And for the fiscal first quarter, we are committed to spend at least $1.5 billion in programmatic repurchases, with an additional amount allocated for opportunistic repurchases. Beyond the first fiscal quarter, we expect to be active buyers of our stock by repurchasing Micron shares regularly. We are committed to deploying at least 50% of our ongoing free cash flow towards our $10 billion buyback program, and as Sanjay mentioned, we are assessing an accelerated rate of completion of this program. The total buyback program of $10 billion represents approximately 19% of the current equity value. 
+Before I turn the call back over to Sanjay, I'd like to discuss an update to our disclosures. As we typically do this time of year, we review the financial information we disclose to make sure that we are appropriately balancing the needs of investors to make an informed investment decision with a desire to keep confidential as much proprietary information as possible. In doing so, we also review information disclosed by competitors. As a result, beginning in the fiscal first quarter, we will no longer be disclosing gross margins by our DRAM and NAND product categories. We view this information as sensitive and proprietary. To help investors understand the drivers of our corporate gross margins, we will provide color on factors affecting gross margins. We will continue to provide revenue and operating margin information by segment in our quarterly and annual filings with the SEC.
+With that, I'll now turn the call back over to Sanjay for concluding remarks.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Dave. I'm proud of the Micron's teams' execution in fiscal 2018. In October, we will celebrate the 40th anniversary of Micron's founding. Our proven track record in delivering technology and design innovation and building close partnerships with a broad range of customers has laid a solid foundation. We are now driving a culture of agility, efficiency and speed and executing on product level innovations in high-value solutions. This transformation to the new Micron continues to build strong momentum. I'm really excited about our future, and the best is yet to come.
+We will now open for questions.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from the line of John Pitzer of Crédit Suisse.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [2]
+--------------------------------------------------------------------------------
+
+          Dave, I'm wondering if you could just help us understand the magnitude of the impact in the fiscal first quarter to the CPU shortages and just sort of the modest inventory correction we're seeing with some of your customers. And specifically, on the CPU shortages, do you feel like that's something that's limited to the fiscal first quarter? Or are you -- or should we think about that persisting into the fiscal second quarter?
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Okay, yes, sure. So let me get -- take the first one. Let's start with -- so on the magnitude side, we're not going to go into necessarily the details, all the details in a granular fashion. Suffice it to say that they both had an impact in terms of the guidance of $7.9 billion to $8.3 billion They're a big driver of obviously why we guided in that direction. I don't know exactly how long the CPU shortage will last. I think on the inventory correction side, it will be a couple of quarters before inventory gets reduced.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+
+          And I will just add that [with the CPU] shortages, we expect it to be short term. It's possible that it goes beyond Q1 as well.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [5]
+--------------------------------------------------------------------------------
+
+          That's helpful. And, Sanjay, maybe as a follow-up. In your prepared comments, you talked about 2019 being a year of transition for your SSD business as you bring out NVMe product. I'm wondering if you could help us understand what that means from a financial perspective for your SSD business. Do still expect growth in that business in fiscal year '19? And kind of how do we think about profitability as you transition from SATA to NVMe?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [6]
+--------------------------------------------------------------------------------
+
+          As we said, we have gained substantial shares in SSDs, primarily based on SATA SSDs over the course of 2018, our fiscal 2018. And we are very pleased with the progress we have made there. And, of course, market is shifting towards NVMe SSDs, and that's where the future growth opportunity lies. And we have been working on our NVMe SSD solution. We plan to introduce our first NVMe solutions later this year, and then we will be ramping, as we said, in the client and consumer space, bringing new products into the market in calendar year 2019 and bringing, later on, enterprise and cloud, NVMe SSDs later in the year, in the 2019 year. So our NVMe SSDs will be ramping up gradually over the course of 2019. Of course, we will continue to maintain a solid share position with SATA SSDs. Overall, I expect that our total share in SSDs will continue to be flattish in 2019 time frame, and we expect to resume share growth from [a] 2020 time frame as we complete our NVMe SSD portfolio. And by completing NVMe SSD portfolio, I mean, complete the development of SSDs, get them qualified with our customers and ramp them into production. So we are very confident about the long-term opportunity for us in SSDs, leveraging our low-cost 64 layers NAND as well as our 96-layer NAND solutions over the course of next few quarters.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Romit Shah of Nomura.
+
+--------------------------------------------------------------------------------
+Romit Jitendra Shah,  Nomura Securities Co. Ltd., Research Division - Executive Director    [8]
+--------------------------------------------------------------------------------
+
+          [Just in like] your commentary, and certainly, the CapEx paints a fairly positive view of the environment and certainly more positive, Sanjay, than what we've heard from your largest competitor, who appears to be reducing investment and preparing for a protracted downturn. So, I guess, my first question is, how confident are you that the adjustments you're seeing is really just a 1 or 2 quarter issue?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [9]
+--------------------------------------------------------------------------------
+
+          I think most important to understand is the end market demand trends for DRAM as well as NAND continue to be strong. I mean, when you look at data center and cloud applications, AI is in the very, very early innings. And the whole cloud growth is in the very early innings as well. We see the DRAM requirements in enterprise and cloud data center application to be growing much faster than the total average DRAM industry demand growth, CAGR over course of few years of about 30%. Similarly, in mobile applications, DRAM is growing nicely as well, as machine learning kind of features, as facial recognition, et cetera, get implemented in these forms. We are already starting to see 6 to 8 gigabyte, even 10 gigabyte, coming in smart -- high-end smartphones now, and these are not too far -- and then you even see 12 gigabyte in smartphones. And similarly, on the NAND front, when you look at average capacities increasing in smartphones, you are seeing now 512-gigabyte smartphones being offered, and again, days of terabyte smartphones are not far away. And certainly, with elasticity in NAND, average capacities in client computing applications as well as mobile devices will increase as well as attach rate of SSDs will increase. So this is important. When you look at these demand trends, we feel very confident about the long-term trajectory. In 1 or 2 quarters here or there, there can certainly be ebb and flow in terms of demand or supply in the industry, but the long-term trend is positive. And specific to our CapEx, I'll just point out here that we are being very prudent, very disciplined in managing our CapEx, absolutely focused on profitability and ROI. We had mentioned that our CapEx on cleanroom construction and facility upgrades is increasing by $2 billion compared to last year. And Dave mentioned that it represents about 25% of our total CapEx guidance that we provided. And just as an example of our discipline on CapEx management in NAND, in terms of equipment CapEx for 2019, our fiscal year 2019 versus 2018, we have -- we are actually reducing the CapEx fiscal year 2019 versus 2018. So we are extremely focused on technology conversions, technology transitions because they are the best way for us to achieve cost competitiveness as well as ROI on our investments. We are not adding the wafer starts, where some other competitors may have thought about those in the industry.
+
+--------------------------------------------------------------------------------
+Romit Jitendra Shah,  Nomura Securities Co. Ltd., Research Division - Executive Director    [10]
+--------------------------------------------------------------------------------
+
+          I think a lot of us certainly believe in the strong secular trends that are driving your business. What's been a little surprising though is just the rate of change in pricing both in NAND and, it seems more recently, DRAM. Can you talk a little bit about that? And you mentioned some customer inventory. I'm curious, which segments do you see that elevated?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [11]
+--------------------------------------------------------------------------------
+
+          So I think with respect to the inventory question that you have, it's very important to understand that we are not talking about debt inventory adjustment in any particular segment. This is with few customers. It is a customer-specific inventory adjustment that we discuss here. And, of course, we cannot call out those customers on this call. And with respect to pricing, of course, we do not forecast pricing. But you look at our F Q4 results, our DRAM pricing was flat, and 71% gross margin, record gross margin, extremely healthy. Industry environment, we see going forward as well for DRAM. As I talked about, the demand drivers are vibrant for DRAM, they are diversified and they are secular in nature, and DRAM solutions are really bringing great value to the AI-driven kind of applications where they're really essential to that trend. And you have to keep in mind that the supply growth is slowing down as well, given the increased technology complexities and greater CapEx that is required to implement the technology transition. So overall, we continue to see healthy DRAM industry fundamentals. On the NAND side, as I mentioned, this year, calendar 2018, we see NAND supply output growth at approximately 45%, and this, as you know, has been there because the industry, over the course of last several months, has gone through a major transition from 2D NAND to 3D NAND with a 64 layer. And the industry at this point is already on 3D transition in terms of total bits on a calendar year basis at about 75% level. So going forward on NAND as well, as you look at transition in the future to 96 layer, that will have the same kind of [consideration] that increase technology complexity and reduced bit gain per wafer from 64- to 96-layer transition. So we see moderation in the industry supply aspect in the first half of 2019.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Amit Daryanani of RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  RBC Capital Markets, LLC, Research Division - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          I guess, 2 from me as well. First off, could you just maybe help me understand, when I think about the gross margin guide for fiscal Q1, it's down 300 basis points, I think, sequentially. How much of that is due to the tariff issue versus what's going on in memory broadly? And then as you go through fiscal '19, do you think these margins that you can improve throughout the year, especially as you [resolve] some of the tariff issue -- challenges?
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [14]
+--------------------------------------------------------------------------------
+
+          Yes. So, first of all, the gross margin guidance was 57% to 60%. So, of course, if we hit the higher end of that range, we will be 140 basis points down. Clearly, tariffs are impacting us, probably to the tune of 50 to 100 basis points. And as we talked about, we're working on steps to mitigate that. That obviously takes some time. We have to do some things operationally to get ourselves in a place where it isn't as impactful. And so it will be a quarter or 2 probably before we start to see some benefit from the improvement there. So that was certainly a factor on the gross margin side. I would say, in general, the market for DRAM is healthy. The market for NAND is well supplied. So we built in various expectations, depending on kind of how things play out from a revenue perspective, and that certainly drives some of the gross margin adjustments as well. But suffice it to say, if we look at this from a year-over-year comparison, gross margins, I think, in the first quarter of 2018 were 55.4%, if I'm not mistaken. So we'll be above, on a year-over-year basis, if we hit within the range of what we expect, anywhere from 160 to 460 basis points.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  RBC Capital Markets, LLC, Research Division - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          That's really helpful, Dave. And, I guess, if I could just follow up. On the NAND side very specifically, pricing has degraded for a couple of months, and your data, obviously, [that you put] showed that has declined as well in the quarter. Again, I'm somewhat surprised that you haven't seen demand elasticity kick in with output or your demand, I guess, improving much more dramatically. So I'm curious, what do you attribute perhaps to the fact that demand hasn't stepped up more attractively as pricing has come down? And do you think there's just a time lag for it to get there? Or is there some other reason why we aren't seeing it?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [16]
+--------------------------------------------------------------------------------
+
+          So let me take that. In terms of demand elasticity, we are certainly seeing that. I think in smartphones, you do see a move to higher capacities. I referred to that in my previous comment in response to the previous question. In SSDs, which is currently [limited] to consumer and channels-related SSDs, with the benefit of lower-priced NAND, certainly, you see -- you are starting to see -- there's always some lag. Average capacity increases in those channels as well. So overall, NAND should definitely continue to benefit from price elasticity.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Tim Arcuri of UBS.
+
+--------------------------------------------------------------------------------
+Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [18]
+--------------------------------------------------------------------------------
+
+          I had two. So, Sanjay, first, I wanted to see if you can provide some color sort of in terms of your reduction in cost for DRAM in fiscal 2019 and whether you think it'd be similar to what you reduced cost in DRAM in fiscal 2018?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [19]
+--------------------------------------------------------------------------------
+
+          So we are not going to provide full year guidance on the cost side for fiscal year 2019, but I will tell you that we believe we are in very good position with respect to continuing to execute on our technology and manufacturing road map and realizing cost reduction. Of course, as we have said before, when you go from 1 technology node to the other technology node, you achieve less bits per wafer gain, and that impacts, of course, the cost reduction capability from 1 node to the next node. And again, the laws of physics are the same everywhere, and this is common across the industry, as we discussed at our Investor Day. So 1Y technology in mature years will provide less cost reduction than 1X technology provided over the 20-nanometer. Nonetheless, our position will be good in terms of cost reduction. Things that we discussed at Investor Day, we feel very good about our ongoing march toward strengthening our cost competitiveness. And, of course, in NAND, we are in very good position with the lowest-cost technology in the industry.
+
+--------------------------------------------------------------------------------
+Timothy Michael Arcuri,  UBS Investment Bank, Research Division - MD and Head of Semiconductors & Semiconductor Equipment    [20]
+--------------------------------------------------------------------------------
+
+          Awesome, awesome. And then I had a question on the fiscal 2019 CapEx. So Samsung is pretty significantly -- well, not just them, but both of your peers are pretty significantly reducing DRAM CapEx next year. And it sounds like if I strip out the infrastructure and the building portion, that your equipment spending on DRAM is going to go up next year. So I'm asking about the juxtaposition of you increasing your DRAM CapEx when your peers are pretty heavily cutting DRAM CapEx next year. So I wanted you to talk about that dynamic and, specifically, what it would take for you to cut DRAM CapEx next year.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [21]
+--------------------------------------------------------------------------------
+
+          So let me just point out that in 2018, we were well below the industry in terms of overall CapEx. And overall, we definitely are absolutely focused on technology transitions with respect to our CapEx, and we believe we have, really, a prudent disciplined focus, as I said before, in terms of addressing our CapEx toward equipments, targeting it toward technology transition and bit growth coming from the technology transition. We have mentioned that calendar year '19, we see our supply bit growth in line with the industry on DRAM side, which we expect to be approximately 20%. And in NAND, we have said that we expect our fiscal year 2019 supply output bit growth to be -- industry to be in the range of 35% to 40% and for us to be somewhat higher.
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [22]
+--------------------------------------------------------------------------------
+
+          And I would say, as we talked about in the prepared remarks, we do react to changes in our view, and we did reduce our CapEx plans for NAND in fiscal 2019. So we are able to make adjustments as we see changes.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+
+          Yes. And, of course, we retain some flexibility in terms of managing this on an ongoing basis as well.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Aaron Rakers of Wells Fargo.
+
+--------------------------------------------------------------------------------
+Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Two, if I can, as well. Kind of building on that last question. As we think about what you've said about 96-layer and less of an incremental capacity increase when compared to that of 64-layer, I'm wondering if you could provide us some framework of how we should think about the next phase of transition to NAND in terms of bit output increases on a per wafer perspective. And then I have a quick follow-up.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [26]
+--------------------------------------------------------------------------------
+
+          So at this point, we are not providing specifics on 96-layer and how much you gain per wafer, but I think some of it can be obvious as well. You are going from 64-layer to 96 layers. And future generation beyond 96-layer will tend to have, again, reduced bit gain per wafer. All of that is obviously -- along with the assumptions of industry ramp of 96-layer, is baked into our overall guidance of fiscal year -- calendar year '19 NAND bit growth of 35% to 40%. It's slowing down because, again, 64-layer to 96-layer will give you less gain. So in 2018, you saw a onetime increase in NAND bit growth, given that the industry went from 2D to 3D transition with 64-layer. Going forward, it will revert back to the same curve of less and less bit gain and, of course, more CapEx requirements with each successive technology transition.
+
+--------------------------------------------------------------------------------
+Aaron Christopher Rakers,  Wells Fargo Securities, LLC, Research Division - MD of IT Hardware & Networking Equipment and Senior Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Okay. Fair enough. As a quick follow-up, I'm curious, you talked a little bit earlier about your NVMe positioning and then the portfolio expansion. You didn't talk much about quad level cell or QLC. So maybe if you can update us of where you see that positioned and when we should expect to see that kind of impacting the SSD business as we look through calendar '19 or into 2020.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [28]
+--------------------------------------------------------------------------------
+
+          So in my prepared remarks, I did mention about QLC, and we have -- we are the first ones to introduce QLC SSDs in the industry, very proud of Micron's ability and execution in that area and very proud of our team to be able to do that. And we have just begun with certain set of limited customers taking that QLC SATA SSD product to the market. This will be a growing revenue for us within SSD next year. Although it will remain relatively small, it will initially be, of course, in the SATA QLC solutions. As in the past, when you went through MLC transitions in the NAND industry or you went through the TLC transitions in the NAND industry, those transitions occurred over the course of few years, and we similarly expect the QLC transition to be happening gradually over the course of next few years, although we will start realizing revenue from QLC SSDs starting now, but -- then continuing to increase it modestly in calendar 2019 as well. And, of course, focusing on it in the SSD space.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Harlan Sur of JPMorgan.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JP Morgan Chase & Co, Research Division - Senior Analyst    [30]
+--------------------------------------------------------------------------------
+
+          On inventory adjustments, is this primarily client side or data center side? And is this a statement more about just kind of higher accumulated inventories in the first half? Or is this a statement around the overall demand environment coming in less than expected or a combination of both?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [31]
+--------------------------------------------------------------------------------
+
+          So as I said before, this is not limited to any particular segment. It is more specific customer consideration. And given the kind of pricing that had existed in the DRAM market, certain customers have certain inventory levels that -- in a certain inventory strategy that they were pursuing. And those customers have decided to adjust their inventory levels. So that's what we refer to in our remarks. In terms of the end market demand for those customers and end market demand for DRAM application, that continues to be solid. It's just an inventory adjustment approach of some of our customers.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JP Morgan Chase & Co, Research Division - Senior Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Great. And you guys have done a great job of improving the NAND mix. I mean, your margins actually went up in the quarter. Given the strong cloud spending trends, you obviously have a great mix of enterprise and cloud SATA products. The transition to NVMe is going to be slower than expected, so I would anticipate your SATA products continue to do well. So on a go-forward basis, and given your customer spending trends, do you guys anticipate continued mix-based improvements and benefits in your NAND business from a gross margin perspective?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [33]
+--------------------------------------------------------------------------------
+
+          I mean, absolutely, we will continue to increase our high-value solutions mix, which means SSDs as well as managed NAND solutions for mobile application, including discrete managed NAND solutions as well as multichip packages, where, of course, we have a significant benefit because we have both DRAM and NAND. So absolutely, this is part of our strategy. We will absolutely continue to increase our mix of SSD and managed NAND solutions, high-value solutions. Just want to remind you that we had shared at the Investor Day that in fiscal year '17, we had about 40% of NAND revenue coming from our high-value solution, that means SSDs and managed NAND solutions. And in fiscal year '18, we increased that to a little over 60%. In fact, in fiscal Q4, our managed NAND and SSD mix, the high-value solutions mix in NAND is over 2/3. So this just goes to show you that we are absolutely working toward our goal that we had shared with you at the Investor Day, that by 2021, we will have 80% of our NAND revenue in terms of -- actually, in terms of managed NAND solutions. So this is going really well for us, and it, of course, provides us the benefits in terms of profitability as well.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Mehdi Hosseini of SIG.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [35]
+--------------------------------------------------------------------------------
+
+          2 questions. Sanjay, you have been referencing visibility onto data center. I think it's something that, I think, investment community would really appreciate if you could give us the thought process that gives you the confidence. And what are the key metrics that gives you the visibility? Anything here that could be specific would be really great. And I have a follow-up.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [36]
+--------------------------------------------------------------------------------
+
+          So, certainly, I think when you look at the data center, the total CapEx increases particularly in the hyperscale application, a lot of that CapEx, (inaudible) go toward server and memory and storage application. But that certainly is an indication of the continuing year-over-year growth (inaudible) certainly an indication of [keeping] opportunity. But again, I will point out that we are in very early innings there. And this is going to be a multi-year growth opportunity for us. And we are actually focused on working closely with the customers in this space. And through those discussions, we had good visibility from them in terms of our opportunity for the future. So we feel very good about our growth opportunities in this part of the segment here.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Sure. I completely agree with you. And I think your Analyst Day provided a lot of detail and informative information on how the opportunities could be. I think what we are struggling with is how to model this, even if it's not on a quarterly basis, maybe on a 6-month basis, because perhaps, opportunities by 2020, 2021 are enormous. But what happens in 2019? And how should we think about cloud CapEx? In the past, we had PC units and we had content. We had smartphone units and the content. But now the cloud -- either an Internet company or a software company providing cloud services, it's very difficult to model this. And we have to think about how '19 will look like before all of these opportunities would materialize. And I was just wondering if there's anything you can share with us to help us with the thought process.
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [38]
+--------------------------------------------------------------------------------
+
+          So I think one of the things I will share with you is that if you look at the DRAM demand growth projections in the cloud and enterprise data center space, you will see that, that CAGR over a few years is 30%, and that is higher than the expected DRAM overall industry supply bit growth of 20%. So this is one of the fastest growth areas where DRAM, along with NAND, really bring a lot of value to those customers. I think at our Investor Day, we had taken you through the details of how AI-driven applications are requiring 6x more DRAM per server and 2x more SSDs per server. So I think you have to look at all of these trends. There is no one particular trend that I can point to. You -- in this regard, of course, you have to look at the cloud CapEx. You have to look at the average capacity increases that are taking place on the DRAM side as well as for the NAND side in cloud applications, the server attach rates. The CPUs that are going into the servers have more memory channels that's enabling more DRAM growth per server content in the data center application. So there are many of these things that all absolutely are pointing to strong demand drivers. And just to end the comment here, I would point out that our end market applications are well diversified in DRAM. Of course, cloud and data center is 1 strong growth area for us, but mobile, automotive, industrial, IoT, all of these are also growth applications. For example, in automotive and industrial, we have #1 market share, and that's a very stable kind of market opportunity. And we are doing very well. Graphics is another example, right? We are very strong positioned in graphics as well and another growth opportunity. So multiple growth drivers and we are well positioned. The message is the industry is structurally different, and Micron -- the new Micron is also structurally different. And we are well positioned to drive the business going forward.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Okay. And if I may just have a quickie one for David. How should we think about your NAND and DRAM aggregate inventory? Are there number of days? Or how has it changed sequentially?
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [40]
+--------------------------------------------------------------------------------
+
+          Well, inventory in total is probably all we are breaking out, which inventory on a days basis right now is in kind of the high 90s. It's been that way for some time now. I would say we're comfortable with our inventory position. Having said that, if you remember in the Analyst Day, Manish, that runs operations talked about some of the things he was doing to improve the efficiency of the manufacturing group and, on top of that, improve, in particular, the back-end and try to make that more streamlined. And there's a whole bunch of things we're doing in terms of system improvement and process improvement that I think will actually have a pretty good effect on inventory going forward. So over time, I think you'll see us carry a lower days of inventory and improved working capital in the process.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Our last question for this session comes from C.J. Muse of Evercore.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [42]
+--------------------------------------------------------------------------------
+
+          If I could ask two. First one, on the call, you talked about moderating NAND supply in the first half of '19. Curious, with the construct of inventory adjustment at a few of your customers, could you kind of walk through how you're seeing DRAM supply/demand, particularly as you also layer in some of the cuts that we've seen from your 2 other competitors in terms of equipment add over the last 6 to 9 months?
+
+--------------------------------------------------------------------------------
+Sanjay Mehrotra,  Micron Technology, Inc. - CEO, President & Director    [43]
+--------------------------------------------------------------------------------
+
+          So as we mentioned, we see DRAM to be healthy in Q1, and we definitely see healthy demand supply chain for DRAM beyond that as well, given the well-diversified growth drivers for DRAM. So overall, we see DRAM in balance. And regarding the inventory adjustment, I just want to be clear that, that comment is related to DRAM.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Very helpful. And then as my follow-up, on the buybacks, you talked about a $1.5 billion or roughly 3% of the company. I'm curious, given you had the 10b5 program in place September 1, should that be front-end-loaded, thus more material benefit as we go through this quarter and next? And then also, considering you're now, I think, $2.5 billion, plus or minus, net cash position, at these prices, would you consider being even more aggressive?
+
+--------------------------------------------------------------------------------
+David A. Zinsner,  Micron Technology, Inc. - Senior VP & CFO    [45]
+--------------------------------------------------------------------------------
+
+          Good question, C.J. And I do want to thank investors for being patient with us a little bit. We announced this in May at the Analyst Day, and we needed a few more months to get the balance sheet to where we wanted. As you mentioned, now we have a great net cash position, we have debt now below $5 billion, that is 0.3x EBITDA, and we have great liquidity. We're now over $9 billion of liquidity, and we said we wanted to be 30% of sales in liquidity. So we're in a very strong position entering fiscal 2019, which I think is great. Our intention is to be fairly programmatic about the buyback, and so that $1.5 billion does represent more of a programmatic-type approach. Having said that, we did mention that we have layered, on top of that, some opportunistic repurchases, and so that will be somewhat timing-based, based on when the opportunities arise to take advantage of buying back a little bit more. In both Sanjay and my prepared remarks, we did talk about acceleration. And if you look at the $1.5 billion and kind of make some estimations around our free cash flow for the first quarter, you'll probably get a figure that is above the 50% free cash flow number we said we are committed to. So I think it is in the cards for us to be a little bit more aggressive over time, and we obviously think that this is a fantastic price to be buying the stock at.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          And ladies and gentlemen, this concludes today's conference. Thank you for your participation, and have a wonderful day. You may disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

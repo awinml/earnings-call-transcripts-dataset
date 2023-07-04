@@ -1,0 +1,372 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2016 Amazon.com Inc Earnings Call
+OCTOBER 27, 2016 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian Olsavsky
+   Amazon.com, Inc. - CFO
+ * Darin Manney
+   Amazon.com, Inc. - Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Gene Munster
+   Piper Jaffray & Co. - Analyst
+ * John Blackledge
+   Cowen and Company - Analyst
+ * Neil Doshi
+   Mizuho Securities - Analyst
+ * Youssef Squali
+   Cantor Fitzgerald - Analyst
+ * Heath Terry
+   Goldman Sachs - Analyst
+ * Colin Sebastian
+   Baird Equity Research - Analyst
+ * Douglas Anmuth
+   JPMorgan - Analyst
+ * Ben Schachter
+   Macquarie Research - Analyst
+ * Mark Mahaney
+   RBC Capital Markets - Analyst
+ * Justin Post
+   BofA Merrill Lynch - Analyst
+ * Brian Nowak
+   Morgan Stanley - Analyst
+ * Mark May
+   Citigroup - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. Good day, everyone and welcome to the Amazon.com Q3 2016 financial results teleconference.
+(Operator Instructions)
+Today's call is being recorded. For opening remarks, I will be turning the call over to the Director of Investor Relations, Darin Manney. Please go ahead.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+Hello and welcome to our Q3 2016 financial results conference call. Joining us today to answer your questions is Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you which includes our financial result as well as metric and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2015.
+Our comments and responses to your questions reflect Management's view as of today, October 27th, 2016, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial result is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filing.
+During this call, we may discuss certain non-GAAP financial measures. In the press release, slides accompanying this webcast and our filings with the SEC, each of which are posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we have seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic conditions and customer spending, world event, the rate of growth of the Internet, online commerce and cloud services and the various factors detailed in our filings with the SEC. Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investment restructurings or legal settlements. It is not possible to accurately predict demand for our goods and services and therefore our actual results could differ materially from our guidance.
+With that, we will move to Q&A. Operator, please remind our listeners how to initiate a question.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Our first question comes from Douglas Anmuth with JPMorgan. Please state your question.
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan - Analyst    [2]
+--------------------------------------------------------------------------------
+Thanks for taking the question. The international retail segment margin was the lowest we have seen in quite a while. I was hoping that you could provide some of the key drivers there in terms of the drag and any color on how to think about the incremental international investment that might be impacting the 4Q guide. Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+Sure. Thanks, Doug. Specifically to international, we are seeing expansion to support selection expansion fulfillment network increases. We're also investing in digital content and additional prime benefits, Fresh location and Prime Now. By far the biggest individual thing is the investment in India that we continue to make. Very excited about the initial reaction in India from both customers and also sellers. That is essentially the international margin guidance in Q4.
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan - Analyst    [4]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from Gene Munster with Piper Jaffray. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Gene Munster,  Piper Jaffray & Co. - Analyst    [6]
+--------------------------------------------------------------------------------
+Great. Thanks. I guess when we think about the progression in margins in the second half versus the second half of 2015 and kind of the flat lining of overall margin at this point, excluding AWS, should we think about this as a temporary plateau that will at some point will resume once you start leveraging your fulfillment build-out or is there something structural that is philosophically changing with the way that you operate your business. Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [7]
+--------------------------------------------------------------------------------
+Yes. Thanks, Gene. We will continue to invest in the business where we are seeing significant customer traction. The things that I'm about to mention fall into that category. The largest individual reasons for the ramp-up in investment between the first half and second half of this year and also second half of this year versus second half of last year are the things that I mentioned on the call last quarter.
+First, video content and marketing associated with that is nearly doubling year over year in the second half of the year. It continues to be a large increase for both Q3 and Q4. In the quarter in Q3, we added 18 fulfillment centers and we have added 5 more in October. For the year, we will add 26. Most of those are in North America.
+That compares to 14 last year and I would -- looking back, there is -- the last time we had double-digit increase in fulfillment centers was 2012 when we added 11 in the third quarter. There was a rare aggregation of startups in Q3 and into Q4. It is helping us position better for Q4 volumes, because paid unit growth continues to be strong and Amazon fulfilled unit growth, which includes what we ship, includes FBA is significantly higher than even that. We are continuing to build for high AFN, or Amazon fulfilled network demand, including both retail and FBA.
+The number of warehouses that we added represent the 30% increase in square footage year over year. Last year we increased square footage by just under 20%. The definition of square footage in this case is all of our warehouses, plus our sortation and delivery centers, so it's pretty much our end-customer service centers. It's pretty much our square footage that support operations.
+Those will dissipate as we -- as they burn in. We've talked about fulfillment centers initial startup costs include increase in fixed cost but also variable cost as we train workers and also bring in inventory. There's a number of transportation costs also related to the startup of a new fulfillment center, both inbound and outbound. They are inherently less efficient than more established, mature buildings. There will be a cycle where those will be more productive next year than they are this year and more productive in 2018 than they are in 2017.
+What you are seeing, essentially, in the second half of this year is a step-up investment, primarily around digital content and also the fulfillment center investment, but also things like Echo and Alexa which we're adding a lot of resources to, India and AWS as we add people there to support additional service rapid growth in that business.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Brian Nowak,  Morgan Stanley - Analyst    [9]
+--------------------------------------------------------------------------------
+Thanks for taking my question. I have two. The first one, just to go back, Brian, to the fulfillment build. In the past you talked about how it takes time to kind of get the fulfillment centers to peak efficiencies. With these new FCs opening, can you talk about if you become more efficient, so if you get into a lower volume quarter next year, there's less risk of deleverage or should we still think about it's going to take time to get up to peak efficiency?
+The second one at AWS, Amazon the Company is good in removing friction in the purchase process. Can you talk about some of the main hurdles you have to overcome for large enterprises to start using AWS more? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [10]
+--------------------------------------------------------------------------------
+Sure. In the fulfillment network, as we build it yes, they will be more productive next year than this holiday peak and probably even more productive in 2018. I can't forecast it for you into next year quite yet, but we certainly had productivity and additional costs in Q3 and even into Q4 of this year as we built the additional capacity. Again, the underlying reason for that capacity build is the strength in paid units and even more so in the units that we're fulfilling, driven by our FBA program.
+The FBA program is the key pillar of our Prime offering. It adds selection. It makes Prime stronger. That's a self-reinforcing loop where Prime -- the Prime success attracts more sellers. We're glad to have that problem. We are just working very hard to get capacity in place and productive use for Q4 and beyond.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [11]
+--------------------------------------------------------------------------------
+Hi, Brian. This is Darin. On the AWS question, we continue to invest in AWS on behalf of our customers. In addition to the technologies that make integrations easier and it helps companies move from an on-prem or a hybrid IT environment into AWS if we're going to continue to do that. Specifically, the database migration tool that are helpful for customers when they move production databases from on premises to the cloud with virtually no downtime.
+Also, many of our AWS customers are beginning to choose and continue to choose the AWS schema conversion tool which really switches database engines to get out of old-guard proprietary databases and on to AWS. We will continue to react to customer needs and that will include opening up new regions. We have opened up Ohio this past quarter. We've highlighted that we will have a number of regions coming online in a few months. Yes, we're doing a lot of things to help make it easier for all customers to migrate to AWS.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Mark Mahaney with RBC Capital Markets. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Mark Mahaney,  RBC Capital Markets - Analyst    [13]
+--------------------------------------------------------------------------------
+Okay. Hey, Brian, would you give us any commentary on two categories in particular, groceries and fashion and apparel? Particularly on groceries, I know in the release there was a couple of data points about Fresh rolling out into newer areas like Maryland. Great to see that. Can you just talk about that in the investment horizon? Is that moving the needle for you and how big that -- any way to help us quantify how big that already is to your -- to the revenue growth that you're seeing, particularly on groceries and any particular comment on fashion and apparel. Same line of thinking. Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [14]
+--------------------------------------------------------------------------------
+Sure. Thanks, Mark. I will start with Fresh and groceries in general. Yes, this quarter we launched in Northern Virginia, Maryland, Dallas and Chicago. We also launched a new pricing plan, which is a monthly $14.99 add-on to Prime in the US. We have expanded, as you know, previously into London.
+We're very happy with the progression both in the geographies that we have been in for a long time where we are at, continuing to add zip codes and additional neighborhoods and also in these new cities. Certainly a business where we continue to work on costs and profitability. We are finding at the very attractive service to our customers, which is what we're after.
+Similarly, but not exactly the same, is the Prime Now business which has similar overlap on things besides groceries. It is a slightly different model, obviously, where we're more about immediacy and smaller list items available in one to two hours. There's certainly a lot of people who are using that for groceries and consumable items. That is now up to 40 cities across 7 countries versus 17 this time last year. We're also adding Amazon Restaurant Delivery to the Prime Now offer in 19 metropolitan cities in the US. That is up from two last year.
+We continue to believe consumables, groceries are a key part of the offer to customers. We are playing with very different models to see which works and for what needs. We're very happy with the Amazon Fresh and we have now expanded quite a bit as you see in this year. Prime Now we're also very happy with, although obviously the economics in that business are even tougher, but we do feel that our scale makes that possible because of our geographic footprint and how close we already are to customers.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [15]
+--------------------------------------------------------------------------------
+Hi, Mark, this is Darin. On fashion, fashion and apparel continue to be a large part of our EGM business and one that we're very excited about. We continue to make it easier for brands and manufacturers to come on board in that category. We continue to work with brands to come on board. We're happy with the traction that we're seeing with those brands. As we get more and more selection, we're really pleased with the customer engagement that we have there, both from the discoverability, the technology that goes behind making it easier to shop fashion on our site, as well as the (inaudible) selection by adding the brand.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [16]
+--------------------------------------------------------------------------------
+Sorry. To answer your question about whether that is part of investment. Yes, it certainly is part of our investment. The larger ramp, if you will, in investment that we're seeing from the back end of last year and also the first half of this year is more related to digital content and the building our fulfillment network, which I already discussed.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Mark May with Citi. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Mark May,  Citigroup - Analyst    [18]
+--------------------------------------------------------------------------------
+Thanks a lot. In some of these incremental investment areas like warehouses, logistics and also content, I know in some cases you expense up front. In some cases you amortized over time. Wondering if you can give us a sense of how much of the recent step-up is being expensed. I'm particularly looking at your COGS as a percent of retail revenues that was up year over year for the first time in quite a while. How much of that was because of content that expensed in the period? Just trying to better understand that.
+I think also you have been changing around, and this is happening here shortly, FBA pricing, including increasing your storage fees but also reducing your handling fees. I guess the question is, are these changes designed to just pass through kind of increasing shipping costs or is this more of a net neutral change where really the goal is to try to free up capacity in some of your facilities? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [19]
+--------------------------------------------------------------------------------
+Let me start with your second question on FBA. Yes, we did make some changes to the pricing formula for this holiday season. They're essentially meant to incent the right behavior among sellers around holiday. The biggest issue you're trying to get at is having the most valuable products for holiday in the warehouse, in the Prime space and not having the warehouse filled with things that may not sell until after the New Year. We are trying to incentivize that behavior. We're also trying to incentivize getting inventory into the warehouse quicker. Yes, the formulas were -- the changes to the pricing formulas were really with that in mind, to help the flow and the space utilization in Q4.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [20]
+--------------------------------------------------------------------------------
+Yes. Hi, Mark. This is Darin. On the capitalization point, I'd say the things that get capitalized are the core buildings and the leasehold improvements in the buildings. The things that we're seeing hit the P&L are the fixed and variable expenses that it takes to run the building. I think that is what Brian is pointing out most pointedly in terms of what is impacting our profitability of second half. Yes, the capitalization is relatively small in terms of -- other than the building itself.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Youssef Squali with Cantor Fitzgerald. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Youssef Squali,  Cantor Fitzgerald - Analyst    [22]
+--------------------------------------------------------------------------------
+Yes. Two quick questions. With the step-up in investments and content from Prime Video as you mentioned before, you would also be stepping up the international expansion? Maybe you can just remind us how many countries you're in with Prime Video and whether there is a potential chance of stripping Prime Video from Prime to allow it to be extended to other countries. Do you -- I know you're not guiding to 2017, but just looking at the capacity increase that you had for FCs for 2016, should we expect that kind of as an ongoing expense going forward or is the current build-up enough to give you spare capacity to cool that down for 2017? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [23]
+--------------------------------------------------------------------------------
+Sure. First on your video comment, we're in four countries right now, the US, UK, Germany and Japan and we have stated that we will be in India soon. The content that we are creating, through Amazon studios, we are generally holding the worldwide rights to and can use that in other countries as well. The cost of that then get amortized to the country and becomes part of the international segment results. Yes, we consider that to be very valuable as opposed to versus licensing many times, by country the third-party rights to content that we don't create ourselves.
+Your question on fulfillment expenses, I can't extend the guidance into next year. We will do that, obviously, at the end of next quarter. I would say we are -- this was in extraordinary step-up as I mentioned in Q3 that is tied to very rapid growth in not only paid units but Amazon fulfilled units. Really our forecast for additional capacity additions and the rate of addition will be tied to those growth factors as well.
+We will have to see. We right now are working on getting the capacity in. It was very lumpy this time, with 18 warehouses in one quarter and another 5 in the first three weeks of the next quarter. Obviously we will be working on the efficiencies of all of the warehouse we have, including the ones that we just started up this year.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Colin Sebastian with Baird Equity Research. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Colin Sebastian,  Baird Equity Research - Analyst    [25]
+--------------------------------------------------------------------------------
+Thanks. A follow-up on the FC question. I guess more specifically, it sounds like you have enough capacity in terms of fulfillment centers for the holidays. Also wondering what your comfort level is in terms of your shipping partners to manage those deliveries. Secondly, was wondering how you would characterize the pricing environment for AWS, in particular with more deep pocketed competitors in the space now. Google in fact highlighted this on their conference call today. Thank you.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [26]
+--------------------------------------------------------------------------------
+Sure. Let me start with transportation. Yes, we are looking forward to a great holiday. That includes working with our shipping partners, both in the US and globally. We have worked very closely with them to line up capacity, share capacity plans. We certainly have additional delivery capability of our own, but with all of our partners, we work well in advance of the holiday to get our plans in place. We feel very confident we're looking forward to a great holiday not only for customers but also for sellers.
+On your question on AWS, I didn't listen to the Google call. You will have to fill me in on that later. The thing that I can tell you about pricing is that our pricing is -- price reductions are a core part of our philosophy, of course. We had a price decrease in Q3. That was our 52nd since we started this business. It's -- we are comfortable with price decreases. Not only did we lower the prices of our products but we also create new services that are cheaper that customers can switch to. They can also benefit from that as well.
+If you step back and say, why do people choose AWS? I'll give you the points I said last quarter. Basically what we hear are the functionality and pace of innovation. It is greater than our competition. We have added new -- more new significant features and services this year already than we had all of last year when we added 722. We have a partner and customer ecosystem. You've read about the VMware deal that we signed this quarter. We continue to extend with partners and build ecosystems that better can support customers.
+Finally, experience. We have been in this business a long time, longer than anyone else. We've used that time to make our product and services better. There's going to be a lot of winners in the space, as we said, but we are very happy with our position and the customer reception to our products.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Justin Post with Merrill Lynch. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch - Analyst    [28]
+--------------------------------------------------------------------------------
+Great. Thank you. I guess when you look at fourth-quarter guidance and you back out AWS, it suggests that margins are -- on the core business are going to be pretty down versus last year. Do you view this as an abnormal investment cycle or just part of the overall kind of ebbs and flows of the business? Long term, I know several years ago you talked about maybe high-single-digit, low-double-digit margins long term. I wonder if you could refresh us on that and also let us know if you think international has structural marginal differences than the US, the core retail business.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [29]
+--------------------------------------------------------------------------------
+Sure. Yes. As far as the continuation of the investment and into next year, I cannot give you as much color on that today. What I can tell you again is that we have ramped up considerably. We have been investing quite openly in a lot of areas and continue to do so. We are experiencing a ramp-up, if you will, in the second half of this year, particularly tied again to the fulfillment center and expanded also the video content spend.
+We will continue to invest in video content. We will continue to invest in fulfillment space to handle higher and higher paid unit volumes than shipped unit volumes. We will continue to invest in things that we believe enhance the customer experience, particularly the Prime experience. Devices we will invest in, particularly Alexa and the Echo products. We will continue to invest in getting faster and faster shipping methods for our consumers. We believe that is working. We are very happy with the results. We're very happy with all of the customers we have but particularly the Prime customers that we have.
+As far as long-term operating margins, I can't forecast that right now. I can't forecast that for our AWS business, either. We are, again, working on two fronts. We are honing the businesses that we're in and making them as efficient, as profitable as possible while also investing very pointedly and very wisely, we believe in things that will enhance customer experience and create lasting businesses for us down the line.
+We have said we want things that customers will love, can grow to be large, will have strong financial returns and durable and can last for decades. That is still our mission. We have pillars of the business right now with Marketplace, AWS and Prime and we're actively looking for a fourth and fifth pillar.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Heath Terry with Goldman Sachs. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Heath Terry,  Goldman Sachs - Analyst    [31]
+--------------------------------------------------------------------------------
+Great. I'm wondering, there obviously have been some headlines since the call that you did earlier with the press on the scale of this investment cycle relative to other investment cycles that you have been through. With the 2014 cycle sort of being the most recent, could you quantify a little bit more how you would compare this investment cycle to that most recent one? To the extent that we're in the midst of this investment cycle, would you say we're in sort of the earlier or later stages? Any sort of clarity around that would be useful. Thank you.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [32]
+--------------------------------------------------------------------------------
+Sure. Yes. The word cycle, if I mentioned that, was an omission. It was a misspeak. The investment that we are seeing is a step-up versus what we have experienced in particularly the first half of this year and the last half, the second half of last year, which I mentioned.
+We have said investments are going to be lumpy. They are going to be high sometimes and they will be moderate at other times. We are right now, the second half of this year looks like a big step-up compared to the first half, and it is. But, again, it is all areas that we will continue to investment in, some of which I just actually went through the laundry list.
+I would not characterize it as the cycle. I would characterize it as continued investments. We make investments with the idea that they are going to pay off and they pay off in either directly in the business they're in or in their contribution to the total business, many times as a part of the Prime program.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of John Blackledge with Cowen and Company. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+John Blackledge,  Cowen and Company - Analyst    [34]
+--------------------------------------------------------------------------------
+Great. Thanks. Two questions. It seems that you're increasing your efforts in the auto vertical with the recent launch of Amazon Vehicles. Just wondering if you can discuss some of the dynamics of the auto industry that make it attractive and maybe how it aligns with the Prime value prop. Also wondering if you had any plans to work directly with auto shops, just given your ability to service most areas in one to two days.
+The second question, on grocery, would you consider physical locations in an effort to kind of expand and/or accelerate growth in that vertical? Thank you.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [35]
+--------------------------------------------------------------------------------
+Hi, John. This is Darin. On vehicle, Amazon Vehicles is really a car research destination and built the automotive community for customers. Gets information that they need when shopping for vehicles offsite or shopping for parts and accessories on-site. The features include research tools, community engagement, where you can talk to other customers. Certainly we try to build a one-stop shop for vehicles as an extension to the automotive store, which engages customers to add information about their cars in the garage which makes it actually easier to shop for parts and accessories for your particular vehicle.
+We think there's a lot of opportunity there to add convenience for customers. On the b2b side, certainly we do have an Amazon business offering. Businesses of all shapes and sizes can sign up to be a b2b customer. The selection that we have in our parts and automotive categories are certainly open to that channel. I wouldn't speculate on anything that we might do in a particular vertical for those business customers.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [36]
+--------------------------------------------------------------------------------
+Sure. Your comment on -- your question on grocery and physical stores, I can't comment on any rumors or speculations there might be regarding that. What I will tell you is that we have experimented with physical stores. As you may know, we have three physical bookstores, one in Seattle, one in San Diego and one in Portland and two more coming, one in Boston and one in Chicago.
+What we're finding is they're great places for customers to browse what ends up being a curated selection of books and they also get to try out our devices, which is very beneficial. They get to touch and try our e-readers, tablets, Fire TV and Echo. We like what we see with that connection. We also have pop-up stores that you may see and also college pick-up points. We will try different delivery methods or pick-up points or ways of getting product to customers, but nothing specific to point out on the grocery side right now.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Ben Schachter with Macquarie. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Ben Schachter,  Macquarie Research - Analyst    [38]
+--------------------------------------------------------------------------------
+Given the low unemployment rates that you are seeing in the US, do you expect any unusual impact on wages for seasonal workers this year? Are you seeing overall wage pressure in the fulfillment centers? Separately, if you could talk about trend lines you are seeing in paid units versus shipping units. Are they diverging meaningfully versus the past? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [39]
+--------------------------------------------------------------------------------
+Yes. On wages, nothing to point out for this holiday. Our challenge generally is the volume of head count that we're looking to hire. We work well in advance with agencies to help to get seasonal employees and many of them turn into full-time employees after the holiday. Nothing specific on the wage pressure front. As you probably saw, head count is up 38% year over year in Q3 and that is continuation of a lot of ops roles that are supporting this high demand, the opening the fulfillment centers we talked about, new Fresh locations, Prime Now, but also and a lot of hiring in our tech areas, strictly around AWS and also the Echo/Alexa areas.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [41]
+--------------------------------------------------------------------------------
+I'm sorry. The second question?
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Sorry, go ahead. Okay. Our final question will come from the line of Neil Doshi with Mizuho. Please proceed with your question.
+
+--------------------------------------------------------------------------------
+Neil Doshi,  Mizuho Securities - Analyst    [43]
+--------------------------------------------------------------------------------
+Thanks. Can you provide a little more color into the investments that you're making in India? What is driving that growth and what stage is India in today relative to some of the other large international markets that you have launched in the past?
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [44]
+--------------------------------------------------------------------------------
+Yes, sure. We are very encouraged by what we're seeing in India, but it is certainly very early on still. Most recent highlights would be the launch of the Prime program in India this past quarter. It's now one of the top-selling units on Amazon.India. It has been well received by customers.
+It is hard to compare India to any other country. It is very different in its stage and structure. Being a third-party market has caused a lot of invention on our side. We're being creative. The team there in India has been very creative on whenever they find a roadblock or something that has not existed in another country, they create it themselves, whether that's from delivery stations to working with small merchants to you name it. We're very happy with both the customer engagement that we're seeing and also the seller engagement, which is very important in India. Very pleased with the team that brought that over there and the way they work with teams throughout the world.
+
+--------------------------------------------------------------------------------
+Darin Manney,  Amazon.com, Inc. - Director of IR    [45]
+--------------------------------------------------------------------------------
+Brian, to step back to Ben's other question on units. Ben, this is Darin. Paid units grew at 28% again this year, as it did in the prior quarter. As Brian pointed out earlier, our AFN units, our Amazon Fulfilled Units, which includes our first-party units as well as FBA unit that's that go through our warehouses, are continuing -- are certainly higher than that 28%. That is a result of the traction we're getting with our FBA sellers.
+Thank you for joining us on the call today and for your questions. A replay will be available on our investor relations website at least through the end of the quarter. We appreciate your interest in Amazon.com and look forward to talking with you again next quarter.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

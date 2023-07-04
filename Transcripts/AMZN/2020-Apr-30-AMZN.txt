@@ -1,0 +1,291 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2020 Amazon.com Inc Earnings Call
+APRIL 30, 2020 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian T. Olsavsky
+   Amazon.com, Inc. - Senior VP & CFO
+ * Dave Fildes
+   Amazon.com, Inc. - Director of IR
+ * Shelly Kay Pfeiffer
+   Amazon.com, Inc. - Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen D. Ju
+   Crédit Suisse AG, Research Division - Director
+ * Eric James Sheridan
+   UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
+ * John Ryan Blackledge
+   Cowen and Company, LLC, Research Division - Head of Internet Research, MD and Senior Research Analyst
+ * Heath Patrick Terry
+   Goldman Sachs Group Inc., Research Division - MD
+ * Justin Post
+   BofA Merrill Lynch, Research Division - MD
+ * Mark Stephen F. Mahaney
+   RBC Capital Markets, Research Division - MD & Lead Internet Research Analyst
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Douglas Till Anmuth
+   JP Morgan Chase & Co, Research Division - MD
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. Good day, everyone, and welcome to the Amazon.com Q1 2020 Financial Results Teleconference. (Operator Instructions) Today's call is being recorded.
+For opening remarks, I will be turning the call over to Director of Investor Relations, Shelly Kay Pfeiffer. Please go ahead.
+
+--------------------------------------------------------------------------------
+Shelly Kay Pfeiffer,  Amazon.com, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+Hello, and welcome to our Q1 2020 financial results conference call. Joining us today to answer your questions are Brian Olsavsky, our CFO; and Dave Fildes, Director of Investor Relations. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2019.
+Our comments and responses to your questions reflect management's views as of today, April 30, 2020, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings.
+During this call, we may discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates; changes in global economic conditions and customer spending; world events; the rate of growth of the Internet, online commerce and cloud services; and the various factors detailed in our filings with the SEC. This guidance also reflects our estimates to date regarding the impact of the COVID-19 pandemic on our operations, including those discussed in our filings with the SEC and is highly dependent on numerous factors that we may not be able to predict or control, including the duration and spread of the pandemic; actions taken by governments, businesses and individuals in response to the pandemic; the impact of the pandemic on global and regional economies and economic activity, workforce staffing and productivity and our significant and continuing spending on employee safety measures; our ability to continue operations in affected areas; and consumer demand and consumer spending patterns as well as the effects on suppliers, creditors and third-party sellers, all of which are uncertain. Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements. It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+And now I'll turn the call over to Brian.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+Before we move on to the Q&A, I'd like to lead off with a few comments. What we've all seen transpire in the past 2 months has been gut-wrenching and unprecedented. But it's also been a time of heroic action by health care workers, government officials, police and emergency personnel and all essential workers in our communities. This includes frontline Amazonians, including our Whole Foods team and our partners around the world. They've provided a lifeline of groceries and other critical supplies to the doorsteps of all of us at this critical time.
+I'd like to give you some insight into what we have seen in Amazon and how we are responding to this crisis. Beginning in early March, we experienced a major surge in customer demand, particularly for household staples and other essential products across categories such as health and personal care, groceries and even home office supplies. At the same time, we saw lower demand for discretionary items such as apparel, shoes and wireless products. This large demand spike created major challenges in our operations network and with our seller community and our suppliers.
+While we generally have experience in getting ready for spikes in demand for known events like the holiday season and Prime Day, we also generally spend months ramping up for these periods. The COVID crisis allowed for no such preparation. We took quick action to react to the higher order levels while continuing to provide for the safety of our workforce. We established rigorous safety and cleaning protocols, including maintaining 6-foot social distancing, procuring 100 million masks, tens of millions of gloves and wipes and other cleaning supplies. We began requiring temperature checks across our operations network.
+In our Whole Food stores, we added plexiglass barriers between cashiers and customers and reserved special hours for senior customers to shop. We temporarily raised wages and overtime premiums, we funded a new Amazon relief fund and we allowed employees to take unpaid time off at their discretion. To deal with the unprecedented demand, we hired an additional 175,000 new employees, many of whom were displaced from other jobs in the economy. We took steps to dampen demand for nonessential products, including reducing our marketing spend.
+Our network pivoted to shipping priority of products within 1 to 4 days and extending promises on nonpriority items. Our independent third-party sellers, most of whom are small and medium-sized businesses, worked tremendously hard to serve our customers, and we are grateful for their efforts. Third-party sellers continue to see strong growth in our stores as more than half of our units sold are from third-party sellers.
+We increased grocery delivery capacity by more than 60% and expanded in-store pickup at Whole Food stores from over -- from 80 stores to more than 150 stores. And other Amazon teams shifted their focus to directly helping customers in the overall effort to fight the COVID virus.
+AWS has created data lake to assist health care workers, researchers, scientists and public health officials who are working to understand and fight the coronavirus. Many of our AWS products are helping in the government response to the crisis and are there for customers who are seeing their own demand spikes, companies enabling videoconferencing, remote learning and online health services, for example.
+Amazon Flex is supporting food banks by donating delivery services of groceries to serve 6 million meals in Los Angeles, Miami, Nashville, Orlando, San Francisco, Seattle and Washington, D.C. with plans to ramp this up to 25 cities across the U.S. And Alexa is helping customers access important CDC guidance and help them evaluate their own COVID-19 risk levels.
+How is all this impacting our business? While customer demand remains high, the incremental revenue we are seeing on many of the lower ASP essential products is basically coming at a cost. We've invested more than $600 million in COVID-related costs in Q1 and expect these costs could grow to $4 billion or more in Q2. These include productivity headwinds in our facilities as we provide for social distancing and allow for the ramp-up of new employees, investments in personal protective equipment for employees, enhanced cleaning of our facilities, higher wages for our hourly teams and hundreds of millions of dollars to develop COVID-19 testing capabilities. In Q1, we also had another $400 million of costs related to increased reserves for doubtful accounts. On the flip side, we did see a drop in travel, entertainment and meeting costs as well as lower marketing as a way to dampen our demand for nonessential items.
+While we can't have great certainty about what the next few quarters will look like, I'm humbled by the efforts of my fellow Amazonians in delivering essential goods and services to so many people. We take this responsibility seriously, and we're proud of the work our teams are doing to help customers through this difficult time.
+With that, let's open up for questions.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question comes from the line of Doug Anmuth with JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [2]
+--------------------------------------------------------------------------------
+Great. First, I just wanted to ask, within the $4 billion of COVID-related incremental costs in 2Q, you talked about spending hundreds of millions on your own testing capabilities. Can you just talk about the strategic thinking there underlying, trying to build this in-house versus sourcing from elsewhere? And does this potentially take you into a new business path over time? And then how do you think about the spending here in 2Q and whether over time, does that change your margin structure for an extended period of time beyond just the next quarter?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+Yes. Sure, Doug. First, on testing. So we estimate the testing will be about $300 million in Q2 if we're successful. We've put some of our best people on it. I think everyone is trying to get testing. It's not readily available on the scale that we need it for -- to test our scale of employees. So we are working to do that ourselves and to build protocols and to -- and again, we'll see how we do that differently. And I don't know, again, about future business opportunities. Our main concern is getting testing in the hands of our employees. And then potentially as we have excess capacity, perhaps we can help in other areas. On the spending, the -- a lot of the costs that we're seeing are tied to this COVID response. Most of it is hitting in people costs, both in productivity and also in wages and relief funds and all. So we can't really tell how long that will last. It's probably good that I'm only giving -- we're only giving guidance for Q2 at this point. We're going to probably learn a lot more in the next few weeks, next few months, and we'll continue to update this. But for now, most of what we see are temporary costs in the scheme of things but certainly very expensive temporary costs and also ones that we're not sure how long that will last.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Brian Nowak with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [5]
+--------------------------------------------------------------------------------
+I have 2, Brian. The first one is the current situation is sort of, I think, in many ways, sort of showcased the ability of your network to provide goods for people and the value of Prime and Amazon to customers. So I guess in light of that, can you talk to us at all about the impact you've seen on the Prime customer account from the current situation? Any color on how you've been able to expand Prime's reach into new customers or demographics from this? Then the second one, I know there's a lot of changes going on in logistics and things, but Amazon is always a learning company. So any learnings you've had so far on the logistics side about how you actually may be able to learn some new best practices to run more efficiently post-COVID from the current fire that we've been going through?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [6]
+--------------------------------------------------------------------------------
+Well, I think we have learned that it's easier to get ready for a holiday or for a Prime Day than it is to get ready for something like this when everything hits at once, high demand and then also a need to restock automatically and not prepare for it. So that's not something we want to keep learning, but we're doing our best to maintain and provide key services for -- and essential items for our Prime customers and all our Amazon customers. On the Prime -- excuse me, Prime program, what we're seeing is, again, we're seeing a lot of pickup in Prime shopping benefits. We see our Prime customers are shopping more often and they have larger basket sizes. We're also seeing a lot more use of our video benefits and our digital benefits. So in March, the first-time viewers nearly doubled, which is, I think, a good time for people to -- when they're -- a lot of them are staying at home to stay entertained and see our video collection.
+It's also beyond kind of Prime Video, it's also our channels and video rentals also went up as I'm sure others in the entertainment business saw it as well. I think people are finding more benefit from Alexa when they're at home. They're listening to more music, asking questions, particularly questions related to COVID and issues around it. They're using it in education with their children. And I think we're seeing a lot more on the communication side using it -- people using Alexa Calling and Drop In. So I think the Prime story is that shopping is really important for people now, especially when they -- those people can't leave their houses. I think the digital benefits are scaling well. I think they're handling the additional demand, and it gives people a good time and reason to use all of their Prime benefits that maybe they hadn't used as much in the past.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Mark Mahaney with RBC.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  RBC Capital Markets, Research Division - MD & Lead Internet Research Analyst    [8]
+--------------------------------------------------------------------------------
+Two, please. First, could you just talk about where you are in terms of fulfillment efficiencies, the way you track it? Pre-COVID, Amazon was able to had some sort of level of standard of meeting demand within a certain period of time, how low that got given the surge in demand and where you are in terms of the recovery. In other words, when are you going to be -- how long will it take for Amazon to get back to a point where you'd have the same sort of service efficiency levels on the retail side that you had pre-COVID? How far are you away from that? And then the second one is can you talk about the AWS business? And I guess I would have expected -- maybe the growth rate is really robust, but maybe even a kick up in the growth rate is -- what are you seeing there in terms of -- I assume there's much greater usage of AWS now. Is that something that would show up in the P&L maybe on a delayed basis? Just talk about what's happening to that side of the business in this crisis.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [9]
+--------------------------------------------------------------------------------
+Sure. Well, we're happy with the growth in Q1 on such a large base. Again, we're -- now it's a $41 billion run rate, and that's grown 33% year-over-year. But what we're seeing kind of post-COVID is it varies by industry. I think -- we think what is -- probably where we're a bit well positioned is that we have such a breadth of customers. There's millions of active customers from start-ups to enterprises to public sector. So there's a lot of variance and, again, in what individual industries are seeing right now, things like video conferencing, gaming, remote learning, entertainment, all are seeing much higher growth and usage. And things like hospitality and travel certainly have contracted very severely, very quickly. So I think there's going to be a mixed bag on industries. And of course, this would be tied to general economic conditions for the country and the world, quite frankly. So right now, we're -- we want to be there for our customers. We want to be able to scale up when they need us. We want to be there and support them regionally around the world. And we've been doing a good job with that, I believe.
+On the fulfillment efficiency, I think you're talking about 1-day probably is the heart of your question, when will we get back to what we have seen in levels of 1-day. So a little bit on that. So again, as I mentioned in my introductory comments, we had to kind of absorb this shock of top line demand and also ability to stabilize our operations. And we had to take the step to focus on essential items, extend the shipping period from 1 to 4 days and then further on nonessential items. Had to restrict things that were coming into the warehouses and focus on essential products. So we think that is still the -- was the right course of action. And as we add capacity, we're trying to resume more normal operations as far as the shipping of nonessential items and the speeding up of 1-day shipments.
+I will explain a bit on the 1-day shipping cost because it's aligned with this. So we had originally thought we would spend $1 billion roughly on 1-day shipping in Q1. And what we're seeing is we pretty much spent about that same amount because it's -- in the old days, we would have perhaps had the option to shift things 2-day, 3-day, 4-day and seen a break on rates for the actual shipment. But most of our 1-day costs are really what we've done to our logistics networks to allow for 1-day shipping, things like putting inventory closer to the customer, things like building up our AMZL network and delivery network and also having multiple pull times and shipping windows during the day. So those are actually coming in. All those things are coming in very handy to us to help get more capacity out of what we currently have, and we're glad we've made that investment. But we don't actually see a savings because we're still shipping things once they're available very quickly to customers.
+So it's really a combination of how long it takes to get things in stock picked, packed and shipped. The shipping is still pretty fast and is still coming quickly. It's just it's taking longer to get things into our warehouse and out of our warehouse. So that's really the challenge right now is to speed that up, and that will -- when we do that, we'll see a resumption of more 1-day service. But right now, things are still so up in the air that I can't really project when that day will be or at what point in Q2 or Q3 or beyond.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Heath Terry with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heath Patrick Terry,  Goldman Sachs Group Inc., Research Division - MD    [11]
+--------------------------------------------------------------------------------
+Great. I did want to dig just a little bit deeper into your comments on AWS. Yesterday, during Microsoft's call, they mentioned that they had seen 2 years' worth of digital transformation in the cloud in 2 months. I'm curious if you -- how you would characterize sort of what you have seen as we've gone into August or into April in terms of cloud adoption and what this is, what this has meant for AWS and the adoption of the -- rate of adoption or acceleration in that business, maybe more broadly? And then as we look at the guidance, the $4 billion for the expenses in the second quarter, if we adjust for that, that implies a pretty material increase in profitability quarter-over-quarter. Any sense of -- or any sense that you can sort of share with us of just what the drivers behind that profitability is? How much of that is annualizing the 1-day investments and the efficiencies that you're seeing there versus anything else in particular that you would call out?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [12]
+--------------------------------------------------------------------------------
+Yes. So first on AWS. I mean I don't have comments that -- you may have heard also about digital transformation. I think what I would say is we've continued to see a healthy adoption of our business and healthy usage, not only in the United States but globally. Our backlog of future contracts continues to build. And I still think the basic value proposition of AWS that we've always pointed to, things like having the largest -- most functionality, the largest in those vibrant community of customers and partners, having really proven operational and security experience and building what customers need in the areas of machine learning, artificial intelligence and other really key areas is -- has not been impeded by this COVID crisis yet. And yes, we're seeing different performance in different industries, but our sales force is still there to help not only with current capacity but also to transition to new and -- as people make that journey on to the cloud and then expand their use of the cloud.
+On the $4 billion -- or sorry, on the Q2 guidance, I think the question is, perhaps if -- how do we have a range that's above 0 if we have $4 billion of cost, is that pretty much the essence of your question? I think there's -- there are some efficiencies that we'd leverage, that we get on fixed cost on higher volumes, even if they are somewhat breakeven on a contribution profit basis. There's some improvement in our cost structure when we have high volumes. There's also been a resumption of seller volume, especially from third parties using direct shipments to customers as companies are -- you get more capability, both in this country and other countries. We will continue to moderate our marketing in the time period when we have -- again, pretty much the demand we are trying to fulfill is there, and there are some products that are still out of stock. So it doesn't make sense to always do marketing, especially variable marketing in those situations. And we continue to -- we believe, we'll be saving travel and entertainment costs through the quarter. That's in the, I would say, in a couple of hundred million dollar size ranges on the cost. So there's a lot of moving parts here. But certainly, the investment we're making in the COVID response is pretty significant.
+On the 1-day, I would remind you that the 1-day started in earnest Q2 of last year. So we're starting to lap that investment. It's not as large on a year-over-year basis as it's been in the past 4 quarters. And then the other thing that I would just point out is the -- remember the impact of our change in the useful life of our servers mostly hitting in the AWS business. That was an $800 million benefit year-over-year in Q1, and that will continue into the rest of the year. And that, again, is the benefit we're seeing from being able to use our server and infrastructure assets for a longer time period. We've been working on the ability to run them longer, and it's both a hardware and a software challenge. And as we have had success there operating at scale for over 13 years now, we've been able to extend our useful life for assets or recognize that we have been extending the life. So that's a benefit that we've seen in Q1, and we'll see it remaining from here on out.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [13]
+--------------------------------------------------------------------------------
+Yes. And just to add to that, too, I think it's about $800 million or nearly $800 million benefit in the first quarter. We do expect the change to decrease as the year progresses, keep that in mind.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Eric Sheridan with UBS.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [15]
+--------------------------------------------------------------------------------
+Maybe 2, if I can. One on demand and the revenue side, any difference in behavior you saw in various shelter-in-place geographies across the world, whether it be Europe versus the U.S. or Asia and the U.S. or India in terms of consumer behavior or certain elements of adoption of certain product categories as we went through the month of March? I'm curious what differences you saw on a global scale, including on Prime adoption in response to COVID-19. And one quick one on the cost side of the equation. The cost of energy and oil have come down dramatically. I wanted to know if there was any way you would be able to call that out or an element of that in your overall cost structure as you do more of your own logistics over time.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [16]
+--------------------------------------------------------------------------------
+Sure. Sorry, Eric. I don't have much for you on the second point. Certainly, we would look to see lower shipping costs, although I would -- a lot of -- I mean there's certainly things that we do long haul. There's things that we reposition with the airplanes. There's things that we do on long-haul trucking and that's where probably the fuel component would be larger. And we've -- but we haven't quantified that or not for -- it's in our guidance, but I can't break it out for you right now. On the -- how this may have played out differently in different geographies, we're actually seeing a lot of consistency, I would say, in the types of products that people are buying and the stay-at-home restrictions and the -- so it's been pretty consistent. There's obviously timing differences between countries on when it's hitting certain countries and when it's -- maybe when it's -- where they are in their curve and flattening their curve and all that.
+I think the biggest impact internationally has been in India where, of course, we -- similar to all companies in India, we were -- we're now only fulfilling our essential goods such as grocery. So that's cut back a lot on our offering. And we will further expand when the Indian government announces that we're allow to resume operations. So we're in a bit of a holding pattern, except for grocery in India. And in France, there's been restrictions placed on us by the French courts. They did not impact Q1 business because it essentially led to the closure of our French fulfillment centers in the middle of April. French customers are still able to order many millions of products from the selling partners we have who can ship directly to customers and through our global fulfillment. And we're continuing to appeal this court decision, but that's also a different experience than the other countries internationally.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Justin Post with Bank of America.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [18]
+--------------------------------------------------------------------------------
+Great. A couple. Just wondering if you're seeing any sustainable changes in consumer habits you could call out, such as people converting to Prime at a more rapid rate, adding more products in the consumable categories to their Subscribe & Save. Anything you see that could really signal a longer-term change in consumer habits, faster adoption of certain categories? And the second thing, for the revenue guidance for 2Q, does that assume a slowdown in growth in May and June related to the crisis?
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [19]
+--------------------------------------------------------------------------------
+Justin, it's Dave. Yes. I think on some of the consumer behavior, I'd certainly point to grocery. If you look at the -- as a reminder, the online grocery is up on our online sales. So it's not isolated like you can see for physical stores. But we have seen an increased demand in online grocery shopping, and we have a number of ways for customers to do that, Prime Now, Fresh and then, of course, Whole Foods online for delivery or pickup. And really beginning in March and continuing now through April, seeing that increased demand, so that's continued. And a lot of our focus is on working around the clock and offering as much delivery as possible. We've increased delivery order capacity more than 60%, and our stores have gone up -- Whole Food stores that offer pickup capability has gone from roughly 80 stores before the events to more than 150. So a lot of work being done there.
+On the physical stores, which you can see the growth there, it increased year-over-year about 8%. That is predominantly Whole Foods, but it's the Whole Foods in-store shopping experience rather than the online order. So that's up quite a bit from the run rate you've seen in some recent quarters. It's, again, similar that you saw a lot of folks that were, when stay-at-home measures were not yet in place, were shopping in large volumes and stocking up at our stores. Since that time, more recently, we have seen some of those growth rates for the in-store shopping moderate some. Still a lot of work being done there, both in -- for the workers that are doing the delivery and the workers that are in the stores, a lot of focus on our part to make sure that they're safe and healthy and able to accommodate customers and make sure customers are comfortable however they choose to shop.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [20]
+--------------------------------------------------------------------------------
+And I'd add to that, Justin. I think the changes we've seen in the digital offerings will make people accustomed to those benefits and maybe advance their knowledge of what's available through music, video, Alexa, certainly, communication features on our devices. We launched Prime Video Cinema in U.S., U.K. and Germany where movies are going direct to pay-per-view because of lack of theaters. And that was a good move by the team, and that's been very well received. We've also made a lot of kids and family content available free to watch on Prime Video. So I think people are getting a better look at what's available with their Prime memberships.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [21]
+--------------------------------------------------------------------------------
+Great. And then second half of the quarter, are you assuming kind of we go back to normal as the quarter progresses and some deceleration?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [22]
+--------------------------------------------------------------------------------
+Well, we are heavily constrained -- again, it's an odd quarter because generally, the biggest uncertainty we have is customer demand and what they'll order and how much of it they'll order. Demand has been strong. And the biggest questions we have in Q2 are more about ability to service that demand and that -- the products that people are ordering in a full way, not blocking or making it hard to find nonessential items, increasing marketing and everything else. So I think the challenge is really on everything besides the top line. Top line is certainly not to be taken for granted. There's always the importance of having attractive offerings in stock for customers. But usually, things that you can count on, the cost structure, the ability to get products, your capacity for shipping and delivering, those are usually things that you can take for granted and in this quarter, you can't. And that's really where the uncertainty is driven.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Your next question comes from Stephen Ju with CrÃ©dit Suisse.
+
+--------------------------------------------------------------------------------
+Stephen D. Ju,  Crédit Suisse AG, Research Division - Director    [24]
+--------------------------------------------------------------------------------
+Okay. So Brian, I think the third-party unit mix de-indexed a little bit as a percentage of the total this quarter. I know that number kind of jumps around a little bit. But is this primarily a matter of the constrained delivery resources and, I guess, the heightened demand? And any sort of ongoing supply chain concerns that remain worrisome for you from either a first-party perspective or from what the third-party sellers may be calling out?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [25]
+--------------------------------------------------------------------------------
+Sure. I think there's still supply chain concerns on a lot of PPE, not only that we use but also that we sell to customers, things like masks. There's general availability, but still outages of things like cleaning wipes, masks -- I've talked about testing, but that's not something that we resell. But -- so there's -- there are a lot of supply chain concerns mostly in those areas right now. I'm sorry, I forgot the other part of your question. Can you remind me what you just -- the first question...
+
+--------------------------------------------------------------------------------
+Stephen D. Ju,  Crédit Suisse AG, Research Division - Director    [26]
+--------------------------------------------------------------------------------
+The third-party unit mix de-indexing a little bit as a percentage of the total this quarter. I'm just wondering if that's just normal fluctuations? Or are you just prioritizing the first-party delivery against what's probably a limited delivery resources on the heightened demand?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [27]
+--------------------------------------------------------------------------------
+Yes. Thanks, Stephen. I would say that, yes, it's a little off during this period because it's not so much we're restricting and favoring 1P or anything, it's we're prioritizing essential items. And a lot of those tend to be, especially in the consumable area, tend to be retail supplied items from vendors. So I would say that, that is the reason that FDA would have not been as high as it normally would be. MFN is picking up a lot of the opportunity, though, to -- and sellers are taking that opportunity to ship direct because then it doesn't have to come into our warehouse, obviously. So it's a bit of a different type of 3P mix right now. We're trying to minimize the impact on FBA sellers as we open up our warehouses as well. Many of them are also MFN or direct shippers to our customers. So it's -- the ability to satisfy demand of our customers from our seller community has never been more important. And we're very grateful to our third-party sellers because they've been through a lot as well.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Our final question comes from the line of John Blackledge with Cowen.
+
+--------------------------------------------------------------------------------
+John Ryan Blackledge,  Cowen and Company, LLC, Research Division - Head of Internet Research, MD and Senior Research Analyst    [29]
+--------------------------------------------------------------------------------
+Great. On advertising, the other revenue growth line accelerated, could you just discuss how the advertising business performed in the first quarter? And any color on how it's trending in the second quarter, if possible? And then in the release, you indicated more -- potentially more hiring above the 175,000 head count additions. Any way to quantify? And does this hiring replace kind of the seasonal hiring that you typically do at the end of the third quarter?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [30]
+--------------------------------------------------------------------------------
+Yes. Sure. Let me start with that second one. I don't have more for you on that. I think we'll announce -- as we change any thresholds on hiring, we'll announce that at the time. Right now, we've fully hired the 175,000 people that we had discussed prior. 80,000 of them were in place at the end of the quarter. So the other 95,000 have been hired in April. On advertising, what we've seen is it's been a very strong quarter in ad revenue. And your comment about other revenue accelerating, there's some other things going on in that other revenue account. The majority is revenue, but there's other -- some other things. What I can tell you underneath it is that advertising growth rate has stayed consistent with last quarter. And we're very happy with the progression of that offering for not only sellers, authors, vendors and impact it's -- positive impact it's had on customer selection.
+But we did start to see some impact in March, some pullback from advertisers and some downward pressure on price. But advertisers continue to advertise at a high clip. It wasn't as noticeable as maybe with some others we're seeing, and it's probably offset a bit by the continued strong traffic we have to the site. So it's a bit of a mixed bag. We have, again, as I said, downward pressure a bit on pricing. But I think we have -- a large portion of our advertising relates to Amazon sales, not things like travel and auto which -- off-site which may have been disproportionately impacted, at least early on here in the COVID crisis. And I think our advertising will prove to be very efficient as well, and it can be directly measured. So even as people are cutting back perhaps on advertising or their costs, I think this will be one area that will prove its value as it has in the past.
+
+--------------------------------------------------------------------------------
+Dave Fildes,  Amazon.com, Inc. - Director of IR    [31]
+--------------------------------------------------------------------------------
+Thanks for joining us today on the call and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

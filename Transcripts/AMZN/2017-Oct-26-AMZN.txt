@@ -1,0 +1,378 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2017 Amazon.com Inc Earnings Call
+OCTOBER 26, 2017 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian T. Olsavsky
+   Amazon.com, Inc. - Senior VP & CFO
+ * Dave Fildes
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Heath P. Terry
+   Goldman Sachs Group Inc., Research Division - MD
+ * Eric James Sheridan
+   UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
+ * Jason Stuart Helfstein
+   Oppenheimer & Co. Inc., Research Division - MD and Senior Internet Analyst
+ * Ross Adam Sandler
+   Barclays PLC, Research Division - MD of the Americas Equity Research and Senior Internet Analyst
+ * Justin Post
+   BofA Merrill Lynch, Research Division - MD
+ * Mark Stephen F. Mahaney
+   RBC Capital Markets, LLC, Research Division - MD and Analyst
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Ronald Victor Josey
+   JMP Securities LLC, Research Division - MD and Senior Research Analyst
+ * Mark Alan May
+   Citigroup Inc, Research Division - Director and Senior Analyst
+ * Scott W. Devitt
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * Douglas Till Anmuth
+   JP Morgan Chase & Co, Research Division - MD
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you for standing by. Good day, everyone, and welcome to the Amazon.com Q3 2017 Financial Results Teleconference. (Operator Instructions) Today's call is being recorded. For opening remarks, I'll be turning the call over to the Director of Investor Relations, Dave Fildes. Please go ahead.
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [2]
+--------------------------------------------------------------------------------
+
+          Hello, and welcome to our Q3 2017 financial results conference call. Joining us today to answer your questions is Brian Olsavsky, our CFO.
+As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2016.
+Our comments and responses to your questions reflect management's views as of today, October 26, 2017, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic conditions and customer spending, world events, the rate of growth of the Internet, online commerce and cloud services and the various factors detailed in our filings with the SEC.
+Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements. It's not possible to accurately predict the demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+With that, we will move to Q&A. Operator, please remind our listeners how to initiate a question.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from the line of Justin Post with Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [2]
+--------------------------------------------------------------------------------
+
+          Great. I guess I'll just start with, can you give us your thoughts on the Whole Foods integration? How you see that contributing to the bottom line over time? And then on a quick balance sheet note, we obviously saw the strong AWS results, but unearned revenue doesn't seem to be growing at the rate it was in the past. Maybe comment a little bit on the unearned revenue growth on the balance sheet, why it might be slower than the past?
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [3]
+--------------------------------------------------------------------------------
+
+          Yes, thanks, Justin. This is Dave. I'd also point you to beyond the balance sheet. There's some disclosure around additions to unearned revenue as part of the cash flow statement. So when you look at that, for the 3 months ended, you'll see that up around 34%, 35% versus the same time last year.
+And historically, what we've seen with unearned revenue is big and leading contributor to that is Prime memberships. The example is a customer signing up, paying $99 upfront and having that amortize over the 12 month period. That continues to be the biggest absolute contributor to what you see there. The other one area that's been growing over the past few years is Amazon Web Services, features like reserved instances where those customers can pay for services upfront, in some cases and receive discounts over a multiyear period. What we're seeing and more recently, I think, is on the Prime piece, we launched month-to-month Prime last year, and if you think about how that works, customers are paying $10.99 per month as they go. So there's less that's deferred. So, that's I think one of a number of factors. There's obviously other mix factors going in there besides the pieces that I just mentioned. But we've seen monthly Prime has been a good driver of getting more members into the program. So that's part of what you're seeing.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          And your question about Whole Foods, yes, we're really excited to have them as part of the team now after the acquisition in late August. What you see in the financial results for this quarter is a -- it's shown actually in the new physical stores, revenue component $1.3 billion of revenue, $21 million of operating income. And that's where you'll be seeing Whole Foods revenue showing up. In addition, that is -- that class of revenue, physical store's revenue is going to be where we are going to book any sales that where a customer physically select an item in a store. So it also -- it does include our Amazon Books. If you step back on Whole Foods, again, I think we've had busy months since we've joined forces, offering lower prices on a range of key grocery items in the stores. Launching the private-label -- Whole Foods private-label products on Amazon, we've got technical work to make Prime the Whole Foods customer rewards program, and we'll have that coming out in the future. We've added Amazon Lockers to select Whole Foods stores. So lots of activity, lots of energy and we're real excited to show customers what's possible when we join forces here.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Mark Mahaney with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  RBC Capital Markets, LLC, Research Division - MD and Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Guess I'll ask 2 as well. The first one is, that was a bit of a usual upside to your guidance, even stripping out Whole Foods. Is there -- what would you -- what's most surprised you in the quarter? You've been pretty consistent to how you reported versus your guide. So something unusual happened or somewhat unusual happen? What would you attribute that to?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          Sure. In Q3, yes, I would say we had a very strong Prime Day. As you know, we talked about that on the last call, but it really carried into the quarter. We had a record day for sign-ups for free trials for Prime and Prime Day globally. Had a very strong Prime Day in particular internationally. So it really got a lot more traction in this, the third year that we've had it. So I would point mostly to those factors. There's also very strong quarter for AWS, revenue growth was the same as Q2 and now we're at an $18 billion run rate. Whereas last quarter, when I had this call, we were at $16 billion. So very pleased with the customer response in the AWS business as well. And usage growth is actually growing a lot higher than revenue growth. So particularly pleased with the new customers that we've added and the additional workloads that we've picked up from existing customers.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  RBC Capital Markets, LLC, Research Division - MD and Analyst    [8]
+--------------------------------------------------------------------------------
+
+          And then briefly on the international retail, that growth also by itself was intrinsically stronger than you've seen in a while. Any particular markets geographic markets, you would call out there?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [9]
+--------------------------------------------------------------------------------
+
+          Yes, it was pretty strong across the board. We had the impact of Souq, obviously this quarter internationally and the Diwali holiday in India was a few days earlier, which maybe pushed some sales into Q3 versus Q4. But generally, it was the strength of Prime Day internationally and it carried through the quarter. So it's -- but generally, I would point to the increase selection, a lot of the building blocks we've been working on. All the Prime benefits, advancement and free shipping offers or faster shipping offers, the Prime benefits that drive engagement, of course, adding selection, adding Fulfilled by Amazon partners and the selection that they bring. So again, I wouldn't point to anything other than the Prime Day pickup, but stronger than -- it was stronger than probably I anticipated.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Brian Nowak with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+
+          I have 2. Just on Whole Foods again, I was wondering, could you talk about 1 or 2 of the biggest surprises you've seen so far? And then maybe just a strategic opportunity, as you see, of having a brick-and-mortar presence as you look to continue to grow your overall business? And the second one on the subscriptions revenue, you accelerated to 59%, could you just talk about which countries or which regions are driving that? And maybe talk a little bit about the growth or the cadence of what's happening in the U.S., your oldest market?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [12]
+--------------------------------------------------------------------------------
+
+          Sure. On Whole Foods, I would say it is early. August 28 was the close date and -- what I could tell you is, I've been in meetings with John Mackey and his team and they're very like-minded with us, customer-obsessed, ready to work together to continue their mission then expand on their offerings that we can offer customers. The other things I mentioned, price reductions early on, selling products on -- their products on Amazon.com and also installing Amazon Lockers. I think over time, you'll see more cooperation and working together between AmazonFresh, Prime Now and Whole Foods, as we can explore different ways to serve the customer. So that's kind of the earlier report on Whole Foods. So far so good, and we're thrilled to finally be working together after the summer of closing the deal. On subscription revenue, let me just remember your question there. We had essentially 59% growth, you said, 600 basis points higher than Q2. In this line item is certainly the fees associated with Amazon Prime and also it's where a lot of our subscription services from digital music, digital video, audio books, eBooks. So there's some moving parts in there. The growth in Prime has been fairly consistent over the last recent quarters in Prime memberships. And as I said, we had a great -- the largest new Prime -- new sign-ups on Prime Day for the Prime program. The monthly program is gaining traction. It's an attractive option for a lot of people. And again, on this -- on the other subscription services, music especially, it works just so well with our Echo device that we're seeing a lot of growth in that area as we increase the number of Echo devices and customers using the Echo devices.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Eric Sheridan with UBS.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [14]
+--------------------------------------------------------------------------------
+
+          In the comment in the release on seasonal workers, that looks roughly flat year-on-year. I wanted to know if you could understand a little bit more about the trajectory around the workers needed to fulfill seasonal holiday demand and what that might also mean for automation or efficiency benefits you're getting inside your fulfillment centers.
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [15]
+--------------------------------------------------------------------------------
+
+          Yes, Eric. This is Dave. I think we put out a release saying earlier this quarter talking about 120,000 operations folks to bring into our fulfillment centers this year. So we're continuing to hire and hire across a number of locations. We talked earlier this year about expecting to see a greater than -- roughly greater than 30% square footage growth in an operations, so we're certainly hiring to support that. More of these facilities do have Amazon Robotics and certainly that helps with the efficiencies there, but it requires tremendous effort from a number of our folks as well. And so we'll continue to hire there.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [16]
+--------------------------------------------------------------------------------
+
+          While we're on this subject of headcount. Headcount grew 77% year-over-year in the quarter. That includes the impact of the Whole Foods and Souq acquisitions. Without those -- without that headcount, the base Amazon grew 47%, which is still up from 42% in Q2. So a lot of the additional pickup in Q3 was tied to our ramp for the holidays. We continue to hire a lot of software engineers. We continue to hire a lot of sales reps, and it's tied directly to our major investment areas of AWS, Prime Video and devices.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Douglas Anmuth with JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [18]
+--------------------------------------------------------------------------------
+
+          Brian, I was hoping you could help us understand how at this point you're prioritizing expansion into new product categories. In particular, there's a lot of talk now about potentially using Whole Foods stores for physical pharmacy presence and also that you've perhaps got an approvals across multiple states in that category. Can you just help us understand the approach in general to new categories and pharmacy, in particular?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [19]
+--------------------------------------------------------------------------------
+
+          Yes, I can't confirm or deny any of the rumors related to pharmacy or anything else. I will say we do see a lot of opportunity with Whole Foods. As I said, there will be a lot of work together between Prime Now, AmazonFresh, Whole Foods, Whole Foods products on the Amazon site, Lockers at the Amazon -- excuse me, Amazon Lockers at the Whole Foods stores. So there'll be a lot of integration, a lot of touch points and a lot of working together as we go forward. And we think we'll also be developing new store formats and everything else just as we've talked about in the past with before Whole Foods, amazon Bookstores, Amazon Go and the opportunity that technology presents. We have campus -- on-campus bookstores. So we're experimenting with a lot of formats. I think that Whole Foods really gives us a vast head start on that and a great base and a great team to work with who has a lot of history, and a lot of -- they probably have 10 to 20 years of learnings that we don't have and wouldn't have. So we're really excited about that. And I think working together will bring our different strengths to the table and really be able to build on behalf of customers.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Mark May with Citi.
+
+--------------------------------------------------------------------------------
+Mark Alan May,  Citigroup Inc, Research Division - Director and Senior Analyst    [21]
+--------------------------------------------------------------------------------
+
+          The other category which includes advertising accelerated 58% in the quarter. I think the common view there is that's a fairly high-margin business, certainly higher than corporate average. Is there any reason why that isn't the right assumption to make? Essentially what impact is the growth in the ad business having on the company's overall profitability? And in terms of the increased losses in the international retail segment of the business, can you provide some color around how much of that's being driven by Amazon launching into new markets, which I know you continue to do, versus investing more heavily in existing markets?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [22]
+--------------------------------------------------------------------------------
+
+          Sure. Let me start with the revenue. So you're right. Other revenue grew 58% in the quarter, and that includes advertising services and other things such as our cobranded credit card agreements. Advertising revenue continues to grow very quickly, and its year-over-year growth rate is actually faster than the other revenue line item that you see there. But I would say generally, we're very pleased with the advertising business. Our goal here is to be helpful to consumers and help them make better shopping and selection choices. We'll also provide in giving them targeted recommendations. So making it helpful for customers rather than intrusive. And then we believe that by creating that (inaudible) and engaging advertising experience with the customers, it will also maximize success for our advertisers. So it's an important part of the flywheel and the -- so it's -- the traffic and the customers, especially the Prime customers that come to the site, are really the ones that we can use to help them select items and use advertising to help make their decisions more informed when they're picking products.
+On the international, yes, I can't split it, the effects. But I'll tell you again, it is international expansion in -- primarily in India where we're continuing to add benefits, and we launched Prime there a year ago, if you remember, and we've had more Prime members joined in India than in any other country in the first 12 months. We have free shipping on 10 million items there, and we're continuing to add benefits: Prime Video, Amazon Family, we've had a first Prime Day there this year, Prime Music. Amazon business is also expanding in India. So a lot of positive momentum and investment going on in India. Very pleased with that. We also recently announced Echo and Alexa are available in India. So that -- that should be well received by the Indian consumer base. But excluding India and Souq, the rest is the Prime benefits and the continued growth in the other countries that we've been in for a while, continue to roll out Prime Now and AmazonFresh. In Video, we launched -if you remember in Q4 of last year, we launched Prime Video in 200 -- over 200 countries globally, continue to build up not only the offerings but also the engagement that we see from those Prime customers. So becoming more engaged, and we're also doing the basic blocking, tackling of adding selection, especially FBA selection, increasing free shipping offers and also speed of shipping offers. So there's a lot of -- a lot of different influences there. You saw the growth rate. It's, we believe, it's resonating with customers. So we will continue to invest and think that we have a good path forward.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Ross Sandler with Barclays.
+
+--------------------------------------------------------------------------------
+Ross Adam Sandler,  Barclays PLC, Research Division - MD of the Americas Equity Research and Senior Internet Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Two questions. There's been some news flow recently about Brazil expansion. Can you just talk about how Brazil compares to maybe some of the other international markets that you're investing in? What level of investment should we expect in Brazil maybe relative to like in Australia or in India? And then the follow-up on the Whole Foods. So do you feel like the store footprint at 460-odd stores is adequate? Or any color on plans to expand either the Whole Foods store footprint or the Amazon bookstores or those other ones you mentioned?
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [25]
+--------------------------------------------------------------------------------
+
+          Yes, Ross. Thanks for the question. This is Dave. On Brazil, just briefly, yes, we did recently expand and add an electronics category there in Brazil. It's a third-party marketplace offering. You may recall we've been in Brazil for a number of years now, initially launched with really a Kindle and eBooks offering without the sort of physical categories and more recently added physical books again, a third-party marketplace offering. So I think we're excited about the electronics that are getting out there. There's a wide variety of products included in that category: Smartphones, tablets, cameras, TVs, what have you. So I think, really excited to get that technology out there for Brazilians. And I think beyond that, really just focus on those categories and growing selection there, but I can't speculate on what we might do in the future there.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [26]
+--------------------------------------------------------------------------------
+
+          And on Whole Foods, yes, I believe the total is 465 stores or thereabouts. And we have 12 bookstores now. We are adding a few more in the near future in California, Washington D.C. and Austin. So yes, you will see more expansion from us. We're not ready to announce any, what that will look like, and we're working with the Whole Foods team on what maybe what they will -- how many more stores we might have in that area. But still early. So, those plans will develop over time.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Heath Terry with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heath P. Terry,  Goldman Sachs Group Inc., Research Division - MD    [28]
+--------------------------------------------------------------------------------
+
+          I understand you can't comment on rumors one way or the other, but curious as you think about categories like health care and obviously you guys are already in health care to some degree through Amazon Business, can you give us a bit of a status update on what you do have out there now? And particularly how the company and management thinks about entering more regulated businesses over time? How you would approach that versus a standard category that you might go into? Or maybe again, I know you can't comment on rumors, how you have approached to that in the past or in other market? And then to the extent that we are thinking about AWS growth in the fourth quarter, you guys are lapping the price cuts from last year and obviously have about an 800 basis point easier comp Q3 to Q4, taking those 2 things into consideration, how should we think about AWS growth through the end of the year?
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [29]
+--------------------------------------------------------------------------------
+
+          Yes, Heath, this is Dave. I'll take that first question in relation to health care. I think where you're seeing us do some work on that, I think is in the areas of Amazon Business, and that's really just from the standpoint of there are many different types of businesses that we can serve with that offering, and we're in our third year now. And so there's a lot of different sectors, whether they're hospitals, educational institutions, labs, government agencies. I mean there's a lot of different shapes and sizes across industries that we can serve with that. And so I think what you're seeing us do is really focus on services that meet those businesses, multiuser accounts, improving approval workflow tools, and just more recently, we introduced Amazon Business for Business Prime shipping, which we think will be a great way for our businesses use multiuser -- Business customers that have multiuser accounts, and that's in the U.S. and in Germany. So I think it's part of that offering, and we really have to see how that evolves. And the other side, too, is certainly health care is one of many sectors as part of Amazon Web Services that are important customers that we're focusing on and building tools for. So probably nothing specific to call out on that one, but that's a lot of what you're seeing from us today.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [30]
+--------------------------------------------------------------------------------
+
+          Yes, on AWS, we don't provide segment level estimates, but we did consider in our guidance the impact of the price cuts last year. You're right, we had a number of price cuts on (inaudible) time to -- about around December 1 of last year that certainly had an impact on Q4 of last year. But again, price cuts and not only price cuts, but new products that have lower average costs and can cannibalize more expensive products is pretty much a part of our business all the time in AWS. So we're looking forward to a strong Q4 and re:Invent is in December, so that's -- the end of November, early December, so that is also an exciting time of year for the AWS business.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Scott Devitt with Stifel.
+
+--------------------------------------------------------------------------------
+Scott W. Devitt,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [32]
+--------------------------------------------------------------------------------
+
+          I had 2, please. The first, Prime Now, Fresh Prime Pantry and Whole Foods, they're all distinct offerings, but it does seem like there's natural overlap with the potential to be further connected. And I was just wondering if you could just speak to how we should think about those 4 as distinct product offerings in the future versus being more integrated and possibly even, in some cases, eliminated to remove overlap from a customer experience standpoint? And then secondly, given the recent management changes in video, Brian, I was just wondering if you could speak to any strategic shifts in Video or changes in the pace of content portfolio build in coming years?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [33]
+--------------------------------------------------------------------------------
+
+          Sure, let me start with Video, and I just want to be clear, we are going to continue to invest in video and increase that investment in 2018. And why are we going to do that? It's because the Video business is having great results with our most important customer base, which is our Prime customers. They continue to -- it continues to drive better conversion of free trials, higher membership renewal rates for existing subscribers and higher overall engagement. We're seeing engagement go up year after year in video and also music and a lot of the other Prime benefits. We also know Prime members who watch video also spend more on Amazon. And we have a lot of data. We're -- that's the advantage we have is that we see the viewing patterns and we also see the sales patterns, so we can tie the 2 together and understand which video resonates with Prime members, which video doesn't, and make midcourse corrections. So we always do that, the -- we're always changing the emphasis and looking for those more impactful shows, more shows that resonate better with our customer base and things they want to see. And -- so that will always be an important part of our Prime offer, and we'll continue to use the data that we have to make better and better decisions about where to invest our dollars in Prime Video. So we're very -- we remain very bullish on the Video business, and we're looking forward to a lot of interesting new projects back end of this year and also lined up into next year. On the -- sorry, the second comment was, the overlap. Yes, so Whole Foods, I think I mentioned this earlier, but we definitely see commonality and overlap with the Whole Foods business as well as Amazon in total, but specifically, Prime Now, and also, AmazonFresh. And we're going to work to see how we expand those offerings, and in some cases, combine them. We're not sure how it will play out, but we're going to cooperate across those different customer touch points and trying to make them better for customers. We know customers are going to buy just like in the physical world, sometimes you go to a convenience store, sometimes you go to a supermarket, sometimes you go to a superstore. Sometimes you need things within an hour, sometimes you can wait days for shipment. So there's no one paradigm for all customer engagement, and we're looking for the ones that resonate best with customers, and we're going to continue to work on those.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Jason Helfstein with Oppenheimer.
+
+--------------------------------------------------------------------------------
+Jason Stuart Helfstein,  Oppenheimer & Co. Inc., Research Division - MD and Senior Internet Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I'll actually ask 2 if I can. Just any way you can comment on the increase in Whole Foods traffic after the close? And then second, talk about your desire to have an ad-supported business on Fire TV or through Prime Video?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [36]
+--------------------------------------------------------------------------------
+
+          I think I'll start on traffic. So we're not disclosing traffic figures. Whole Foods will be issuing a final 10-K at the end of the -- early next month, so you'll see a better perspective on the entire quarter. The quarter -- the 4-week period that you see running through the Amazon P&L this quarter is pretty hard to draw conclusions on other than revenue at this point. But Dave, do you have more on the...
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [37]
+--------------------------------------------------------------------------------
+
+          Yes, Jason, this is Dave. On the ad-supported question, I think what you've seen to date is really particularly as you're looking as a customer as a Prime Video member and watching content, we view that as you paid into that service and able to watch those shows ad-free. There may be instances where you're viewing a first episode and there's an ad leading into that if it's the first free episode, but generally like to have that as customers have paid into that program and they'll be able to enjoy that without interruption.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Our final question comes from the line of Ron Josey with JMP Securities.
+
+--------------------------------------------------------------------------------
+Ronald Victor Josey,  JMP Securities LLC, Research Division - MD and Senior Research Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Just wanted to ask about delivery, in just over the last several months, we've seen a lot of announcements in products around delivery options between Lockers, testing the Kohl's partnership, Whole Foods, obviously, Amazon Key came out recently. I just wanted to better understand this investment. Is this a result of -- or the thesis that more options could drive, obviously, more sales on the flip side? Do you think you're losing some sales by not having those options?
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [40]
+--------------------------------------------------------------------------------
+
+          Probably a little of both. We think that, especially as we get into more and more Amazon Logistics deliveries, we're going to experiment with different ways to deliver things that make it easier on consumers, things that cut down on potential theft on doorsteps, but really it's mostly about increasing convenience for them.
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [41]
+--------------------------------------------------------------------------------
+
+          Yes, I think that's right, in terms of overall investments there.
+
+--------------------------------------------------------------------------------
+Brian T. Olsavsky,  Amazon.com, Inc. - Senior VP & CFO    [42]
+--------------------------------------------------------------------------------
+
+          And the other investments, obviously, are maybe the bigger-ish things are like planes and transportation capacity in general. And there our philosophy is, again, we're going to watch out for our customers, we're going to build capacity that gives them great service 12 months a year but particularly at holidays, by investing in those transportation options, we do so at same costs or cost parity, I would say, at the very minimum, but it also allows us to do interesting things like extend cutoff times for customers, enable Sunday delivery, enable better weekend delivery. So we're seeing a lot of benefits, just the ability to stretch the order cut off from what once was 3 p.m. in the afternoon to midnight, has huge benefits both for the customer and also for Amazon. It results in incremental sales, it also builds that trust that when you need something, Amazon's going to be there for you. And I need to remind you that the Thursday Night Football game will start in 2 hours and 20 minutes so.
+
+--------------------------------------------------------------------------------
+Dave Fildes,   -     [43]
+--------------------------------------------------------------------------------
+
+          On that, thanks for joining us on the call today and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

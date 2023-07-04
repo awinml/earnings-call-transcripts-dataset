@@ -1,0 +1,447 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2018 NVIDIA Corp Earnings Call
+MAY 09, 2017 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jensen Hsun Huang
+   NVIDIA Corporation - Co-Founder, CEO, President and Director
+ * Colette M. Kress
+   NVIDIA Corporation - CFO and EVP
+ * Shawn Simmons
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Toshiya Hari
+   Goldman Sachs Group Inc., Research Division - MD 
+ * Vivek Arya
+   BofA Merrill Lynch, Research Division - Director
+ * Joseph Lawrence Moore
+   Morgan Stanley, Research Division - Executive Director
+ * Blayne Peter Curtis
+   Barclays PLC, Research Division - Director and Senior Research Analyst
+ * Atif Malik
+   Citigroup Inc, Research Division - VP and Semiconductor Capital Equipment and Specialty Semiconductor Analyst
+ * Mark John Lipacis
+   Jefferies LLC, Research Division - Senior Equity Research Analyst
+ * Christopher James Muse
+   Evercore ISI, Research Division - Senior MD, Senior Equity Research Analyst and Fundamental Research Analyst
+ * Craig Andrew Ellis
+   B. Riley & Co., LLC, Research Division - Senior MD and Director of Research
+ * Mitchell Toshiro Steves
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Hans Carl Mosesmann
+   Rosenblatt Securities Inc., Research Division - Senior Research Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon. 
+My name is Victoria, and I will -- and I'm your conference operator for today. Welcome to NVIDIA's Financial Results Conference Call. (Operator Instructions) 
+I'll now turn the call over to Shawn Simmons from Investor Relations to begin your conference.
+
+--------------------------------------------------------------------------------
+Shawn Simmons,   -     [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the first quarter of fiscal 2018. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer.
+I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. It's also being recorded. You can hear a replay by telephone until May 16, 2017. The webcast will be available for replay up until next quarter's conference call to discuss Q2 financial results. The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent.
+During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risk factors and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, May 9, 2017, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements.
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO Commentary, which is posted on our website.
+With that, let me turn the call over to Colette.
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - CFO and EVP    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Shawn. We had a strong start to the year, highlighting our record first quarter with a near tripling of Datacenter revenue, reflecting surging interest in artificial intelligence. Overall, quarterly revenue reached $1.94 billion, up 48% from a year earlier, down 11% sequentially and above our outlook of $1.9 billion. Growth remained broad-based with year-on-year gains in each of our 4 platforms: Gaming, Professional Visualization, Datacenter and Automotive.
+From a reporting segment perspective, Q1 GPU revenue grew 45% to $1.56 billion from the year earlier and Tegra processor revenue more than doubled to $332 million. And we recognized the remaining $43 million in revenue from our Intel agreement.
+Let's start with our Gaming platform. Gaming revenue in the first quarter was $1.03 billion, up 49% year-on-year. Gamers continue to show great interest in the Pascal-based GPUs, including gaming notebooks. Our Tegra gaming platforms also did extremely well. Demand remained healthy for our enthusiast class, GeForce GTX 1080 GPU, introduced nearly a year ago. It was complemented this past quarter with GTX 1080 Ti, which runs 35% faster and was launched at the annual Game Developers Conference in San Francisco. GTX 1080 Ti is designed to handle the demand of 4K gaming and high-end VR experiences. Typical of many supportive reviews, Ars Technica, stated, "It is undoubtedly a fantastic piece of engineering, cool, quiet and without rival. Those that demand the absolute very best in cutting-edge graphics need look no further."
+We also released the next generation of our Titan class product, the TITAN Xp, designed for enthusiasts and researchers who demand extreme performance. Gaming continues to be driven by the headlong growth in eSports. The newest title, Overwatch, added 30 million gamers in its first year. GeForce was the graphics platform of choice at all of the top eSports tournaments, including the finals of the big 4 international competitions.
+With apologies to the start of the baseball season, eSports is now as popular among U.S. male millennials as America's favorite pastime. More people watch gaming than HBO, Netflix, ESPN and Hulu combined. GeForce sales remained underpinned by the steady stream of AAA titles coming onto market, which continue to push for more GPU performance. 
+In the months ahead, we'll see a series of highly anticipated blockbuster titles. Among them are Destiny 2, coming to the PC for the first time, Star Wars: Battlefront 2, Shadow of War and the next installment of the Call of Duty franchise, World War II. We are excited to be working with Nintendo on its acclaimed Switch gaming system. Great reviews and reports of the system selling out in many geographies are a strong part of this platform.
+Moving to Professional Visualization. Quadro revenue grew to $205 million, up 8% from a year ago, amid continued demand for high-end real-time rendering and more powerful mobile workstation. We're seeing significant increase in professional VR solutions driven by Quadro P6000 GPUs. Lockheed Martin is deploying Quadro to create realistic VR walk-throughs of the U.S. Navy's most advanced ships. The Marines utilize VR to train aircrew personnel. And IKEA is rolling out VR to many of its stores, helping consumers configure their kitchens from a huge array of options, which they can visualize in sharp detail.
+Next, Datacenter. Record revenue of $409 million was nearly triple that of a year ago. The 38% rise from Q4 marked its seventh consecutive quarter of sequential improvement. Driving growth was demand from cloud service providers and enterprises building training clusters for web services plus strong gains in high-performance computing, GRID graphics visualization and our DGX-1 AI supercomputer. AI has quickly emerged as the single most powerful force in technology. And at the center of AI are NVIDIA GPUs.
+All of the world's major Internet and cloud service providers now use NVIDIA Tesla-based GPU accelerators: AWS, Facebook, Google, IBM and Microsoft as well as Alibaba, Baidu and Tencent. We also announced that Microsoft is bringing NVIDIA Tesla P100 and P40 GPUs to its Azure cloud. Organizations are increasingly building out AI-enabled applications using training clusters, evident in part by growing demand for DGX-1. We are seeing a number of significant deals. Among them are Fujitsu's installment of 24 systems integrated into an AI supercomputer for RIKEN, Japan's largest research center, as well as new supercomputers at Oxford University, GE and Audi.
+Working with Facebook, we announced the launch of the Caffe2 deep learning framework as well as Big Basin servers with Tesla P100 GPUs. To help meet huge demand for expertise in the field of AI, we announced earlier today plans to train 100 people this year through the NVIDIA Deep Learning Institute, representing a 10x increase from last year. Through on-site training, public events and online courses, DLI provides practical training on the tools of AI to developers, data scientists and researchers.
+Our HPC business doubled year-on-year, driven by the adoption of Pascal GPUs into supercomputing centers worldwide. The use of AI and accelerated computing in HPC is driving additional demand in governance intelligence, higher education research and finance.
+Our GRID graphic virtualization business more than tripled, driven by growth in business services, education and automotive. Intuit's latest TurboTax release deploys GRID to connect tax filers seeking real-time advice with CPAs. And Honda is using GRID to bring together engineering and design teams based in different countries.
+Finally, Automotive. Revenue grew to a record $140 million, up 24% year-over-year and 9% sequentially, primarily from infotainment modules. We are continuing to expand our partnerships with companies using AI to address the complex problem of autonomous driving. Since our DRIVE PX 2 AI car platform began shipping just 1 year ago, more than 225 car and truck makers, suppliers, research organizations and start-ups have begun developing with it. That number has grown by more than 50% in the past quarter alone, the result of the platform's enhanced processing power and the introduction of TensorRT for the in-vehicle AI inferencing.
+This quarter, we announced 2 important partnerships: Bosch, world's largest auto supplier, which does business all over the world, carmakers is working to create a new AI self-driving car computer based on our Xavier platform; and Paccar, one of the world's largest truck makers, is developing self-driving solutions for Peterbilt, Kenworth and DAF. 
+We continue to view AI as the only solution for autonomous driving. The nearly infinite range of road conditions, traffic patterns and unexpected events are impossible to anticipate with hand-coded software or computer vision alone. We expect our DRIVE PX 2 AI platform to be capable of delivering Level 3 autonomy for cars, trucks and shuttles by the end of the year, with Level 4 autonomy moving into production by the end of 2018.
+Now turning to the rest of Q1 income statement. GAAP and non-GAAP gross margins for the first quarter were 59.4% and 59.6%, respectively, reflecting the decline in Intel licensing revenue. Q1 GAAP operating expenses were $596 million. Non-GAAP operating expenses were $517 million, up 17% from a year ago, reflecting hiring for our growth initiatives. GAAP operating income was $554 million and non-GAAP operating income was $637 million, nearly doubling from a year ago. For the first quarter, GAAP net income was $507 million, non-GAAP net income was $533 million, more than doubling from a year ago, reflecting revenue strengths as well as gross margin and operating margin expansion.
+For fiscal 2018, we intend to return approximately $1.25 billion to shareholders through share repurchases and quarterly cash dividends. In Q1, we issued $82 million in quarterly cash dividends.
+Now turning to the outlook for the second quarter of fiscal 2018. We expect revenue to be $1.95 billion plus or minus 2%. Excluding the expiry of the Intel licensing agreement, total revenue is expected to grow 3% sequentially. GAAP and non-GAAP gross margins are expected to be 58.4%, 58.6%, respectively, plus or minus 50 basis points. These reflect approximately a 100 basis points impact from the expiry of the Intel licensing agreement. GAAP operating expenses are expected to be approximately $605 million. Non-GAAP operating expenses are expected to be approximately $530 million. GAAP OI&E is expected to be an expense of approximately $8 million, inclusive of additional charges from early conversions of convertible notes. Non-GAAP OI&E is expected to be an expense of approximately $3 million. GAAP and non-GAAP tax rates for the second quarter of fiscal 2018 are both expected to be 17%, plus or minus 1%, excluding discrete items.
+Further financial details are included in the CFO Commentary and other information available on our IR website.
+Finally, this week, we are sponsoring our annual GPU Technology Conference here in Silicon Valley. Reflecting the surging importance of accelerating computing, GTC has grown to more than 7,000 attendees from 60 countries, up from 1,000 when we started 8 years ago. Among its highlights, Jen-Hsun will deliver a news-filled keynote tomorrow morning. We have 550-plus talks, more than half on AI. Developers will have access to 70 labs and workshops to learn about deep learning and GPU computing. And we will award a total of $1.5 million to the 6 most promising companies, among the 1,300 in our Inception Program for AI start-ups. We will be hosting our Annual Investor Day tomorrow and hope to see many of you there.
+We will now open up the call for questions. (Operator Instructions) Operator, will you please poll for questions?
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your first question comes from the line of Mark Lipacis from Jefferies.
+
+--------------------------------------------------------------------------------
+Mark John Lipacis,  Jefferies LLC, Research Division - Senior Equity Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          On the HPC and Datacenter business, clearly impressive growth. And I'm hoping that you can maybe drill down on the drivers here. I guess on the cloud side, we think of 2 different areas, GPU as a service versus the cloud company's own AI effort. And I'm hoping you could help us understand to the extent where the demand is falling into either one of those buckets. And then on the enterprise side, I think there's a view out there that the enterprise is just -- is going to the cloud. So to hear you talk about training clusters for web services is very interesting. And I was hoping you could provide some more color on that demand driver.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes, Mark, thanks for your question. So our GPU computing business for Datacenter is growing very fast and it's growing on multiple dimensions. On the one hand, there's high-performance computing using traditional numerical methods. We call that HPC. That's growing. There is, in enterprise, the virtualization of graphics. There's a whole lot of desktop PCs running around. However, more and more people would like to have thinner laptops or they would like to have a different type of computer and still be able to run Windows. And they would like to virtualize basically their entire PC and put it in the data center. It's easier to manage. The total cost of ownership is lower, and mobile employees could enjoy their work wherever they happen to be. And so the second pillar of that is called GRID and it's basically virtualizing the PC. And as you can tell, virtualization, mobility, better security, those are all driving forces there. And then there's the Internet companies. And the Internet companies, as you mentioned, really has 2 pillars. There's the Internet service provision part where they're using deep learning for their own applications, whether it's photo tagging or product recommendation or recommending a restaurant or something you should buy or personalizing your webpage, helping you with search, provisioning up the right apps, the right advertisement, language translation, speech recognition, so on and so forth. I mean, there's a whole bunch of amazing applications that are made possible by deep learning. And so Internet service providers are using it for internal application development. And then lastly, what you mentioned is cloud service providers. And basically, because of the adoption of GPUs and because of the success of CUDA and so many applications are now able to be accelerated on GPUs, so that we can extend the capabilities in Moore's Law so that we can continue to have the benefits of computing acceleration, which in the cloud means reducing cost. And that's on the serve -- cloud service provider side of the Internet companies. So that would be Amazon Web Services, the Google Compute cloud, Microsoft Azure, the IBM Cloud, Alibaba's Aliyun...
+(technical difficulty)
+by Microsoft Azure. We're starting to see almost every single cloud service around the world standardizing on the NVIDIA architecture. So we're seeing a lot of growth there as well. And so I think the nut of it all is that we're seeing data center growth in GPU computing across the board.
+
+--------------------------------------------------------------------------------
+Mark John Lipacis,  Jefferies LLC, Research Division - Senior Equity Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And a follow-up, if I may. On the Gaming side, what we have observed over time is that when you launch a new platform, it definitely creates demand and you see 12 months of very good visibility and into growth. And I wonder -- I was wondering, as you see the Datacenter numbers come in quarter after quarter here, to what extent do you think the Datacenter demand that you're seeing is -- I know it's probably only -- you're only able to answer qualitatively. But to what extent do you think the Datacenter is secondary versus you have a new platform and there's just kind of a platform-driven demand?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [5]
+--------------------------------------------------------------------------------
+
+          Well, PC gaming is growing, I mean, there's no question about that. The eSports is growing. The number of players in eSports, the number of people who are enjoying eSports is growing. Mobile is growing. I think it's amazing. It's amazing, the growth of mobile and the latest games. And of course, the first-party titles, the AAA titles are doing great work. Battlefield is doing great and I'm looking forward to the new Battlefield. I'm looking forward to the new Star Wars and I'm looking forward to the first time that Destiny is coming to the PC. As you know, it was a super hit on console. But the first-generation Destiny wasn't available on PCs and Destiny 2 is coming to the PC. So I think the anticipation is pretty great. So I would say that PC gaming continues to grow and it's hard to imagine people...
+(technical difficulty)
+around in another amazing world. And so I think people are going to be amazed at how long the alternate reality of the video gaming market is going to continue to expand.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of the Vivek Arya from Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [7]
+--------------------------------------------------------------------------------
+
+          Jen-Hsun, for my first one, it's on the competitive landscape in your Datacenter business. There's been more noise around FPGA or CPU or ASIC solutions also chasing the same market. What do you think is NVIDIA's sustainable competitive advantage? And what role is CUDA playing in helping you maintain this lead in this business?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [8]
+--------------------------------------------------------------------------------
+
+          Yes, Vivek, thanks for the question. First of all, it's really important to understand that the data centers, the cloud service providers, the Internet companies, they all get kind of lumped together in one conversation. But obviously, the way they use computers are very different. There are 3 major pillars of computing up in the cloud -- or in large data centers. Hyperscale. The one pillar is just internal use of computing systems for developing, for training, for advancing artificial intelligence. That's a high-performance computing problem. It's a very complicated software problem. The algorithms are changing all the time. They're incredibly complicated. The work that the AI researchers are doing are not trivial, and that's why they're in such great demand. And it's also the reason why computing resources have to be provisioned to them, so that they can be productive. Having a scarce AI researcher waiting around for a computer to finish simulation or training is really quite unacceptable. And so that one -- that first pillar is the market that we -- is a segment of the...
+(technical difficulty)
+or gets strained, once the network is trained, it is put into production. Like for example, your Alexa speakers has a little tiny network inside. And so obviously, you can do inferencing on Alexa. It does voice recognition on the hot keyword. In the long term, your car will be able to do voice recognition and speech recognition. Are we okay? Are we still on?
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [9]
+--------------------------------------------------------------------------------
+
+          Yes, I think the call got dropped.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [10]
+--------------------------------------------------------------------------------
+
+          No, no, Vivek, I'm just -- I was wondering whether the phone line was cut or not. So anyways, I -- the second pillar is inferencing. And inferencing, inferencing as it turns out, is far, far less complicated than training. It's 1 trillion times less complicated, 1 billion times -- 1 trillion times less complicated. And so once the network is trained, it can be deployed. And there are thousands of networks that are going to be running inside these hyperscale data centers, thousands of different networks, not one, thousands of different types. And they're detecting all kinds of different kinds of things. They're inferring all kinds of different things, classifying, predicting, all kinds of different things, whether it's photo or voice or videos or searchers or whatnot. And in that particular case, our advantage -- in that particular case, the current incumbent is CPUs. The CPU is really the only processor at the moment that has the ability to basically run every single network. And I think that's a real opportunity for us. And it's a growth opportunity for us. And one would suggest that FPGA is as well. One would suggest that ASICs like TPUs -- TPUs and ASIC is as well. And I would urge you to come to the keynote tomorrow and maybe I'll say a few words about that tomorrow as well. And then the last pillar is cloud service providers, and that's basically the outward public cloud provisioning a computing approach. It's not about provisioning inferencing. It's not about provisioning GPUs. It's really provisioning a computing platform. And that's one of the reasons why the NVIDIA CUDA platform and all of our software stacks that we've created over time, whether it's for deep learning or molecular dynamics or all kinds of high-performance computing codes or linear algebra or computer graphics, all of our different software stacks make our cloud computing platform valuable. And that's why it's become the industry standard for GPU computing. And so those are 3 different pillars of hyperscalers, and it's just important to segment them so that we don't get confused.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch, Research Division - Director    [11]
+--------------------------------------------------------------------------------
+
+          Got it. Very helpful. And as my quick follow-up, Jen-Hsun, there is a perception that your gaming business has been driven a lot more by pricing and adoption of more premium products, and hence, there could be some kind of ceiling to how much gamers are willing to pay for these products. Could you address that? Are you seeing the number of gamers and the number of cards grow? And how long can they continue to reach for more premium product?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [12]
+--------------------------------------------------------------------------------
+
+          The average selling price of the NVIDIA GeForce is about 1/3 of a game console. That's the way to think about it. That's the simple math. People are willing to spend $200, $300, $400, $500 for a new game console. And the NVIDIA GeForce GPU, the PC gaming card is, on average, far less. There are people who just absolutely demand the best. And the reason for that is because they're driving a monitor or they're driving multiple monitors at a refresh rate well beyond the TV. And so if you have a 4K or you want to run 120 hertz, or some people are even driving at the 2 and 4 -- 200 hertz, those kind of displays demand a lot more horsepower to drive than an average television, whether it's 1080p or 4K, at 60 frames per second or 30 frames per second. And so the amount of horsepower they need is great. But that's just because they just really love their rig and they're surrounded in it and they just want the best. But the way to think about that is ultimately, that's the opportunity for us. I think GeForce is a game console, and the right way to think about that is at an equivalent ASP of some $200, $300, that's probably potentially the opportunity ahead for GeForce.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of C.J. Muse with Evercore.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI, Research Division - Senior MD, Senior Equity Research Analyst and Fundamental Research Analyst    [14]
+--------------------------------------------------------------------------------
+
+          I guess first question is around Gaming. And I was hoping you could kind of walk through how you're thinking about seasonality here in calendar '17, particularly as Pascal launch calendarizes and you get both the launch coming, I presume, early '18. I would love to hear your thoughts on how we should think about the trajectory of that business.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [15]
+--------------------------------------------------------------------------------
+
+          Well, first of all, GeForce is sold a unit at a time. And it's sold all over the world and it's a consumer product. It's a product that I -- that is sold both into our installed base as well as growing our installed base. When we think about GeForce, they're -- these are the parameters involved. How much of our installed base has upgraded to Pascal? How much of our installed base is growing? How is Gaming growing overall? How is -- what are the driving dynamics of Gaming, whether it's eSports or mobile or using games for artistic expression? It's related to the AAA titles that are coming out. Some years, the games are just incredible. Some years, the games are less incredible. These days, the production quality of the games have just become systematically so good that we've had years now of blockbuster hits. So these are really good dimensions of it. And then there is -- it's overlaid on top of it with some seasonality because people do buy graphics cards and game consoles for Christmas and the holidays and there are international holidays where people are given money as gifts and they save up the money for a new game console or a new game platform. And so in a lot of ways, our business is driven by games. So it's not unlike the characteristics of the rest of the gaming industry.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI, Research Division - Senior MD, Senior Equity Research Analyst and Fundamental Research Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Very helpful. I guess as my follow-up, on the inventory side, that grew, I think, 3% sequentially. Can you walk through the moving parts there? What's driving that? And is foundry diversification part of that?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [17]
+--------------------------------------------------------------------------------
+
+          The driving reasons for inventory growth is new products. And I -- that's probably all I had to say for now. I would come to GTC. Come to the keynote tomorrow. I think it will be fun.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Toshiya Hari from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group Inc., Research Division - MD     [19]
+--------------------------------------------------------------------------------
+
+          Jen-Hsun, can you maybe talk a little bit about the breadth of your customer base in Datacenter relative to maybe 12 months ago? Are you seeing kind of the same customer group buying more GPUs? Or is it the growth in your business more a function of the broadening of your customer base?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [20]
+--------------------------------------------------------------------------------
+
+          Thanks, Toshiya. Let me think here. I think 1 year ago, 1 year ago was -- maybe it was 2 years ago, maybe it's somewhere between 18 months ago or so when I think Jeff Dean gave a talk where he said that Google was using a lot of GPUs for deep learning. I think it wasn't much longer ago than that. And really, really, that was the only public customer that we had in the hyperscale data center. Fast forward a couple of years, we now have basically everybody. Every hyperscaler in the world is using NVIDIA for either deep learning, for some announcements that you'll read about in data center deployment, tomorrow hopefully, and then a lot of them have now standardized on provisioning the NVIDIA architecture in the cloud. And so I guess in the course of 1 or 2 years, we went from basically hyperscale being an insignificant part of our overall business to quite a large part of our business, and as you could see also, the fastest-growing part of the business.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group Inc., Research Division - MD     [21]
+--------------------------------------------------------------------------------
+
+          Okay. And then as my follow-up, I had a question for Colette. 3 months ago, I think you went out of your way to guide Datacenter up sequentially. And for the July quarter, ex the Intel business going away, you're guiding revenue up 3% sequentially. Can you maybe provide some additional color for the individual segments?
+
+--------------------------------------------------------------------------------
+Colette M. Kress,  NVIDIA Corporation - CFO and EVP    [22]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for the question. We feel good about the guidance that we're providing for Q2. We wanted to make sure those understood the impact of Intel that's incorporated in there. It's still too early given that it's just about the same size as what we just finished in Q1 to make comments specifically exactly where we think each one of those businesses will end up. But again, we do believe Datacenter is a super great opportunity for us. I think you'll hear more about that tomorrow. But we don't have any more additional details on our guidance. But we feel good about the guidance we gave.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Atif Malik from Citigroup.
+
+--------------------------------------------------------------------------------
+Atif Malik,  Citigroup Inc, Research Division - VP and Semiconductor Capital Equipment and Specialty Semiconductor Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Jen-Hsun, can you talk about the adoption of GPU in the cloud? At the CES earlier this year, you guys announced GeForce. Now curious how the adoption of GeForce is going.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [25]
+--------------------------------------------------------------------------------
+
+          Yes, Atif, thanks for the question. GeForce NOW is a really -- it's really an exciting platform. It virtualizes GeForce. It puts it in the cloud, turns it into a gaming PC as a service -- that can be streamed as a service. And we are -- I said at GTC that around this time, that we'll likely open it up for external beta. We've been running internal beta for some time. And we'll shortly go to external beta. And last time I checked, there's many, many, tens of thousands of people who are signed up for external beta trials. And so I'm looking forward to letting people try it. But the important thing to realize about that is I -- that's still years away from really becoming a major gaming service. And that's -- it's still years away from being able to find the right balance between cost and quality of service and the pervasiveness of virtualizing a gaming PC. So we've been working on it for several years and these things take a while. My personal experience is almost every great thing takes about a decade. And if that's so, then we've got a few more years to go.
+
+--------------------------------------------------------------------------------
+Atif Malik,  Citigroup Inc, Research Division - VP and Semiconductor Capital Equipment and Specialty Semiconductor Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Great. As a follow-up, with your win and success in Nintendo Switch, does that open up the console market with other console makers? Is that a business that is of interest to you?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [27]
+--------------------------------------------------------------------------------
+
+          Well, consoles is not really a business to us. It's a business to them. And we're selected to work on these consoles. And if it makes sense and the strategic alignment is great and we're in a position to be able to do it -- because the opportunity cost of building a game console is quite high. The number of engineers who knows how to build computing platforms like this -- and in the case of the Nintendo Switch, I mean, it's just an incredible console that fits in such a small, small form factor. And it could both be a mobile computing -- mobile gaming device as well as a console gaming device. It's just really quite amazing. And they just did an amazing job. Somebody asked me a few months ago before it was launched how I thought it was going to do. And of course, without saying anything about it, I said that it delighted me in a way that no game console has done in the last 10, 15 years. And it's true. I mean, this is a really, really innovative product and really quite a genius. And if you ever have a chance to get it in your hands, it's just really, really delightful. And so in that case -- in that case, the opportunity to work on it was just really, really too enticing. We really wanted to do it. And -- but it always requires deep strategic thought because it took several hundred engineers to work on. And they could be working on something else like all of the major initiatives we have. And so we have to be mindful about the strategic opportunity cost that goes along with these. But in the case of the Nintendo Switch, it's just a home run. I'm so glad I did it. And it was a perfect collaboration for us.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Craig Ellis from B. Riley.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,  B. Riley & Co., LLC, Research Division - Senior MD and Director of Research    [29]
+--------------------------------------------------------------------------------
+
+          I wanted to follow up on some of the prepared comments on Automotive with my first question. And it's this. I think Colette mentioned that there were 225 car and truck development engagements that were underway, up 50% in the last quarter. The question is, as you engage with those partners, what's NVIDIA finding in terms of the time from engagement to revenue generation? And what are you finding with your hit rate in terms of converting those individual engagements into revenues?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [30]
+--------------------------------------------------------------------------------
+
+          I know the second one: easier. Not -- the second one is the revenue contribution is not significant at the time, at this moment. But I expect it to be high. And that's why we're working on it. The 200 developers who are working on the DRIVE PX platform are doing it in a lot of different ways. And at the core, it's because in the future, every aspect of transportation will be autonomous. And if you think through what's going on in the world and one of the most important -- one of the most powerful effects that's happening right now is the Amazon effect. We're grabbing our phone. We're buying something and then we expect it to be delivered to us tomorrow. Well, in -- when you sent up that -- those set of electronic instruction, the next thing that has to happen is a whole bunch of trucks has to move around. And they have to go from trucks to maybe smaller trucks and from smaller trucks to maybe a small van that ultimate delivers it to your house. And so if you will, transportation is the physical Internet, is the atomic Internet, the molecular Internet of society. And without it, everything that we're experiencing today would be able to continue to scale. And so you could imagine everything from autonomous trucks to autonomous cars, surely, and autonomous shuttles and vans and motorcycles and small piece of delivery robots and drones and things like that. And for a long time, it's going to augment truck drivers and delivery professionals who, quite frankly, we just don't have enough of. The world is just growing too fast in an instant delivery, delivered to your home, delivered to you right now phenomenon. And we just don't have enough delivery professionals. And so I think autonomous capability is going to make it possible for us to take pressure off of that system and reduce the amount of accidents and make it possible for that entire infrastructure to be a lot more productive. And so that's one of the reasons why you're seeing so much enthusiasm. It's not just the branded cars. I think the branded cars get a lot of attention and we are excited about our partnerships there. And gosh, I love driving autonomous cars. But in the final analysis, I think the way to think about the autonomous future is every aspect of mobility and transportation and delivery will be -- will have autonomous -- will be augmented by AI.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,  B. Riley & Co., LLC, Research Division - Senior MD and Director of Research    [31]
+--------------------------------------------------------------------------------
+
+          That's very helpful color, Jen-Hsun. The follow-up is related to the Datacenter business. And you provided a lot of very useful customer and other information. My question is higher level. Given your very unique position in helping to nurture AI for the last many years and your deep insights into the way the customers are adopting it, as investors try and understand the sustainability of recent growth, can you help us understand where you believe AI adoption is overall? And since Colette threw out a baseball comment earlier, if we thought about AI adoption in reference to a 9-inning game, where are we in that 9-inning game?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [32]
+--------------------------------------------------------------------------------
+
+          Well, let's see here. There's a -- it's a great question and there's a couple of ways to come at it. First of all, AI is going to infuse all of software. AI is going to eat software. Whereas Mark said that software is going to eat the world, AI is going to eat software. And it's going to be in every aspect of software. Every single software developer has to learn deep learning. Every single software developer has to apply machine learning. Every software developer will have to learn AI. Every single company will use AI. AI is the automation of automation. And it's -- will likely be the transmission. We're going to, for the first time, see the transmission of automation, the way we're seeing the transmission and the wireless broadcast of information for the very first time. And I'm going to be able to send you automation, send you a little automation by e-mail. And so the ability for AI to transform industry is well understood now. It's really about automation of everything. And the implications of it is quite large. We've been using now deep learning. We've been in the area of deep learning for about 6 years. And the rest of the world has been focused on deep learning for about somewhere between 1 to 2. And some of them are just learning about it. And almost no companies today use AI in a large way. So on the one hand, we know now that the technology is of extreme value. And we under -- we're getting a better understanding of how to apply it. On the other hand, no industry uses it at the moment. The automotive industry is in the process of being revolutionized because of it. The manufacturing industry will be. Everything in transport will be. Retail, Etail everything will be. And so I think the impact is going to be large and we just -- we're just getting started. We're just getting started. Now that's kind of a first inning thing. The only trouble with the baseball analogy is that in the world of tech, things don't -- every inning is not the same. In the beginning, the first inning feels like -- it feels pretty casual and people are enjoying peanuts. The second inning, for some reason, is shorter. And the third inning is shorter than that and the fourth inning is shorter than that. And the reason for is because of exponential growth. Speed is accelerating. And so from the bystander who are on the outside looking in, by the time third inning comes along, it's going to feel like people are traveling at the speed of light next to you. Now if you happen to be on one of the photons, you're going to be okay. But if you're not on the deep learning train in a couple of 2, 3 innings, it's gone. And so that's kind of the challenge of that analogy because things aren't moving in linear time. Things are moving in exponential time.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Hans Mosesmann with Rosenblatt Securities.
+
+--------------------------------------------------------------------------------
+Hans Carl Mosesmann,  Rosenblatt Securities Inc., Research Division - Senior Research Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Jen-Hsun, can you give us like a State of the Union on process node and technology road maps you guys see? And tell me a pretty nice exposition of where they are in terms of their transistors and so on? So what's your comfort level as you see your process technology and your road maps for new GPUs?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [35]
+--------------------------------------------------------------------------------
+
+          Yes, Hans. I think there's a couple of ways to think about it. First of all, we know that this is the -- we know that some -- the world causes the end of Moore's Law, but it's really the end of 2 dynamics that has happened. And one dynamic, of course, is the end of processor architecture productive innovation, okay, end of instruction-level parallelism advances. The second is the end of Dennard scaling. And the combination of those 2 things makes it look like it's the end of Moore's Law. The easy way to think about that is -- the easy way to think about that is that we can no longer rely -- if we want to advance computing performance, we can no longer rely on transistor advances alone. That's one of the reasons why NVIDIA has never been obsessed about having the latest transistors. We want the best transistors. There's no question about it. But we don't need it to advance. And the reason for that is because we advance computing on such a multitude of levels all the way from architecture, this architecture we call GPU accelerate computing, to the software stacks on top, to the algorithms on top, to the applications that we work with. We tune it across the top, from the top to bottom, all the way from bottom to top. And so as a result, transistors is just one of the 10 things that we use. And like I said, it's really, really important to us and I want the best. And TSMC provides us the absolute best that we can get. And we push along with them as hard as we can. But in the final analysis, it's one of the tools in the box.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Joe Moore from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [37]
+--------------------------------------------------------------------------------
+
+          I have attended GTC the last couple of days. I'm really quite impressed by the breadth of presentations and sort of the number of industries you guys are affecting. And I guess just on that note, how do you think about segmenting the sales effort? Do you have a health care vertical, an avionics vertical, financial vertical? Or is it sort of having the best building blocks and you're letting your customers discover stuff?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [38]
+--------------------------------------------------------------------------------
+
+          Yes, thanks a lot. Thanks a lot, Joe. You answered it right there. It's both of those. It's both of those. On the first -- the first thing is that we have to develop platforms that are useful per industry. And so we have a team working with the health care industry. We have a team that's working with the Internet service providers. We have a team that's working with the manufacturing industry. We have a team that's working with the financial services industry. We have a team that's working with media and entertainment and with enterprise, so -- with the automotive industry. And so we have different verticals. We call them verticals and we have teams of business development people, developer relations, computational mathematicians that works with each one of the industries to optimize their software for our GPU computing platform. And so it starts with developing a platform stack. Of course, one of the most famous examples of that is our Gaming business. It's just another vertical for us. And it starts with GameWorks that runs on top of GeForce and then it has its own ecosystem of partners. And so that's for each one of the verticals and each one of the ecosystems. And then the second thing that we do is we have, horizontally, partner management teams that work with our partners, the OEM partners and the go-to-market partners so that we could help them succeed. And then, of course, we rely a great deal on the extended sales force of our partners so they could help to evangelize our computing platform all over the world. And so there's this mixed approach between dedicated vertical market, business development teams as well as a partnership approach to partnering with our OEM partners that has really made our business scale so fast.
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [39]
+--------------------------------------------------------------------------------
+
+          Great. That's helpful. And then the other question I had was regarding Colette's comment that HPC had doubled year-on-year. Just wondering if you have any comments on what drove that. And is that an indication of the supercomputer types of businesses? Or are there sort of other dynamics in terms of addressing new workloads with HPC products?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [40]
+--------------------------------------------------------------------------------
+
+          Well, HPC is different than supercomputing. Supercomputing to us is a collection of -- not a collection but is 20 different supercomputing sites around the world. And some of the famous ones, whether it's Oak Ridge or Blue Water at UCSC, you've got TiTech in Japan, there are supercomputing centers that are either national supercomputing centers or they could be public and open supercomputer centers or open science. And so we consider those supercomputing centers. High-performance computing is used by companies who are using simulation approaches to develop products or to, well, to simulate something. It could be scenarios for predicting equity, or, for example, as you guys know, Wall Street is the home of some of the largest supercomputing center -- or high-performance computing centers. The energy industry, Schlumberger, for example, is a great partner of ours and they have a massive, massive high-performance computing infrastructure. And Procter & Gamble uses high-performance computers to simulate their products. And so I think last year, McDonald's was at GTC and I hope they come this year as well. And so I think high-performance computing, another way of thinking about it is that more and more people really have to use simulation approaches for product discovery and product design and product simulation and stuff to stress the products beyond what is possible in a physical way so that they understand the tolerance of the products to make sure they are as reliable as possible.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Blayne Curtis from Barclays.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays PLC, Research Division - Director and Senior Research Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Just curious, Jen-Hsun, we've seen half dozen, dozen private companies going after the (inaudible) silicon Google TPU. I know you felt the comparison to a TPU maybe wasn't fair. But I was just kind of curious to your response to these claims of a 10, 100, 500x performance better than a GPU.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [43]
+--------------------------------------------------------------------------------
+
+          Well, it's not that it's not fair. It's just not right. It's not correct. And so in business, who cares about being fair? And so I wasn't looking for fair. I was just looking for right. And so the data has to be correct. It turns out -- and I said earlier that our hyperscale businesses have 3 different pillars. There's training, which our GPUs are quite good at. There's cloud service provision, which is a GPU computing architecture opportunity where CUDA is really the reason why people are adopting it and all the applications that have been -- that has adopted CUDA over the years. And then there's inferencing. And inferencing is a 0 opportunity for us, a 0 business for us at the moment. I mean, we do 0% of our business in inferencing and it's 100% on CPUs. And in the case of Google, they did a great thing and built a TPU as an ASIC. And they compared the TPU against one of our older GPUs. And so I published a blog. I wrote a blog to clarify some of the comparisons and you could look that up. But the way to think about that is our Pascal is probably approximately twice the performance of the TPU, the first generation TPU. And it's incumbent upon us to continue to drive the performance of inferencing. This is something that's still kind of new for us. And tomorrow, I'm probably going to say a few words about inferencing and maybe introduce a few ideas. But inferencing is new to us. It's -- there are 10 million CPUs in the world in a cloud, and today, many of them are running Hadoop and doing queries and looking up files and things like that. But in the future, the belief is that the vast majority of the world's cloud queries will be inference queries, will be AI queries. Every single query that goes into the cloud will likely have some artificial intelligence network that it processes. And I think that's our opportunity. We have an opportunity to do inferencing better than anybody in the world and it's up to us to prove it. At the moment, I think it's safe to say that the P40, the Tesla P40, is the fastest on the planet, period. And then from here on forward, it's incumbent upon us to continue to lean into that and do a better, better job.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays PLC, Research Division - Director and Senior Research Analyst    [44]
+--------------------------------------------------------------------------------
+
+          And then just moving to the gaming GPU side. I was just wondering if you could just talk about the competitive landscape, looking back at the last refresh and then looking forward into the back half of this year. I think your competitor's going to have a new platform. Just kind of curious to your thought as to how the share worked out on the previous refresh and then the competitiveness into the second half of this year.
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [45]
+--------------------------------------------------------------------------------
+
+          My assessment is that the competitive position is not going to change.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Your last question comes from the line of Mitch Steves from RBC.
+
+--------------------------------------------------------------------------------
+Mitchell Toshiro Steves,  RBC Capital Markets, LLC, Research Division - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          I just have one actually on the gaming side. I remember at CES, you had mentioned kind of a leasing model, almost effectively kind of target the low-end consumers of gaming products. So just wondering if that'll be some sort of catalyst the back half. So how do we think about gaming working out in terms of both the leasing model and the year-over-year comparisons getting a bit difficult?
+
+--------------------------------------------------------------------------------
+Jensen Hsun Huang,  NVIDIA Corporation - Co-Founder, CEO, President and Director    [48]
+--------------------------------------------------------------------------------
+
+          Mitch, yes, I was just talking about that earlier in one of the questions. It's called GeForce NOW and I announced it at CES. And I said that right around this time of the year, we're going to open it up for external beta. We've been running internal beta and closed beta for some time. And so we're looking forward to opening up the external beta. My expectation is that it's going to be some time as we scale that out. It's going to take several years. I don't think it's something that's going to be an overnight success. And as you know, overnight successes don't happen overnight. However, I'm optimistic about the opportunity to extend the GeForce platform beyond the gamers that we currently have in our installed base. There are several billion gamers on the planet and I believe that every human will be a gamer someday. And every human will have some way to enjoy an alternative universe some way, someday. And we would love to be the company that brings it to everybody. And the only way to really do that on a very, very large-scale basis and reach all those people is over the cloud. And so I think our PC gaming business is going to continue to be quite vibrant. It's going to continue to advance. And then hopefully, we can overlay our cloud reach on top of that over time.
+Well, thanks for all the questions today. I really appreciate it. We had another record quarter. We saw growth across our 4 market platforms. AI is expanding. Datacenter nearly tripled. Large ISP, CSP deployments everywhere. PC gaming is still growing; eSports, AAA gaming titles, fueling our growth there. And we have great games on the horizon. Autonomous vehicles, becoming imperative on all sectors of transportation, as we talked about earlier. We have a great position with our DRIVE AI computing platform. And as Moore's Law continues to slow, GPU accelerated computing is becoming more important than ever and NVIDIA is at the center of that. 
+Don't miss tomorrow's GTC keynote. We'll have exciting news to share, next-generation AI, self-driving cars, exciting partnerships and more. Thanks, everybody.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

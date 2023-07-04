@@ -1,0 +1,694 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2015 Intel Corp Earnings Call
+JANUARY 14, 2016 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stacy Smith
+   Intel Corporation - CFO
+ * Mark Henninger
+   Intel Corporation - VP of Finance and Director of IR
+ * Brian Krzanich
+   Intel Corporation - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Vivek Arya
+   BofA Merrill Lynch - Analyst
+ * Blayne Curtis
+   Barclays Capital - Analyst
+ * Stacy Rasgon
+   Bernstein Research - Analyst
+ * Timothy Arcuri
+   Cowen and Company - Analyst
+ * David Wong
+   Wells Fargo Securities, LLC - Analyst
+ * Ross Seymore
+   Deutsche Bank - Analyst
+ * C.J. Muse
+   Evercore ISI - Analyst
+ * Harlan Sur
+   JPMorgan - Analyst
+ * Joe Moore
+   Morgan Stanley - Analyst
+ * John Pitzer
+   Credit Suisse - Analyst
+ * Chris Danely
+   Citigroup - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and welcome to the Intel Corporation Q4 2015 earnings conference call.
+(Operator Instructions)
+As a reminder, this call is being recorded. I would now like to turn the conference over to Mark Henninger. Please go ahead.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sabrina, and welcome, everyone, to Intel's fourth-quarter 2015 earnings conference call. By now you should have received a copy of our earnings release and the CFO commentary that goes along with it. If you've not received both documents they're available on our investor website, INTC.com.
+I'm joined today by Brian Krzanich, our CEO, and Stacy Smith, our Chief Financial Officer. In a moment, we'll hear brief remarks from both of them, followed by the Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.
+Also, during this call, we'll be using non-GAAP financial measures and references. GAAP financial reconciliations are available in our earnings material, which was posted on our website, INTC.com, in advance of this call. The forecast that Stacy speaks to today will be on a non-GAAP basis. With that, let me hand it over to Brian.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. Our results for the fourth quarter were consistent with expectations, and marked a strong finish to the year. Taken as a whole, 2015 demonstrated the benefits of our strategy, which is designed to capitalize on the growing need for the infrastructure powering the smart and connected world. That strategy is also resulting in the evolution of our business model, to focus on three key areas of growth: The data center, the Internet of Things, and memory. Our results reflect that evolution. Revenue for the year was nearly flat, despite a significant decline in PC demand.
+2015 was also a year of revenue records and important milestones, and I'd like to take a minute to review some of them with you. Even though the Client Computing Group ended the full year down 8%, we were excited to see that we were able to grow sequentially in the second and third and fourth quarters. As of November, 14-nanometer products made up more than 50% of the client computing volume. And for the year, high end Core i7 micro processors and our K SKUs for gaming both set all-time volume records, leading to a rich product mix.
+In our security business, we've refocused the organization on end point technology, where we enjoy a solid leadership position, and we've driven material efficiencies, as we fully integrated the McAfee organization into Intel. The results of these changes have been dramatic. On a constant currency basis, security revenue rose 6% for the year, while the organization's tighter focus drove a remarkable 44% improvement in operating income. The IoT group grew revenue 7% in 2015 to $2.3 billion, an all-time record. As the retail, transportation and video segments all saw strong double-digit year-over-year growth.
+In our NAND solutions group, we introduced a revolutionary new class of memory called 3D XPoint, the industry's first new memory technology in more than two decades. 3D XPoint is a great example of our growth strategy at work, using our technology expertise to innovate and expand into profitably adjacent markets. We think it's a game-changing technology, moving forward. Our confidence in the technology led us to announce in the fourth quarter that we were upgrading our Dalian, China fab to manufacture both 3D NAND and 3D XPoint, with production beginning later this year. For the full year, our memory business grew more than 20% to $2.6 billion, another all-time record.
+At the same time, the Data Center Group grew 11% over last year to an all-time record of $16 billion in revenue. Macro weakness weighed on enterprise demand and resulted in slower growth than we expected at the beginning of the year. However, DCG's overall performance highlighted the underlying trends driving data center demand, as cloud and communication service providers' revenue both grew more than 20% for the year. Within the cloud segment, 40% of our volume was custom SKUs as we left the year, demonstrating the ongoing value of working directly with the customers to tailor solutions to their needs.
+Finally, just after our fiscal year ended, we closed our acquisition of Altera. We're thrilled to welcome the talented Altera team to Intel. Combined, our two companies will deliver powerful synergies based on Intel's process technology leadership, and the integration of Altera's FPGAs.
+Wrapping up, our results over the last year leave me increasingly confident in our strategy. While our outlook for the first quarter reflects some caution about overall demand, particularly in China, we continue to expect solid growth in the business in 2016. Because it provides tremendous return to our shareholders, we will continue to drive innovation and differentiation in our core PC business. This business provides a foundation of IP, and a source of cash flow, but it's not the sole driver of our growth.
+Our future as a Company will increasingly be a product of the virtuous cycle of opportunities in the data center, memory and IoT market segments. In fact, you can see the impact of that virtuous cycle in our 2015 results. DCG, IoTG and memory delivered nearly 40% of Intel's revenue, and more than 60% of Intel's operating margin in 2015. Additionally, these three adjacent markets delivered $2.2 billion in profitable revenue growth in 2015 alone, and as we look ahead to 2016, we'll continue to build on that strategy. Now with that, let me turn it over to Stacy.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian. The fourth quarter was a strong finish to the year, with record revenue at $14.9 billion. We had record revenues in the data center and Internet of Things businesses. Gross margin of 64% was up 2 points to outlook, net income was $3.6 billion, down 1% year-over-year, and earnings per share was $0.74, flat over the same horizon.
+I would like to provide context behind our full-year 2015 financials, as it provides insight into how we are executing to our strategy. Growth in the data center, memory and Internet of Things businesses partially offset a weaker than expected macroeconomic environment, and a weak PC client market. Overall, revenue for the year was $55.4 billion, which was down 1% from the prior year.
+The Client Computing Group achieved $32 billion in revenue, and was down 8% for the year. Within the Client Computing Group, we achieved almost $1 billion in mobile profitability improvements over the course of the year, exceeding our goal. The data center business, at about $16 billion in revenue, grew 11%. The memory business, at over $2.5 billion in revenue, grew over 20%. And the Internet of Things business, at about $2.3 billion, grew 7%.
+Gross margin for 2015 was approximately 63%, down about a point from 2014. Higher unit costs as we ramp 14-nanometer were offset by an increase in ASPs, driven by strong results in the data center business, and a rich mix in the client computing business. Operating profit for the year was $14 billion, down 9% year on year. Earnings per share for the year was $2.33, up 1% from the prior year.
+In 2015, the business continued to generate significant cash, with $19 billion of cash from operations. We purchased $7.3 billion in capital assets. We paid $4.6 billion in dividends, and repurchased about $3 billion of stock. Total cash balance was $25.3 billion, up over $11 billion year-over-year. Our net cash balance, total cash less debt, and inclusive of our other longer-term investments is approximately $6.6 billion. We issued about $9.5 billion of new long-term debt to finance our acquisition of Altera, and in November we announced an $0.08 dividend increase to $1.04 per share on an annual basis, effective in the first quarter of 2016.
+The acquisition of Altera was completed in early FY16, which means that the 2016 guidance includes the expected results for the FPGA business. As I talk to our guidance for 2016, it is important to note that we have excluded non-cash and one-time acquisition-related charges for Altera. The CFO commentary pre-released before this call and available on INTC.com includes the full GAAP and non-GAAP reconciliations.
+For the first quarter of 2016, the midpoint of the revenue range is expected to be $14.1 billion. This forecast, which includes an extra work week, and the newly-acquired FPGA business, is on the low end of the average seasonal range. This outlook represents a soft start to the year as we remain cautious on the level of economic growth, particularly in China. We continue to believe the worldwide PC supply chain is healthy, with appropriate levels of inventory. Gross margin for the first quarter is expected to be approximately 62%, and spending is expected to be $5.5 billion.
+Turning to the full year 2016, we are expecting revenue growth in the mid to high single digits, relative to 2015. This outlook is higher than our previous guidance provided at the November investor meeting. This higher range is driven by the addition of the FPGA business, partially offset by some caution as a result of uncertainty in the macroeconomic environment. Gross margin for the year is expected to be 63%, and spending is expected at $21.3 billion. The capital spending forecast for 2016 is $9.5 billion, up from 2015.
+As the economic useful life of our manufacturing equipment lengthens, we are extending the depreciable life of equipment in our factories from four to five years. This change in depreciable life drives approximately $1.5 billion in lower depreciation expense for the year. Inclusive of this change, we are forecasting depreciation expense to be $6.5 billion this year, down $1.3 billion from 2015.
+Our results demonstrate that we are transforming the Company. We are pivoting towards the cloud, with a diversified portfolio of businesses. Client is still the largest segment, but the other businesses now make up about 40% of our total revenue, and 2015 marked the first year where these businesses made up the majority of our operating profit. The data center business is growing fast, and is now a $16 billion business. That growth is being driven by growth rates in cloud computing that were over 40% year on year.
+Our memory business grew over 20% year-over-year, and is well positioned to disrupt the industry with the launch of 3D XPoint technology. The Internet of Things business grew in 2015, and is expected to contribute more growth this year. And with the Altera acquisition, we expect to broaden our product portfolio in the data center and Internet of Things businesses, and enable even more innovation. Most importantly, we are pivoting towards the cloud, diversifying our client business, and building a strong foundation for long-term growth for the Company. With that, I'll turn it back over to Mark.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [5]
+--------------------------------------------------------------------------------
+
+          All right. Thank you, Brian and Stacy. Moving on now to the Q&A, as is our normal practice, we would ask each participant to ask one question, and just one follow-up, if you have one. Sabrina, please go ahead and introduce our first questioner.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Our first question comes from the line of Joe Moore of Morgan Stanley. Your line is now open.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Great. Thank you so much. The client average selling prices went up again for the second quarter. Is that the same trend you saw in Q3, a stronger high end, and what's your assumption for the ASP trajectory going forward?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Sure. I'll start, Joe. This is Brian. It was the same type of trend we saw throughout 2015, with clients buying up the stack, and you saw it in our record revenue in Core i7 and K SKUs, which are really our top-end SKUs. The forecast for 2016 has us relatively flat in this space, so we don't know if it will continue. But right now, we forecast it at flat, the ASPs, for 2016.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [4]
+--------------------------------------------------------------------------------
+
+          And just to add, Joe, so -- there was a client comment. In total, we see ASPs up a little bit in 2016. You can see it in the gross margin recon.
+It's not -- as Brian said, we're maintaining the client ASP, but we are expecting that server becomes a larger percentage of the mix. So we've got some mix impact, based on what's going on in server.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Okay. That makes sense. Thanks.
+And then for my follow-up, the depreciation change -- was that something you had known about when you talked about the full-year guidance at the Analyst Day, and what was it that prompted you to make that change now?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [6]
+--------------------------------------------------------------------------------
+
+          No, the depreciation change was not included in my forecast that I provided back in November. We were in the middle of the analysis.
+What prompted it was -- we did an in-depth analysis based on the cadence of moving from one process technology node to the next. We talked about that at the beginning of 2015, and the third wave of products. And we completed our long-range planning in the fourth quarter, and that's what triggered the change in the depreciation cadence.
+I'll also say -- so, just to then tie this out for you, in November I was forecasting a 62% gross margin for the year. I'm now projecting a 63% gross margin for the year. And the difference there is this change in depreciation. So, you can kind of see it in that gross margin recon.
+
+--------------------------------------------------------------------------------
+Joe Moore,  Morgan Stanley - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Great. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of Vivek Arya of Bank of America Merrill Lynch. Your line is now open.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. First, Brian, you mentioned that there is some uncertainty near term in the broader environment. I was hoping you could provide us some more color around that, if possible, by your different segments, and perhaps by geography?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [10]
+--------------------------------------------------------------------------------
+
+          Sure, Vivek. It's the same type of trends we saw in 2015: emerging markets slower than the mature markets; US, western Europe looking okay; China and the rest of Asia slow.
+It was both consumer and enterprise. I'd say it's a little bit heavier on the client side, so the PC side, than the data center side. But we're seeing some of it on the data center side as well. Those are the two big drivers, and it's all the same geography.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          I see. And for my follow-up, maybe for Stacy -- Stacy, can you talk about the leverage in the model? Because if I take your full-year sales growth number, OpEx is roughly about 35%-ish or so of sales, which is in line with what you had given at analyst day.
+I'm wondering what steps can you take to drive more leverage in the model? As an IDM, shouldn't the goal be to get to at least 30%-plus operating margins? What steps can you take this year to help drive more leverage in the model? Thank you.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [12]
+--------------------------------------------------------------------------------
+
+          Sure, and first, let me -- if you'll bear with me, let me just take a second to detangle the 2016 numbers, because with the extra work week, the Altera acquisition, which includes some one-time costs, and the change in depreciation, it becomes a little hard to, I think, get to the bottom of what's actually happening operationally in the Business. If you recall, in the investor meeting in November, Brian and I talked about the fact that we were looking to reduce spending as a percent of revenue by 0.5 points.
+If you just take all of the adjustments out -- so, you don't adjust for the change in depreciation, you don't adjust for Altera, or anything like that -- we're getting that 0.5 points. When we add all of that in, we're getting a bit more than the 0.5 points improvement from 2015 to 2016, in terms of our projections. So, we feel we're delivering what we committed to; and when you put some of these adjustments on top of it, we'll deliver a little bit more.
+In terms of the opportunities there, we articulated it, and I'll let Brian come in over the top, but we articulated at the investor meeting, we're still committed to drive spending as a percent of revenue down. We're in the midst of a transformation right now, and so we are going through a period where we're weeding and feeding our portfolio. We're making some dis-investments.
+But very importantly, we're investing in areas that we think are critical for the long-term growth and health of the Company, and where we get lots of return, i.e., the data center, the Internet of Things, our process technology leadership, the memory business. So, we knew going into this year it would be a time of elevated investment. We're delivering what we committed, but there's more to come in future years.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [13]
+--------------------------------------------------------------------------------
+
+          Thanks, Vivek.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Merrill Lynch - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of CJ Muse of Evercore. Your line is now open.
+
+--------------------------------------------------------------------------------
+C.J. Muse,  Evercore ISI - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Yes, good afternoon. Thank you for taking my question. I guess now with the Altera deal closed, curious if you could provide an update on your server chip road map and strategy, as we look into 2016 and beyond?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [17]
+--------------------------------------------------------------------------------
+
+          Sure, CJ. This is Brian.
+So let me just give you a broad picture of Altera, and where we're at. So, as you said, we just closed. We have just gotten through the employee integration, everybody's got a badge; if you go by, the signs out front say Intel now. Really excited; we're starting to dig in to some of the product road maps.
+The good news is, we'd been working separate companies on the first of the server chips, which is a multi-chip package, so, FPGA and our Xeon in the same package. That will actually start sampling to select customers in the first quarter of this year, and it will continue to select in limited quantities, it will continue to sample throughout this year, with production in 2017.
+Our road map will then -- we're still working on our road map beyond that of when do we integrate the full IP into our silicon, so make a monolithic die. We're actually spending an equal amount of time on that same kind of a road map, an MCP, or a multi-chip package, followed by a monolithic die in the IoT space. We feel pretty good about the progress, and we're already, in the first quarter, going to be sampling to the leading-edge cloud guys that you can think about.
+
+--------------------------------------------------------------------------------
+C.J. Muse,  Evercore ISI - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Very helpful. I guess as my follow-up, you provided a $10 billion CapEx budget, and now it looks like it's about $500 million lower at the midpoint. Curious what has changed there. Is that principally capacity on the logic side, as opposed to memory, given what we're seeing in the macro environment? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [19]
+--------------------------------------------------------------------------------
+
+          It's all logic, for the most part, and it's not as much a macro, or adjusting the capacity or anything like that; it's just the ins and outs. As we went from the investor meeting into the actual firm forecast for 2016, the teams just sharpened down all their numbers, and went through it in more detail.
+I don't think there's anything more to it than that. I'll let Stacy comment if there's -- if he wants to give you any other light on this one.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [20]
+--------------------------------------------------------------------------------
+
+          No.
+
+--------------------------------------------------------------------------------
+C.J. Muse,  Evercore ISI - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Great. Thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of Harlan Sur of JPMorgan. Your line is now open.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Thanks for taking my question. On the Data Center business, it decelerated as the team has expected, but 5% of your growth in Q4 was a bit more deceleration than what we were anticipating. So, I guess two questions: Was it all enterprise that drove the weakness, and do you expect to get back to a double-digits growth trajectory in the March quarter, and is the team still confident about driving mid-teens growth for DCG in 2016?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [24]
+--------------------------------------------------------------------------------
+
+          Yes, there's a couple things I want to talk about on the Data Center. First, when you compare Q4 to Q4, you're looking at a comparative where Q4 2014 was one of our strongest quarters, as long as I can remember, with very strong -- greater than 20% growth for the quarter. So, that quarter was a little bit of unique, so the quarter-to-quarter comparative is a bit tough.
+If you take a look at how the second half, which is really Q3 and Q4 looked similar, enterprise actually stabilized from the first half. So, enterprise was weak in the first half, and tended to -- got a little bit more stable in the second half.
+And what we saw was a normal -- the cloud guys tend to slow down in the fourth quarter, because that's when a lot of the cloud -- they don't want to be upsetting the cloud infrastructure while the holiday seasons are on and people are buying things. And then we continued to see strong growth and strong share gain in the networking and telco side.
+We're absolutely -- we continue to look out -- and again, we're very careful to not look at this on a quarter-by-quarter basis. We're looking at the long view, and we're very confident that, yes, we'll continue into this double-digit growth in the Data Center. It will continue to be fueled by the cloud in the first side, and then secondly by our growth in telco and networking, as our share grows there. Remember, we entered the year at less than 10% share in that space, and there's a lot of space there for us to grow in the networking and Telco space.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [25]
+--------------------------------------------------------------------------------
+
+          Let me just add one thing to the premise of your question. We weren't surprised by where we ended up in the Data Center. If you recall back in November, we talked about Data Center growth rate for the year being in the low-double digits. That's exactly where we came in. Based on what Brian was just talking about, in terms of the strength of Q4 2014, we were expecting this to be a tough compare, and that we'd have growth rates in the single digits.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for the insights there.
+And then for my follow-up, the team is going to be launching its sixth generation vCore product line for enterprise, desktop, PCs, I think next week. There also hasn't been a refresh of desktop for two years. I guess the question is: What are you hearing from your corporate and enterprise customers as to the potential uptake of these new platforms, relative to the very muted enterprise demand profile that we had last year?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [27]
+--------------------------------------------------------------------------------
+
+          As you said, we kind of went roughly a year or so without a desktop enterprise upgrade, and especially when you combine coming back now with a refresh -- that refresh being Skylake -- the combination of Skylake's great performance and great graphics. We're past the Windows 10 launch, which is another positive in this space.
+We're hearing very good response, as far as people's interest, the form factors you're seeing. You're seeing all-in-ones; you're seeing classic desktop platforms; you're seeing great graphics; you're seeing OLED displays. Overall, it's just another segment where we think the best computing devices really the computing industry has ever built are going to be showcased. The excitement's there, and we've just got to get past the macroeconomics of enterprises saying -- we're going to do the upgrades.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of Stacy Rasgon of Bernstein Research. Your line is now open.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Hi, guys. Thanks for taking my questions. First, I wanted to go to the equipment life extension. So, I know you were hopeful that eventually you'd be able to get your node migration trajectory back from three years to two, but this sounds like a fairly permanent change in terms of extending your equivalent lifetime. What should we take from this action, in terms of how you view the potential improvement ability of your node migration trajectory going forward?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [31]
+--------------------------------------------------------------------------------
+
+          It's not an impact at all, Stacy. This is -- whether we're at 2 years or 2.5 or 3 wasn't going to dramatically shift that life expectancy like this. This is more about the amount of reuse, and the efficiency and speed at which we can do the conversion. And so, both of those numbers have improved.
+Now, the cycle -- clearly it doesn't hurt to have, from this perspective, the longer node cycle. But independent of that, this is a change that was fundamental to the shift in reuse and rate at which we're able to move the tool from being able to run, say, 14 nanometers to 10 nanometers.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [32]
+--------------------------------------------------------------------------------
+
+          And I would also just add -- that's exactly right. The reuse is something that's been shifting over time, and it gives us a lot of economic benefit.
+I'll give you the accounting answer here, too, which is: If we got to 7 nanometer or 5 nanometer and there was something that caused us to look at the depreciable life, the economic usefulness of the equipment, we would change it. But we're certainly not expecting anything like that. But this is -- we go through this analysis every year.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [33]
+--------------------------------------------------------------------------------
+
+          The only thing I would add to finish is: Within the manufacturing side, one of our objectives is to continue to improve on those vectors that I talked about, the reuse and speed at which we're able to do these transitions. And so, we'll be constantly trying to get this to be a longer and longer number, if possible, independent of the nodes, because it just shows that we're becoming more efficient.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+For my follow-up, I just wanted to take a look at the extra week that's in Q4. How much of your guidance is actually coming from that extra week? Is it the full -- I guess it would be 7.5% or whatever it is -- or is it less because that week is happening at the end of 2015 and beginning of 2016? How should we think about how that may influence normal seasonality in Q2?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [35]
+--------------------------------------------------------------------------------
+
+          Maybe I didn't hear you right. Just want to clarify: The extra work week is in Q1 of 2016, not Q4 of 2015.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Yes, but I think it's like December 28 through January 4 or something. So, how does that --
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [37]
+--------------------------------------------------------------------------------
+
+          A little earlier than that. So, the background on this is, we go through this every 5 to 7 years. Because we're on a work-week calendar, over a 5- to 7-year period, we get out of sync with the actual calendar. And then we add in a workweek, in order to get back on sync. It's a little -- it's easy actually to quantify the spending associated with that extra workweek, because we've got lights on, and factories running, and we're paying people.
+The revenue associated with it is a little harder to calculate. When you look at where the week actually falls, it's that week between Christmas and New Year's. Our fiscal year ended, I think, the day after Christmas, and so it's that week between Christmas and New Year's that tends to be a billings week that's dramatically lower than any other week we see during the year. So, some revenue impact; hard to quantify it.
+The way I'd look at it though, when you look at our guide, and you take out Altera, and you take into account any impact for the extra work week, what you'd see is that the guide for the first quarter is at the low end of what we normally see from a Q4 to a Q1, is how I'd think of it. And then you add Altera back on top of that, and you get to the revenue number that we provided.
+And just to be totally transparent, the revenue number for Altera in Q1 is on the order of $400 million. So, you can do the math from there.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [38]
+--------------------------------------------------------------------------------
+
+          Thanks, Stacy.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of John Pitzer of Credit Suisse. Your line is now open.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Good afternoon, guys. Thanks for letting me ask the question.
+Brian, the first question I have is on the DCG business. This quarter, the December quarter, you saw a modest drop in ASPs, both sequentially and year over year, which is somewhat of an anomaly for that business. And I guess I understand the mix shift, as cloud grows faster than enterprise.
+I'm curious: Do you think this was a one-quarter anomaly? Is this something we should expect more of, as networking grows faster in 2016? And within the individual segments, are you still seeing customers buy up the stack?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [42]
+--------------------------------------------------------------------------------
+
+          So, that's actually a great question, John. So, for Q4, the decline, or the decrease in ASP was mostly driven by the much higher growth rate in the networking, as you mentioned, and the fact that the percentage of Atom in networking tends to be a bit higher. If you look at networking as a whole, the ASPs in networking tend to be lower than, say, cloud or enterprise.
+However, if you look at Q4's networking ASP -- so, if you took out just that ASP, and you compared that ASP relative to prior quarters, it was actually up as an average. So, it has a lower average selling price, but that average selling price is increasing as more people buy -- and as NFV and SDN take off, more people tend to buy up to core, because they're really searching for that performance. We do hope and expect this trend to continue into 2016, as we gain share in networking.
+The relative strength -- so, then if you take a look at the cloud space and the enterprise space, we expect those to continue on the trends you've seen over the last few years. We don't expect any major shifts there, but we have very strategic plans to continue to grow in the networking, storage, and especially around the telco and networking space, as SDN and NFV really take hold. And you will see a slightly lower ASP from there, but we expect the ASP to continue to increase in that space as we bring more functionality.
+Does that answer your question?
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Yes, it does, very helpful.
+Stacy, as my follow-on, you raised the full-year gross margin by about 100 basis points, but if I do the math, a $1.5 billion decrease in depreciation on a $60 billion revenue stream is more than 100 basis points. In addition, the Altera gross margin was higher than your core. And so I guess I'm trying to understand, what are the offsets? Is 10-nanometer cost coming in higher than expected? If you could help us understand the progression of 10-nanometer cost throughout the year, that would be helpful.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [44]
+--------------------------------------------------------------------------------
+
+          Sure. And a great question. I know there's a lot of moving parts here.
+Let me just focus in on the depreciation change for a second, and I actually try to be very transparent. In the CFO commentary that was released, you'll see some of this written out, so you can always refer back to it. But the change in depreciation, you're right, in total, is about $1.5 billion. But only about half of that is flowing through COGS, and impacting gross margin in 2016. And that's where you get to the 1 point shift.
+That really is the primary difference. There's a few other moving parts, but nothing that's material. That's the thing that changed from 62% gross margin forecast that we had in November to 63% gross margin forecast that we have today.
+The rest of the change in depreciation -- about a quarter of it will flow through OpEx, because remember, all of the spending we do for research and development facilities actually flows through our research and development line, so you see a little bit of a benefit there. And then you have some of it that goes into inventory, and then ships out over time.
+
+--------------------------------------------------------------------------------
+John Pitzer,  Credit Suisse - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Thank you. Our next question comes from the line of Chris Danely of Citigroup. Your line is now open.
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Hey, thanks, guys. Just another question on the weakness you're seeing: Can you just maybe go into some detail on when it started? Have you seen any stability? Is this just CPUs? And in your full-year forecast, are you implying that we get back to normal seasonality in Q2 through Q4?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [48]
+--------------------------------------------------------------------------------
+
+          I'd articulate that what we're seeing -- we have a cautious stance as we start the year. There's a couple of things that feed into that.
+Units were a little weaker for us in the client segment in Q4. As we worked our way through the Christmas selling season, what we saw is the sell-through all the way to the end customer was a little less than we thought. We made up for that with a rich mix, so that's why we ended up with a pretty good result. But a little -- we're watching that carefully.
+And then, our team on the ground in China has gotten fairly cautious about what's going on in China right now. And as you know, that's the largest PC market. So, we're just a little cautious on the growth rates there.
+In terms of from here, I think Brian said it well. We're expecting -- this is the environment as we work our way through 2016. So, against the backdrop of a somewhat weak macroeconomic environment, we expect the year to play out normally from here.
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks.
+And then, as far as the Altera revenue, I think you said $400 million. I think that's down like somewhere in the mid-teens or something like that, sequentially. Why the conservative forecast? And then, do you have any forecast for the year for the Altera business?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [50]
+--------------------------------------------------------------------------------
+
+          I'm not going to speak -- they have not -- they didn't release results for 2015, and so I'm really not able to talk about their results for 2015. I can tell you from our perspective, we didn't see anything that was surprising, in terms of what we've seen about their business levels. We actually expect some revenue growth as we go from 2015 to 2016.
+I'll give you in total what we expect for Altera. It's a little north of $1.6 billion in terms of revenue. Its gross margin, that as John was saying, is a little higher than the corporate average, so it gives us a slight mix. But because it's a relatively small business against the backdrop of Intel, it's not a big shift in our gross margin. And then we're expecting spending that's at a run rate of a couple hundred million dollars a quarter.
+In addition to all of that, there will be a bunch of one-time acquisition deal-related costs. There's amortization of acquisition-related intangibles. You'll see all those in the GAAP number. I've excluded them from the non-GAAP numbers I just gave you.
+
+--------------------------------------------------------------------------------
+Chris Danely,  Citigroup - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Great. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Thank you, and our next question comes from the line of Ross Seymore of Deutsche Bank. Your line is now open.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Hi, guys. Thanks for letting me ask a question.
+Stacy, one question on the OpEx side, back to that leverage question: You had a very useful slide at the analyst meeting about how you had dis-invested in some areas, and increased investments in another. I guess my net question is: Given that ability to do a substitution in the past, is there any limitation on that going forward? Or if you were going to keep spending more on some of the growth initiatives, is that actually going to be all incremental to the level we have now?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [54]
+--------------------------------------------------------------------------------
+
+          No, I think that's actually part of our DNA, is we're pretty rigorous about trying to weed and feed where we invest, and where we disinvest. As you referred to in the investor meeting, I showed an up and down arrow chart, and the magnitude of those shifts was on the order of $1 billion for some of the big movers, as we added investments in some areas, and subtracted investments in others.
+I'll also say there's a point at which we expect that we get more and more leverage in businesses like the Data Center, as well. I think there's lots of opportunities for us to bring down spending as a percent of revenue, as we go forward.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          I guess my final --
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [56]
+--------------------------------------------------------------------------------
+
+          Add anything to that?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [57]
+--------------------------------------------------------------------------------
+
+          No. Go ahead.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          I guess as my follow-up question is just -- any more color you can provide on the channel inventory? You mentioned that the unit demand was a little weaker than you had expected. How's the channel looking right now, and what expectations should we have for your internal inventory, looking into this year? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [59]
+--------------------------------------------------------------------------------
+
+          Sure. So, we believe that 2015 ended with, I'd just call it, very healthy inventories. In fact, one of the things we saw was a slight decrease in inventory levels as we exited the fourth quarter. And if you take a look at what we had originally projected, and what would have been more an industry norm, would have been a slight increase in inventories.
+We expect those healthy inventory levels to extend through 2016; there's no sign that anybody's adding inventory, or not moving off a cautious position on inventory. And that's what's been built into our forecast, as well.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [60]
+--------------------------------------------------------------------------------
+
+          To the question on internal inventory levels, I'd just say we ended Q4 with a little more inventory than I was expecting, and a little higher than I'd like. Two drivers there: We saw, as I said, a little bit weaker units was made up for us in rich mix. But a little bit weaker units and we saw yields get better on 14-nanometer, and the combination of that left me with a little more inventory leaving Q4 than I'd like.
+You'll see it -- if you look on a dollar basis, it will go up in Q1 as a result of Altera. So, Altera will cause the inventory levels to go up some. But when you look at it from a business standpoint, I think we'll work through the inventory we have. And when we get into the back half of the year, we'll bring inventory levels down.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Thank you. And our next question comes from the line of Blayne Curtis of Barclays. Your line is now open.
+
+--------------------------------------------------------------------------------
+Blayne Curtis,  Barclays Capital - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Hey, guys. Thanks for taking my question.
+Stacy, the roughly $400 million of Altera -- I don't expect you to report it going forward, but just curious, how does that fit into your reportable buckets? Can you just level set us for the first quarter out?
+And then secondly, could you just talk about how you're integrating or not integrating Altera? I feel like I've heard both. It sounds like you wanted to keep the sales force separate, but just curious, where does that report under, and how much integration are you going to do?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [64]
+--------------------------------------------------------------------------------
+
+          Sure. I'll take the accounting question, and then I'll have Brian give you his insight and philosophy on the whole integration.
+On the reportable segments -- so actually, I do plan to give you full visibility into Altera. It's a relatively small business for us. It doesn't hit the SEC reporting requirement. So, it doesn't come across that threshold.
+But we just feel strongly that, based on transparency, and the size of the acquisition, we want to give you transparency. So, you will see that in our financials going forward.
+I'll let Brian answer the integration question.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [65]
+--------------------------------------------------------------------------------
+
+          From an integration standpoint, I think what you see -- what you've seen we've done with McAfee is we've integrated it into Intel Security, and you saw the great results that we showed in the fourth quarter. Those are somewhat an example of what happens as you integrate, and you really get the focus on the business on a much higher level.
+Same thing for Altera; we plan to fully integrate it. It's going to look like a business group, no different than, say, CCG, that does PCs and modems, phones, or DCG that does data center.
+It's called PSG, Programmable Solutions Group. It reports directly to me, and it will be fully integrated.
+The sales force at the beginning, because the sales tends to be a bit more technical, and a bit more like a field sales engineering-type role, we're keeping it separate. But that's something we're going to continue to evaluate.
+But the organization, the engineering -- already in the first two weeks, we've had -- really for me, I'm really pleased with the level of integration and help that we've done to get products and road maps focused and integrated into our internal systems. So, you should expect it to be fully integrated.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [66]
+--------------------------------------------------------------------------------
+
+          Thanks, Blayne. Operator, I think we have time for two more questions.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Perfect. Our next question comes from the line of David Wong of Wells Fargo. Your line is now open.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Thanks very much. What might we expect in the way of new 14-nanometer data center processor families in 2016?
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [69]
+--------------------------------------------------------------------------------
+
+          Let's see, I think we've got Broadwell Xeon; it's going to launch in the first half here of 2016. So, that will be the first of the 14-nanometer, or the next 14-nanometer in 2016 is that E5 on Broadwell. The rest of them, we haven't put any other dates out there yet -- Skylake SKUs and so forth.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Okay. Great. And my follow-up: With start-up and other charges, do you expect memory output in China in 2016 will be a positive or negative contribution to EPS, and should we expect a positive contribution in 2017 from the China fab?
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [71]
+--------------------------------------------------------------------------------
+
+          There will be some pretty significant costs. It's in the gross margin recon, associated with the startup of the factory in China. And we'll be in production in the back half of the year, but we're just ramping production.
+I think if you were just looking at a six-month time period, you'd say it's negative, and you can see it in the gross margin. It's a slight negative on the gross margin.
+It doesn't change the fact that we make these investments, and then we get this, what I would say, tremendous long-term benefit out of making that investment. So, that doesn't -- I don't want you to take from that, that we're somehow less bullish on the transformational capabilities of what the team has managed to pull off at 3D XPoint, because we're actually quite bullish on that.
+
+--------------------------------------------------------------------------------
+David Wong,  Wells Fargo Securities, LLC - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Great. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+          Thank you. And our final question comes from the line of Timothy Arcuri of Cowen and Company. Your line is now open.
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Thanks a lot. I just had a question again on the depreciation change. I know, Stacy, you talked about it being due to reuse, but I guess relative to just the fundamental cadence of the migrations, your intent has been to get back on a normal, Moore's Law cadence. I just want to make sure that's still the case.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [75]
+--------------------------------------------------------------------------------
+
+          Yes. We said that -- this is Brian, by the way, not Stacy -- that 10-nanometers would be closer to that 2.5 years than the 2 years; that we would continue to strive to get back on 2 years. Some of that was how, as we [still define] 7-nanometers, what the complexity of the technology looks like, whether EUV is ready or not. Absolutely, we're pushing to get back on that two-year cadence.
+
+--------------------------------------------------------------------------------
+Stacy Smith,  Intel Corporation - CFO    [76]
+--------------------------------------------------------------------------------
+
+          I would just add, please don't take the accounting of the depreciable life to be somehow a signal that we're letting our foot off the gas on process technology cadence and process technology leadership. That's the heartbeat of the Company, and we're driving it; we're driving it hard. The accounting just is looking at how long that equipment is economically viable in our factories, and it's pretty clearly five years, as we go forward.
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen and Company - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Right. Okay. Got it.
+And then just last question: So, on the mobile group, at the Investor Day you talked about another $800 million improvement this year in the losses. Is this still the target, and maybe talk about the progress there, and whether we could see any momentum for smartphone this year with 7360? Thanks a lot.
+
+--------------------------------------------------------------------------------
+Brian Krzanich,  Intel Corporation - CEO    [78]
+--------------------------------------------------------------------------------
+
+          It's absolutely still the target. That has not changed one bit.
+It's a little early in the year to talk about progress. We have -- I'd tell you that we have a large percentage of that $800 million already, I'll call it, planned out. In other words, we have projects. We know what we need to do, introduce products, align which SKUs are coming, and move products onto that.
+So, I'd say a large percentage of that is well planned through the year, but it's throughout the year. So, I can't tell you -- I've already got $200 million of it, or something like that, not here in the second, third week of the year.
+7360 -- it's out. It's sampling. The customers are going through their validations now at the systems, where they are building up systems and out testing them on networks, and so forth. And as far as the launches of those systems and the announcements, those are always up to our customers, and we don't make sure that we're the ones announcing that. And then, what we've told you is that what's even as important is that we're on a yearly cadence now of our modem technology, and we're very confident on that as well, for the next set of modems that comes out after the 7360.
+
+--------------------------------------------------------------------------------
+Mark Henninger,  Intel Corporation - VP of Finance and Director of IR    [79]
+--------------------------------------------------------------------------------
+
+          Thanks, Tim. All right. Thank you all for joining us today. Sabrina, you can please go ahead and wrap up the call.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may all disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

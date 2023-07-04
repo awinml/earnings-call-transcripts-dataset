@@ -1,0 +1,584 @@
+
+
+Thomson Reuters StreetEvents Event Brief
+E D I T E D   V E R S I O N
+
+Q4 2019 Apple Inc Earnings Call
+OCTOBER 30, 2019 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Luca Maestri
+   Apple Inc. - CFO & Senior VP
+ * Timothy D. Cook
+   Apple Inc. - CEO & Director
+ * Nancy Paxton
+   Apple Inc. - Director-IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Caso
+   Raymond James & Associates, Inc., Research Division - Research Analyst
+ * Amit Jawaharlaz Daryanani
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Fundamental Research Analyst
+ * Samik Chatterjee
+   JP Morgan Chase & Co, Research Division - Analyst
+ * Shannon Siemsen Cross
+   Cross Research LLC - Co-Founder, Principal & Analyst
+ * Kathryn Lynn Huberty
+   Morgan Stanley, Research Division - MD and Research Analyst
+ * A.M. Sacconaghi
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Michael Joseph Olson
+   Piper Jaffray Companies, Research Division - MD & Senior Research Analyst
+
+================================================================================
+OVERVIEW
+================================================================================
+Co. reported 4Q19 revenues of $64b, net income of $13.7b and diluted EPS of $3.03. Expects 1Q20 revenues to be $85.5-89.5b.
+
+================================================================================
+FINANCIAL DATA
+================================================================================
+
+    1. 4Q19 revenue = $64b.
+    2. 4Q19 net income = $13.7b.
+    3. 4Q19 diluted EPS = $3.03.
+    4. 4Q19 YoverY revenue growth = 2%.
+    5. 4Q19 GM = 38%.
+    6. 4Q19-end cash plus marketable securities = almost $260b.
+    7. 4Q19-end total debt = $108b.
+    8. 4Q19 share repurchase = 86m AAPL shares for almost $18b through open market repurchases.
+    9. 1Q20 revenue guidance = $85.5-89.5b.
+
+================================================================================
+PRESENTATION SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+I. 4Q19 Review (T.C.)
+
+--------------------------------------------------------------------------------
+
+     1. Overview:
+          1. This was Co.'s highest revenue in Sept. qtr. ever.
+          2. Revenue $64b.
+               1. At high end of expectations, even despite predicted FX drag of almost $1b.
+          3. Geographically, set new 4Q revenue records in Americas and Rest of Asia Pacific, and saw further improvement in revenue trends in Greater China.
+          4. iPhone:
+               1. Customers have only begun to get their hands on iPhone 11 and iPhone 11 Pro models.
+               2. YoverY performance continued to improve.
+          5. Outside of iPhone, revenue up 17%.
+               1. Reached new all-time high for Services with growth accelerating to 18%.
+               2. Generated well over 50% revenue growth from Wearables.
+                    1. Set 4Q records for Wearables in each and every market Co. tracks.
+     2. iPhone:
+          1. Revenue $33b.
+               1. 9% decline YoverY is significant improvement over 15% decline Co. saw across first three quarters.
+               2. Significant upswing in demand in final part of qtr. is mirrored in positive reviews, customer feedback and in-store response Co. has seen for new generation of devices and best photos from a smartphone.
+          2. iPhone 11 features Co.-designed A13 Bionic, fastest, most powerful chip ever in smartphone plus all new dual-camera system and even longer all-day battery life, all wrapped in six new colors.
+               1. Since its launch, iPhone 11 has quickly become Co.'s best-selling iPhone.
+          3. iPhone 11 Pro and iPhone 11 Pro Max deliver even more advanced performance.
+               1. New Super Retina XDR display is brightest ever in iPhone.
+               2. New triple camera system provides pro-level photography experience with ultra-wide, wide and telephoto camera.
+          4. All three of new iPhones feature Night mode, delivering huge improvements to photo capture in low-light environments, either indoors or outdoors.
+               1. They produce highest-quality video in smartphone, supporting 4K video with extended dynamic range for more highlight detail and cinematic video stabilization.
+          5. iOS 13 is driving user experience forward across iPhone family with:
+               1. Bold new look in Dark Mode.
+               2. Major updates to apps customers use every day, like photos and maps.
+               3. New ways to help protect their privacy with Sign in with Apple.
+               4. Performance improvements across entire system.
+     3. Services:
+          1. Revenue $12.5b.
+               1. Up 18% YoverY.
+               2. Beats previous record set in June qtr. by more than $1b.
+               3. Saw double-digit Services revenue growth and all-time records in all five geographic segments.
+               4. Established new all-time highs for multiple Services categories, including App Store, AppleCare, Music, cloud services and App Store Search Ad business.
+               5. Well on way to accomplishing goal of doubling FY16 Services revenue during 2020.
+          2. Had all-time record revenues from payment services.
+               1. For Apple Pay, revenue and transactions more than doubled YoverY with over 3b transactions, exceeding PayPal's number of transactions and growing four times as fast.
+               2. Apple Pay is now live in 49 markets globally with over 6,000 issuers on platform.
+               3. Believes Apple Pay offers best possible mobile payment experience and safest, most secure solution on market.
+          3. Apple Card launched in US in Aug.
+               1. Seen positive reception.
+               2. Users can apply for Apple Card through Wallet app on iPhone in minutes and start using it right away in stores, in apps and on websites.
+               3. Apple Card has absolutely no fees.
+               4. Major apps and retailers like Uber, Uber Eats, Walgreens, Duane Reade and T-Mobile have already joined to offer 3% daily cash back on Apple Card transactions.
+               5. On 10/30/19, announced that later this year Co. is adding another feature to Apple Card.
+                    1. Customers will be able to purchase their new iPhone and pay for it over 24 months with zero interest.
+                    2. They will continue to enjoy all benefits of Apple Card, including 3% cash back on total cost of their new iPhone with no fees and ability to manage their payments right in Apple Wallet app on iPhone.
+                    3. Believes aforementioned features appeal broadly to all iPhone customers.
+               6. Believes this has been most successful launch of credit card in US ever.
+          4. Last month, launched Apple Arcade, groundbreaking game subscription service, offering all new way for whole family to enjoy games online or offline.
+               1. Apple Arcade subscribers get unlimited access to curated selection of games from many of the most innovative developers in the world with almost 100 new titles playable across iPhone, iPad, iPod touch, Mac and Apple TV today and more are being added all the time.
+               2. Customer feedback to date has been positive.
+          5. Working with Oprah Winfrey to bring Oprah's Book Club to Apple Books.
+          6. Expanded reach of Apple News+ beyond US and Canada to readers in Australia and UK, bringing together popular publications, like The Times of London, The Australian and Hello Magazine, in addition to major publications like The Wall Street Journal, The L.A. Times, The New Yorker, People, GQ and much more.
+          7. On 11/01/19, launching Apple TV+ in over 100 countries and regions.
+               1. First all-original video subscription service.
+               2. Premiered shows like See and The Morning Show in L.A. and New York over past couple of weeks, and stage is set for exciting debut.
+               3. Customers who have purchased qualifying Co.'s devices starting Sept. 10 can opt into 12 free months of Apple TV+.
+     4. Wearables:
+          1. Had amazing results due to phenomenal popularity of Apple Watch, AirPods and Beats products.
+          2. Set 4Q revenue records for Wearables in every single market that Co. tracks globally.
+          3. In Sept., launched Apple Watch Series 5 with Always-On Retina display.
+               1. New location features help users better navigate their day while international emergency calling allows them to call emergency services directly from Apple Watch in over 150 countries even without an iPhone nearby.
+               2. Combined with power of watchOS 6, users are empowered to take charge of their health and fitness with new features like Cycle Tracking, Noise app, Activity Trends.
+               3. ECG app now available in 32 markets, including India, has become widely celebrated illustration of Co.'s commitment to one's health, giving users the ability to document and monitor functioning of their heart and provide critical data to their doctors.
+          4. Deepening commitment to medical research.
+               1. Announced new Research app paired with three unprecedented medical studies spanning hearing, heart and movement, and women's health.
+               2. Collaborating with leading health institutions to reach more participants than has ever been possible, enabling them to contribute to potential medical discoveries and help create next-generation of innovative health products.
+     5. iPad:
+          1. Generated 17% growth driven by iPad Pro and ongoing momentum of wider lineup.
+          2. In Sept., introduced seventh-generation iPad, bringing more screen area and support for full-sized Smart Keyboard to most popular and most affordable iPad.
+          3. For first time, released iPadOS built on same foundation as iOS but with powerful apps designed for iPads large multi-touch display, letting users multitask with intuitive gestures, and drag and drop a file with fingertip.
+     6. Mac:
+          1. Revenue $7b.
+               1. Had tough comparison to 4Q18 when Co. updated both models of MacBook Pro.
+               2. For FY19 overall, generated highest annual revenue ever from Mac business.
+          2. In July, updated Mac portables with great pricing for students and MacBook Air, in particular, has been hit in back-to-school season.
+          3. Earlier this month, released macOS Catalina with all new entertainment apps, innovative Sidecar feature that uses iPad to expand Mac workspace and new accessibility tools that enable users to control their Mac entirely with their voice.
+               1. Catalina brings Apple Arcade experience to Mac.
+                    1. Already seeing some third-party developers bring their iPad apps to Mac App Store with Mac Catalyst, including Twitter, Post-it and more.
+          4. Launching newly redesigned Mac Pro this fall, which Co. is manufacturing in Austin, Texas.
+     7. Others:
+          1. In FY19, crossed $100b in revenue in US for first time.
+          2. Introduce new services from Apple Card to Apple TV+ and generated over $46b in total Services revenue, setting new yearly Services records in all five geographic segments and driving Services business to size of Fortune 70 co.
+          3. Delivered new hardware in all device categories.
+          4. Wearables business showed explosive growth and generated more annual revenue than two-thirds of companies in Fortune 500.
+          5. Set yearly revenue record for Mac.
+          6. Outside of iPhone, revenue grew by $17b to almost $118b.
+          7. Overall success was achieved widely across markets with annual revenue records in US, Canada, Brazil, UK, Germany, France, Italy, Poland, Korea, Malaysia, Philippines and Vietnam.
+          8. Believes that Co. leads in innovation because AAPL leads with its values.
+          9. At time of urgency and action on climate change, continues to drive breakthroughs in clean power, sustainable materials and device recycling.
+               1. By running 100% of global operations on renewable energy and challenging entire network of suppliers do the same, Co. is driving virtuous cycle of demand for clean sources of power.
+               2. Sees award Co. recently received from United Nation's Global Climate Action program as mandate to deepen this vital work.
+          10. Continues to invent and improves on cutting-edge renewable materials, including 100% recycled aluminum alloy found in many of Co.'s products.
+               1. Added rare earth elements to list of recycled materials with introduction of iPhone 11.
+               2. Disassembling, recycling or refurbishing millions of devices every year with help of Daisy, recycling robot, and pushing entire global supply chain toward recycled or renewable materials.
+          11. Driving access to critical coding skills development to educators and students through programs like teaching coding academies and free Everyone Can Code curriculum.
+          12. Continues to put user privacy at center of everything that Co. does.
+
+--------------------------------------------------------------------------------
+II. 4Q19 Financials (L.M.)
+
+--------------------------------------------------------------------------------
+
+     1. Revenue:
+          1. 4Q19 $64b.
+               1. Up 2% YoverY.
+               2. New Sept. qtr. record.
+               3. As predicted, FX negatively impacted revenue by close to $1b.
+               4. Constant currency growth, 3%.
+          2. Products $51.5b.
+               1. Down 1% YoverY, mainly due to iPhone but largely offset by strong performance from Wearables and iPad.
+          3. Services $12.5b.
+               1. Grew 18%.
+               2. Up over $1.9b YoverY and almost $1.1b sequentially to new all-time record with broad-based growth globally and across portfolio.
+          4. Geographically:
+               1. Set new 4Q revenue records in Americas and Rest of Asia Pacific segments.
+               2. Saw continuous improvement in Greater China where YoverY revenue comparisons became more favorable each qtr. of FY19 from 27% decline in 1Q to 2% decline in 4Q.
+               3. Established new 4Q records in many major developed and emerging markets, including US, Canada, Germany, France, Korea, Singapore, Brazil, India, Thailand, Malaysia and Vietnam.
+     2. GM:
+          1. 4Q19 38%.
+               1. Up 40 BP sequentially, driven by leverage from higher revenue.
+          2. Products 31.6%.
+               1. Up 120 BP sequentially, due to leverage and favorable mix.
+          3. Services 64.1%.
+               1. Even with June qtr.
+     3. Results:
+          1. Net income $13.7b.
+          2. Diluted EPS $3.03.
+               1. 4Q record.
+               2. Up 4% YoverY.
+          3. Operating cash flow $19.9b.
+               1. 4Q record.
+               2. Up almost $400m from previous record Co. set last year.
+     4. iPhone:
+          1. Revenue $33.4b.
+               1. 9% YoverY decline; meaningful improvement to 12% decline in 3Q19 and 16% decline in 1H19.
+          2. Saw great customer response to launch of iPhone 11, 11 Pro and 11 Pro Max at qtr.-end.
+          3. Active installed base continue to grow to new all-time high in each geographic segments.
+          4. In US, latest survey of consumers from 451 Research indicates iPhone customer satisfaction of 99% for iPhone XR, XS and XS Max combined.
+          5. Among business buyers who plan to purchase smartphones in Dec. qtr., 83% plan to purchase iPhones.
+     5. Services:
+          1. Had strong qtr. with all-time record performance and growth accelerating from June qtr.
+          2. All five geographic segments set new all-time Services revenue records and all grew double digits.
+          3. Established new all-time records for App Store, Apple Care, Music, cloud services, payment services and App Store Search Ad business.
+          4. Accounted for:
+               1. 20% of revenue mix.
+               2. 33% of GM mix.
+          5. Customer engagement in Co.'s ecosystem continues to grow.
+               1. Number of transacting and paid accounts on digital content stores reached new all-time high with double-digit growth in paid accounts in all geographic segments.
+                    1. Now has 450m paid subscriptions across services on platform vs. over 330m a year ago.
+                    2. Well on way to goal of surpassing 500m mark during 2020.
+          6. App Store revenue grew strong double digits due to robust customer demand for in-app purchases and subscriptions.
+          7. Third-party subscription business grew across multiple categories and increased almost 40% YoverY.
+               1. There are now more than 35,000 subscription apps on platform, with largest accounting for less than 0.25% of total Services revenue.
+          8. Best qtr. ever for AppleCare due to strong service agreement attach rates and expanded distribution.
+               1. To better meet customers' needs, announced new iPhone repair program, making it easier for independent providers across US to tap into same resources as Apple Authorized Service Provider network and offering customers additional options for most common out-of-warranty iPhone repairs.
+               2. New program complements Co.'s continued investment in growing global network of over 5,000 Apple Authorized Service Providers that lead industry for customer satisfaction and help millions of people with in- and out-of-warranty service for all products.
+     6. Mac:
+          1. Revenue $7b.
+               1. Down 5% YoverY due to different mix of products, given strength of MacBook Air lineup and difficult comparison to last year's launch of MacBook Pro models.
+               2. Despite tough compare, generated all-time revenue record in US and India, and 4Q revenue record in Japan.
+          2. More than half of customers purchasing Macs during qtr. were new to Mac.
+          3. Active installed base reached new all-time high.
+     7. iPad:
+          1. Revenue $4.7b.
+               1. Up 17% YoverY.
+          2. Revenue grew in all five geographic segments with 4Q revenue record in Japan.
+          3. Over half of customers purchasing iPads during Sept. qtr. were new to iPad.
+          4. Active installed base reached new all-time high.
+          5. Most recent surveys from 451 Research measured 95% customer satisfaction rating for iPad from consumers and 97% from businesses.
+          6. Among consumers and businesses who plan to purchase tablets in Dec. qtr., more than 80% plan to purchase iPads.
+     8. Wearables, Home & Accessories:
+          1. Revenue $6.5b; new 4Q record.
+               1. Up 54% YoverY with growth accelerating from 3Q across all five geographic segments.
+               2. Performance was driven by growth across Apple Watch, AirPods, Beats products and accessories.
+          2. Set 4Q records for Wearables category in every single market Co. tracks globally.
+     9. Retail & Online Stores:
+          1. Generated record Sept. qtr. revenue in all five geographic segments, and strong double-digit growth across iPhone, iPad, Apple Watch and accessories.
+          2. Continued to see great results from trade-in program with more than five times the iPhone trade-in volume Co. had a year ago.
+          3. Last month, reopened Apple Fifth Avenue store in New York with even more welcoming layout beneath landmark glass cube, providing nearly twice the space of original store.
+               1. This store is open seven days a week, 24 hours a day, and provides even better environment for customers to experience latest products, meet with Geniuses, creative pros and specialists, and attend free daily Today at Apple session.
+          4. Opened newest and largest store in Japan, and fifth store in Tokyo in Marunouchi business district across from historic Tokyo Station.
+          5. Opened new store in heart of Mexico City's vibrant Polanco district.
+     10. Enterprise:
+          1. Seeing strong demand for products in enterprise market, with growth significantly ahead of Co.'s business overall, and has great momentum transforming major industries.
+          2. 80 of 100 largest retailers in the world are choosing Co. to modernize their customers and employee experiences across all functions of their business.
+               1. Retailers are using iPhone, iPad and Mac to optimize their back of house operations, modernize point of sale, and deliver differentiated customer and employee experiences.
+               2. Customer engagement and assisted selling have been areas of particular focus.
+                    1. Seeing great results for brands like Burberry, Ralph Lauren, Sephora USA, Gap Inc., and many others.
+          3. Helping government agencies globally, use technologies to improve effectiveness and efficiency of the way they deliver critical services to public.
+               1. US Census Bureau is making fundamental changes to the design and implementation of next year's census with goal of producing quality results, while reducing costs by leveraging mobility, user experience and privacy of iOS.
+               2. Hundreds of thousands of Co.'s devices will be deployed this FY to support innovative new model for collection and management of census data.
+               3. CDW, Co.'s partner in this initiative, will utilize Apple Financial Services, AAPL's enterprise financing platform, to help minimize cost to public by taking advantage of uniquely strong residual value of Co.'s devices.
+     11. Cash Position:
+          1. 4Q19-end cash plus marketable securities almost $260b.
+          2. Issued $7b of new term debt, retired $3b of maturing debt and reduced commercial paper by $4b, leaving Co. with total debt of $108b.
+          3. 4Q19-end net cash $98b.
+               1. Continues on path to reaching net cash neutral position over time.
+          4. Returned over $21b to shareholders, including almost $18b through open market repurchases of 86m Co.'s shares, and $3.5b in dividends and equivalents.
+          5. Retired additional 7m shares in final settlement of 14th ASR.
+     12. 1Q20 Outlook:
+          1. Revenue $85.5-89.5b.
+               1. Includes negative impact from FX of over $1b.
+          2. GM 37.5-38.5%.
+          3. OpEx $9.6-9.8b.
+          4. OI&E about $200m.
+          5. Tax rate about 16.5%.
+     13. Others:
+          1. On 10/30/19, Board of Directors declared cash dividend of $0.77 per share of common stock payable on 11/14/19 to shareholders of record as of 11/11/19.
+          2. Nancy Paxton, Head of IR, has decided to retire at Dec.-end.
+
+
+================================================================================
+QUESTIONS AND ANSWERS
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          <Sync id="L199"time="00:31:05"/>Today, that will come from Katy Huberty with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty,  Morgan Stanley, Research Division - MD and Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          <Sync id="L200"time="00:31:11"/>Congratulations on the quarter. <Sync id="L201"time="00:31:13"/>iPhone revenue trajectory did improve, but it still declined 9%. <Sync id="L202"time="00:31:17"/>So can you talk about the drivers that will allow you to get that category back to growth and if you think that's something that's realistic to expect in fiscal '20?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          <Sync id="L203"time="00:31:29"/>Katy, it's Tim. <Sync id="L204"time="00:31:31"/>We're very thrilled with what we're seeing in the early going on iPhone 11 and iPhone 11 Pro and Pro Max. <Sync id="L205"time="00:31:42"/>It's early, but the trends look very good, so I don't want to make a long-range forecast here. <Sync id="L206"time="00:31:49"/>We've put our current thinking in the guidance, and you can tell that from the guidance, we are bullish.
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty,  Morgan Stanley, Research Division - MD and Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          <Sync id="L207"time="00:32:01"/>Great. <Sync id="L208"time="00:32:01"/>And Luca, on margins, guidance is consistent with September, but there's a lot going on under the covers. <Sync id="L209"time="00:32:08"/>Tariffs could expand in mid-December. <Sync id="L210"time="00:32:10"/>There's some impact from the TV+ bundle. <Sync id="L211"time="00:32:14"/>You have some big currency and commodity price moves. <Sync id="L212"time="00:32:16"/>So can you just talk about the gives and takes that land you at the December quarter gross margin guidance?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO & Senior VP    [5]
+--------------------------------------------------------------------------------
+
+          <Sync id="L213"time="00:32:24"/>Yes. <Sync id="L214"time="00:32:24"/>Katy, of course. <Sync id="L215"time="00:32:26"/>As you said, I mean, at the midpoint of the range, we are essentially flat sequentially. <Sync id="L216"time="00:32:37"/>On one side, we expect -- on the positive side, we expect leverage from higher revenue. <Sync id="L217"time="00:32:47"/>On the other side, foreign exchange for us continues to be probably the biggest headwind that we got right now. <Sync id="L218"time="00:32:55"/>It's going to be negative 70 basis points on a sequential basis. <Sync id="L219"time="00:33:00"/>Also, keep in mind that during the holiday season, we have a higher mix of products revenue than we have in other quarters. <Sync id="L220"time="00:33:08"/>And that obviously is dilutive to the company margin. <Sync id="L221"time="00:33:16"/>On a year-over-year basis, we're also about flat. <Sync id="L222"time="00:33:23"/>And on one side, we've got better commodity pricing. <Sync id="L223"time="00:33:26"/>The environment is better than it was a year ago, but foreign exchange is a negative impact of 120 basis points on a year-over-year basis.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          <Sync id="L224"time="00:33:46"/>Our next question will be from Mike Olson with Piper Jaffray.
+
+--------------------------------------------------------------------------------
+Michael Joseph Olson,  Piper Jaffray Companies, Research Division - MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          <Sync id="L225"time="00:33:53"/>So Wearables category has been strong, and it's hard to believe it's now essentially the same size as Mac. <Sync id="L226"time="00:33:59"/>But related to Apple's initiatives in health care, do you think health-related features are a primary driver of Wearables growth? <Sync id="L227"time="00:34:07"/>And maybe conversely, how important is the rising installed base of Wearables and the data that's associated with that to the ongoing innovation within Apple Health? <Sync id="L228"time="00:34:19"/>And then I have a follow-up.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [8]
+--------------------------------------------------------------------------------
+
+          <Sync id="L229"time="00:34:19"/>Yes. <Sync id="L230"time="00:34:19"/>Michael, it's Tim. <Sync id="L231"time="00:34:21"/>The Wearables have done extremely well. <Sync id="L232"time="00:34:23"/>It was an acceleration further from the previous quarters, so we're thrilled with the results. <Sync id="L233"time="00:34:31"/>As to what's driving it, it's the totality that's driving it. <Sync id="L234"time="00:34:36"/>For some people, it's about fitness. <Sync id="L235"time="00:34:39"/>For some people, it's about health. <Sync id="L236"time="00:34:40"/>For some other people, it's about communication, and for some people, it's all of the above. <Sync id="L237"time="00:34:46"/>And I think the new feature of always-on on Series 5 is a game-changer for many of our users. 
+<Sync id="L238"time="00:34:57"/>And in terms of other health-related things that we have going, we will be continuing to build out our health records connection into the Health app, really democratizes the information about people's health, and so they can easily go from doctor to doctor. <Sync id="L239"time="00:35:23"/>We've got the research going that I've mentioned earlier. <Sync id="L240"time="00:35:27"/>There will be more of those through time. <Sync id="L241"time="00:35:30"/>And obviously, we've got things that we're not going to talk about just yet that we're working on. <Sync id="L242"time="00:35:36"/>But as I've said before, my view is there will be a day in the future that we look back and Apple's greatest contribution will be to people's health.
+
+--------------------------------------------------------------------------------
+Michael Joseph Olson,  Piper Jaffray Companies, Research Division - MD & Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+
+          <Sync id="L243"time="00:35:50"/>And then with the strong slate of content in Apple TV+, can you just talk about the strategy behind giving it away to those that are buying an applicable device versus charging for it? <Sync id="L244"time="00:36:01"/>And my congrats to Nancy and thank you.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          <Sync id="L245"time="00:36:07"/>Yes. <Sync id="L246"time="00:36:08"/>It's a gift to our users. <Sync id="L247"time="00:36:10"/>And from a business point of view, we'd like to -- we're really proud of the content. <Sync id="L248"time="00:36:16"/>We'd like as many people as possible to view it. <Sync id="L249"time="00:36:21"/>And so this allows us to focus on maximizing subscribers, particularly in the early going. <Sync id="L250"time="00:36:29"/>And so we're -- we feel great about doing that. <Sync id="L251"time="00:36:33"/>I think it's a bold move. <Sync id="L252"time="00:36:35"/>And the price also for those people that are not buying a device in the period of time that we offer this, the price is very aggressive as well. <Sync id="L253"time="00:36:46"/>You think about the quality of content that you get for $4.99, and it's amazing. <Sync id="L254"time="00:36:55"/>It is amazing.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          <Sync id="L255"time="00:36:59"/>That will come from Evercore's Amit Daryanani.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  Evercore ISI Institutional Equities, Research Division - Senior MD & Fundamental Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          <Sync id="L256"time="00:37:07"/>I guess 2 questions from me as well. <Sync id="L257"time="00:37:08"/>First one, Tim, if you think about the Services business, you're less than $2 billion away from the targets you had laid out a few years back. <Sync id="L258"time="00:37:16"/>But I'm wondering if you think about the growth rates you've had in the business over the last several years, the high teens average, I think, how much of that do you think was driven by the installed base growing versus incremental monetization of the installed base? <Sync id="L259"time="00:37:28"/>And do you see that ratio essentially flipping or changing as you go forward?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          <Sync id="L260"time="00:37:32"/>I think we have opportunities, Amit, in both the growth of the installed base. <Sync id="L261"time="00:37:38"/>As Luca mentioned in his comments, we continue to grow across every category, hit new highs in the last quarter. <Sync id="L262"time="00:37:47"/>And we hit new highs in all of our top 20 markets. <Sync id="L263"time="00:37:52"/>And so the installed base is clearly a piece of it. <Sync id="L264"time="00:37:56"/>Getting the trade-in program going and the secondary market moving has been helpful in that as well. <Sync id="L265"time="00:38:07"/>And of course, the -- ultimately, the thing that builds the installed base is to make customers happy. <Sync id="L266"time="00:38:16"/>And that's our -- always our top objective is to have satisfied customers.
+<Sync id="L267"time="00:38:21"/>The other thing that is obviously happening is in many areas, the ARPU is increasing. <Sync id="L268"time="00:38:30"/>And so as there's more offers out there, I mean, the one that is today getting the attention is on the streaming side. <Sync id="L269"time="00:38:39"/>But if you look at the number of services that have been added over the years, it's significant. <Sync id="L270"time="00:38:47"/>And people love them. <Sync id="L271"time="00:38:50"/>And so it's really both of those. <Sync id="L272"time="00:38:52"/>And obviously, finally, getting more people that are enjoying things for free to elect to pay for some of the premium services. <Sync id="L273"time="00:39:06"/>So it's sort of all 3 of those.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  Evercore ISI Institutional Equities, Research Division - Senior MD & Fundamental Research Analyst    [14]
+--------------------------------------------------------------------------------
+
+          <Sync id="L274"time="00:39:10"/>Got it. <Sync id="L275"time="00:39:10"/>And then if I could just kind of go back to the Wearables discussion, I mean, and especially if you think about Apple Watch and AirPods. <Sync id="L276"time="00:39:15"/>Is there a sense or a way to think about what's the attach rate today to iOS devices for Apple Watch or AirPods? <Sync id="L277"time="00:39:22"/>I guess I'm just trying to understand, if I think about 900 million-plus iPhone installed base, what kind of penetration do you have at Wearables and how long could this one may be as you go forward?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [15]
+--------------------------------------------------------------------------------
+
+          <Sync id="L278"time="00:39:34"/>Well, we're not releasing the precise numbers of our Wearables, but it is a really nice try in getting me to say that. <Sync id="L279"time="00:39:42"/>The -- what we're seeing in terms of new ads on the watch, I think Luca may have mentioned this in his comments, is about 3/4 of the Apple Watch buyers are new to Apple Watch. <Sync id="L280"time="00:39:57"/>And so we are still and significantly in the build mode there. <Sync id="L281"time="00:40:04"/>And so don't think of the penetration as anywhere near a sort of a mature penetration. <Sync id="L282"time="00:40:13"/>We got a lot left there. 
+<Sync id="L283"time="00:40:15"/>And the AirPods just keep hitting new highs. <Sync id="L284"time="00:40:21"/>And I anticipate that will carry over to this quarter too, and we're really proud to add another product up there for people wanting noise-canceling with the AirPods Pro beginning to sell today.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          <Sync id="L285"time="00:40:40"/>That will come from Shannon Cross with Cross Research.
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal & Analyst    [17]
+--------------------------------------------------------------------------------
+
+          <Sync id="L286"time="00:40:47"/>First, Nancy, just want to send you our best wishes. <Sync id="L287"time="00:40:50"/>We'll definitely miss you. <Sync id="L288"time="00:40:52"/>I'm sure, I agree with Luca, you've been very instrumental over the years.
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Director-IR    [18]
+--------------------------------------------------------------------------------
+
+          <Sync id="L289"time="00:40:56"/>Thank you.
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal & Analyst    [19]
+--------------------------------------------------------------------------------
+
+          <Sync id="L290"time="00:40:57"/>My questions though with regards to China. <Sync id="L291"time="00:41:01"/>And I don't know, Tim, if you can talk more about what you're seeing in China, the trends during the quarter, the reception specifically there to the iPhone. <Sync id="L292"time="00:41:10"/>Any thoughts on Hong Kong used to be a big market. <Sync id="L293"time="00:41:13"/>There's obviously some turmoil there. <Sync id="L294"time="00:41:14"/>So if can you just provide some more in China that will be helpful.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+
+          <Sync id="L295"time="00:41:19"/>Yes. <Sync id="L296"time="00:41:19"/>We had a very good September, Shannon, and the lead of that is sort of the reception of iPhone 11 and 11 Pro and 11 Pro Max. <Sync id="L297"time="00:41:33"/>And so we feel really good about how we've gotten started there. <Sync id="L298"time="00:41:39"/>As you can tell from the numbers, we've significantly improved since the beginning of the year. <Sync id="L299"time="00:41:45"/>We've gone from minus well into the 20s to minus 2% last quarter. <Sync id="L300"time="00:41:53"/>And if you looked at that in constant currency, we actually grew 1%. <Sync id="L301"time="00:41:57"/>And so there's a very slight growth there. <Sync id="L302"time="00:42:00"/>We obviously want that to be better. <Sync id="L303"time="00:42:04"/>But we feel good about how we're doing. 
+<Sync id="L304"time="00:42:06"/>I think it's a combination of things that are -- that have turned things around. <Sync id="L305"time="00:42:12"/>On a macro basis, I think the trade tension is less, and that clearly looks positive right now with the comments that we've been reading in the press. <Sync id="L306"time="00:42:26"/>Secondly, the products have been extremely well-received there. <Sync id="L307"time="00:42:33"/>Third, the things that we've done from a pricing and monthly payments point of view, and trade-in, getting the trade-in program up and running, all of these things have moved the dial. <Sync id="L308"time="00:42:46"/>And so it's sort of a -- the sum of all of that. 
+<Sync id="L309"time="00:42:51"/>I would also say it's not all about iPhone in China. <Sync id="L310"time="00:42:54"/>The Services area grew double digit. <Sync id="L311"time="00:42:57"/>We began to see more gaming approvals in the quarter or I should say some key gaming approvals. <Sync id="L312"time="00:43:03"/>It's not all about quantity but about which ones. <Sync id="L313"time="00:43:08"/>We saw that. <Sync id="L314"time="00:43:11"/>Also, Wearables, where Wearables are doing so great at a company level, they're doing even better in China. <Sync id="L315"time="00:43:17"/>And so lots of positives there.
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal & Analyst    [21]
+--------------------------------------------------------------------------------
+
+          <Sync id="L316"time="00:43:24"/>And then I'm curious, Luca, maybe you can talk a bit about how you think about operating expense growth. <Sync id="L317"time="00:43:29"/>It continues to grow significantly faster than revenue. <Sync id="L318"time="00:43:33"/>So I'm just curious as to where you're targeting the incremental spend. <Sync id="L319"time="00:43:37"/>And then is there a point at which we might just see some leverage?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO & Senior VP    [22]
+--------------------------------------------------------------------------------
+
+          <Sync id="L320"time="00:43:44"/>Well, Shannon, we've gone through different cycles. <Sync id="L321"time="00:43:46"/>In some cases, our revenue growth exceeds our OpEx growth. <Sync id="L322"time="00:43:51"/>In other cases, like fiscal '19, it was the other way around. <Sync id="L323"time="00:43:55"/>But our approach frankly is not changing over time. <Sync id="L324"time="00:43:59"/>We want to invest in the business. <Sync id="L325"time="00:44:03"/>Our primary investments during the last few years have been in the R&D space because obviously we want to continue to innovate, improve the user experience, differentiate our products. 
+<Sync id="L326"time="00:44:16"/>We continue to run SG&A tightly. <Sync id="L327"time="00:44:19"/>Obviously, if you look at what we've launched during the last few quarters and few years, we launched a lot of new products, and now we're launching a lot of new services. <Sync id="L328"time="00:44:30"/>And when we do that, we need to make the adequate investments in marketing and advertising to raise the awareness of the new products and new services. <Sync id="L329"time="00:44:41"/>And that is what you're seeing, for example, in the guidance that we provided for the first quarter as we're launching new services right now. <Sync id="L330"time="00:44:51"/>And so we're making investments both in engineering and in advertising to support the new launches.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          <Sync id="L331"time="00:45:01"/>That will come from Bernstein's Toni Sacconaghi.
+
+--------------------------------------------------------------------------------
+A.M. Sacconaghi,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [24]
+--------------------------------------------------------------------------------
+
+          <Sync id="L332"time="00:45:08"/>I think this is for Luca, and then I have a follow-up as well. <Sync id="L333"time="00:45:12"/>If I look at your guidance, the midpoint of your guidance for revenues on a sequential basis, it's up about 36.5%. <Sync id="L334"time="00:45:22"/>Historically, fiscal Q4 to Q1 was up 50% or more. <Sync id="L335"time="00:45:27"/>And even last year, given that iPhone is a slower-growing product, you guided for revenues to be up 45% sequentially. <Sync id="L336"time="00:45:37"/>So given the enthusiasm about the iPhone 11 launch and the new Wearables products and the new Services, I guess the question is why is your guidance not stronger for Q1 on the top line? <Sync id="L337"time="00:45:59"/>And is that sort of a reflection of conservatism, given that there's a lot of uncertainty in the world and we certainly saw that last year? <Sync id="L338"time="00:46:08"/>Or are there other forces at work that we should be considering?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO & Senior VP    [25]
+--------------------------------------------------------------------------------
+
+          <Sync id="L339"time="00:46:15"/>Toni, thanks for the question. <Sync id="L340"time="00:46:18"/>The guidance that we are providing, if you look at it at the midpoint, implies an acceleration of growth from the performance that we've seen during the course of fiscal '19. <Sync id="L341"time="00:46:33"/>As I said earlier, foreign exchange is clearly a headwind for us right now. <Sync id="L342"time="00:46:39"/>There's about $1.1 billion of negative foreign exchange on a year-over-year basis. <Sync id="L343"time="00:46:46"/>So that is something to keep in mind. 
+<Sync id="L344"time="00:46:51"/>We feel very good, as Tim said, about the iPhone, the way the new cycle has started. <Sync id="L345"time="00:46:57"/>And we do expect an improvement in our year-over-year growth rate on iPhone. <Sync id="L346"time="00:47:04"/>Wearables has very, very strong momentum. <Sync id="L347"time="00:47:06"/>The portfolio of Services also has incredible momentum. <Sync id="L348"time="00:47:13"/>One thing to keep in mind as we look at this guidance range is the fact that we also contemplated the comparison to the launch of the iPad Pro a year ago for iPad as well as the new MacBook Air that was launched during the December quarter last year. <Sync id="L349"time="00:47:34"/>So for the iPad and Mac categories, you need to keep in mind that our launch timing is different on a year-over-year basis.
+
+--------------------------------------------------------------------------------
+A.M. Sacconaghi,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [26]
+--------------------------------------------------------------------------------
+
+          <Sync id="L350"time="00:47:45"/>Okay. <Sync id="L351"time="00:47:47"/>And then if I could follow up. <Sync id="L352"time="00:47:50"/>Just on the bundling of Apple TV+. <Sync id="L353"time="00:47:54"/>I guess for you, Tim, this is really the first time we've seen a significant bundling of services offering and a hardware offering. <Sync id="L354"time="00:48:06"/>And I'm wondering if you view this as kind of a strategic advantage of Apple and whether we might see more hardware plus services offerings -- bundled offerings. <Sync id="L355"time="00:48:17"/>And ultimately, to you, do you ever believe that your hardware itself might be offered as a bundled service? <Sync id="L356"time="00:48:27"/>And maybe while we're on that, either you or Luca could give us the 30-second tutorial on how we should think about the deferred revenue accounting, approximately how much of the $60 are you going to be deferring and what's your expectation for attach rate on that?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - CFO & Senior VP    [27]
+--------------------------------------------------------------------------------
+
+          <Sync id="L357"time="00:48:45"/>Let me cover that accounting issue first. <Sync id="L358"time="00:48:49"/>Obviously, we need to make some assumptions around the take rate of our customers on the -- on Apple TV+, right? <Sync id="L359"time="00:48:59"/>And we don't want to get into the details of that because we view those assumptions as confidential and competitively sensitive. 
+<Sync id="L360"time="00:49:07"/>But you need to keep in mind that we contemplate a number of factors, including the fact that we have family sharing as part of the service, the fact that there are multiple device purchases, the geographic availability around the world, the availability of local content at the beginning of the service, how many people do we have with payment methods on file. <Sync id="L361"time="00:49:31"/>So we use all these things to make assumptions around what the take rate is going to be. <Sync id="L362"time="00:49:39"/>Obviously, those assumptions will possibly change over time as we get more information on how the customers behave. <Sync id="L363"time="00:49:47"/>We haven't launched the service yet. <Sync id="L364"time="00:49:49"/>We're going to start serving our customers tomorrow, so we'll see how it goes, but we take into account all these different factors.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [28]
+--------------------------------------------------------------------------------
+
+          <Sync id="L365"time="00:49:57"/>On the bundled question, Toni, we look at each service and decide what's best to do for it. <Sync id="L366"time="00:50:05"/>And on the TV+, we concluded that a great way to get more people to see the content would be to do this, and it would be a good gift for our users, and so that's what we're doing. <Sync id="L367"time="00:50:20"/>You can also see that on the other services, we're not doing that. <Sync id="L368"time="00:50:24"/>So it's not part of a broader pattern or -- although I wouldn't want to rule out for the future that we might not see another opportunity at some point in time.
+<Sync id="L369"time="00:50:35"/>In terms of hardware as a service or as a bundle, if you will, there are customers today that essentially view the hardware like that because they're on upgrade plans and so forth. <Sync id="L370"time="00:50:54"/>And so to some degree, that exists today. <Sync id="L371"time="00:50:57"/>My perspective is that will grow in the future to larger numbers that will grow disproportionately. <Sync id="L372"time="00:51:08"/>And one of the things we're doing is trying to make it simpler and simpler for people to get on these sort of monthly financing kind of things that's a part of what we announced with the Apple Card earlier in the call. <Sync id="L373"time="00:51:23"/>And so we're cognizant that there are lots of users out there that want sort of a recurring payment like that and the receipt of new products on some sort of standard kind of basis. <Sync id="L374"time="00:51:41"/>And we're committed to make that easier to do than perhaps it is today.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          <Sync id="L375"time="00:51:48"/>That will be from Chris Caso with Raymond James.
+
+--------------------------------------------------------------------------------
+Christopher Caso,  Raymond James & Associates, Inc., Research Division - Research Analyst    [30]
+--------------------------------------------------------------------------------
+
+          <Sync id="L376"time="00:51:52"/>And Nancy, our congratulations to you, too, and we're going to miss you.
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Director-IR    [31]
+--------------------------------------------------------------------------------
+
+          <Sync id="L377"time="00:52:00"/>Thank you.
+
+--------------------------------------------------------------------------------
+Christopher Caso,  Raymond James & Associates, Inc., Research Division - Research Analyst    [32]
+--------------------------------------------------------------------------------
+
+          <Sync id="L378"time="00:52:03"/>My first question is about pricing and the effect of some of the lower price points for iPhone 11 as compared to last year. <Sync id="L379"time="00:52:12"/>And it looked like margins and the revenues did well on that. <Sync id="L380"time="00:52:18"/>And it also followed some price adjustments you made in emerging markets last year. <Sync id="L381"time="00:52:23"/>And obviously, we've seen some improvement in China as well. <Sync id="L382"time="00:52:25"/>So if you could talk about maybe what that tells us about pricing strategy in general and perhaps that you're willing to take a little more flexible approach to drive some elasticity if you think that's going to have a positive effect.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [33]
+--------------------------------------------------------------------------------
+
+          <Sync id="L383"time="00:52:38"/>Yes. <Sync id="L384"time="00:52:40"/>Chris, I think that the price moves we've made have been smart and well-received and do show a level of elasticity. <Sync id="L385"time="00:52:51"/>But the most important thing by far is the product. <Sync id="L386"time="00:52:55"/>And I think we've got the best lineup we've ever had, and the customer response to the product, what the product does for them is really incredible. <Sync id="L387"time="00:53:05"/>And the photos I'm getting from many users around the world are just incredible that people are taking. <Sync id="L388"time="00:53:12"/>And so I think it's product first and then price sort of falls out of that. <Sync id="L389"time="00:53:18"/>And we did decide to be more aggressive. <Sync id="L390"time="00:53:24"/>And looking at the results in the early going, I think it was the right call. 
+<Sync id="L391"time="00:53:30"/>In terms of emerging markets, we picked sort of locally relevant prices. <Sync id="L392"time="00:53:38"/>And in some cases where the dollar had become stronger, we took an exchange rate that would've reflected a while back instead of the current exchange rate. <Sync id="L393"time="00:53:53"/>And in other words, we tried to stay as close as we could to a local price point that we knew was effective for that particular market. <Sync id="L394"time="00:54:04"/>And those, in addition to the U.S. price that have gotten more of a discussion, have been extremely well-received.
+
+--------------------------------------------------------------------------------
+Christopher Caso,  Raymond James & Associates, Inc., Research Division - Research Analyst    [34]
+--------------------------------------------------------------------------------
+
+          <Sync id="L395"time="00:54:19"/>As a follow-on, perhaps you could talk about the potential for some of the tariffs that are upcoming. <Sync id="L396"time="00:54:28"/>What -- do you have a view of what potential impact that could have going forward and how Apple is looking to address it? <Sync id="L397"time="00:54:37"/>Will you need to adjust your own pricing if, in fact, the tariffs are imposed?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [35]
+--------------------------------------------------------------------------------
+
+          <Sync id="L398"time="00:54:45"/>We're paying some tariffs today, as you know, some that went into effect pre-September and some others that went into effect in September. <Sync id="L399"time="00:54:55"/>So we are paying some. <Sync id="L400"time="00:54:56"/>That's been comprehended. <Sync id="L401"time="00:54:59"/>But in general, my view is very positive in terms of how things are going. <Sync id="L402"time="00:55:05"/>And that positive view is obviously factored in our guidance as well, and just the tone, I think, has changed significantly. <Sync id="L403"time="00:55:18"/>And I have long thought that it was in both countries' best interest to get to an agreement that maybe initially doesn't solve everything but solves some things that each party may want and get to a better place than where we're at. <Sync id="L404"time="00:55:40"/>And I'm hopeful that that's where we're headed.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          <Sync id="L405"time="00:55:52"/>That will be from Samik Chatterjee with JPMorgan.
+
+--------------------------------------------------------------------------------
+Samik Chatterjee,  JP Morgan Chase & Co, Research Division - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          <Sync id="L406"time="00:55:55"/>I just wanted to start off with one of -- new Services, Apple Arcade and if you have any insights in terms of what you're seeing for engagement or retention of customers beyond the initial trial period. <Sync id="L407"time="00:56:06"/>Also, how are your partnerships with developers progressing there? <Sync id="L408"time="00:56:10"/>How does the pipeline look like? <Sync id="L409"time="00:56:12"/>And any early projections of what that business longer term might look like?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [38]
+--------------------------------------------------------------------------------
+
+          <Sync id="L410"time="00:56:18"/>We're not going to give out projections on it, but I would tell you that we were really pleased with the number of people that entered the trial period. <Sync id="L411"time="00:56:29"/>People are just coming out of the 30-day trial period in the last few days or a week or so, and so it's really too early to tell what the conversion rate will be. <Sync id="L412"time="00:56:46"/>But I feel like we're off to a good start, and the -- most important of everything, the customer feedback to date has really been incredible, and we're very excited for the future of the service.
+
+--------------------------------------------------------------------------------
+Samik Chatterjee,  JP Morgan Chase & Co, Research Division - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          <Sync id="L413"time="00:57:01"/>Great. <Sync id="L414"time="00:57:01"/>Another follow-up, if I can try and attack the Wearables question with another angle. <Sync id="L415"time="00:57:06"/>What are you seeing in terms of typical -- consumer behavior in upgrading Wearables like Apple Watch or AirPods? <Sync id="L416"time="00:57:13"/>And how are you thinking about your ability to accelerate some of that replacement cycle by driving innovation?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [40]
+--------------------------------------------------------------------------------
+
+          <Sync id="L417"time="00:57:21"/>I think we -- because the Watch is relatively young, we haven't seen enough upgrade cycles to really establish a pattern as yet. <Sync id="L418"time="00:57:34"/>And as I've mentioned before, 3 out of 4 customers buying an Apple Watch currently or last quarter, I should say, were buying an Apple Watch for the first time. <Sync id="L419"time="00:57:45"/>And so there's still a very, very large new to Apple Watch in this regard. <Sync id="L420"time="00:57:53"/>I do think the upgrade market will get larger over time but just don't have a current view as to how often and so forth.
+<Sync id="L421"time="00:58:05"/>On the AirPods, we're anxious to see the customers for the new AirPods Pro. <Sync id="L422"time="00:58:16"/>But I would guess that one, particularly in the early going, will be people that have AirPods today and want to have a -- also have a pair for the times that they need noise cancellation.
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Director-IR    [41]
+--------------------------------------------------------------------------------
+
+          <Sync id="L423"time="00:58:31"/>Thank you, Samik. 
+<Sync id="L424"time="00:58:33"/>A replay of today's call will be available for 2 weeks on Apple Podcasts, as a webcast on apple.com/investor and via telephone, and the numbers for the telephone replay are (888) 203-1112 or (719) 457-0820. <Sync id="L425"time="00:58:51"/>Please enter confirmation code 4331479. <Sync id="L426"time="00:58:55"/>These replays will be available by approximately 5 p.m. <Sync id="L427"time="00:58:58"/>Pacific Time today.
+<Sync id="L428"time="00:58:59"/>Members of the press with additional questions can contact Kristin Huguet at (408) 974-2414, and financial analysts can contact Tejas Gala or me with additional questions. <Sync id="L429"time="00:59:11"/>Tejas is at (669) 227-2402, and I'm at (408) 974-5420. <Sync id="L430"time="00:59:20"/>Thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          <Sync id="L431"time="00:59:22"/>And that will conclude today's conference. <Sync id="L432"time="00:59:24"/>Again, thank you all for joining us today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

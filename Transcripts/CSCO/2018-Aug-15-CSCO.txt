@@ -1,0 +1,494 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2018 Cisco Systems Inc Earnings Call
+AUGUST 15, 2018 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marilyn Mora
+   Cisco Systems, Inc. - Director of Global IR
+ * Charles H. Robbins
+   Cisco Systems, Inc. - Chairman & CEO
+ * Kelly A. Kramer
+   Cisco Systems, Inc. - Executive VP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Paul Jonas Silverstein
+   Cowen and Company, LLC, Research Division - MD and Senior Research Analyst
+ * James Edward Fish
+   Piper Jaffray Companies, Research Division - Research Analyst
+ * Tal Liani
+   BofA Merrill Lynch, Research Division - MD and Head of Technology Supersector
+ * Samik Chatterjee
+   JP Morgan Chase & Co, Research Division - Analyst
+ * Ahmed Sami Badri
+   Crédit Suisse AG, Research Division - Senior Analyst
+ * Simon Matthew Leopold
+   Raymond James & Associates, Inc., Research Division - Research Analyst
+ * Roderick B. Hall
+   Goldman Sachs Group Inc., Research Division - MD
+ * Vijay Krishna Bhagavath
+   Deutsche Bank AG, Research Division - VP and Research Analyst
+ * Ittai Kidron
+   Oppenheimer & Co. Inc., Research Division - MD
+ * Pierre C. Ferragu
+   New Street Research LLP - Global Team Head of Technology Infrastructure
+ * Jim Suva
+   Citigroup Inc, Research Division - Director
+ * George Charles Notter
+   Jefferies LLC, Research Division - MD & Equity Research Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to Cisco's Fourth Quarter Fiscal Year 2018 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections, you may disconnect.
+Now I would like to introduce Marilyn Mora, Head of Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [2]
+--------------------------------------------------------------------------------
+
+          Thanks, Michelle. Welcome, everyone, to Cisco's Fourth Quarter Fiscal 2018 Quarterly Earnings Conference Call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chairman and CEO; and Kelly Kramer, our CFO.
+By now you should have seen our earnings press release. A corresponding webcast with slides, including supplemental information, will be made available on our website in the Investor Relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial information can also be found in the Financial Information section of our Investor Relations website.
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results and will discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise. All comparisons made throughout this call will be on a year-over-year basis unless stated otherwise.
+The matters we will be discussing today include forward-looking statements, including the guidance we will be providing for the first quarter of fiscal 2019. They are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on Forms 10-K and 10-Q, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements. With respect to guidance, please also see the slides and press release that accompany this call for further details.
+As a reminder, Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+I will now turn it over to Chuck.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Marilyn, and good afternoon, everyone. We had a very strong finish to a great year. We generated our highest quarterly revenue of $12.8 billion and non-GAAP EPS of $0.70, as growth accelerated for another consecutive quarter.
+Our momentum was broad-based across our portfolio, customer segments and geographies. We also continued to generate solid margins, cash flow and returns for our shareholders. Our results demonstrate a combination of strong customer adoption of our latest innovations, the ongoing value customers see in our software and subscription offerings and excellent execution across our customer segments and geographies. Our strategy is working, and we believe that we are well-positioned to capture growth across the portfolio with our pipeline of innovation.
+The broad adoption of multi-cloud environments is changing the very nature of how modern IT infrastructures are built and secured, and Cisco is at the center of this transition. The recently announced intent to acquire Duo Security is another example of how we are extending our intent-based networking portfolio for the multi-cloud world. Duo's SaaS-delivered solution will expand our cloud security capabilities to help enable any user on any device to securely connect to any application on any network. Combining Cisco's network, endpoint and cloud security platform with Duo's zero-trust authentication and access solutions, we will be able to further enhance the industry's broadest and most effective security architecture in the market. 
+Now I'll briefly highlight some of our innovation and the great momentum we're seeing across our key product areas.
+Starting with Infrastructure Platforms. We continue to rapidly innovate and transform our technology portfolio to drive even greater customer value. A year ago, we reinvented Enterprise Networking with the launch of our intent-based networking architecture. This quarter, we saw continued strength in Infrastructure Platforms, driven by the Catalyst 9000, as customers look to us to simplify and automate their networks. Over the last year, we introduced additional innovations across our networking portfolio, including new access, WAN and data center offerings. In June, we announced new developer capabilities across our intent-based networking portfolio, spanning all network domains: Campus switching, wireless, WAN, data center and cloud.
+We're also excited that our developer program, DevNet, surpassed 500,000 registered members. As part of this program, we introduced new offerings to help developers and network engineers innovate throughout our intent-based architecture. 
+As we all know, the WAN is undergoing an architectural transition to a software-defined WAN to enable IT to rapidly respond to changing business needs in a digital and cloud world. Our customers are driving this transition and looking to Cisco to help them make this shift. Our SD-WAN portfolio leverages our leading networking products, automation and robust security architecture to enable greater flexibility, increased bandwidth and lower costs. This quarter, we saw significant traction with Viptela, as it has now been deployed at over 800 customers, driven by our ability to provide higher capacity at a lower cost. We are pleased with the ongoing integration of Viptela with our core portfolio to drive even more value for our customers.
+As our customers move to a multi-cloud environment, we see tremendous opportunities to provide value to them by redesigning their IT architecture, delivering security and building, orchestrating and managing applications. In Q4, we saw the production launch of our hybrid cloud solution with Google, the introduction of a multi-cloud solution with NetApp and numerous engagements with customers redesigning their IT architectures. We continue to believe Cisco is very well-positioned to benefit from the increasing adoption of multi-cloud.
+Turning to security. Security continues to be our customers' #1 concern and it is a top priority for us. Our strategy is to simplify and increase security efficacy through an architectural approach, with products that work together and share analytics and actionable threat intelligence. This architecture is supported by Talos, one of the largest commercial threat intelligence teams in the world. We identify and protect against new and emerging threats, like the recent VPN filter vulnerability, through our sophisticated infrastructure and unrivaled telemetry of data. 
+Cisco is the largest network and enterprise security company, and our approach of bringing security into the intent-based architecture and offering security across the network, endpoint and cloud has proven to be very successful. This quarter, we saw continued strong momentum with revenue again accelerating and growing double digits year-over-year.
+We continue to invest in our product and technology innovation as we are committed to helping our customers on their multi-cloud journey. Our focus is on delivering cloud security solutions that provide ease-of-use, scalability and protect end users. As I mentioned earlier, with our acquisition of Duo Security, we will further enhance how we deliver simple, automated, trusted access anywhere for our customers' environments.
+Moving to applications. In May, we announced the launch of WebEx Teams, bringing together meetings, calling and teamwork into an integrated experience as part of the WebEx platform. In Q4, we introduced major new enhancements to the platform, including a new user design for WebEx Meetings and a new solution with Google, combining their contact center AI service with the WebEx platform. With more than 3 million customer service agents globally using Cisco's contact center software, our integration with Google will help to automate responses in our call centers by leveraging data and intelligence from AI.
+We also achieved another robust quarter of growth with AppDynamics, underscoring the importance and value of our unique end-to-end visibility and analytics from the end user to the network to the application.
+To wrap up, 2018 was a great year. We returned to growth, invested in our core franchises, delivered new innovative platforms and continued to shift our business to more software and subscriptions. Our record results demonstrate the strength of our business as well as the strategic focus and execution that we have delivered over the past 12 months. I want to thank our teams around the globe for delivering these results.
+We are looking forward to fiscal year '19 with a clear focus on growth, execution and innovation. We see incredible opportunities across our business and believe we are uniquely positioned to deliver on our vision to be one of the most strategic partners to our customers as they go through their digital transformation.
+Kelly, I'll now turn it over to you.
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Chuck. I'll start with a summary of our financial results for the quarter, then cover the full fiscal year and the Q1 outlook.
+Q4 was a solid quarter across the business. We executed well with strong orders, revenue growth, margins, EPS and operating cash flow. It was great to see accelerated momentum in product orders, which grew 7%.
+Total revenue was $12.8 billion, up 6%. Our non-GAAP operating margin rate was 30.9%. Non-GAAP net income was $3.3 billion, up 8%. And non-GAAP EPS was $0.70, up 15%. 
+Let me provide some more detail on our Q4 revenue. Total product revenue was up 7%, with broad strength across the portfolio. Infrastructure Platforms grew 7%, with growth in all businesses except for routing, which was down slightly. Switching had another great quarter with strong growth in campus, driven by the ramp of the Cat 9K and growth in data center driven by the Nexus 9K. We saw good growth in wireless with strength in Meraki and our Wave 2 offerings. Data center had very strong double-digit growth driven by servers and HyperFlex. Routing declined slightly driven by weakness in SP routing. Applications was up 10% in total with growth across all the businesses. We saw very solid growth in Unified Communications, TelePresence, conferencing and AppDynamics. Security was up 12%, with strong performance in network security, unified threat, policy and access and web security. Service revenue was up 3%, driven by growth in advanced services as well as Software and Solution Support.
+We continue to transform our business, delivering more software offerings and driving more subscriptions and recurring revenues. In Q4, recurring revenue was 32% of total revenue, an increase of 1 point from a year ago. Revenue from subscriptions was 56% of our total software revenue, up 5 points year-over-year. We drove good growth in deferred revenue, which was up 6% in total, with product up 15% and services up 1%. Deferred product revenue from our recurring software and subscription offers was $6.1 billion, up 23%. There was also a strong increase in the unbilled deferred, which is not on the balance sheet. The combined total deferred revenue plus unbilled deferred was up 28%.
+When we look at the impact of acquisitions on our Q4 results year-over-year, there was a 90 basis point positive impact on revenue. We saw especially strong momentum in Q4 with total product orders growing 7%.
+Looking at our geographies. Americas grew 6%, EMEA was up 6% and APJC was up 12%. Total emerging markets was up 12%, with the BRICS plus Mexico up 22%.
+In our customer segments, enterprise was up 11%; commercial was up 9%; public sector was up 1%; and service provider returned to growth, up 6%. Our product backlog at the end of Q4 was $6.6 billion, up 38% year-over-year.
+From a non-GAAP gross margin perspective, total Q4 gross margin was 62.9%, down 0.8 points. Product gross margin was 61.5%, down 0.4 points. And service gross margin was 67.1%, down 1.7 points. Product gross margin was down 0.4 points, driven by our APJC region related to some SP-specific deals as well as negative product mix. Product gross margin for the Americas and EMEA were both up year-over-year.
+Overall, pricing continued to have relatively modest erosion, as we have seen over the past couple of quarters, and we continue to be negatively impacted by higher component costs, which we expect to continue in the near term.
+In terms of the bottom line from a GAAP perspective, Q4 net income was $3.8 billion and EPS was $0.81. The GAAP results include an $863 million benefit related to the Tax Cuts and Jobs Act. We've excluded the benefit from our non-GAAP results.
+We ended Q4 with total cash, cash equivalents and investments of $46.5 billion. Q4 operating cash flow was $4.1 billion, up 2%, with free cash flow of $3.9 billion, also up 2%. From a capital allocation perspective, we returned $7.5 billion to our shareholders during the quarter that was comprised of $6 billion of share repurchases and $1.5 billion for our quarterly dividend.
+I'll now cover the full fiscal year. We delivered solid revenue, margins, net income, EPS and operating cash flows. Revenue was $49.3 billion, up 3%. Our non-GAAP operating margin rate was 31.1%. Non-GAAP net income was $12.7 billion, up 5%. And non-GAAP EPS was $2.60, up 9%.
+Our total non-GAAP gross margin was 63.8%, a decrease of 0.5 points, with product gross margin down 0.4 points and service gross margin down 0.9 points. GAAP net income was $110 million, and GAAP EPS was $0.02, which includes the charges related to the Tax Cuts and Jobs Act of $10.4 billion.
+For the full fiscal year, we delivered operating cash flow of $13.7 billion. We paid approximately $1.4 billion of onetime foreign taxes during the year related to the Tax Cuts and Jobs Act. Operating cash flow increased 8%, normalized for these tax payments.
+We returned $23.6 billion to shareholders over the fiscal year, which represented 184% of our free cash flow that was made up of $17.7 billion of share repurchases and $6 billion for our quarterly dividend.
+To summarize, we had a strong Q4 and fiscal year. We executed well with strong top line growth and profitability. We're seeing the returns on the investments we're making in innovation and driving the shift to more software and subscriptions, delivering long-term growth and shareholder value.
+As a reminder, we are adopting the new revenue recognition standard, ASC 606, as of Q1 fiscal year '19 on a modified retrospective basis. Its primary impact will be to accelerate our revenue recognition for certain software licenses and sales to 2-tier distributors as well as the recognition of a deferred commissions asset that will be amortized over the terms of our sales contracts.
+Let me reiterate our guidance for the first quarter of fiscal year '19. This guidance includes the type of forward-looking information that Marilyn referred to earlier. We expect revenue growth in the range of 5% to 7% year-over-year. This range includes the impact of ASC 606, which we estimate to be a benefit of about 1%. We anticipate the non-GAAP gross margin rate to be in the range of 63% to 64%. The non-GAAP operating margin rate is expected to be in the range of 30% to 31%. And the non-GAAP tax provision rate is expected to be 19%. Non-GAAP earnings per share is expected to range from $0.70 to $0.72. The guidance includes our Service Provider Video Software Solutions business that we recently agreed to sell and excludes the Duo acquisition, since both transactions have not closed. We expect the SPVSS transaction to close in the first half of fiscal '19, subject to customary closing conditions and regulatory approvals.
+I'll now turn it back to Marilyn so we can move into the Q&A.
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Kelly. Michelle, let's go ahead and open the line for questions. (Operator Instructions) 
+I'll now turn it over to Michelle.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Vijay Bhagavath from Deutsche Bank Securities.
+
+--------------------------------------------------------------------------------
+Vijay Krishna Bhagavath,  Deutsche Bank AG, Research Division - VP and Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          So my question to you, Chuck, and Kelly, please chime in, is it reasonable to assume you'd be extending the software subscription idea and plan across the portfolio? Give us an early glimpse as to how is it going? What are some of the challenges? What are some of the positive surprises? And would the makeup of the software subscription portfolio meaningfully change as you look to extend this model across the portfolio?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Vijay. So most of you know that we -- when we began the sell of the Catalyst 9000, that was the first attempt to sell a subscription software offering on top of a core networking product. And that has gone, as we've said on prior calls, reasonably well. I'm very pleased with how the adoption has been from our customers. They understand the value. As I said early on, we put -- we knew when we started that process that we would need to deliver significant innovation that wasn't available in the traditional methodology of buying it in order for our customers to adopt it. And some of those were the Encrypted Traffic Analytics, the overarching analytic -- I mean, the automation capability and then recently, some Assurance. And you'll see us over the next coming quarters, when we bring new products to market in the -- particularly in the enterprise networking space, but across the portfolio, we will apply that same strategy. So I think that we've been pleased. And our job now is to ensure that the operational infrastructure of the company is prepared, and we're working towards being able to ensure that customers are deriving the value from that software as well as obviously putting in the operational capabilities to ensure the renewals, et cetera. So that's what we're focused on. Kelly, any...?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          No, I think you hit it.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Rod Hall from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Roderick B. Hall,  Goldman Sachs Group Inc., Research Division - MD    [6]
+--------------------------------------------------------------------------------
+
+          I'm kind of beside myself, don't know where to start. These are so good. But let me -- I guess, let me kick off with a question on the deferred revenue, Kelly. The -- you said that including this off-balance sheet, deferred is up 28%. Is that total deferred or product deferred? Can you just clarify what you meant by that? And also, maybe help us understand what that ASC 606 impact on deferred was because that was, I guess, negative?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          Yes, sure. So on your question on the deferred revenue plus unbilled deferred, so that was up 28%. The big driver we have for that, that is just purely product, okay? So it is -- what we mostly have in our unbilled deferred is from our collaboration, our Applications business. They have a lot of periodic billing that they book month-to-month. That is a very large number. So it is kind of apples-to-apples of business that we have booked that we will recognize in the future. So that's why we look at both. When we do adopt ASC 606 for Q1, that will be one of our disclosures, showing you the combination of deferred plus unbilled, so you have our remaining performance obligations. But it is just product, that 28%. As far as the ASC 606, we adopt that in Q1. So in the results we just went through, of the $6.1 billion of deferred from software and subscriptions, that is related to how we've been accounting for it under the old ASC 605. So when we go in...
+
+--------------------------------------------------------------------------------
+Roderick B. Hall,  Goldman Sachs Group Inc., Research Division - MD    [8]
+--------------------------------------------------------------------------------
+
+          Just to clarify, though, would you write down some -- you'll write some of the deferred down in Q1 as a result of the change or not much or...?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [9]
+--------------------------------------------------------------------------------
+
+          Yes. So yes, I can give you some direction. You'll see that in our K. So we will be writing off a portion of that balance. So of the $6 billion, we will be writing off and restating because you basically restate your balance sheet for the new accounting rules. And like we've said over the past year, where we will have that impact is things that were term-based software licenses, things like our ELAs or Cisco ONE, those will now be recognized upfront where they used to be deferred. So the deferred revenue balance will be written down for that, and we'll take -- so we'll take -- we'll lower the balance of the deferred revenue. And then as we go into Q1, we will be recognizing any new business that we bill upfront from that.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Ittai Kidron from Oppenheimer.
+
+--------------------------------------------------------------------------------
+Ittai Kidron,  Oppenheimer & Co. Inc., Research Division - MD    [11]
+--------------------------------------------------------------------------------
+
+          I guess, Chuck, maybe you can help me figure out how you managed to navigate so well in what seems to be such treacherous waters out there between some deceleration in economic activity in Europe; the FX movement recently, which is not favorable to you, although you price in dollars, nonetheless, makes your products a little bit more expensive internationally; poor CapEx matrix out of the large telcos; tariff wars. Globally, you seem to be moving along, sidestepping all of those things. Which of these things really bother you, concern you or you're watchful, you're preparing for? And then second question, maybe you can kind of dig in a little bit on the networking, the Cat 9K, clearly, good progress. Are there any customer matrix or anything you can give us there to help us solidify or get better visibility into the trend there?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [12]
+--------------------------------------------------------------------------------
+
+          Yes, Ittai. I was feeling pretty good until you asked the first part of your question. I have said publicly, I think we're operating in a -- we have been operating in, what I would call, it's been a very consistent global economic scenario. There's clearly, even in the last few weeks, been things that have arisen. You've got the strengthening of the dollar that you mentioned. You've got some uncertainty in a couple of emerging countries. So those are clearly things that we'll watch. And we're -- we've seen these in the past, and we know how to deal with them. We obviously have the impending tariff situation, which we're watching closely. And on that front, we're in deep discussions in Washington with the administration on trying to get to a favorable outcome. We'd like to see that land in a good place. But overall, all of those are things that we are very actively involved with and we watch on a daily basis. As it relates to the networking business, the Catalyst 9000, as I said previously, has been the fastest-ramping product that we've ever built. So the customer count became less of an indicator pretty quickly, and it flowed through to the infrastructure systems growth that you saw this quarter. So we didn't see it as a metric that was -- we usually use that metric on customer count when we're just trying to give you visibility to the ramp of a new product when it hasn't become real material to the revenue line. And I think that we exceeded that point in time with the 9K pretty quickly. But I will tell you, just so you know, I think -- Kelly, keep me honest on this -- I think we had roughly 9,650-plus customers on the 9K as of the end of the quarter. We had a great Q4, great adoption. And we're very happy with where that product and that architecture is.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Pierre Ferragu from New Street Research.
+
+--------------------------------------------------------------------------------
+Pierre C. Ferragu,  New Street Research LLP - Global Team Head of Technology Infrastructure    [14]
+--------------------------------------------------------------------------------
+
+          I actually wanted to ask you about service provider. So you returned to growth this quarter, which is fantastic. And I think you mentioned as well that your routing business was weak, and most of that weakness was in the service provider vertical as well. So I was curious to understand how you grew revenues, if -- even if routing was negative or maybe I got something wrong? And then, of course, I'm very curious to hear whether this recovering service provider spending might be driven by 5G already.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [15]
+--------------------------------------------------------------------------------
+
+          Let me answer the macro question about the overall situation we see in service provider, and then, Kelly, maybe you can cover the routing and the impact, the first part of the question. So Pierre, the -- in the service provider space, we were obviously pleased. I've said a number of times over the last couple of years that this is a business that is dominated by large customers. And so as we've always said, when we have several of them that are slowing their spending, then it looks bad; when we have several that are spending, it looks pretty good. And that's just the nature of this business. Relative to 5G, I will tell you that -- I think I've said this on prior calls. Starting at Mobile World Congress earlier this year, we really -- we heard these customers in earnest begin and engage in discussions around what network requirements would look like for the infrastructure to support 5G, assuming that they're going to add lots of high-speed connections at the edge, it will require high-performance networks with quality of service and slicing and all those things. So I would say that -- I would not say that this is a material result of the implementation of 5G, to be honest. We expect that is still a year out before many will start and probably see it in earnest into 2020, to be fair. But we're pleased with what our teams have done. It's been a tough market. Our teams have continued to battle. And our engineering team continues to work on next-generation innovation, and we're pleased with the results this quarter. Kelly?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [16]
+--------------------------------------------------------------------------------
+
+          Yes, and to the point of -- this why have better revenue, if you remember last quarter, the SP segment was down 4%. And you're seeing that flow through the revenue this quarter when we talked about routing overall. So when I look forward, we don't kind of talk about our guidance in the upfront by business. But some of this, on the order side, might play well as you go into Q1. What I will say, adding on to Chuck's comments is, I do think and as you know very well, our service provider segment is made up of very, very large customers. And in any one quarter, we can get big orders, and that can fluctuate around. So as to the sustainability, I would say we feel good about our position, though I expect this could move around either way as we look forward.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Sami Badri from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Ahmed Sami Badri,  Crédit Suisse AG, Research Division - Senior Analyst    [18]
+--------------------------------------------------------------------------------
+
+          My first question has a lot to do with Europe and the strength you saw in the region in this last quarter. And then is it safe to assume that going into next quarter and your very strong guidance, are you expecting to see the same kind of magnitude of strength in Europe again despite all the moving pieces politically? And then the second question I really have is about the Viptela product launch. Are you addressing customers that are already big users, end customers of the campus product and the Meraki products to kind of up-sell customers into your new Viptela product? Or maybe you can give us just an idea on the sales cycle and the customer base that you're addressing.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [19]
+--------------------------------------------------------------------------------
+
+          If you don't mind, Sami, I'm going to answer the second one, and then I'll give you a little qualitative color on Europe. And then Kelly will answer the specifics on the business expectations. So on the second part of your question relative to Viptela and software-defined WAN, we have 2 offers. We have -- Meraki has an offer -- for those customers who have embraced the Meraki architecture, they have a very effective SD-WAN solution that is actually being well received in their customer base, and they're using it to extend their customer base. So that's been very successful. On the Viptela front, we have been working hard on the integration between the Viptela platform and Cisco's product. And so we're going to have a variety of offerings for our customers. We'll have a version that will have software running on different types of hardware. We'll have a software-only solution. We'll have our integrated ISR solution. And so we're seeing a number of those. This was a quarter where, I would say, we really saw the engagement level increase significantly. We got the offers in the marketplace, the first wave of those. And I said on the Q3 call that our teams were signaling us that Q4 was where we're going to see some of this come to fruition, and we, in fact, did. So we feel good about where we are right now. There's more work to go. We haven't gotten the SD-WAN integration into DNA Center yet. So that will only be, I think, a positive boost when we get that done. The teams are working on that. I think it's coming in one of the upcoming releases. So in general, we're pleased with where we are at this moment in time with Viptela. Europe, our team is doing really well there. Our teams are executing well. I think that they are competing very well because we have some very tough competition there. We have --- the team in Europe is always one of the early teams leading with some of these new technology areas. So they've had a lot of success in this core enterprise networking space as we move to intent-based networking. So we're pleased with what they're doing. We feel the entire global macro environment right now, there are so many dynamics that we're calling it like we see it based on what we know today. And Kelly, you want to comment just on how we see the...?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [20]
+--------------------------------------------------------------------------------
+
+          Yes, I mean, I think just to add to your point, I think the environment's very strong in Europe despite the political things that are going on. And just as a data point, the U.K. is up double digits for us on product orders this quarter. So again, it is -- I think like Chuck was saying, the overall environment is very favorable as of right now. So we're hoping we see this continued strength.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [21]
+--------------------------------------------------------------------------------
+
+          Yes, and a lot of the innovation that we're bringing right now is actually targeted at helping our customers lower the expenses of running this infrastructure. So there's a significant play to be made in -- almost like as customers look at where they are economically, there's reduction of cost by going to this automation platform. There's reduction of cost by moving to SD-WAN. So these are technologies that we are hopeful will continue to be important to our customers regardless.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Samik Chatterjee, you may go ahead, from JPMorgan.
+
+--------------------------------------------------------------------------------
+Samik Chatterjee,  JP Morgan Chase & Co, Research Division - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          I just had a question on the guide for the first quarter. You clearly have good momentum on the top line, although when I look at the operating margin guidance, it's kind of flat year-over-year. So I was -- just want to check if there's something that's limiting kind of the flow-through of the solid momentum on the top line to the operating margin? Is there something that's limiting the leverage of that to the bottom line? And is that something we should hope for in the future and provides kind of a second leg to the earnings growth?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+
+          Yes, thanks for the question. No, I don't think you need to read anything different of what's happening on the margin. I mean, if I look at the puts and takes that we have to our margin, I spoke a little bit about we can have -- we have a little margin pressure this quarter in some specific deals in APJC. But otherwise, our margin is driven by the same things, right? Our pricing is very robust. We're being very disciplined. The price that you've seen in the last couple of quarters is in a range that's very, very strong, so that's good. We are still facing component headwinds. And even though it's less of a headwind, it is still higher year-over-year. The prices are up, it's, again, just the slope is less. But that's part of what we see, both in Q4 and the guide. And then everything else, it kind of balances out. So right now, this is kind of what we see. We obviously are going to be driving for as much as we possibly can, but it's really the same dynamics.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Paul Silverstein from Cowen.
+
+--------------------------------------------------------------------------------
+Paul Jonas Silverstein,  Cowen and Company, LLC, Research Division - MD and Senior Research Analyst    [26]
+--------------------------------------------------------------------------------
+
+          A clarification question. Kelly, just in response -- your previous response, I trust you expect DRAM, at a minimum, to moderate come next year. And I'm wondering what -- if you have any thoughts on the impact. And the larger question, I recognize this has been asked and answered in various forms. But Chuck and Kelly, my takeaway from your comments is that there's an awful lot of things going right. And my simple question is, how much of this do you attribute to the macro? And I recognize even in that portion, it's not simple in terms of different moving pieces globally. But how much of the strength is macro-related? How much of it is better execution in various areas like campus switching, et cetera?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [27]
+--------------------------------------------------------------------------------
+
+          You want to take the first, the clarification on...
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          Yes, sure. So on the component stuff, yes, DRAM is loosening, though, again, as I said, the prices still are up, whether you look quarter-on-quarter or year-over-year. But we are optimistic that both on the demand side, which is also driving some of that pricing, we expect that to get better through '19. And I don't know if you want to hit the other broader...
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [29]
+--------------------------------------------------------------------------------
+
+          Paul, it's a virtually impossible question to answer, although I'm pragmatic enough to know that it's a combination of both. I will say that I think that it's -- clearly, the economy has been pretty consistent, and the markets have been positive. So that has certainly helped. And I think correspondingly, this new architecture and the new technology that we brought out first -- about 4 quarters back, actually, right at the end of Q4 from a year earlier, has clearly been adopted at a record pace for us. So I could never possibly give you any sort of split on what that looks like. The best I can do is acknowledge that it's a bit of both. And there are a lot of things going right, right now. But there's also, as we said earlier, and Ittai asked the question, there's a lot of dynamics out there that we're watching very closely. So sorry, I can't give you a better, more specific answer. But I think that's as honest as I can be.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          James Fish from Piper Jaffray.
+
+--------------------------------------------------------------------------------
+James Edward Fish,  Piper Jaffray Companies, Research Division - Research Analyst    [31]
+--------------------------------------------------------------------------------
+
+          It's been a while since we got a security metric update. Can you just kind of walk through some of the past metrics you've given or what you're willing to give today? I know in the past, you've given deferred revenue growth as well as penetration of certain products like FireAMP. And then secondly, HyperFlex version 3.0 was released, I believe, recently. Can we get an update as to kind of how we should think about the sizing of that business or any metrics around hyperconverged infrastructure and how it's competing against the Nutanixes of the world?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [32]
+--------------------------------------------------------------------------------
+
+          Sure. So like I said in the prepared remarks, on the security side, they continue to have -- they're over -- 60% of their business is software. And so obviously, they have a lot of their business going through deferred revenue, and they continue to grow in high double digits. So we feel good about that. They had a very strong Q4. And like I said, from a revenue perspective, it was broad-based this quarter, driving that 12% up on revenue. It was across all of their subsegments. So I'd say it's continuing to grow very quickly. And with this addition of Duo, it really just rounds out the portfolio very well. In terms of HyperFlex, I mean, that's growing very strongly for us. I think this new release has been well-received. And again, we find ourselves in a lot of head-to-head deals and winning against Nutanix, which is obviously a really tough competitor out there. But we feel good about the offer we have. Now it's really fairly small compared to the broader data center business that has all of our servers in there. But we're pleased with how it's ramping and how we're competing.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [33]
+--------------------------------------------------------------------------------
+
+          I think that's exactly right.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Simon Leopold from Raymond James.
+
+--------------------------------------------------------------------------------
+Simon Matthew Leopold,  Raymond James & Associates, Inc., Research Division - Research Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I wanted to see if maybe we could talk a little bit longer-term trending, big picture around the concept of multi-cloud, which you talked about at Cisco Live! and on a number of other occasions. Within the answer, I think what I'm looking for is how does this help the evolution and transformation? And importantly, how does this help Cisco do more business with the web-scale customers?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [36]
+--------------------------------------------------------------------------------
+
+          Yes, Simon, so it's a really good question. And I think the key message for us that we're trying to get across is that this transition to this multi-cloud world actually is changing the way our customers look at building their IT infrastructure and how they secure it. So if you just think very simply that -- look back over the last 5 to 7 to 10 years, a great majority of the traffic in our enterprise customers' networks was terminating in their private data centers. So networks were architected and security architectures were built to deal with that reality. Now we're moving into a world where there is still some percentage, depending on the customer, of their traffic that is obviously terminating in a private data center. Then they have traffic terminating in SaaS applications, in multiple public cloud providers. They have this whole IoT edge data aggregation issue. So what's happened is the traffic flows, and the way data is moving across their networks and across their infrastructure, is much more complex than it was 5 to 7 years ago, where it was all very predictable, which leads us to, when you think about, ultimately, our customers are going to just need to build a world where you look at the user, you look at the application, you look at their policy and you look at the destination, and then you have technology in the network that actually provides policy routing, quality security in that world. And that's the role that we're playing with our customers because they need to re-architect their networks to accommodate a massively diverse traffic flow scenario that they're going to deal with. So I'll stop with that right now, but that's why it's so important. And you asked what does that do to our partnerships with the web-scale providers. Well, they understand this dynamic that is going on. And so many of the -- you're seeing some early -- some of the early work we're doing with some of the web-scale providers to ensure that we have integrated hybrid cloud solutions so that we can provide security and policy, whether applications are in the private data center or in the public. They're interested in our ability to process data at the edge as customers are building out IoT applications. They're interested in us helping define security architectures that make it simple for our customers to take advantage of their services. So it's emerging as a really attractive partnership because of the reality that everybody sees in the marketplace today. And hopefully, that was clear. If not, we can have some folks talk to you afterwards.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          James Suva from Citigroup Global Markets.
+
+--------------------------------------------------------------------------------
+Jim Suva,  Citigroup Inc, Research Division - Director    [38]
+--------------------------------------------------------------------------------
+
+          A quick question, Chuck. Earlier in your remarks, you mentioned with service provider strength coming back that you don't believe it's 5G-related, that's more of a 2020 phenomenon. Can you give us a little bit about a history lesson here of back in 3G or 4G or 2G uptakes, was there a linear into-the-build that happened? Is there a pause before the [positive event] happens? Or is it just more of a steady as she goes, as we kind of look ahead more longer term, strategically to 5G impact to Cisco?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [39]
+--------------------------------------------------------------------------------
+
+          Yes, Jim, it's a good question. I think if you go back and look at the earlier transitions in this space, they have largely been around delivering, and I don't want to say incrementally better, but a better performance for mobile devices that are connected to the network already. So when you go from 3G to 4G, you get better data performance. You're happier with your apps on your phones, et cetera. This is a step-level difference because we're talking about the latency dynamics of 5G and the belief that this will actually enable them to deliver real-time business applications to small offices or remote branches over 5G networks. That's a completely different dynamic. And so I would tell you that we're -- we don't know yet. But I think if you operate under the assumption that it lives up to its billing, then it is going to create a significant demand on the core networks of the service providers. And so I can't say that there's a huge historical example for us to learn from. But I think what you're going to see is just between now and when they start building these things out, they're going to be working on design. And then we're just going to see them begin to gradually build out. As they open up a certain market, they'll build out bandwidth and backbone capacity. And that's how we're thinking about it. And we'll be able to give you guys updates on upcoming quarters as to how we see this thing emerging. It's not going to happen overnight.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Tal Liani from Bank of America Securities Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Tal Liani,  BofA Merrill Lynch, Research Division - MD and Head of Technology Supersector    [41]
+--------------------------------------------------------------------------------
+
+          I want to ask about the routing. Just again, it's repeatedly under pressure. And you gave an answer before about Viptela. You're saying that it's going according to the plan. I'm wondering if there's a link between the 2 yet or that the pressure in routing has to do with other things and not to do with SD-WAN. That's the first question, kind of to understand -- or maybe you can provide a different explanation, to understand the pressure on routing and what's the outlook for recovery. Or is it like Nokia and others are saying, that maybe there is a long-term pressure on this market? Second question, just a follow-up on 606. What's the impact on operating margin if you've provided this or you provide this information?
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [42]
+--------------------------------------------------------------------------------
+
+          Okay, Tal, let me make a comment on the first one, and then Kelly can add to it and then she can give the 606 answer as well. I think when you look at our routing business, first of all -- Kelly, half of it, 50%, 60% of it is SP, right? I mean, it's -- so it's significantly impacted by the SP. Some of the players you mentioned, they probably have a much higher percentage of their routing businesses coming from service providers, would be my guess. So that's just sort of couched in the discussion on 5G and everything that we've said so far about SP, I'd say, is the answer on that piece of it. From an enterprise perspective, Tal, I think over the last couple of years, we've just seen a classic architectural stall in the marketplace, as we've talked about historically when there's a big architectural transition. And you said that we believe Viptela was going according to plan. I think the way I would characterize it is we've begun to see customers actually move forward with deployments, but it's early. But we like where we are and we like what we see. So I think that -- I think we'll see the enterprise continue to improve relative to this architectural clarity. And I'll let Kelly answer sort of how you think about the overall routing or the 606 question.
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [43]
+--------------------------------------------------------------------------------
+
+          Yes, so on 606, Tal, so just to kind of, again, ground everybody on how we're impacted on 606, so one thing I will say is operationally, nothing has changed, right? We've made no changes to our offers. We've made no changes to our contracts or any changes to our cash conversion cycle. So it is literally just an accounting change. Now what the implications are to us is, like we've said, this is going to accelerate some of our term-based licenses. So we will have to write off some of our deferred revenue. We won't see that revenue, but we will offset that with acceleration of those offers when we book new orders and bill new orders. Net-net, we think it will be a net positive for us of approximately 1%. And so that's the impact on the revenue. It will fall through down through margin. So it's on operating margin, 0.5 point to 70 basis points, roughly, of goodness falling through there. And as we go into the new rev standard as part of our disclosures, we'll be laying out very clearly for everybody, since we have -- we're adopting the modified retrospective approach, we'll lay out very clearly the implications of the new accounting versus what it would have been under the old accounting. So hopefully, that answers your question.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          George Notter, you may go ahead, from Jefferies LLC.
+
+--------------------------------------------------------------------------------
+George Charles Notter,  Jefferies LLC, Research Division - MD & Equity Research Analyst    [45]
+--------------------------------------------------------------------------------
+
+          I guess, Kelly, I was curious about the revenue headwinds that you're seeing from the subscription transition. You've talked about that in the past. I'm just curious about what that might have looked like in the July quarter. And then what do you think that will look like for the October quarter?
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [46]
+--------------------------------------------------------------------------------
+
+          Yes, no, that's a great question, George. So there's good news. There's good news there, I would say. So like we anticipated, as we are so rapidly ramping the Cat 9K and as we are blowing out DNA across not only that, but also our Viptela offerings and across wireless, the revenue headwind was getting more closer to 2.5 to 3 points. Now the good news on this is with the new revenue standard going forward, because it's accelerating some of these offers that we did have previously defer, that headwind will become less of a headwind, okay? So as opposed to the 2.5 to 3 under current accounting standards, that will be much less, closer to like 1.5 point or so, if I had to guess roughly. And again, this will all flush out as we go through it, but it will become less of a headwind because we have such a big portion of things that we will now be recognizing upfront.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [47]
+--------------------------------------------------------------------------------
+
+          You said that it was a 1% increase on the other side...
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [48]
+--------------------------------------------------------------------------------
+
+          On the revenue, exactly, exactly.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [49]
+--------------------------------------------------------------------------------
+
+          So mathematically, it would become a down a point.
+
+--------------------------------------------------------------------------------
+Kelly A. Kramer,  Cisco Systems, Inc. - Executive VP & CFO    [50]
+--------------------------------------------------------------------------------
+
+          The good thing about this accounting standard is it does normalize some of the -- some of the natural headwinds we've had on revenue and margins because of it is now going to kind of come back and benefit us.
+
+--------------------------------------------------------------------------------
+Charles H. Robbins,  Cisco Systems, Inc. - Chairman & CEO    [51]
+--------------------------------------------------------------------------------
+
+          All right. I want to -- I think that was the last question, Marilyn? So if I could, just thank everybody for spending time with us today. Thanks for the questions and the dialogue. And Marilyn, I'll turn it back over to you.
+
+--------------------------------------------------------------------------------
+Marilyn Mora,  Cisco Systems, Inc. - Director of Global IR    [52]
+--------------------------------------------------------------------------------
+
+          Thanks, Chuck, and thanks, everyone. Cisco's next quarterly earnings conference call, which will reflect our fiscal 2019 first quarter earnings results, will be on Wednesday, November 14, 2018, at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. Again, I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter unless it is done through an explicit public disclosure. We now plan to close the call. If you have any further questions, please feel free to contact Cisco's Investor Relations department, and we thank you very much for joining the call today.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call (866) 417-5767. For participants dialing from outside the U.S., please dial (203) 369-0735. This concludes today's call. You may disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,486 @@
+
+
+Thomson Reuters StreetEvents Event Brief
+E D I T E D   V E R S I O N
+
+Q4 2017 Apple Inc Earnings Call
+NOVEMBER 02, 2017 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Luca Maestri
+   Apple Inc. - Senior VP & CFO
+ * Timothy D. Cook
+   Apple Inc. - CEO & Director
+ * Nancy Paxton
+   Apple Inc. - Senior Director of IR and Treasury
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Steven Mark Milunovich
+   UBS Investment Bank, Research Division - MD and IT Hardware and EMS Analyst
+ * Amit Jawaharlaz Daryanani
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Shannon Siemsen Cross
+   Cross Research LLC - Co-Founder, Principal and Analyst
+ * Kathryn Lynn Huberty
+   Morgan Stanley, Research Division - MD and Research Analyst
+ * Jim Suva
+   Citigroup Inc, Research Division - Director
+ * A.M. Sacconaghi
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Brian John White
+   Drexel Hamilton, LLC, Research Division - Global Head of Technology Hardware and Software, and Senior Equity Research Analyst
+ * Michael Joseph Olson
+   Piper Jaffray Companies, Research Division - MD and Senior Research Analyst
+
+================================================================================
+OVERVIEW
+================================================================================
+AAPL reported 4Q17 revenues of $52.6b and net income of $10.7b or $2.07 per diluted share. Expects 1Q18 revenue to be $84-87b.
+
+================================================================================
+FINANCIAL DATA
+================================================================================
+
+    1. 4Q17 revenue = $52.6b.
+    2. 4Q17 net income = $10.7b.
+    3. 4Q17 diluted EPS = $2.07.
+    4. 4Q17 YoverY revenue growth = 12%.
+    5. 4Q17 GM = 37.9%.
+    6. 4Q17-end cash plus marketable securities = $268.9b.
+    7. 4Q17 share repurchase = 29.1m shares for $4.5b.
+    8. 1Q18 revenue guidance = $84-87b. 
+
+================================================================================
+PRESENTATION SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+I. 4Q17 Review (T.C.)
+
+
+--------------------------------------------------------------------------------
+
+     1. Highlights:
+          1. Biggest year ever in most parts of world, with all-time record revenue in:
+               1. US.
+               2. Western Europe.
+               3. Japan.
+               4. Korea.
+               5. Middle East.
+               6. Africa.
+               7. Central and Eastern Europe.
+               8. Asia.
+          2. Had particularly strong finish this year.
+               1. Generated highest Sept. qtr. revenue ever as YoverY growth accelerated for fourth consecutive qtr.
+          3. Revenue $52.6b.
+               1. Above high-end of guidance range.
+               2. Up 12% YoverY.
+               3. Generated revenue growth across all product categories.
+                    1. Showed all-time record results for Services business.
+          4. As expected, returned to growth in Greater China with unit growth and market share gains for iPhone, iPad and Mac.
+               1. All-time record qtr. for Mac sales in mainland China and all-time high for Services revenue.
+          5. Revenue from emerging markets outside of Greater China was up 40% with great momentum in India, where revenue doubled YoverY.
+          6. Had great results in enterprise and education with double-digit growth in worldwide customer purchases of iPad and Mac in both markets.
+          7. GM in Sept. qtr. was at high-end of guidance range.
+          8. Record EPS, $2.07.
+               1. Up 24% YoverY.
+     2. IPhone:
+          1. Sales exceeded expectations.
+          2. In last week and a half of Sept., Co. began shipping iPhone 8 and iPhone 8 Plus to customers in more than 50 countries.
+               1. They instantly became Co.'s two most popular iPhone models and have been every week since then.
+          3. Launch of iPhone 10 is now underway as stores open across Australia and Asia.
+               1. iPhone is 10 packed with innovative new technologies that chart Co.'s path for next decades.
+               2. Orders have already been very strong.
+                    1. Working to get iPhone 10 into customers' hands as quickly as possible.
+     3. Services:
+          1. Revenue reached an all-time quarterly record of $8.5b in Sept. qtr.
+               1. Few quarters ago, Co. established a goal of doubling FY16 revenue of $24b by 2020.
+                    1. Well on way to meeting that goal.
+          2. In FY17, reached $30b, making Services business already the size of a Fortune 100 co.
+     4. iPad:
+          1. Second consecutive qtr. of double-digit unit growth.
+               1. Customers responded positively to new iPad lineup.
+     5. iOS:
+          1. Launch of iOS 11 made iOS world's largest platform for augmented reality (AR).
+               1. Believes AR is going to change the way one uses technology forever.
+          2. iOS 11 is allowing developers to integrate machine learning models into apps with Core ML.
+     6. Mac:
+          1. Had best year ever with highest annual Mac revenue in Co. history.
+               1. Best Sept. qtr. ever with 25% Mac revenue growth, driven by notebook refreshes Co. launched in June and a strong back-to-school season.
+          2. Mac experience has become even better since Sept. launch of Mac OS High Sierra with new technologies to make Mac more reliable, capable and responsive and lay foundation for future innovation.
+     7. Apple Watch:
+          1. Unit growth over 50% for third consecutive qtr.
+               1. Continues to be best-selling and most loved smart watch in world.
+          2. Began shipping Apple Watch Series 3 just six weeks ago.
+               1. Customers love new freedom of cellular.
+          3. Excited about upcoming Apple Heart Study, which will use data from Apple Watch to identify irregular heart rhythms and notify users when unusual patterns are detected.
+          4. Earlier this week, introduced watchOS 4.1, bringing 40m songs through Apple Music.
+               1. Thrilled with the momentum of these products.
+          5. Entire wearables business was up 75% YoverY in 4Q.
+               1. In FY17, already generated annual revenue of a Fortune 400 co.
+     8. Apple TV:
+          1. Late in Sept. qtr., launched Apple TV 4K, delivering a stunning cinematic experience at home.
+     9. Other Details:
+          1. Apple Michigan Avenue:
+               1. Opened two weeks ago on Chicago's Riverfront.
+               2. First store that brings together Co.'s complete vision for future of Apple retail, providing a welcoming place for everyone to experience products, services and inspiring educational programs right in heart of their city.
+               3. In addition to popular Today at Apple programing, which is available in all Apple Stores around world, Apple Michigan Avenue is partnering with local non-profits and creative organizations to make an ongoing positive impact in that community.
+          2. Swift Curriculum:
+               1. Expanded free app development with Swift curriculum to more than 30 community colleges across country.
+               2. Excited about this initiative and thrilled by momentum Co. is seeing.
+                    1. Schools Co. launched with summer are just beginning.
+          3. As Co. approaches holiday season, expects it to be Co.'s biggest qtr. ever.
+
+--------------------------------------------------------------------------------
+II. 4Q17 Financials (L.M.)
+
+
+--------------------------------------------------------------------------------
+
+     1. Highlights:
+          1. Sept. qtr. revenue $52.6b; record.
+               1. Up 12% YoverY.
+          2. Growth rate accelerated in every qtr. of FY17.
+               1. Terrific qtr. performance was broad based with:
+                    1. Revenue growth in all product categories for second qtr. in a row.
+                    2. New Sept. qtr. revenue records in Americas, Europe and the Rest of Asia Pacific segments.
+               2. Grew double-digits in US, Canada, Germany, France, Italy, Spain, Korea and several other developed markets.
+               3. Returned to growth in Greater China.
+                    1. Revenue up 12% YoverY.
+               4. With momentum in India, revenue doubled YoverY.
+               5. Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe.
+          3. Aforementioned results helped to fuel overall growth of over 20% from emerging markets.
+          4. GM 37.9%, at high-end of guidance range.
+          5. Operating margin, 25% of revenue.
+          6. Net income $10.7b.
+          7. Diluted EPS $2.07; new Sept. qtr. record.
+               1. Up 24% YoverY.
+          8. Cash flow from operations $15.7b; strong.
+     2. iPhones:
+          1. Sold 46.7m, up 3% YoverY.
+          2. Saw double-digit iPhone growth in many emerging markets including mainland China, Middle East, Central and Europe, India and Mexico.
+               1. Gained shares also in Canada, Germany, France, Italy, Spain, Sweden and Singapore based on latest estimates from IDC.
+          3. Channel inventory increased 1.3m units sequentially to support launch of iPhone 8 and 8 Plus, significantly less than increase in Sept. qtr. year ago.
+          4. In US, latest data from 451 Research on consumers indicates a customer satisfaction rating of 97% or higher across all iPhone models.
+               1. Among consumers planning to buy a smartphone in next 90 days, purchase intension for iPhone was 69%, more than five times rate of closest competitor with a loyalty rate for current iPhone owners of 95% vs. 53% for next highest brand.
+               2. For corporate smartphone buyers, iOS customer satisfaction was 95% and of those planning to purchase smartphones in Dec. qtr., 80% plan to purchase iPhone; highest score for iPhone in history of survey.
+     3. Services:
+          1. Set all-time quarterly record of $8.5b, up 34% YoverY.
+          2. Results included favorable one-time revenue adjustment of $640m.
+               1. On run-rate basis, excluding adjustments, services growth of 24% was terrific and highest that Co. has experienced this year.
+          3. App Store set a new all-time record.
+               1. According to App Annie's latest report, it continues to be preferred destination for customer purchases by a wide and growing margin, generating nearly twice the revenue of Google Play.
+               2. Getting great response to App Store's new design in iOS 11 from customers and developers.
+                    1. Seeing increases in frequency of customer visits, amount of time they spend in store and number of apps they download.
+          4. Success of Apple Music continues to build.
+               1. Seeing highest conversion rates from customers trying the service.
+               2. Revenue grew strongly in Sept. qtr.
+               3. Number of paid subscribers was up over 75% YoverY.
+          5. Saw great performance from iCloud business, with strong double-digit growth in monthly avg. users and revenue.
+          6. Across all services offerings, number of paid subscriptions reached over 210m at end of Sept. qtr., an increase of 25m in last 90 days.
+          7. Apple Pay:
+               1. Expanded to Denmark, Finland, Sweden and UAE last month.
+                    1. Continues to grow rapidly.
+               2. Over past year, active users have more than doubled and annual transactions are up 330%.
+               3. In US, 70% of leading grocery chains are now accepting Apple Pay with recent launch of Safeway.
+                    1. Over 5m US merchant locations will be Apple Pay enabled by end of this year.
+     4. Mac:
+          1. Set a new all-time revenue record of $25.8b in FY17.
+          2. Sold 5.4m Macs during Sept. qtr., up 10% YoverY.
+          3. Gained significant market share as global market contracted 1% based on IDC's latest estimate.
+               1. Performance was fueled primarily by greater demand for MacBook Pro.
+          4. Revenue grew 25% to new Sept. qtr. record.
+          5. Had outstanding results all around the world with each geographic segment growing Mac revenue by 20% or more.
+          6. Happy with success of Mac in education market.
+               1. Customer purchases grew double digits YoverY.
+     5. iPad:
+          1. Sold 10.3m units.
+               1. Up 11% YoverY with strong demand for iPad and iPad Pro.
+          2. Revenue grew 14%.
+          3. Saw iPad unit and revenue growth in all geographic segments and strong results in emerging markets, including Greater China, where iPad unit sales were up 25% YoverY and India, which grew 39%.
+          4. NPD indicates iPad had 54% share of US tablet market in Sept. qtr., including 7 of 10 best-selling tablets.
+               1. Up from 47% share a year ago.
+          5. Most recent surveys from 451 Research measured customer satisfaction rates of 97% across iPad models and among people planning to buy tablets purchase intent for iPad was over 70% for consumers and businesses.
+     6. Enterprise Market:
+          1. Seeing great momentum with enterprise initiatives.
+          2. During Sept. qtr., announced new partnership with Accenture, who is creating a dedicated iOS practice in select locations around world.
+               1. Experts from Co. are collocating with this team.
+                    1. Together they will be launching new tools and services that have enterprise clients transform how they engage with customers using iPhone and iPad.
+          3. Last month, announced a partnership with GE to reinvent the way industrial companies work by bringing GE's industrial IoT platform to iOS.
+               1. Prefix SDK for IOS will enable developers to build native apps to drive industrial operations with more efficiency and speed than ever before.
+               2. GE is also standardizing on iPhone and iPad for its global workforce of more than 330,000 employees.
+                    1. Working with Co., GE is developing iOS apps for internal and external audiences to bring predictive data and analytics to workers across broad range of industries.
+          4. Seeing great traction for Mac in enterprise market with all-time record customer purchases in FY17.
+     7. Stores:
+          1. Sept. qtr. was strong for retail and online stores, which welcomed 418m visitors.
+               1. Traffic was particularly heavy during week of new product announcements, up 19% over last year.
+          2. Retail ran a successful back-to-school promotion in Americas, Europe, China and Singapore with sales of Mac and iPad Pro up strong double-digits vs. last year's program.
+               1. Around the world, stores conducted over 200,000 Today at Apple sessions during qtr.
+     8. Cash Position:
+          1. 4Q17-end cash plus marketable securities, $268.9b.
+               1. Up $7.4b sequentially.
+               2. $252.3 of cash, 94% for total, was outside US.
+          2. Issued $7b in new Canadian and US dollar denominated debt during qtr., bringing Co. to $104b in term debt and $12b in commercial paper outstanding.
+          3. Returned $11b to investors during qtr.
+               1. Paid $3.3b in dividends and equivalents and spent $4.5b on repurchases of 29.1m shares through open market transactions.
+               2. Launched new $3b ASR program, resulting in initial delivery and retirement of 15.1m shares.
+                    1. Retired 4.5m shares upon completion of 11th ASR during qtr.
+               3. Completed almost $234b of $300b capital return program, including $166b in share repurchases.
+     9. Dec. Qtr. Outlook:
+          1. Dec. qtr. in FY17 spanned 14 weeks.
+               1. Dec. qtr. this year will include usual 15 weeks.
+          2. Revenue $84-87b.
+          3. GM 38.0-38.5%.
+          4. OpEx 7.65-7.75b.
+          5. OI&E about 600m.
+          6. Tax rate about 25.5%.
+     10. Others:
+          1. On 11/02/17, Board of Directors declared cash dividend of $0.63 per share of common stock, payable on 11/16/17 to shareholders of record as of 11/15/17.
+
+
+================================================================================
+QUESTIONS AND ANSWERS
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) First, we'll hear from Katy Huberty with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty,  Morgan Stanley, Research Division - MD and Research Analyst    [2]
+--------------------------------------------------------------------------------
+Luca, when do you expect to catch up with iPhone X demand? And given it's likely to be not in the December quarter, should we think about March as a better-than-seasonal revenue quarter because of that iPhone X ramp? And then, I have a follow-up.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+I'll take that, Katy. It's Tim. The ramp for iPhone X is going well, especially considering that iPhone X is the most advanced iPhone we've ever created and it has lots of new technologies in it. And so we're really happy that we're able to increase week-by-week what we're outputting, and we're going to get as many of them as possible to the customers as soon as possible. And so it's -- I can't predict at this point when that balance will happen. We -- and on -- in terms of March, we obviously don't give -- we don't give guidance beyond the current quarter.
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty,  Morgan Stanley, Research Division - MD and Research Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. And in China, growth returned to strong double digits, 12% up. You've talked historically about that region being more sensitive than others to form factor changes and the new iPhone X form factor was not available in September. And so, should we assume that growth in that region only accelerates from here as that new product gets pushed into the market?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Let me talk a little bit about Q4 in China to give you a little bit of color on the results. The -- we increased market share for iPhone, Mac and iPad during the quarter. We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter. We had very strong iPad revenue growth. We had double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter. And so, the results were broad based. They were pretty much across the board, as I indicated. The other thing that happened is that the decline that we've been experiencing in Hong Kong moderated. And so it's still down year-over-year, but less so than it was. And part of that is the compare is an easier compare. And then, finally, in terms of another headwind that is a little less than it was, currency has been affecting us more significantly last quarter in China. It affected us 1 percentage point. And so the sum of all that, I feel great about the results. We don't obviously provide geographic-specific guidance, but you can see from our overall guidance, we think we're going to have a really strong quarter.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+From Piper Jaffray, Mike Olson.
+
+--------------------------------------------------------------------------------
+Michael Joseph Olson,  Piper Jaffray Companies, Research Division - MD and Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+Is there any information you can provide on how iPhone X preorders compare to what you saw with iPhone 8 preorders? And then, I have a follow-up as well.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Michael, we never go through mix. But I would share with you that the iPhone X orders are very strong for both direct customers and for our channel partners, which as you know, are lots of carrier throughout the world. And we couldn't be more excited to get underway. And I think as of a few minutes ago, the first sales started in Australia. And I'm told we had several hundred people waiting at the store in Sydney and I'm getting similar reports from across that region.
+
+--------------------------------------------------------------------------------
+Michael Joseph Olson,  Piper Jaffray Companies, Research Division - MD and Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+And we're excited about augmented reality. And from your perspective and maybe from our perspective on the outside looking in, how do we gauge the success of AR? And what are some of the applications of the technology that you're most excited about today?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [10]
+--------------------------------------------------------------------------------
+Yes, it's a great question.  The reason I'm so excited about AR is I view that it amplifies human performance instead of isolates humans. And so, as you know, it's the mix of the virtual and the physical world. And so it should be a help for humanity, not an isolation kind of thing for humanity. As I go through different countries, as I've been traveling lately and looking at things, some things in the market, other things that are coming, the very cool thing is they're all over the place. I see things that the consumer's going to love because it's going to change shopping. I see things that consumers will love on the gaming side and the entertainment side. I see business-related AR apps as well that are going to be great for productivity and between small and large business. And I see apps that makes me want to go back to K-12 again and repeat my schooling because I think it changes the game in the classroom a lot. And so the real beauty here is that it's mainstream. And of course, Apple is the only company that could have brought this, because it requires both hardware and software integration and it requires sort of making a lot of -- or giving the operating system update to many people at once. And we -- and the software team worked really hard to make that go back several versions of iPhone so that we sort of have hundreds of millions of enabled devices overnight. And so there's 1,000-plus in the App Store right now. I think this is very much like in 2008, when we fired the gun in the overall App Store. And so, that's what it feels like to me, and I think it will just get bigger from here.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+From Cross Research, Shannon Cross.
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal and Analyst    [12]
+--------------------------------------------------------------------------------
+A couple questions. The first, Tim, can you talk a bit about how you're thinking in terms of the lineup? You go from $340 -- and this is for iPhone. You go from $349 to above $1,000, and it appears that you probably sold a fair amount of the lower end, perhaps that was just some of the switchers in China and maybe drove some of the growth in China in terms of market share. But how are you sort of thinking about what went into the guidance for the December quarter? Are you seeing really strong demand at the low end? And obviously, expected benefit from the X at the high-end. I'm just trying to understand, because you have such a broader lineup than you've had in prior years.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [13]
+--------------------------------------------------------------------------------
+Yes, in terms of what we saw in Q4, you can probably tell from the ASP, we had good success, I would say, through the different iPhones. And we've tried hard to have an iPhone that is as affordable as possible for people that really want an iPhone that may have a more limited budget, and we've got some iPhones that are really great for that market. And then, we've got 3 new iPhones, and people will look at these and decide which one they want. And so we -- this is the first time we've ever been in the position that we've had 3 new iPhones at once like this at the top end of the line. And it's the first time we've had a staggered launch. And so, we're going to see what happens. But we've put our absolutely best thinking that we have here in the guidance that Luca presented. And you can tell from that, that we're bullish.
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross,  Cross Research LLC - Co-Founder, Principal and Analyst    [14]
+--------------------------------------------------------------------------------
+Great. And then, in terms of services, $8.5 billion, up 34%. Can you talk about some of the portions of that, that outperformed? How sustainable? You mentioned China in terms of significant growth in services. But I'm just curious, it's a pretty remarkable number, so I'm curious what the drivers were.
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - Senior VP & CFO    [15]
+--------------------------------------------------------------------------------
+Yes, Shannon, it's Luca. As I mentioned in the prepared remarks, there was a $640 million adjustment. There was a one-off change. And it's important to call it out because, of course, it's a one-off. And so, the underlying growth rate for services in the quarter was fantastic, was 24%, the highest growth rate that we've had for services during fiscal '17. So the business is going incredibly well. I would highlight maybe 3 of these businesses within services. The App Store set a new all-time record. It's growing incredibly well. The number of paying accounts continues to grow very strongly, and that's very, very important to us for the App Store business. Apple Music was up -- subscriptions were up 75% year-over-year. We're getting the highest conversion rates that we've had since the launch of the service. And so we turned the corner in music. You remember that a few years ago, we were actually declining in music; now with the streaming service in addition to the download business, the business is growing again. And that really helps the growth rate for the entire Services business. iCloud is a service that continues to grow very strong double digits, and that's also helping. So we already become the size of a Fortune 100 company. We set a goal for ourselves to double what we did in fiscal '16 and the trajectory is actually quite positive.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Steve Milunovich with UBS.
+
+--------------------------------------------------------------------------------
+Steven Mark Milunovich,  UBS Investment Bank, Research Division - MD and IT Hardware and EMS Analyst    [17]
+--------------------------------------------------------------------------------
+I wanted to try to push a little bit more on the mix. Could you comment whether the 8 Plus outsold the 8 in the quarter? There seems to be some data that suggests that. And the 451 Research survey that you're alluding to also finds that over the next 90 days, those buying an iPhone, 43% are planning on buying the X. Could you comment upon your expectations in terms of the mix going forward? And if you won't do that, perhaps you could comment a bit about you're thinking in terms of pushing price elasticity. I think a couple of years ago, no one would have imagined selling a phone at this price. And obviously, you're pretty confident that you can do it.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [18]
+--------------------------------------------------------------------------------
+Obviously, I'm not going to talk about mix. It's not something that we've done in the past. If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products. If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model. That, for us, was a bit of a surprise, and it's a positive surprise, obviously. And so we'll see what happens next. As I've mentioned before, we've never had 3 products, and it's only today that the first customers can certainly look at all 3 of those. And I'm sure there's been some people that wanted to do that before deciding even which one. And so we'll see what happens there. But in terms of price elasticity, I think it's important to remember that a large number of people pay for the phone by month. And so if you were to go out on the -- just the U.S., since that tends to be more the focus of this call. If you look at the U.S. carriers, I think you would find -- you could buy an iPhone X for $33 a month. And so if you think about that, that's a few coffees a week. It's less than a coffee a day at one of these nice coffee places.  The other thing to keep in mind is that many people are now trading in their current iPhone on the next iPhone. And the residual value for iPhone tends to be the highest in the industry and many people pick up $300, $350 or so for their iPhone. And so that even reduces the monthly payment less. And then, obviously some carriers also have promotional things going on. And so I do think it's important to try to place it in that context. In terms of the way we price, we price to the sort of the value that we're providing. We're not trying to charge the highest price we could get or anything like that. We're just trying to price it for what we're delivering. And iPhone X has a lot of great new technologies in there that are leading the industry, and it is a fabulous product and we can't wait for people to start getting it in their hands.
+
+--------------------------------------------------------------------------------
+Steven Mark Milunovich,  UBS Investment Bank, Research Division - MD and IT Hardware and EMS Analyst    [19]
+--------------------------------------------------------------------------------
+And then, I wanted to ask. The Street historically has been a little skeptical about continued innovation, and you suggested there is more to grow. Historically, you weren't first to large screens. You weren't first to OLED. Now, though, you're leading in AR. You're leading with Face ID, which [the all-in a year ago, as some of your guys had suggested, was kind of very reminiscent of the aggressive Apple. Is it possible going forward that you could accelerate share gains from Android because you're now in a stronger competitive position?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+I think, Steve, we've been in a competitive position. And so, I probably -- maybe have a different view than you do or the folks that you're quoting. There's always doubting Thomases out there. I've been hearing those for the 20 years I've been here and suspect I'll hear about them until I retire. And so, I don't really listen to that too much. There's lots of fantastic people here and they're doing unbelievable things. And yes, I view AR as profound. Not today, not the apps that you'll see on the App Store today, but what it will be, what it can be, I think its profound and I think Apple is in a really unique position to lead in this area.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+We'll go to Toni Sacconaghi with Bernstein.
+
+--------------------------------------------------------------------------------
+A.M. Sacconaghi,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [22]
+--------------------------------------------------------------------------------
+Just following up a little bit on that question, Tim. You talked a bit about providing a lot of value and that Apple sets its prices according to value. And I think, given the uniqueness of the product you have with the iPhone X in particular, that makes a lot of sense. I guess, the question is, given the uniqueness of the value that you have in the marketplace, why shouldn't we -- should we or why shouldn't we expect gross margins to improve this cycle versus previous ones? And perhaps, you can talk a little bit about how you think about pricing in the context of gross margin. And I have a follow-up, please.
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - Senior VP & CFO    [23]
+--------------------------------------------------------------------------------
+Toni, I'll take that one. When -- you said, we price our products for the value that we deliver.  We also said that every time we launch new products, the cost structures of the new products tend to be higher than the products that they replace. It's inevitable. We are adding new technologies, new features. And therefore, the cost structures go up. We have a very good track record of taking those cost structures and, over the life cycle of the product, we are able to bring them down. There are a lot of elements in the gross margin line that we have good control over and we -- there are also elements that we don't control. Take for example, foreign exchange, which has been a significant headwind for the company for the last 3 years now. Also, the mix of products that we sell into the market tends to change over time. And that also has an impact on the overall gross margin for the company. There are situations where the commodities markets are in good shape. There are situations where commodity markets can be a bit out of balance. We have a case right now around memory pricing, which is a headwind for the time being. So there's many puts and takes. The fact that our Services business is growing should be a positive because our services margins tend to be accretive to company margin. So there's many puts and takes that we tend to think about maximizing gross margin dollars. And -- because we think that's the most important thing for investors at the end of the day.  When we look at our track record over years, I think we found a good balance between unit growth and gross margins and revenue, and we will continue to do that as we go forward.
+
+--------------------------------------------------------------------------------
+A.M. Sacconaghi,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [24]
+--------------------------------------------------------------------------------
+Okay. And then, I wanted to revisit this notion of supply and demand. And I realize it's very early and you can't make predictions. I think, a common investor question is the iPhone X was made available for sale; it quickly had pushed out availability levels to unprecedented levels versus history. And so I think the really significant question is, is that initial pushout really a function of uniquely strong demand versus history? Or is that pushout in availability really a function of much weaker supply versus history? So it would be really helpful.  You have in the past commented on first 24-hour orders for which there were 4 million-plus for the iPhone 6 and 6 Plus. You have, very often on this call, talked about targeting when you think you could reach supply-demand balance. So it'd be really helpful if you could provide some context in terms of what you know either about initial orders or about the supplies versus history that can help investors try and better understand the little data points that they're seeing in terms of availability of the device.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [25]
+--------------------------------------------------------------------------------
+That truth is, we don't know. We've put our best estimate into the guidance. And you can see from the guidance that we're very bullish. And so, we feel really great about our -- about the product lineup. We're -- just sold the first units minutes ago. And so we'll see how things go. Until you get all of them out there, where customers have the ability to demo and so forth, I think it's -- I think any kind of mix discussion is very much estimating. And so we put our best estimates in but granted, we've never done this before. So there's no comparison here, with either the 3 iPhones nor the staggered launch. And so, we're going to learn something.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+We go to Jim Suva with Citigroup.
+
+--------------------------------------------------------------------------------
+Jim Suva,  Citigroup Inc, Research Division - Director    [27]
+--------------------------------------------------------------------------------
+And I'll ask my original question and follow-up at the same time because they're slightly different topics. But you had mentioned great success in India, I believe, Tim.  In your prepared comments, you mentioned, I think, India had doubled year-over-year. Based upon market analysis, it looks like Apple is still just a relatively small sliver of the pie there. So Tim, what would it take to be even more successful in India? Is it a manufacturing footprint there with your partners? Is it more physical stores? Is it lower price points? Is it the bandwidth that has now caught up to many other countries? Or how should we think about that? And then, the follow-up question is on the AR/VR, when will it really show up in your income statement? Are you hoping more for hardware sales or services to the apps or where the excitement will then be monetized within Apple?
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [28]
+--------------------------------------------------------------------------------
+In terms of India, many of the things that you mentioned are correct. Growing a market like India is a result of all of those things and doing them all well. And so, it's analogous to the many years that we put into China. It's building stores. It's building channels. It's building markets. It's building the developer ecosystem. It's having the right product lineup for the market. And I feel like we're making good progress there and are gaining understanding of the market, but we still have a long way to go. I don't -- which I sort of see as an opportunity instead of a problem. And I do feel great about the growth rate. And so, that's India. I think it's all of those things. As you know, we -- as I've said, I think we talked about before, we started manufacturing the iPhone SE there 6, 9 months ago. So -- and the majority of iPhone SEs that we sold in the domestic market last quarter were manufactured there. And so we also have that going and are hoping that, that winds up saving some amount of money over time and avoiding some of the compounding of taxes, et cetera. The bandwidth issue has also been an issue, but as you point out, it is being addressed. And between the large carriers there with Bharti and now Jio investing the way they are, the service in India is materially better than it was just 12 months ago. So there's been a sea change there in a short period of time. So I feel good about all that, but we have a long way to go. In terms of the monetization question on AR/VR, we tend to focus first and foremost on customer experience. And so we're all about making sure the experience is great. And we think that if we get the experience right, that revenues and profits will be a result of getting that right. And so we're much -- we're very much focused on the experience right now.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+That will come from Amit Daryanani with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  RBC Capital Markets, LLC, Research Division - Analyst    [30]
+--------------------------------------------------------------------------------
+I have 2 as well. I guess, maybe to start with on gross margins. Luca, year-over-year, revenues are going to be up high single-digits at the midpoint, gross margins will be down a little. Could you just talk about what other puts and takes on that.  And are yield and efficiencies broadly much more severe this time versus what you've seen historically?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - Senior VP & CFO    [31]
+--------------------------------------------------------------------------------
+Yes, Amit. So we're guiding 38% to 38.5%. That's up 35 bps sequentially. Obviously, we're getting the leverage from the larger volumes. As I mentioned, I think, to Toni, we have higher cost structures every time we launch new products. So that is going to be the offset. And I mentioned, particularly the impact from the memory pricing environment, which is a headwind at this point. Just to size it for you, the impact of memory on our gross margin is 40 bps sequentially and 110 bps on a year-over-year basis. So they are meaningful impacts. And I think that is what, I think, probably you're referring to.
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani,  RBC Capital Markets, LLC, Research Division - Analyst    [32]
+--------------------------------------------------------------------------------
+Got it. That's really helpful. And I guess, if I could just follow up on the services line. You just talked about it a fair amount earlier, but even if I exclude the onetime gain, it looks like the back half of '17 accelerated by 500 basis points in fiscal '17 versus the first half of '17. Qualitatively or quantitatively, is there a way to think about how much of this is from expanding the installed base, which is 1 of the 3 things you mentioned, I think, versus more dollar per iOS device that you're seeing?
+
+--------------------------------------------------------------------------------
+Luca Maestri,  Apple Inc. - Senior VP & CFO    [33]
+--------------------------------------------------------------------------------
+Yes, I think it's both. As I mentioned, particularly on the App Store, which is very important to us, the number of paying accounts has grown a lot. It's grown a lot because, as you said, the installed base has grown, but also because we have made a number of changes that have made it easier for our customers around the world to participate on the App Store and be able to transact on the Apps Store. We are accepting, for example, more forms of payment today than we were 12 months ago or even 6 months ago. So that's been very important. We also see that there is a typical spending curve for our customers when they start transacting on the store. They start at a certain level and they tend, over time, to get more familiar with the store and they start to spend more. We're also now very recently made some changes, as you probably have seen, to the design of the App Store. And I was mentioning during the prepared remarks that these changes have been received very favorably. And so, people now are spending more time on the store, they download more apps and then, over time, translates into monetization. But we also have other businesses that are growing very, very fast and actually accelerating. I mentioned Music; I mentioned iCloud. And so it all adds up. And as you correctly point out, our growth rate is accelerating.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+From Drexel, we'll hear from Brian White.
+
+--------------------------------------------------------------------------------
+Brian John White,  Drexel Hamilton, LLC, Research Division - Global Head of Technology Hardware and Software, and Senior Equity Research Analyst    [35]
+--------------------------------------------------------------------------------
+Yes, Tim, wondering if we take a look at mainland China and we think about iPhone 8 and iPhone 8 Plus, they've been on sale for a while now. What has been the -- just general response to those 2 new iPhones? And also, preorders around the iPhone X in mainland China.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [36]
+--------------------------------------------------------------------------------
+Brian, I hate to repeat this, but we don't really disclose mix. We view it as competitive information that we want to hold tightly ourselves. In terms of the way the preorder process works in China in the channel, so not in our direct channel, but in the broader carrier channel and channel, they generally take indications of interest versus something that I would label a preorder. And so, I would hesitate to even quote a number for fear it could be misconstrued. And we'll find out what the demand and where the supply and demand meets sometime in the future. I don't know when yet. But we're really excited to get going to find out.
+
+--------------------------------------------------------------------------------
+Brian John White,  Drexel Hamilton, LLC, Research Division - Global Head of Technology Hardware and Software, and Senior Equity Research Analyst    [37]
+--------------------------------------------------------------------------------
+And Tim, it's interesting that sales grew 16% sequentially. If you look at the past 5 years, sales were up 7% in the September quarter. So that's an average. Yet you didn't have all your iPhones in the market. So if you had to -- what would you attribute that to? It's a pretty big disconnect, 16% versus an average of 7%.
+
+--------------------------------------------------------------------------------
+Timothy D. Cook,  Apple Inc. - CEO & Director    [38]
+--------------------------------------------------------------------------------
+Our emerging market performance during the quarter was very strong. Not -- and if you take China out, it's even stronger. But you can see the -- that China rebounded. And as I've indicated before, the China rebound was broad-based across the products. And so we just had a phenomenal quarter on iPad, on the Mac, on Services, on Apple Watch, on iPhone. I mean, we're literally, we're firing on all cylinders. And so that's what -- that and our new products give us great confidence headed into this holiday season that this is going to be the best holiday season yet.
+
+--------------------------------------------------------------------------------
+Nancy Paxton,  Apple Inc. - Senior Director of IR and Treasury    [39]
+--------------------------------------------------------------------------------
+Thank you, Brian. A replay of today's call will be available for 2 weeks on Apple podcast as a webcast on apple.com/investor and via telephone. And the numbers for the telephone replay are (888) 203-1112 or (719) 457-0820, and please enter confirmation code 2484260. These replays will be available by approximately 5 p.m. Pacific Time today. Members of the press with additional questions can contact Kristin Huguet at (408) 974-2414, and financial analysts can contact Joan Hoover or me with additional questions. Joan is at (408) 974-4570 and I'm at (408) 974-5420. Thank you again for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, that does conclude today's presentation. We do thank everyone for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

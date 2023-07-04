@@ -1,0 +1,657 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2018 ASML Holding NV Earnings Call
+OCTOBER 17, 2018 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Skip Miller
+   ASML Holding N.V. - VP of IR
+ * Peter T. F. M. Wennink
+   ASML Holding N.V. - President, CEO & Chairman of the Management Board
+ * R. J. M. Dassen
+   ASML Holding N.V. - Executive VP, CFO & Member of the Management Board
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mehdi Hosseini
+   Susquehanna Financial Group, LLLP, Research Division - Senior Analyst
+ * Stephane Houri
+   ODDO BHF Corporate & Markets, Research Division - Research Analyst
+ * Amit B. Harchandani
+   Citigroup Inc, Research Division - VP and Analyst
+ * Alexander Duval
+   Goldman Sachs Group Inc., Research Division - Equity Analyst
+ * Christopher James Muse
+   Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+ * John William Pitzer
+   Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head
+ * Tammy Qiu
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Adithya Satyanarayana Metuku
+   BofA Merrill Lynch, Research Division - Associate
+ * Mitchell Toshiro Steves
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Sandeep Sudhir Deshpande
+   JP Morgan Chase & Co, Research Division - Research Analyst
+ * Sreekrishnan Sankarnarayanan
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Andrew Michael Gardiner
+   Barclays Bank PLC, Research Division - Director
+ * David Terence Mulholland
+   UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the ASML 2018 Third Quarter Financial Results Conference Call on October 17, 2018. (Operator Instructions) I would now like to open the question-and-answer queue. (Operator Instructions) 
+I would now like to turn the conference call over to Mr. Skip Miller. Go ahead please, sir.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Good afternoon. Good morning, ladies and gentlemen. This is Skip Miller, Vice President of Investor Relations at ASML. 
+Joining me today from ASML headquarters in Veldhoven in the Netherlands is ASML CEO, Peter Wennink; and our CFO, Roger Dassen. 
+The subject of today's call is ASML's 2018 third quarter results. The length of this call will be 60 minutes, and questions will be taken in the order that they are received. This call is also being broadcast live over the Internet at asml.com. A transcript of management's opening remarks and a replay of the call will be available on our website shortly following the conclusion of this call. 
+Before we begin, I'd like to caution listeners that comments made by management during this conference call will include forward-looking statements within the meaning of the federal securities law. These forward-looking statements involve material risks and uncertainties. For a discussion of risk factors, I encourage you to review the safe harbor statement contained in today's press release and presentation on our website at asml.com and in ASML's annual report on Form 20-F and other documents as filed with the Securities and Exchange Commission. 
+With that, I'd like to turn the call over to Peter Wennink for a brief introduction.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Skip. Good morning and good afternoon, ladies and gentlemen. And thank you for joining us for our Q3 2018 results conference call. 
+Before we begin the question-and-answer session, Roger and I would like to provide an overview and some commentary on the third quarter as well as provide our view of the coming quarters. Roger will start with a review of the third quarter financial performance and -- with some added comments on our short-term outlook. And I will complete the introduction with some additional comments on the current business environment and our future business outlook. 
+And Roger, if you will?
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Peter, and welcome, everyone. 
+I will first highlight some of the third quarter accomplishments and then provide our expectations for the fourth quarter of 2018. Q3 net sales came in at EUR 2.78 billion, which was towards the higher end of our expectation. Net system sales of EUR 2.08 billion was a bit more weighted towards memory at 58%, with the remaining 42% from logic. EUV revenue of EUR 513 million was from 5 shipments. Installed Base Management sales for the quarter came in at EUR 695 million. Gross margin for the quarter was 48.1%, just above our expectation, reflecting the strength of our Deep UV and Applications business as well as the progress in EUV profitability. Overall, R&D and SG&A expenses basically came in as expected, with R&D expenses at EUR 397 million and SG&A expenses at EUR 122 million. 
+Turning to the balance sheet. EUR 362 million worth of shares were repurchased in Q3. This leaves around EUR 1.7 billion on the 2018/19 share buyback program remaining. We ended last quarter with cash, cash equivalents and short-term investments at a level of EUR 2.95 billion. 
+Moving to the order book. Q3 system bookings came in at EUR 2.20 billion. Memory order intake continued to be strong, 64% of total value. Logic made up the remaining 36% of the bookings. We took 5 new EUV orders in the quarter, which contained a mix of both logic and memory. 
+With that, I would like to turn to our expectations for the fourth quarter of 2018. We expect Q4 total net sales of about EUR 3 billion, leading us to expect another record year with close to EUR 11 billion of revenue. Our total net sales forecast for the quarter includes around EUR 500 million of EUV system revenue from 5 EUV systems. We currently expect to ship 6 systems in Q4, including 1 EUV system to a collaborative research center, imec, which will not be recorded in revenue but will be used to settle R&D services from imec. Q4 will be our highest EUV shipment quarter to date, bringing the total to 18 systems in 2018. 
+Due to a combination of end-of-year production challenges and customer readiness, we now expect a couple of the originally planned 2018 ship -- systems to ship in early 2019. We expect the EUV order flow to continue next quarter in which -- that we will basically have our 30 systems planned for 2019 covered by purchase orders by the end of this year. 
+We expect our Q4 Installed Base Management revenue to be similar to last quarter at around EUR 700 million. Gross margin for Q4 is expected to be around 48%. Taking Q4 guidance into account, gross margin for the full year would be around 47%, which is a step-up from last year's 45% gross margin. This reflects the strength of our Deep UV and Applications business as well as continued progress in EUV profitability. The higher R&D expenses for Q4 of about EUR 420 million are due to an acceleration of the NXE:3400C road map and the High-NA EUV program. SG&A is expected to come in at about EUR 135 million. We remain excited about 2018 as the customers' demand for our products continues to be strong. We look forward to delivering another record year with continued strong growth in both sales and profitability. 
+With that, I'd like to turn the call back over to Peter.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Roger. 
+As Roger highlighted, we had another good quarter, and we expect the fourth quarter to be even stronger. With the current guidance, we expect that our sales for the year will be close to EUR 11 billion and that our profitability will improve over last year. Now we continue to see strong demand for our products in both logic and memory as witnessed by our strong order book. Logic customers continue to ramp the 10-nanometer node and are also starting to ramp 7-nanometer. As customers prepare the ramp of the 7-nanometer node, it's -- it not only drives EUV demand but also drives significant demand of increase for EUV. 
+In DRAM, customers are continuing with technology migrations as well as adding wafer capacity additions to meet bit demand growth, evidenced by our strong third quarter order intake for memory. Now we believe that the limited number of wafer capacity additions by a limited number of customers combined with a healthy demand for DRAM bits should not lead to a structural overcapacity in this industry segment. 
+In NAND, significant 2D to 3D conversions have taken place next to investments in several greenfield fabs. This is likely creating a period of some digestion as we mentioned in prior quarters. With regards to China, we continue to see strong demand for a broad suite of our products. The China region has delivered around 20% of our sales this year, is on track to set another record revenue number. This is driven by both multinational customers as well as domestic China customers. And all 5 domestic customers that we discussed in prior quarters, at least -- so far with capacity in place now and are looking to begin the ramping next year. We believe this region presents a significant growth opportunity under the assumption that these ramps of the domestic customers are successful and that more domestic customers will follow through with their investment plans. 
+On the ASML product side, let me start with an update on our EUV business. 
+In EUV, we continue to make good progress. We have multiple NXE:3400C systems at customer sites that are running at 125 wafers per hour or higher and are ready for high-volume manufacturing. Availability is progressing in support of customer volume ramp with a clear focus on machine consistency. The overall progress has led to the decision to accelerate our EUV road map. And we are, as a result of this, now planning the introduction of our next-generation 0.33 NA EUV system called the NXE:3400C in the second half of 2019. This system will deliver productivity of over 155 wafers per hour. But we will talk more about the performance specifications and the road map during our Investor Day next month. 
+As Roger mentioned, we continue to increase our shipments per quarter and plan to ship 6 systems in Q4, bringing the total to 18 systems in 2018. As we mentioned in earlier calls, this year our production output is heavily back-end loaded, which has led to some production output challenges, combined with customer fab readiness logistics. We now plan to ship a couple of systems originally planned in 2018 now in early 2019. Our shipment plan for 2019 remains at 30 systems as we now have an increased mix of the NXE:3400C systems in the second half of 2019, which will enable a significantly higher wafer output capability in the earlier specified 125 wafers per hour. With this higher productivity, we expect that we'll be able to meet our customers' current EUV capacity plans in 2019. And as Roger mentioned, we expect order flow to continue next quarter, expect to have our 2019 demand for EUV will be covered by orders by the end of the year. 
+In Deep UV, on the introduction of the NXT:2000 system into the market is making significant progress and will be used in volume manufacturing for both memory and logic. We're also seeing significant demand for our dry products in support of a number of greenfield fab ramps in China and other regions. 
+In our application business, we continue to see growth across our full portfolio of software and metrology products, notably related to the adoption of our 
+YieldStar 375 system expanding from logic and DRAM now also into 3D NAND manufacturing. 
+To summarize 2018, we expect the growth to continue from Q3 to Q4 to set us up for another record year in both sales and profitability. 
+Now regarding 2019, it's a bit too early to provide detailed guidance, but I will provide some qualitative comments regarding our initial views. We continue to see strong demand for our products in both memory and logic in support of our bookings, and DEEP UV demand continues to be healthy in memory, as discussed earlier. And we expect DEEP UV demand in logic to further strengthen in 2019, driven by the 10- and 7-nanometer ramps. 
+Furthermore, we expect continued growth for our applications business with the expansion of both metrology as well as software products. EUV demand continues to be driven by logic, but also with the clear opportunity in DRAM that we meet our availability and productivity targets. 
+EUV revenue growth is expected from both the significant increase in new shipments as well as a higher ASP of the NXE:3400C, which shipments are planned starting, as we said earlier, the second half of 2019.
+Furthermore, we expect customers to take advantage of system performance upgrades of their installed base to maximize capital efficiency. Our current view of the overall business next year remains positive. We expect the first half to be somewhat similar to the second half of this year, with business strengthening in the second half 2019. Our installed base will continue to grow, driving increased service revenue. Furthermore, we expect customers to take advantage of system performance upgrades of our installed base to maximize capital efficiency. 
+Now putting this all together, we expect another year with good growth opportunity. I think we're well on track to achieve our 2020 targets. We have a significant growth potential beyond 2020, and we plan to communicate the size and the extent of this growth opportunity through 2025 in our Investor Day, which we will hold on November 8 this year.
+And with that, we will be happy to take your questions.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [6]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, the operator will instruct you momentarily on the protocol for the Q&A session. (Operator Instructions) Now operator, can we have your final instructions and then the first question, please.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) The first question comes from Mr. Sreekrish Sankar.
+
+--------------------------------------------------------------------------------
+Sreekrishnan Sankarnarayanan,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hello. can you hear me?
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [3]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [4]
+--------------------------------------------------------------------------------
+
+          Loud and clear.
+
+--------------------------------------------------------------------------------
+Sreekrishnan Sankarnarayanan,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Two of them. First one, Peter, looks like your demand from your memory customers has been very strong so far. And you also -- both in terms of bookings and sales and you're also guiding to have strength into 2019. Just want to know, can you tell what's been going on in the memory industry with NAND, pricing, business and potential CapEx, plus in NAND and DRAM? And how do you confirm that your numbers, and where do you see the strength in 2019? Is it going to be DRAM or NAND in the first half? And then I have a follow-up.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [6]
+--------------------------------------------------------------------------------
+
+          Okay. Well, I think you're all throwing memory into one big heap. But it is, of course, you need to separate, as you indicated, between NAND and DRAM. So let me talk about those separately. On DRAM, we haven't see CapEx [crest]. We have seen, in this year, some pushouts but also pull-ins for different customers. So it's -- you could argue it's customer-specific, but we haven't really seen a change in the DRAM memory demand for our products this year. And we don't see it also in 2019. Now we all seem to forget recent history, so let me talk about DRAM, yes, to put it all into perspective. Up to -- including 2016, there has been a significant conversion of DRAM into 3D NAND, which resulted in reduced DRAM capacity, which actually also led to a reduced DRAM memory spend of about 30% in litho and also a 10% to 50% reduction in the wafer capacity at our own customers. Now in 2017 and '18, customers have been working to recover this wafer capacity and to increase the bit supplies. The bit demand also was higher than anticipated. So this required and needed a much higher litho spend per unit in growth. And it's due to a combination of increasing litho intensity at these new nodes due to, say, increasing number of critical layers, which includes double patterning now and the smaller of the shrink road map, which actually means you don't get the bits -- the same number of bits through shrink, that you get less, both leading to higher wafer capacity additions to --
+made this 20% to 25% demand in bit growth. So this is what we have seen. So in that context, the high investments in DRAM from our customers is not a surprise and is also what we are seeing in 2019. Now on 3D NAND, over the last several years, all the 2D to 3D conversions have taken place. That actually happened. And those were very significant. Now we have not participated in a lesser litho supply because we basically use the same litho and next to that were investments in greenfield fabs. And if you add those 2 together, is the 3D conversions and then the greenfield fabs. And that has indeed lapsed to a level of capacity. And don't forget, these are big fabs, so they're step-ups in capacity. With that created weakness of the 3D NAND pricing, which we've all witnessed. That is the digestion that we go through as we speak. And what you call -- and especially if you look at the number of greenfield fabs that have been opened and the capacity, the wafer capacity that's been added to the industry, it's quite normal. Don't forget that the growth range of 3D NAND are particularly good at 40% plus. So I think this is how we look at the market. And this is why I also think that it's not a big surprise that our customers are still significantly spending on increased -- in wafer capacity both for DRAM. And to a lesser extent, today, 3D NAND.
+
+--------------------------------------------------------------------------------
+Sreekrishnan Sankarnarayanan,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Got it. Got it. Peter, that's very helpful. And then just as a follow-up. If I look at your commentary on calendar first half '19 from the second half of this year and strengthening the second half of next year, the fact that DUV should be strong in memory and further in logic. Is it fair to assume that DUV units next year should be higher than this year?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [8]
+--------------------------------------------------------------------------------
+
+          Well, I think the DUV units will be at least at the same level as this year, whereby I think the mix, which was this year, will be skewed towards memory, will probably skew a bit more towards [budget], although it's too early to say which part of the industry sector is going to be the largest. But in Deep UV, I think we'll see at least the same number of Deep UV shipments and sales in 2019 as in 2018.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. David Mulholland.
+
+--------------------------------------------------------------------------------
+David Terence Mulholland,  UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware    [10]
+--------------------------------------------------------------------------------
+
+          It's David from UBS. Just combing through the comments you made on EUV and good to see the progress on the 3400C. I just wanted to clarify a couple of things. Firstly, of the bookings that you've seen in the quarter for EUV, are those still the 3400B? Or are you now booking the 3400C? And then as we look into 2020, I want a few comments just on what impact and the way that this is potentially slightly dampening the number of tools needed in H2 '19, what they might mean on 2020. Obviously, we have assumed that some of that's made back on pricing. But where do you end up in kind of revenue expectations for 2020 from EUV as you kind of net those 2 higher productive systems for potentially higher value?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [11]
+--------------------------------------------------------------------------------
+
+          Okay. Good. Well, I think everything we are booking is 3400C. I mean, we're not taking any orders for Bs because the only thing we will sell as of the middle of next year is Cs. And yes, there will be a higher potential productivity coming out of these systems, which of course will have an impact on the number of systems that customers potentially want if they look at their wafer capacity that they are planning for. Now having said that, there's also a flip side for higher productivity and higher rev time, which is cost. Cost is actually going down in these higher productivity tools. It actually means that it opens -- that's also a possibility to add one, in logic more or less; and two, in memory DRAM to start using EUV in DRAM. Generally, you could say if you have more than 2,000 wafers per day productivity on a DRAM system, it becomes attractive at -- to basically 
+start using EUV for several layers in DRAM. And that will drive the 2020 number. So -- and what's important for us is that we execute that's why we pulled the R&D in because we want the 3400C ASAP because it will, one, as you indicated, provide us with a higher value; and two, it will also provide a higher value, i.e., lower cost to our customers, which will drive the demand for EUV, which means that we still stick to our production capacity of 40 units in 2020. And I think the final 2020 number will be a function of our successful introduction of the productivity and the availability metrics that we have currently in our targets.
+
+--------------------------------------------------------------------------------
+David Terence Mulholland,  UBS Investment Bank, Research Division - Director and Equity Research Analyst - Technology Hardware    [12]
+--------------------------------------------------------------------------------
+
+          Maybe one just quick follow-up. You haven't commented as directly in numbers in terms of the progress and availability for EUV. Obviously, it seems like you're saying it's at the level you need for insertion with customers. But in the last quarter, you were saying you had to get to over 90%. Can you quantify where you are? And where you're heading?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [13]
+--------------------------------------------------------------------------------
+
+          Yes. Yes. I think we're -- as we said, we want to have a target of 88% availability by the end of the year. This is where we're heading to. I think with the 3400C, we will go over 90%. I think -- and we have a target of 92%. I think what I said earlier, we need that 90% threshold. That's what we said in earlier calls. It is our opinion today that with the current availability targets, customers will use EUV in HEM. And it's very simple -- in logic, it's very simple because without EUV -- and I just refer to comments that was made by some of our customers, without EUV, it simply won't work. And that it's so much of a 7-nanometer demand or -- if you want or 7-plus and/or a 5-nanometer demand that you cannot escape using EUV. They will use EUV at 88%. We'd love it to be higher. And it will be higher, but that is not a make-or-break number.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. C.J. Muse.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [15]
+--------------------------------------------------------------------------------
+
+          I guess the question, if I could go back to your 2019 outlook for DUV. It sounds like you're now saying kind of first half similar to second half and already growth into the second half of '19. And just curious, is that a changed statement from your views 3, 6 months ago? And if so, what has changed, I guess, vis-à-vis DRAM contribution, advanced logic in China?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [16]
+--------------------------------------------------------------------------------
+
+          Well, I think it has not changed. I think it's going to -- one, we haven't qualitatively guided any trend for 2019 until today. So I think this is the first time. But for that, internally, of course, we have this outlook. I don't think it has changed that much. Absolutely not. And in China, nothing changed in the sense that what Chinese customers were planning, let's say, this time a year ago on 2019, they're actually executing on. So you could argue that their execution of their first lines and their pilot lines have actually gone well. So I think it's -- there's no change. I think it was -- no significant change, nor in memory nor in logic.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Very helpful. And I guess as my follow-up, can you talk to how you're expecting linearity of shipments for the 30 EUV tools in 2019? And how we should think about the progression of gross margins in that same time frame?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [18]
+--------------------------------------------------------------------------------
+
+          Yes. The linearity is what you would expect with a ramp. I mean, this year, we -- and if you look at the quarter, we do 3, 4, 5, 6. And I think this is the kind of linearity that you would also expect next year whereby the 3400C, of course, is the model that customers would really like. So you would clearly see also the second half will be the -- demands for that product going up. Now on the -- Roger, on -- your turn.
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [19]
+--------------------------------------------------------------------------------
+
+          On gross margin, I think we have articulated a target of 40% there for 2020. I think we're on track to get there and I think, as we've mentioned before, 4 levers to get there. The first lever, obviously, is ASP, higher ASP, which is to a very large extent, correlated with the productivity and the throughput of the machine. So that's a major driver of the gross margin. Second, volume. Fixed cost coverage obviously increases to the extent that volume of the ramps. Third, learning curve. And we're already experiencing that, and we continue to experience that into the next couple of years. And fourth, service. Service revenue and service margin will go up as well. And the combination of those 4 levers, we believe, gets us to the 40% target that we've articulated before for 2020.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Mitch Steves.
+
+--------------------------------------------------------------------------------
+Mitchell Toshiro Steves,  RBC Capital Markets, LLC, Research Division - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Mitch Steves from RBC. I just had a quick question on EUV. So basically, because you guys are off by about 2 units here in 2020 -- I'm sorry, 2018, you guys are still reguiding to 30. Is the 40 units still the right number for 2020? And then second, I guess why doesn't the '19 number go up by 2 units?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [22]
+--------------------------------------------------------------------------------
+
+          Yes. I'm going to answer your last question. We're introducing, by the middle of the year, the 3400C, which has a productivity, which is over 155 wafers per hour, which is a significant improvement in terms of productivity, which means that customers are not planning systems. They are planning wafers. So when you get more wafers out of a machine, then you might potentially use less machines. So that's why the 30 unit is still good when we -- and it's not more than that. You could argue that the 2 units are then cannibalized by the higher productivity of the 3400C. Okay. I mean, that's good because the 3400C is also a higher-value tool, we'll just price it higher. So from a sales point of view, I think it's a good progression. Of the 40 units -- I said it earlier in the previous answer, I think the 40 units is the capacity that we have. I think that is -- whether we will sell it all is really a function of the success with which we're going to introduce the 3400C, and we're able to start running up the availability of the machine over to 90%. That will drive down costs for our customers significantly. And cost is the main driver for our customers to buy tools, yes? And I think the opportunity here is in the memory space, in the DRAM space. And also somewhat in the logic space because there you can add a few more layers to EUV because the cost is just better. And in DRAM, like I said, if we order 2,000 wafers per day, we come in the real where customers are really seeing the economic benefits of EUV application in DRAM. So for this capacity, let's go after it by executing on our 3400C program.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Andrew Gardiner.
+
+--------------------------------------------------------------------------------
+Andrew Michael Gardiner,  Barclays Bank PLC, Research Division - Director    [24]
+--------------------------------------------------------------------------------
+
+          It's Andrew from Barclays. I just got a few more quick ones on the EUV program. Firstly, Peter, you just mentioned it briefly there again, the question of layer count within logic. If I go back to this time last year, we were talking about 10 layers at the 7-nanometer node. To your point, the improved productivity and specs on the 3400C suggest it's going to be higher than that. Can you give us any initial indication from your customers as to how much higher the layer count may be relative to that initial number of 10?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [25]
+--------------------------------------------------------------------------------
+
+          Yes. I think it's really different numbers. But again, like I said earlier, I assume a successful execution of our 3400C specification targets. And you could look at anywhere between 12 and 14.
+
+--------------------------------------------------------------------------------
+Andrew Michael Gardiner,  Barclays Bank PLC, Research Division - Director    [26]
+--------------------------------------------------------------------------------
+
+          Okay. And then just as quick follow-ups on EUV. Can you give us some idea of mix between logic and memory in the 30-tool shipments next year? Clearly, again, if I go back a couple of quarters, logic was going to dominate but just sounding a bit more optimistic about DRAM demand. And also last one for Roger. Is there going to be any EUV deferred revenue left to recognize in 2019? Or is the rev rec next year purely on the 30-tool shipments?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [27]
+--------------------------------------------------------------------------------
+
+          Yes. On -- I think the mix is predominantly logic. But like I said, there is an opportunity there. And of course, throughout 2019, when we see the first module results, the test results of the critical modules of the 3400C, we can probably engage with our customers at that time, the memory customers, who will see whether they would like an increased number of memory tools. That is an opportunity, I would say, but it's predominantly logic.
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [28]
+--------------------------------------------------------------------------------
+
+          In terms of revenue recognition, as you know, at this stage, the systems revenue gets recognized upon shipment. And that will obviously continue for this model into 2019. The interaction of 3400C at this stage, again, we believe that we will recognize the revenue at shipment at this stage.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Alex Duval.
+
+--------------------------------------------------------------------------------
+Alexander Duval,  Goldman Sachs Group Inc., Research Division - Equity Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Alex Duval from Goldman Sachs. Just a quick one on logic spending in 2019. You obviously talked about most memory and logic spending remaining on high levels in 2019. But you talked about DUV logic actually being up even though revenues were already on a high level. So I wondered if you could just talk about what the key swing factors are that are driving that? And as a brief follow-up, you talked about the 2H weighted year for your overall group revenues in 2019. And you just talked about a flattish half-on-half growth rate in the first half. So how should we be thinking about the step-up into the second half? What is the key reason for that step-up? And are we talking low single-digits growth half-on-half or something of great magnitude?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [31]
+--------------------------------------------------------------------------------
+
+          Okay. The logic spending in 2019 is up. But don't forget that means the majority of the spend this year was in memory. And logic will be ramping 10-nanometer in macro processes and 7-nanometer in the foundry space. And that's happening because the -- when we listened to the customers, the tape outs are there, customer orders are there. Now that will happen, and that will increase. Now like I said earlier, that's why I think that the Deep UV business for 2019 will be at least as good as in 2018. But by -- a little bit more skewed towards logic. And it's driven by 7- and 10-nanometer. Now on the half-on-half, I said in earlier answer that our view as to 2019 and the, let's say, the shipment levels in the first half, second half haven't changed that much from where we were 1 or 2 quarters ago. But effectively means that our customer plans, which is a result also of when their fabs are ready, when can they take the tools, yes, that hasn't changed that much. So I would say that half-on-half is more a function of when the customers need the tools. So when do they ramp what? Then that's the main reason. So there's nothing magical behind it. There's no reason why there would be this particular cyclicality, if you want to call it this way. Yes? No, I think it's just the way how customers plan. And this means that the first half of 2019 will be somewhat the same as the second half of 2018, which was a pretty good half. So -- and any accelerations, you will see in the second half also at the EUV numbers will go up, yes. And the 3400C will be there, but also the second half skewed. So that's probably the only answer I can give.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Stephane Houri.
+
+--------------------------------------------------------------------------------
+Stephane Houri,  ODDO BHF Corporate & Markets, Research Division - Research Analyst    [33]
+--------------------------------------------------------------------------------
+
+          This is Stephane Houri from ODDO BHF. Actually, I have a question about the OpEx side because we saw a -- really, an increase in R&D. And as you said, it's DRAM tool and your EUV tool. But the pace is accelerating throughout the year. We are now up 26% year-on-year on R&D. Where do we go? And how do we model it for 2019?
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [34]
+--------------------------------------------------------------------------------
+
+          I think we've said before also on the Q2 call, I think we've mentioned that we believe in the short term, there will be an uptick in R&D. And that uptick is to a very large extent or is uniquely related to 2 things. It's the acceleration of the 0.33 EUV road map, as we mentioned before, the 3400C; and also the High-NA program acceleration. So that's why we said midterm, we expect that -- so we've said short term that will lead to an uptick of the numbers. We also said that medium term, we expect that to go back to the model that you've seen before and that we've given to you for 2020, which is 13%.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [35]
+--------------------------------------------------------------------------------
+
+          Sales. Yes.
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [36]
+--------------------------------------------------------------------------------
+
+          Sales.
+
+--------------------------------------------------------------------------------
+Stephane Houri,  ODDO BHF Corporate & Markets, Research Division - Research Analyst    [37]
+--------------------------------------------------------------------------------
+
+          All right. And the follow-up is about metrology and inspection. You had a very good quarter this quarter. Is it a trend that we should push forward? Or is there -- was there anything special this quarter?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [38]
+--------------------------------------------------------------------------------
+
+          No. I think it's just a trend that metrology and inspection will become more important that there's a couple of drivers there. I think the introduction of YieldStar 375 is a metrology system that is now not only being used in logic and in DRAM but now also is introduced into 3D NAND with very clear involvement just for our customers. On top of that, we see good growth, very clear growth in HMI in the e-beam business. We're planning to ship the first 3x3 multi-beam tool in 2019. That will also help the top line. And there's a whole suite of software products that we're helping our customers deal with the complexities and intricacies of 7-nanometer and the 5-nanometer development nodes. So there's a whole suite of products that are actually helping our customers to basically deal with the increased cost of the NXT nodes. And that's particularly helpful when you look at our metrology and inspection business. So it's a trend.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Next question comes from Mr. Mehdi Hosseini.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Mehdi Hosseini from SIG. Peter, I just want to go back to your comment about 2019, first half of '19 versus second half. And I appreciate the details and still the same view as a couple of quarters ago. I'm just wondering, does that reflect the finalized CapEx plans by your key customers? Or if there's a change to those CapEx plans related this year or early next year that could either -- something that could have an impact on your view that has not yet materialized?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [41]
+--------------------------------------------------------------------------------
+
+          Mehdi, what you're asking me is look at my crystal ball what the customer CapEx plans are going to be going forward. I don't know. I mean, if they -- if they're going to change, they're going to change. But there's nothing today that leads us to believe that they're going to do that. Yes. When you look at their plans, it's about technology transition in logic. Trust me, it's going to happen, yes? If you now look at the DRAM expansion plans -- we have a limited number of customers, only 3, and 2 of them have some capacity expansion plans where the fabs are being built. And you're long enough into this industry to understand that once you have the DRAM structure there, you're going to fill it up because it's the only way to cover your fixed cost is to bring out as many DRAM business you can in this new fab. So these are all plans that are really cost installed, yes? And whether they are going to cut or to slow down that ramp, I don't know. But the current plans are what they are, which means that the shipments that we're seeing in H1 and H2 that's been planned for some time now, they're still valid. And what changes in the future, I don't know.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks for the sincerity and the fact that your customer mix has increasingly consolidated does make it more challenging to forecast. Just moving on...
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [43]
+--------------------------------------------------------------------------------
+
+          Or it makes it easier.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Yes. Or your -- it's easier for you because your crystal ball is better than mine.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [45]
+--------------------------------------------------------------------------------
+
+          That's absolutely true.
+
+--------------------------------------------------------------------------------
+Mehdi Hosseini,  Susquehanna Financial Group, LLLP, Research Division - Senior Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Right. One thing with EUV, I'm just very intrigued. We started the year with a commentary that you could ship 22. You see now it's down to 18. I appreciate the improved throughput with the 3400C coming out second half of next year. But on the flip side, your customer mix has also consolidated. One of the key foundries is no longer pursuing leading edge. And the leading foundry is now the leading semiconductor manufacturer, and they're well ahead of others. And perhaps the DRAM industry is waiting for 3400C before they finalize their plans. And I'm just trying to better understand, when we dial in the 30-unit system into our expectation and 40 into 2020, what are the key wafer capacity targets that you're looking at? You -- in the past, you've talked about certain foundry capacity for leading edge. Is there any metric that you could provide us so that we could have a more realistic set of expectation and if there is a change we know what are the key parameters that have changed?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [47]
+--------------------------------------------------------------------------------
+
+          Okay. Well, I think the more realistic expectation is the expectation that I gave you. Because I think it is realistic, yes? And it has to do with the fact that yes, our customer base is consolidating, which in itself, generally leads to a better capital efficiency in the industry because every customer plans for winning business. And if you have multiple customers all planning for the same business that -- yes, that might be a reason or that might be a very good reason why you ship a few more systems. Now in this particular case, it's not the case because like you said, there's 1 -- a customer has stepped out of 7-nanometer from the foundries. And that base is now close to Taiwan. But -- and the real question is, as you know, if that's a 7 plus or a 5-nanometer-type business, yes, what is the size of that 7-plus and 5-nanometer business for that customer? And that is significant. I can only repeat what the CEO of that company said a couple of times. 7-nanometer, 7-plus and 5 is going to be big. And that's based on what their customers are telling them what they need in terms of wafer capacity. Since they're the only one really in that space -- and we're not going to tell you anything about the plant wafer, capacity, you should ask them. That's not my role. But I can tell you that this is a big driver for the 2019 EUV shipments, yes? And that's only for the foundry business. On top of that, you have the micro processes and you have the first start of some 5 production on DRAM. If you add it all up, you see those plans and you see the road maps, then the 30 number we think is a realistic number. Now if there's some upside, hey, if the 3400C turns out to be -- is a very good tool and we'll figure it out in, of course, 2019 given our module testing in all level and ways, can we -- could we output 1 or 2 or 3 more eventually, but then let the customers decide, and I would think it's going to be in logic, that upside would probably be in memory and in DRAM. So that's the situation today, and we're giving you clear guidance on the 30 units. That's really based on a realistic scenario as presented to us by our customers.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Sandeep Deshpande.
+
+--------------------------------------------------------------------------------
+Sandeep Sudhir Deshpande,  JP Morgan Chase & Co, Research Division - Research Analyst    [49]
+--------------------------------------------------------------------------------
+
+          JP Morgan. Peter, my question is, I mean, I'm trying to understand what you've been saying about 2019. Clearly, EUV is up to 30 tools is what you're guiding. Your metrology business is growing into next year. Your Installed Base Management business is growing into next year. So I don't think there are questions about that. So the question is about the DUV business. I mean, from what I'm hearing you're saying into -- in response to earlier questions that you're looking for a flattish trend. And I mean that is dominated by the growth in logic and memory not that strong. But I mean, you still have a flattish trend in DUV next year. I mean, I think everybody's estimates for your -- on revenue for ASML are wrong.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [50]
+--------------------------------------------------------------------------------
+
+          Well, it's not my responsibility to come up with an estimate. But what I said at least means I see a bottom for our Deep UV business to be at least the same, yes? Now Deep UV business has a lead time that is a bit shorter, so there are changes from time to time. So customers could still change for this second memory to -- of 2019 to go up. And I just called a bottom, which actually means that there could be upside. And yes, and I would not be surprised if there would be. But how big that upside would be? I don't know. So that is a bit where I have to stay qualitative and cannot speak quantitative. Yes?
+
+--------------------------------------------------------------------------------
+Sandeep Sudhir Deshpande,  JP Morgan Chase & Co, Research Division - Research Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Because, I mean, I'm just looking at the consensus ahead of today. The market is looking at about 7% revenue growth for ASML. So are you suggesting -- because we know approximately from the other 3 line items where your growth would be for 2019. But if you have flat DUV, we are looking at well into double-digit growth. So would you say that you should -- you can potentially grow well into the double digits into 2019?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [52]
+--------------------------------------------------------------------------------
+
+          I think you've done the math for us.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. John Pitzer.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [54]
+--------------------------------------------------------------------------------
+
+          Yes. It's Credit Suisse. Peter, you mentioned in your prepared comments that China's going to end up being about 20% of business in calendar year '18. What's domestic China going to be this year? And as you look out to your '19 forecast, is China domestic a breakout year in '19? Or is it more in line with trend line growth?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [55]
+--------------------------------------------------------------------------------
+
+          Well, I think what I said in my prepared comments that 5 of those domestic customers are now planning to ramp in 2019, which actually means that we see our business in 2019 from China also growing. Now beyond that, I think everything -- and I said it also in the prepared comments, how big the growth will be also depends on how successful all those ramps are going to be because the first pilot lines have been installed and they're actually executing on their 2019 ramp plans. But as we all know, some of these companies are greenfield companies. Are they all going to be as successful? We don't know. But if they would be, and they're executing on their plans as we currently see it, then our business in China will be up next year.
+
+--------------------------------------------------------------------------------
+John William Pitzer,  Crédit Suisse AG, Research Division - MD, Global Technology Strategist and Global Technology Sector Head    [56]
+--------------------------------------------------------------------------------
+
+          And then Peter, my second question is just managing through the transition on EUV as you bring out these higher-NA more productive tools. You mentioned in an earlier question that you thought about few tools next year got cannibalized on productivity. The 30 new EUV tools you have, what's it -- potentially at risk for further cannibalization? Can customers future-proof? Can you upgrade an EUV tool to a higher NA once you've installed it? Or is that not an option? And to the extent that, that 30 number does get cannibalized, should that just upside our 2020 number for you guys?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [57]
+--------------------------------------------------------------------------------
+
+          No. I think the -- you cannot upgrade to higher NA. The higher NA, the High-NA EUV tool is a completely different tool, different dimension, so it doesn't work. But that you can upgrade from actually a 3350 to a 3400 if you would like to do that. That is a big open heart surgery in the field. We -- that could happen in 2020. We see some of those upgrades. But I certainly would say that there is not much downside to further cannibalization than what we just said. I think there is some upside if the 3400C turns out to be quicker meeting the performance targets, then we could -- we were in if 1 or 2 or 3 more systems in 2019 going into 2020 as a start for higher adoption in the DRAM market. But still, it's too early to speculate any further beyond the 30 units. I would certainly not speculate down. I wouldn't speculate up yet. But if there is a chance for a change, I would say, it depends on the performance of the C, especially all of those have the possibility in the DRAM space.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Amit Harchandani.
+
+--------------------------------------------------------------------------------
+Amit B. Harchandani,  Citigroup Inc, Research Division - VP and Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Amit Harchandani from Citigroup. I really wanted to just circle back on a broader topic, Peter, if I could. Let's just first talk about the trade wars that's going on right now and potential implications for supply chain. Could you maybe give us a sense of if you have done any assessment that you are likely to be impacted by the second tranche of tariffs? And if you see any need within your own supply chain to make any changes based on what's already been made public today. Then I have a follow-up.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [60]
+--------------------------------------------------------------------------------
+
+          We're going to be pretty short on this. We don't see any significant impact. Not for our business, not for our supply chain either.
+
+--------------------------------------------------------------------------------
+Amit B. Harchandani,  Citigroup Inc, Research Division - VP and Analyst    [61]
+--------------------------------------------------------------------------------
+
+          Okay. And secondly, in terms of just us without trying to belabor too much on the point for the 30 tools. So you said that the capacity would be 30 tools, and then of course it depends on the output for the 3400C. So would it be fair to assume that in terms of the production output or the demand that your customers are seeing out there right now, it's as strong as it was 3 months ago? If anything, it has gotten even stronger, which is why you were saying there's more likelihood of numbers being up than down. Would that be a fair assessment to make?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [62]
+--------------------------------------------------------------------------------
+
+          Yes. At first, there's a little correction, Amit. Yes, the capacity is indeed around 30 systems. Now if you add the 2 so you could do a 32. But what we're saying, we are shipping 30, which includes the 2 that they are shifting from 2018 because the wafer capacity that customers are needing that only because we have a higher productivity tool that -- yes, then that mean they need 30 units, 28 plus 2, yes? So it's driven by the higher wafer capacity output that's coming out of the 3400C. Now that actually means that there could be, from a manufacturing point of view, there's a few 1 or 2 or 3 upside that now would only materialize if we get our customers convinced that productivity of our EUV in 3400C number is also -- is good enough and is reliable enough to put them into an earlier production for memory, for DRAM in this space. So I said it a couple of times. I hope it's clear now. So that -- this is why I said I don't think from a demand point of view that there is a big change. What we said before is that when we looked at the overall demand for EUV, we did include, for instance, customers like GLOBALFOUNDRIES, which of course have fallen off. That could have driven the demand over 30 units. Now they're not there anymore. That is consolidated into one other customer. So that's the only thing that probably changed. It's the consolidation in the industry, but it doesn't have an effect on our shipment plan.
+
+--------------------------------------------------------------------------------
+Amit B. Harchandani,  Citigroup Inc, Research Division - VP and Analyst    [63]
+--------------------------------------------------------------------------------
+
+          And then just if I could very quickly ask, have you -- because you talked about the productivity of the 3400C, have you decided what level of markup in price with your -- price for 3400C over the 3400B? Or is that still to be fixed?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [64]
+--------------------------------------------------------------------------------
+
+          Yes. That is still to be fixed. We are talking to a few customers on that final pricing. So let's not do the price negotiation over this conference call. We'll do that when we have this -- in the -- in the private rooms of the customers.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          The next question comes from Ms. Tammy Qiu.
+
+--------------------------------------------------------------------------------
+Tammy Qiu,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Tammy Qiu from Berenberg. The first one is, Peter, you mentioned that next year, Deep UV spending is mainly skewed towards the logic foundry side. I'm just wondering because when logic foundry make a like TSMC move into a new generation, their reuses percentage can be as high as 95%. I'm just wondering to what extent you're actually reflecting high reusage in your estimation. And also, at the same time, would you say in your backlog of EUV shipment, has anyone already got full allocation of tools for ramping up next-generation 7-nanometer plus equivalent? Or they are still ordering for that generation? And I have a short follow-up.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [67]
+--------------------------------------------------------------------------------
+
+          I think for anything, we don't use N7 this, let's say, 7-nanometer or N7. There are still orders that we'll be taking. So that's now easy. Reuse, you have to define reuse. What customers are mentioning when they talk about their reuse is that the existing installed base can be reused for the next node, yes? The next node needs more capacity. So what we're looking at for next year for logic is through capacity additions, extra wafers out. And when I said 2019, I didn't say it was mainly skewed towards logic. I said logic is going to increase in terms of its share in the Deep UV shipment as compared to 2018, yes? Memory is still going to be strong, but logic is also going to be a higher component of Deep UV shipments than it was in 2018.
+
+--------------------------------------------------------------------------------
+Tammy Qiu,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Okay. And also, you mentioned last quarter that you are accelerating your R&D process for High-NA. I'm just wondering, has your accelerated R&D been impacting a number of layers EUV can be used by the time of High-NA is available?
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [69]
+--------------------------------------------------------------------------------
+
+          Yes. Sorry, could you repeat 2?
+
+--------------------------------------------------------------------------------
+Tammy Qiu,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          So basically, last quarter, you have been accelerating your R&D process for High-NA EUV tool, right? So I'm just wondering, with your accelerated R&D process for High-NA, has chip makers been making decision about introducing EUV for more layers when High-NA is available because it's available...
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [71]
+--------------------------------------------------------------------------------
+
+          Oh, okay, okay. Sorry. Yes. I think what you will see going forward is that High-NA will be introduced in high-volume manufacturing by the middle of the next decade. Then you will see a very clear mix of 0.33, you can say, low-NA layers and the use of High-NA layers. They're going to be used next to each other. So High-NA is now going to cannibalize that much of the low NA, but they're going to address the additional critical layers of the N3 and the N2 nodes. So this is how it actually works. So yes, on EUV, if you think about EUV in total, of course, there will be more layers allocated to EUV in a combination of low NA and High-NA.
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+
+          The next question comes from Mr. Adithya Metuku.
+
+--------------------------------------------------------------------------------
+Adithya Satyanarayana Metuku,  BofA Merrill Lynch, Research Division - Associate    [73]
+--------------------------------------------------------------------------------
+
+          It's Adi Metuku from Bank of America. I have 2 questions. Firstly, a clarification on the OpEx. So obviously, your OpEx is ramping up a lot into 4Q. And when we look at the run rate, quarterly run rate for 2019, should we assume that the 4Q run rate would be a reasonable number? Or do you think that'll start to trickle down as we go through 2019? And secondly, just looking at 5-nanometer demand and how the ecosystem is developing. I wondered if Peter, if you could comment a bit on how the ecosystem is progressing, especially from a pellicle and inspection tool viewpoint.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [74]
+--------------------------------------------------------------------------------
+
+          Yes. I can take the last question and Roger can take your first question. On the 5-nanometer development, that, if anything, is accelerating. And I think the issue with pellicle is a function of the effectivity, yes? So it's a -- the effectivity numbers and the effectivity control is increasing significantly. So we have made a lot of progress this year together with our customers on the effectivity control. And I think on the 5-nanometer node, the current use or the use of the current pellicles and the effectivity measures are sufficient to support 5-nanometer. That's what we believe. At 3-nanometer, which is a couple of years beyond that, we might want to look into whether we need additional inspection tools. That is really depending on how successful we are in the effectivity control at the 7-plus and the 5-nanometer node, which looks to be very good. So whether we need that inspection tool going forward is still a question that needs to be answered, then perhaps it's negative that we don't need it, that it depends on the progress that we will make on the effectivity with the current generations.
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [75]
+--------------------------------------------------------------------------------
+
+          That's right. So CapEx, it's, in essence, the same logic as we had for R&D, which is over time and particularly when you talk about acceleration that you can see a bit of an uptick. And you won't be surprised that CapEx, to a certain extent, correlates with R&D. So with R&D going up, there is logic that certain CapEx goes up as well. So that will go hand-in-hand and that's something that we see in the short term. Medium term and long term, you will once again see that's -- it models back to what we presented to you in our 2020 model, which is 4% of CapEx, 4% of sales would be assumed in the CapEx.
+
+--------------------------------------------------------------------------------
+Adithya Satyanarayana Metuku,  BofA Merrill Lynch, Research Division - Associate    [76]
+--------------------------------------------------------------------------------
+
+          Sorry, Roger, apologies for the CapEx. I meant OpEx. So when I look at 4Q '18, OpEx as a proportion of revenues, obviously, when I take your guidance, it's -- you're seeing a pretty strong uptake. And it's -- and the OpEx run rate is significantly higher than what consensus modeling for 2019. So I just wondered, you made a comment earlier on OpEx picking up short term, but coming down medium term. So as we go through 2019, should that -- when should we expect that uptick to come down? When should we expect that downtick? That's the question.
+
+--------------------------------------------------------------------------------
+R. J. M. Dassen,  ASML Holding N.V. - Executive VP, CFO & Member of the Management Board    [77]
+--------------------------------------------------------------------------------
+
+          You can expect that downtick, and that's going back to the model that we presented to you, in the course of 2019 -- early in 2019. So there are reasons for SG&A, in particular, because I think we need to distinguish here between SG&A and R&D. I mentioned to you R&D as it relates to SG&A, we see a bit of an uptick in what we expect for Q4. You will see that come down to the 4% model that we guided for -- in the course of 2019.
+
+--------------------------------------------------------------------------------
+Peter T. F. M. Wennink,  ASML Holding N.V. - President, CEO & Chairman of the Management Board    [78]
+--------------------------------------------------------------------------------
+
+          And a lot of that -- yes, I think you already answered it because as you know, we are driving the High-NA introduction and the 3400C, which will mean that we see an elevated level of R&D spending in 2019, which would actually -- would give a very clear indication in Q4 of what the levels could be. But medium term, that will come down again. And where will that be? I think somewhere in the 2020, 2021 time frame, you will see that because that's when the peak of the High-NA program will have happened, yes? And because I -- we are going to -- we're planning to ship High-NA starting 2022. So end of 2021, beginning of 2022. So that peak will be for the next 2 years, and then it will level off.
+
+--------------------------------------------------------------------------------
+Skip Miller,  ASML Holding N.V. - VP of IR    [79]
+--------------------------------------------------------------------------------
+
+          All right. Before we sign off, we'd like to remind you that we'll be hosting our Investor Day here at our headquarters in Veldhoven on the afternoon of November 8. As the event is currently fully booked, we ask those that are -- have not already confirmed to please join us via webcast. We will provide the webcast details in advance of the event. You can contact Investor Relations with any questions. 
+Now on behalf of the ASML board and management, I'd like to thank you all for joining us today. 
+Operator, if you could formally conclude the call, I would appreciate it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+
+          Of course, sir. Ladies and gentlemen, this concludes the ASML 2018 Third Quarter Financial Results Conference Call. Thank you for participating. You may now disconnect
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

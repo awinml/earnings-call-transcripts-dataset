@@ -1,0 +1,455 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2018 Alphabet Inc Earnings Call
+JULY 23, 2018 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Ellen West
+   Alphabet Inc. - VP of IR
+ * Ruth Porat
+   Alphabet Inc. - Senior VP & CFO
+ * Sundar Pichai
+   Google LLC - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Eric James Sheridan
+   UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst
+ * Brent John Thill
+   Jefferies LLC, Research Division - Equity Analyst
+ * Daniel Salmon
+   BMO Capital Markets Equity Research - Media and Internet Analyst
+ * Justin Post
+   BofA Merrill Lynch, Research Division - MD
+ * Mark Stephen F. Mahaney
+   RBC Capital Markets, LLC, Research Division - MD and Analyst
+ * Michael Brian Nathanson
+   MoffettNathanson LLC - Founding Partner & Senior Research Analyst
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Colin Alan Sebastian
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Anthony Joseph DiClemente
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Fundamental Research Analyst
+ * Heather Anne Bellini
+   Goldman Sachs Group Inc., Research Division - MD & Analyst
+ * Douglas Till Anmuth
+   JP Morgan Chase & Co, Research Division - MD
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and welcome to the Alphabet Second Quarter 2018 Earnings Call. (Operator Instructions) I'd now like to turn the conference call over to Ellen West, Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Ellen West,  Alphabet Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon, everyone, and welcome to Alphabet's Second Quarter 2018 Earnings Conference Call. With us today are Ruth Porat and Sundar Pichai. Now I'll quickly cover the safe harbor.
+Some of the statements that we make today may be considered forward looking, including statements regarding our future investments, our long-term growth and innovation, the expected performance of our businesses and our expected level of capital expenditures. These statements involve a number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer to the risk factors discussed in our Form 10-K for 2017 filed with the SEC. Undue reliance should not be placed on any forward-looking statements, and they are made based on assumptions as of today. We undertake no obligation to update them.
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.
+As you know, we distribute our earnings release through our Investor Relations website located at abc.xyz/investor. This call is also being webcast from our IR website, where a replay of the call will be available later today.
+And now I'll turn the call over to Ruth.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Ellen. We delivered another quarter with strong operating performance, reflecting our focus on building great experiences for users, advertisers and enterprise customers around the world. In aggregate, we had substantial revenue growth, up 26% year-on-year and up 23% in constant currency. Sites revenues continue to exhibit strong year-on-year momentum, benefiting from innovation and secular growth with mobile search again leading the way. Our network advertising business maintained healthy growth led by AdMob and programmatic advertising. The businesses comprising other revenues, namely Cloud, Play and Hardware, again had substantial growth.
+Our outline for today's call is I'll begin with results for the quarter on a consolidated basis for Alphabet focusing on year-over-year changes. There are 2 items to note in our earnings press release. First, we provided a table to highlight the impacts of the European Commission fines on operating income, net income and EPS results in the second quarters of 2018 and 2017. Second, as discussed last quarter, our results are affected by the new accounting standard that changes the way companies account for equity security investments. This new standard continues to result in greater volatility in OI&E. I'll highlight the impact on particular line items as I review the quarter. I will then review results for Google, followed by Other Bets and will conclude with our outlook. Sundar will then discuss business and product highlights. After which, we will take your questions.
+Starting with a summary of Alphabet's consolidated financial performance for the quarter. Our total revenues of $32.7 billion were up 26% year-over-year. We realized a positive currency impact on our revenues year-over-year of $768 million or $665 million after the impact of our hedging program.
+Turning to Alphabet revenues by geography. You can see that our performance was strong again in all regions. U.S. revenues were $14.9 billion, up 21% year-over-year. EMEA revenues were $10.8 billion, up 26% year-over-year. In constant currency terms, EMEA grew 19%, reflecting strengthening of both the euro and the British pound. APAC revenues were $5.1 billion, up 36% versus last year and up 34% in constant currency, reflecting strengthening of the Japanese yen and Korean won. Other Americas revenues were $1.8 billion, up 31% year-over-year and up 34% in constant currency, reflecting strengthening of the dollar relative to the Brazilian real.
+On a consolidated basis, total cost of revenues, including TAC, which I'll discuss in the Google segment results, was $13.9 billion, up 34% year-on-year. Other cost of revenues on a consolidated basis was $7.5 billion, up 41% year-over-year, primarily driven by Google-related expenses. The key drivers were costs associated with our data centers and other operations, including depreciation, which continued to be affected by a reallocation of certain operating expenses; and content acquisition costs primarily for YouTube, followed by hardware-related costs.
+Operating expenses, including the impact of the EC fine, were $16 billion. Excluding the impact of the EC fines, operating expenses were $10.9 billion in the quarter, up 24% year-over-year.
+Once again, the biggest increase was in R&D expenses, reflecting our continued investment in technical talent. The growth in sales and marketing expenses reflects increases in sales and marketing headcount, primarily for Cloud, followed by advertising investments in Cloud and the Assistant.
+G&A expense trends in the second quarter were affected by a number of factors. In particular, performance fees accrued in connection with the recognition of equity security gains, which were again partially offset by the reallocation of certain expenses from G&A primarily to other cost of revenues.
+Stock-based compensation totaled $2.4 billion. Headcount at the end of the quarter was 89,058, up 4,008 from last quarter. As in prior quarters, the majority of new hires were engineers and product managers. In terms of product areas, the most sizable headcount increases were in Cloud for both technical and sales roles.
+Operating income was $2.8 billion. Excluding the impact of the EC fines, operating income was $7.9 billion, up 15% versus last year for an operating margin of 24%. Other income and expense was $1.4 billion, which includes $1.1 billion of gains and equity security investments. We provide more detail on the line items within OI&E in our earnings press release.
+Our effective tax rate was 24.2% for the second quarter, reflecting a sizable impact from the nondeductibility of the EC fine. Net income was $3.2 billion, and earnings per diluted share were $4.54. Excluding the impact of the EC fine, net income was $8.3 billion and earnings per diluted share were $11.75.
+Turning now to CapEx and operating cash flow. Cash CapEx for the quarter was $5.5 billion, which I'll discuss in the Google segment results. Operating cash flow was $10.1 billion with free cash flow of $4.7 billion. We ended the quarter with cash and marketable securities of approximately $102 billion.
+Let me now turn to our segment financial results starting with the Google segment. Revenues were $32.5 billion, up 25% year-over-year. In terms of the revenue detail, Google Sites revenues were $23.3 billion in the quarter, up 26% year-over-year. In terms of dollar growth, results were led again by mobile search with strong contributions from both YouTube and desktop search. Network revenues were $4.8 billion, up 14% year-on-year, reflecting the ongoing momentum of AdMob and programmatic. Other revenues for Google were $4.4 billion, up 37% year-over-year, fueled by Cloud, Play and Hardware. We continue to provide monetization metrics in our earnings press release to give you a sense of the price and volume dynamics of our advertising businesses.
+Total traffic acquisition costs were $6.4 billion or 23% of total advertising revenues and up 26% year-over-year. Total TAC, as a percentage of total advertising revenues, was up year-over-year, primarily reflecting an increase in the Sites TAC rate, which was offset by a favorable revenue mix shift from network to Sites. The increase in the Sites TAC rate year-over-year was driven by changes in partner agreements and the ongoing shift to mobile, which carries higher TAC.
+This quarter, we experienced the year-on-year decline in the network TAC rate as the result of a favorable mix shift within our programmatic business. Google's stock-based compensation totaled $2.3 billion for the quarter, up 21% year-over-year. Operating income was $9 billion, up 17% versus last year, and the operating margin was 27.6%. Accrued CapEx for the quarter was $5.3 billion, reflecting investments in production equipment, data center construction and facilities.
+Let me now turn and talk about Other Bets. Other Bets revenues were $145 million, primarily generated by Fiber and Verily. Operating loss was $732 million for the second quarter. Other Bets accrued CapEx was $10 million.
+We're pleased with our progress across Other Bets. A couple of updates. Waymo expanded its partnership with Fiat Chrysler with the option to add up to 62,000 Chrysler Pacifica minivans to its self-driving fleet. And last week, Waymo announced that it has driven more than 8 million fully autonomous miles with most of those on city streets.
+A couple of weeks ago, X announced that Loon and Wing have graduated to become independent companies under Alphabet. Graduation from X signals that these companies have reached certain technical and business milestones and that their focus is shifting toward commercialization. And just last week, Loon indicated that it is partnering with Telkom Kenya to launch commercial service in regions of Kenya by early 2019.
+Let me close with some observations on the quarter and our longer-term outlook. First, with respect to revenues, we're pleased with the ongoing momentum in our advertising businesses. As discussed previously, we continue to identify new opportunities through innovation, including the benefits of applying machine learning to create more useful experiences for users and advertisers. Looking ahead, our Hardware business is seasonal, typically experiencing lower growth in the third quarter in anticipation of the launch of new products for the holiday season.
+Second, with respect to profitability, within cost of revenues, the biggest component is TAC. As we've discussed for the past couple of quarters, we expected the pace of year-on-year growth in Sites TAC as a percentage of Sites revenue would slow after the first quarter of 2018, and you can see that clearly in our results this quarter. As frequently discussed, we do expect the Sites TAC rate to continue to increase year-on-year, reflecting ongoing strength in mobile search, albeit at a more moderate pace relative to the year-on-year increases experienced over the past several quarters.
+Within OpEx, we continue to take a disciplined approach to setting priorities as we invest for the long-term growth. The majority of our headcount growth continues to be in technical roles in engineering and product management. In terms of business areas, the largest number of headcount additions were in our Cloud business with hires for engineering, sales and marketing.
+As a reminder, headcount additions tend to be seasonally higher in Q3 because that is when we bring on new graduates. As I mentioned last quarter regarding sales and marketing, we continue to expect expenses to be more heavily weighted toward the back half of the year to support the holiday season.
+Another factor to consider in year-on-year comparisons next quarter is the timing of 2 expense items in Q3 last year. As we called out last year, there was a meaningful benefit in the third quarter of 2017 from the shift in timing of our annual equity refresh and also from the timing of sales and marketing spend, which was more heavily weighted to the fourth quarter. For our Other Bets, we remain focused on making progress on a number of commercial opportunities across the businesses while continuing to manage investment against achievement of key milestones.
+Third, with respect to CapEx, as I discussed with you last quarter, our commitment to growth is evident in the ongoing trend in CapEx investment. We have been investing meaningfully in Search and Ads consistent with the opportunities we see to benefit the user and advertiser experience. And we are investing in the additional compute power required to support growth in the number of YouTube users globally.
+We're also investing in new businesses that are growing at a rapid pace and have sizable compute needs, most notably Cloud. The investment pace also reflects the importance of machine learning across all of our products, including Search and Ads. Although machine learning is more compute intensive, it is increasingly core to businesses across Alphabet and opens up the possibility of accelerated innovation in products and services.
+In keeping with our approach across Alphabet to invest thoughtfully for long-term value creation, we remain focused on both performance and cost effectiveness. I will now turn the call over to Sundar.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Ruth. It's been a busy few months at Google, and we showed a lot of what we are working on at events like Google Marketing Live, Brandcast and of course, our annual developer conference, Google I/O. It was exciting to have millions of people join us in person and via live stream. Tomorrow, I hope you'll tune in to Google Cloud Next, where the great momentum and innovation in our Cloud business will be fully on display.
+The common thread you'll hear on today's call is the benefit of machine learning and AI and how it's improving our products and generating great results for our users and partners. I also hope that everyone enjoyed the World Cup as much as I did. I know our French Googlers were very excited. I love the competition and was extremely proud to see positive feedback about how useful Google Translate was for people who traveled to Russia. The app translates about 143 billion words a day, and during the World Cup, we saw a huge bump in volume.
+In these simple moments when you're in an unfamiliar place or you don't know the language, Google is there to help with the right information at the right time. This is what we aspire to be best at, and it's why billions of people continue to put their trust in our products.
+Today, I'll start with how AI is enabling us to advance our mission of making information accessible and useful to everyone in new ways. Then, I'll share updates on our computing, video and advertising platforms, which are helping our partners succeed and grow. And finally, I'll talk about our growing Cloud business. Let's begin with AI helping our mission.
+We revamped the Google News app in May to great reviews. It uses machine learning to highlight top stories organized for users, explore topics more deeply with articles from a range of trusted news sources. We believe in the need to deliver high-quality information and news to users and to support the news industry as we do so.
+The Google Assistant is another great product based on machine learning. By the end of this year, it'll be available in more than 30 languages and 80 countries. We have worked with partners to expand the number of smart devices that are now compatible with the Google Assistant like doorbells, dryers, refrigerators and more and connect with than 5,000 devices in the home.
+At Google I/O, we also highlighted how AI is improving Google Maps, including enhancing the experience with Assistant and AR features. Through our improvements in machine learning, we have seen a 25x increase in our ability to build maps algorithmically and we have added 110 million algorithmically drawn buildings to Maps since the beginning of this year. And with over 1 billion users, we are continuing to see tremendous growth in Maps with especially strong growth in countries like Indonesia, India and Nigeria, each of which are growing over 50% year-on-year.
+There are many more great AI powered features we rolled out this quarter, including the new version of Gmail with Smart Compose, a new feature that helps users draft e-mails faster. And Google Photos now suggests actions help you brighten, share, rotate or archive a picture.
+Next, our computing, video and advertising platforms. These platforms are providing real economic opportunities for developers, creators and publishers in every corner of the world. Last year, I announced that in the 3-year period from 2014 to 2016, we paid out over $15 million in revenue to our creator, publisher and app developer partners in Europe, Middle East and Africa via AdSense, YouTube and Google Play. Our contribution is accelerating. In 2017 alone, we generated an additional $7 billion for these partners.
+First, our computing platforms. 10 years ago, we launched the first Android phone with a simple idea: to build a mobile platform that's free and open to everyone. Today, there are more than 24,000 devices at every price point for more than 1,300 different brands. The Android ecosystem supports thousands of phone makers and mobile network operators who build and sell Android devices, millions of app developers around the world who have built their businesses with Android and billions of consumers who can now afford and use cutting-edge Android smartphones. This is all supported by a business model that encourages and enables this open ecosystem to [triumph].
+Continuing this momentum, at I/O, we unveiled a plethora of new features throughout the Android platform like battery saving features in Android P, new Google Assistant capabilities on Wear OS, a new Android model to help developers optimize for a variety of devices and form factors as well as tools to help users understand and control how they are spending time on their device.
+Our investments in our computing platforms as well as in AI and design are also helping us generate great momentum in our Made by Google Hardware business across Pixel, Home, Nest, Chromecast and more. We brought Google Home in many to Ireland, Australia, Spain and Mexico. Additionally, bringing the Nest and Google teams together is showing early results. The products can more seamlessly work together, and our product development and go to market are benefiting from the new alignment. There's a lot more to come here in the next few months.
+Second, our video platform, YouTube, is growing tremendously. We launched a revamped YouTube Music service across 17 countries, and it's receiving great feedback from users and artists alike. This quarter, YouTube rebranded its subscription service, YouTube Premium, featuring originals like our hit series, Cobra Kai, which got 41 million views the first episode alone. While advertising on YouTube is an incredibly strong and growing source of income for creators, we are also investing in new ways for creators to generate revenue on the platform, including paid channel memberships, merchandise shelves on YouTube channels and endorsement opportunities through a company we acquired in 2016, FameBit. In fact, half of the creators that used FameBit in the first 3 months of 2018 doubled their YouTube revenue. And third, our advertising platforms, which are firing on all cylinders as we put the power of machine learning into marketers' hands.
+At Google Marketing Live, we introduced our newly rebranded advertising products, our core product, Google Ads; Google Marketing Platform, which provides analytics and ad serving for large marketers and agencies; and Google Ad Manager, our monetization engine for publishers. We also announced a new ad format powered by machine learning called responsive search ads. It automates the manual process of building text ads and optimizes them in real time to show the best performing ad for each search query.
+Advertisers also got a first look at local campaigns and Smart Campaigns. Local campaigns are designed exclusively to drive foot traffic to local businesses, and Smart Campaigns are now the default for new SMB advertisers. Small business owners love the simplicity and the results. This quarter, we announced shopping and commerce partnerships with leading global retailers like Carrefour designed to give people the power to shop wherever and however they want. Carrefour is a great example of how we can partner deeply with companies, bringing our Shopping and Ads and Cloud products together for them. They recently chose to migrate from Office to G Suite for their more than 160,000 employees and have selected us as their main cloud provider based on our ability to support the company's digital transformation.
+Speaking of our efforts to help businesses succeed in the cloud, our Cloud business has great momentum. It's a natural extension of our long-time strengths in computing, data centers and machine learning. We have developed these over many years and they power our own services in the cloud and are now helping others.
+This week's Google Cloud Next event will have more than 20,000 attendees, up from over 2,000 at our cloud conference in 2016 with over 250 customers speaking. I won't spoil any of the surprises, but I do want to call out Google Cloud's momentum. Success of our vertical strategy and customer-centric approach was illustrated by key wins, including Domino's Pizza, SoundCloud and PricewaterhouseCoopers. Target is migrating key areas of its business to Google Cloud Platform.
+Financial institutions are increasingly turning to the cloud to modernize their systems, explore new business models and improve customer experiences. New customers include Banco Itaú in Brazil. We also have a rapidly growing business for our specialized cloud AI services. AirAsia expanded its relationship with us to use machine learning and data analytics.
+We are seeing an acceleration in business adoption of Chromebooks, a more secure and cost-efficient way for businesses to enable their employees to work in the cloud. In Q2, unit sales of managed Chromebooks grew by more than 175% year-over-year, and we saw deployments at customers like Veolia. And to support our growing global customer base, we continue to invest in new cables, open new regions in Finland and Los Angeles and announced the Zürich region. We now have 17 open regions with 3 more on the way.
+Before I close, I want to give a quick shout out to the work that we are doing to build great specialized products for the next wave of people coming online for the first time in countries like India, Indonesia, Brazil and Nigeria, many of whom experience the Web only through their mobile phone. This is a big area of focus for us.
+Through a great partnership with Indian Railways and RailTel, we have hit our goal of enabling high-speed public Wi-Fi in 400 train stations across India. We have also rolled out this Google station model in Indonesia and Mexico. More to come soon.
+And to help spur AI innovation in Africa, we recently announced a new Google AI research center in Ghana with the goal of bringing together top machine learning researchers and engineers to explore AI research and applications in Africa and beyond.
+Of course, our commitment to help communities and people benefit from the digital economy extends beyond the products that they use. Last month, as part of our broader Grow with Google effort, we expanded the Google IT Support Professional Certificate program to more than 25 community colleges in the U.S. This will give students an opportunity to learn skills needed to jump-start their careers in IT support.
+I want to thank Googlers for their hard work, which helps us create products that billions of people love and use every day. With that, I'll hand it back over to Ruth.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Sundar, and we will now take your questions.
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And our first question comes from Eric Sheridan of UBS.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  UBS Investment Bank, Research Division - MD and Equity Research Internet Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Two questions if I can. Sundar, for you, following up on your comments, we've seen all of these partnerships announced in the e-commerce space. Want to understand how those partnerships might evolve over the next couple of years, what Google brings to the table for those partners, what it might do for the advertising services business as we think long term. And then we've been getting a lot of questions on Waymo in the quarter. Is there any sense you can give us of some of the key investment milestones or how we should be thinking about capital allocated to the Waymo business in the coming years?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Great. On the commerce front, obviously, it's a natural sector, I think, for us to drive partnerships. We already have deep advertising relationships with many of these providers. Increasingly, Shopping is an area where we are beginning to work together. And finally, I think cloud is another important way by which we can start working together. So I do think we are seeing a lot of traction there. I gave the Carrefour example. We also announced a strategic partnership and significant investment in JD.com, the second largest e-commerce company in China. Today, we are already, for example, in Google Express, we are partnering with over 100 merchants, including national retailers like Walmart, Costco, Target, Walgreens and PetSmart. So there's a lot of traction. I think we are building upon these relationships, trying to have more holistic conversations across the breadth of our offerings, and I think I see it all being very synergistic.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          And then in terms of Waymo, we remain very excited about the opportunity with Waymo. You've seen us talk about our progress on a number of fronts. I think the main point, it is still very early but -- in terms of our progress. So 2018, the focus has been to launch the commercial rider program in Phoenix that we've talked about, looking to do that by year-end. We do view that as a first step in building a more fully rolled out rider program in the future. And as we've discussed on prior calls, we continue to trial the program in Phoenix with an emphasis on delivering a safe experience that delights users. We've also continued to build out our vehicle relationships. You saw announcements regarding FCA and Jaguar. We're expanding our testing to more states. We're also working on additional areas such as logistics and deliveries. We talked this past quarter about licensing the technology for personal use vehicles, and we're also focused on working with cities to help strengthen public transportation. More specifically, your focus on CapEx, as I said, we're excited about the long-term opportunity, but creation of a new market does take time. And then on the CapEx versus OpEx, the way it works is once the commercial program is up and running beyond what's viewed as more of a development or R&D phase, then much of the investments are CapEx versus OpEx, and that's for car sensors and any other spend. So we're excited. We do think it's a really important market, but it is still very early.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Heather Bellini of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heather Anne Bellini,  Goldman Sachs Group Inc., Research Division - MD & Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Great. I just had 2 questions. One, I was wondering if you could talk about what you've seen thus far with the rollout of GDPR. Anything you could share with us and just how that's played out versus your expectations at this point? And then, Sundar, as you mentioned, with Google Next upon us and you're obviously -- you guys are talking very positively about the business. But are there any more steps you can share with us even about the growth rates in G Suite or GCP or combined? And then when we think about this business scaling over time, is there any reason to think that the pace of gross margin progression would be materially different than, say, Azure or AWS at similar revenue levels?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Heather. On GDPR, obviously, it's something we have been working on for a long time, well over 18 months. But the rollout just happened towards the end of second quarter, so it's a bit early to ask us anything. But for us, it's been super important to get it right, and we've always been focused on user privacy. But it's been a big change for a lot of our partners as well, and so we are working closely with our partners and regulators and committed to doing it right. But it's too early to tell. And on Google Next and Cloud, obviously, the conference is tomorrow. So I will hold for the announcements there. A couple things. G Suite is definitely, I think, seeing a lot of momentum. We are definitely -- have noticed in the -- now I think it's -- it can definitely sell the needs of a large enterprise. It's clear. I gave the Carrefour example, but increasingly, we are seeing big companies take on the migration. So that's been, for sure, a positive development. And on Cloud, I think we are investing for the long run. We are definitely seeing traction. A lot of our effort from a product and technology standpoint, we are definitely there and differentiated. It's been a lot about investing in our go-to-market efforts, and as we do it, both developing our in-house strengths but as well as partnering, those things are beginning to pay dividends. And hopefully, you'll hear more details at tomorrow's conference.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Brian Nowak of Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+
+          I have 2. The first one, the Google Assistant and the Hardware on the Google Home Minis, was curious if you could just talk about sort of early learnings and differences in consumer behavior with how they interact with those devices as opposed through -- as opposed to mobile search on the phones. And I know you're always very focused on the long-term value proposition for your users and advertisers, if you talk to what's the focus in the Hardware is long term for users and advertisers. And Sundar, appreciate your color on India and Indonesia in emerging markets. Talk about how you're strategically trying to position yourself or the business potentially beyond advertising and payments or other areas in those countries, if you could, please.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [10]
+--------------------------------------------------------------------------------
+
+          So on Google Assistant, obviously, we see Google Assistant as an important evolution. And obviously, it's early days, but it's already exciting to see. People definitely are pushing the boundaries of what they can do with these devices. Home control and automation is a good example of the kind of use case that's very, very different consumer behavior and which is why our assets in Nest, et cetera, end up mattering over time. So there's a lot more actions people are trying to get things done, which is definitely areas where we are focused on. But I think it's important to understand that the experience not just in the context of Home and Home Mini but also your core mobile experience, how it evolves on the phone and across the screens you will have in your lives. So we are taking the end-to-end user experience in mind, and that's where all the investments we have done over many, many years, I think, will come into play as the product evolves. On your question about emerging markets, the user growth there is extraordinary to see, and we are seeing it across all our products. So all our major products, products which have over 1 billion users each, they are all doing well in these markets. And so that's where most of the growth is going to come from. And so it's an important area of focus. And we do see unique opportunities in these markets, which are different from the markets we are in here in our more mature markets. You highlighted payments as a good example, and you've seen us address that explicitly with Google Tez in India. And so we will look to do more like that. And beyond just getting our products working better, we're going to be opportunistic. We are investing in talent in these countries, and there's a lot of innovation, which is going to happen from these countries, both for their own markets and for the world beyond, and we want to be in a position to do that well.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Doug Anmuth of JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JP Morgan Chase & Co, Research Division - MD    [12]
+--------------------------------------------------------------------------------
+
+          Two if I could. First for Ruth. You've talked about the higher cost as you shift to machine-learning-driven business and then also your tech upgrade cycle around machine. Can you give us a sense of where you are in making those transitions and absorbing those investments from a cost perspective? And then, Sundar, mobile strength clearly in the quarter. Can you just help us understand better how machine learning and AI are driving the stronger growth in mobile search and if there's any specific innovations or products you can point to that are driving that outsized growth?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [13]
+--------------------------------------------------------------------------------
+
+          So in terms of your first question and kind of machine learning and I think you're kind of getting at cycle, you're really seeing it in 2 places. Part of it, as I called out, is with respect to OpEx. We're hiring, and what you're seeing is the investments we're making across the board. It's Ads. It's Cloud. It's Hardware. It's the Assistant. But it is also very much in machine learning, and we're really proud of the team that we have given the opportunity set that they're able to address. And I think you were trying -- you were getting more broadly at CapEx. The way we're focused on CapEx, as I've said last quarter as well, we view this as a lens into our outlook for growth in the required additional compute capacity. And there are a number of growth drivers there, and part is really to support growth that we're seeing in our Search and Ads business. That's really consistent with the momentum that we've commented on today and the exciting opportunities that we see to further enhance the user and advertiser experience. It's also for our newer businesses as I noted in opening comments. And then very importantly, it reflects the importance of machine learning across our products, including Search and Ads. We've talked about this in the past. Machine learning is more compute intensive, but it also opens up more services and products across Alphabet. And that's what we're investing in to make sure that we've got the capacity with best-in-class compute capacity. And so the build is really machines, data centers and network infrastructure. And just to make sure and put a fine point, while we're ensuring that we're well positioned to support the growth we see, we do constantly remain focused on efficiency per unit of compute. We've talked about that on many prior calls and are investing here for long-term value creation thoughtfully in order to be able to pursue the opportunities that we see ahead of us.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [14]
+--------------------------------------------------------------------------------
+
+          And Doug, on your question on how is machine learning driving the mobile search experience, the key thing is it's doing it at a deeper foundational level. We've obviously used machine learning across the board, be it our ranking and actually understanding the intent and the context around the query and getting you the right answer. I think the experiences -- I mean, the improvements are happening continuously. And so we are -- I would just say we're getting deeper in terms of what we are able to do. In terms of specific innovations of products, it's super important to understand. I gave the Translate example earlier. While it may seem like a specific use case, it's obviously -- obviously, we can do Translate well because of machine learning. But where it helps us is we want Google to be the source you think of when you run into a problem. And the fact that the data shows that during the World Cup in Russia, our usage spiked up, to me shows that when people are running into new things, new experiences, when they have questions on their mind, Google is what they are reaching out to. And I think the way we continue to do that well is by -- increasingly by using machine learning. So that's the depth to which we think about this.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Anthony DiClemente of Evercore.
+
+--------------------------------------------------------------------------------
+Anthony Joseph DiClemente,  Evercore ISI Institutional Equities, Research Division - Senior MD & Fundamental Research Analyst    [16]
+--------------------------------------------------------------------------------
+
+          First for Sundar. You talked about Android in your prepared remarks. In your blog post, you said that you're concerned that the Android ruling from the EC sends a troubling signal in favor of proprietary systems over open platforms. So I wonder, how are you thinking about the possible business impact from this Android ruling, specifically untying the Play Store from Search in the Chrome browser? And does it, in any way, change your strategic approach for Android going forward? And then for Ruth on the theme of OpEx investment trends, if we isolate just the other revenue businesses, Cloud, Play and Hardware, all growth drivers but clearly, structurally different in terms of the competitive landscape and profitability. You said most of the headcount additions are in Cloud, but would love to understand more about how you prioritize investment across Cloud, Play and Hardware, those 3.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [17]
+--------------------------------------------------------------------------------
+
+          On Android, as I said in my blog post, Android has really worked well, I think, globally for users for everyone in the ecosystem. You can clearly see there's robust competition. There's a lot of innovation, lower prices that has made Android possible at every price point. And so I think, overall, it's created more choice for everyone, not less. We have -- it's -- we are analyzing the decision, and I think it's too early to comment or speculate beyond what we've already said. But we will always take a constructive approach. We'll appeal the commission's decision and take the due process available to us. But we're also looking forward to finding a solution above all that preserves the enormous benefits of Android to users and so on. So there is more work to be done, and I think it'll become clearer as we go along. But I'm confident that we can find a way to make sure Android is available at scale to users everywhere.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [18]
+--------------------------------------------------------------------------------
+
+          And in terms of your question on investment priorities, I think one of the most important points to underscore is that one of the biggest opportunities for investment continues to be in our Ads business, where we're continuing to invest meaningfully given the opportunity set that we see there. Sundar commented on some of them. As did I., looking at opportunities to enhance the user experience, to continue to improve tools for advertisers and both of which extend the growth there. And that's for mobile, and what we're increasingly seeing is, as we focus on mobile, the benefits are across platform and help explain the growth we're seeing in desktop and YouTube. So we are continuing to invest here. I don't want to leave you with an answer, with the notion that the investment is just going to the newer businesses. And then more specifically to your question, what we look at is the opportunity set, the -- each one of these is different. When we start with Cloud, as Sundar commented, given the core capabilities that we are building upon, our technical infrastructure, security, apps, machine learning, analytical tools, our view is that we're addressing a rapidly growing market with the core pillars that are needed to win. And what has been the recurring theme that we've talked about on these calls is the need to further build out our go-to-market capabilities and ensure that we've got the functional requirements that enterprise customers deserve. So it's really looking at the scale of the opportunity, the pace of investment that can be done effectively and therefore, position us well. Our Hardware business continues to deliver significant growth, particularly with the sales of the Home family of products. And you've seen us invest there. We talked about the HTC acquisition last quarter because this is a scale business, and the ability to operate as effectively as possible underscores the types of investment we're making. Play continues to benefit from broad-based app strength, has been a long-standing strength of ours, and we're continuing to invest as needed there.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Mark Mahaney of RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  RBC Capital Markets, LLC, Research Division - MD and Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Two questions. It seems like your commentary on cloud is very positive. It seems like that's also what we're hearing from Microsoft and my guess is from Amazon, what they're seeing. Do you think we're just at a broad industry inflection point in terms of cloud adoption? And any thoughts as to why we're seeing it now? And then on -- I had a question on advertising. There's this big bucket of ad spend called trade promotion spend that's largely been off-line I think, and it's almost as big maybe on a global basis as kind of traditional TV brand advertising. Any thoughts on that as an opportunity, whether there's an ability for that to really migrate heavily online and Google's ability to tap into those dollars?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [21]
+--------------------------------------------------------------------------------
+
+          On the first question on cloud, for sure, I do think there is an inflection point, and that's why it feels far from a zero-sum game. I think all the major players are definitely seeing traction. And to me, the reason is, typically, when you look at enterprises, you -- once you've deployed and you have an architecture, you try and stay on it as long as you can in many, many cases because change is hard. But there's a case in which the benefits are super clear. And over time, I think there's a tremendous cost to your business of being on the wrong architecture, especially if you need to digitally transform yourself. Thinking through the cloud architecture becomes an important way by which you're improving your business. So I think, at a foundational level, it's clearly there on everyone's minds. It's not just on -- CEOs are asking questions about cloud. Almost all businesses I deal with I can clearly see the question is on the mind of their CEO, and so I think it's important. Also think it's going to be businesses are going to embrace multiple clouds over time, too. So I think not only is this early, but I think it is going to transform. And there's a lot of opportunity here. And our goal here is it's something we view. This is something we have built experience over 20 years, and we are thoughtfully gaining strength and committed to it for the very long term.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [22]
+--------------------------------------------------------------------------------
+
+          And then in terms of kind of trends in advertising to your question, we have talked about this quite a bit in the past. Over 90% of commerce is still off-line, and we do see a great opportunity for digital to play a bigger role in that and tap into our budgets -- into other budgets that have traditionally been there. And so we are quite focused on the advertising opportunities I've said and the fact that ad budgets are off-line. And as we focus on these are opportunity and the tools for advertisers, we view that as another opportunity.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Dan Salmon of BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Daniel Salmon,  BMO Capital Markets Equity Research - Media and Internet Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Sundar, you mentioned in your prepared remarks or highlighted at least the launch of local campaigns at Marketing Live a couple of weeks ago. I recognize that's an initiative that will help drive demand across a number of Google properties. But I'm curious in particular about Maps, and with it being product aimed at driving store visits, one would assume Maps would play an interesting part in that. And in the past when we've asked you about Maps, it was focused more on getting the user experience right. So my question is, is do you see local campaigns as something that drives a bit of an incremental level of monetization of Maps.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [25]
+--------------------------------------------------------------------------------
+
+          Look, I think it's a good question. Local is an extraordinary use case in mobile. Local mobile searches are growing faster than mobile searches for us and have increased by almost 50% in the last year alone. And we are continuing to invest in building a local experience that benefits merchants, users and advertisers. And local campaigns is something new, which we announced at Google Marketing Live a couple of weeks ago. It's a new campaign where if you're a local business, it's designed to drive foot traffic to you. You provide us with your budget, business locations and creatives, and we use machine learning to automatically optimize that to appear across our properties, right? And along with that, you've rightly noticed that we are beginning to experiment with new ad formats, which we have had in beta, but we are pushing on them a bit more in Maps itself, both promoted places and place page ads. So these are important ways by which we are exploring the commercial opportunity around Maps. I've always felt Maps is a tremendous asset we have. And we have really focused on the user side of things, and we will continue to do so because the growth is very, very high. So we see a lot of headroom. And -- but as their experience is -- we get a better understanding of it, we are developing our views on how we can bring monetization experiences. And so these are all steps in that direction. But we'll take it slowly, and we'll continue to evolve it here.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Brent Thill of Jefferies.
+
+--------------------------------------------------------------------------------
+Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Ruth, the U.S. and Asia businesses accelerated sequentially modestly. But Europe was down a touch, and I think there've been many questions around did GDPR have any impact. And Sundar said it was too early to call. But is that just completely unrelated to what happened and maybe there's something else that's going on that resulted from the small known TAC?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, the way we look at it is we're pleased with the strength in each of the regions at 19% year-on-year growth in EMEA on a fixed basis. We're pleased with the strength in the business, and as Sundar said, I think it is too early to comment on GDPR. We then hope that the geographic split gives you a better sense of what's kind of the dynamics in each of the various regions. And as we both commented on, as long as you raised the regional question, I got to comment on APAC here. Really pleased with the growth, 34% on a fixed FX basis, and it underscores Sundar's comments about terrific products in rapidly growing markets as well as a superb leadership group. Mobile strength is the key there as well, and we're really pleased about the breadth by country that we're seeing. We're very focused on the region. So we're, as we look across the globe, pleased with the fact that it is -- all regions are contributing nicely.
+
+--------------------------------------------------------------------------------
+Brent John Thill,  Jefferies LLC, Research Division - Equity Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Okay. And a quick follow-up for Sundar. I -- you mentioned on the Cloud business that you're getting strong traction among some of the big financial institutions. One of the big questions we get is around the heavily regulated industries like health care and financial. It feels like you're starting to get better referenceability there. Are you happy with where you sit across the more heavily regulated industries now versus the tech-focused industries where you sit right now?
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [30]
+--------------------------------------------------------------------------------
+
+          Definitely, and I think that's where a lot of our investments have gone in, right, getting the necessary certifications needed depending on the industry and building the features that you need. And that's clearly starting to have an impact in both on GCP but as well as G Suite. And so we definitely are going to continue to build out our capabilities, and we'll be going after the opportunities in these areas very seriously.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Colin Sebastian of Robert W. Baird.
+
+--------------------------------------------------------------------------------
+Colin Alan Sebastian,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [32]
+--------------------------------------------------------------------------------
+
+          I have a couple. Maybe first going back to the commerce theme. I wanted to ask about Shopping Actions and the level of adoption you might be seeing with that format. And more generally, what do you envision monetization for Google Assistant if we should still expect to see more of a transactional bent to that platform? And then on TAC, Ruth, I wonder if it's worth adding a little more color perhaps on the timing or how much of the second quarter benefited from the moderation in growth in Sites TAC just so we can get a better sense as to how to model that expense item over the next few quarters.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [33]
+--------------------------------------------------------------------------------
+
+          Colin, on Google Assistant and Shopping Actions, there, I do think it's been exciting to see the improvement there, but I still would like the experience to evolve a lot more before we play around with monetization. And in all of these areas, we always have a high bar to make sure the user experience is working well. You have seen us do that with Maps or something like that. And I think, today, while we have taken promising steps with Shopping Actions, for all of this to really work well and to delight users, I still feel we have some work ahead of us, and that's what we are focused on. So we'll stay focused there, get the experience, and then that will give us new avenues to monetize it. I've seen this with YouTube now. Beyond ads, we are experimenting with a lot of new formats, and the same thing here. So I'm pretty confident of our ability to do that well if you get the experience right.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [34]
+--------------------------------------------------------------------------------
+
+          And then in terms of TAC, as we've talked about in the past, TAC as a percentage of revenues is affected by quite a number of factors. The main point is that we do continue to expect the TAC rate to increase on a year-on-year basis. And the primary reason is the one we've talked about with you in the past. It's the underlying shift to mobile, which carries higher TAC than desktop. So on a year-on-year basis, that's the trend that you're really seeing as the ongoing strength in mobile. Over the past 4 quarters, changes in partnership agreements have also been a driver of increases in the TAC rate, and then there are host of other factors that we've talked about that can have an impact in any quarter like device mix or partner mix or mix of organic in paid distribution points. And so as we called out last quarter, we did expect the pace of year-on-year growth in the Sites TAC rate to slow beginning in this quarter, the second quarter, and you can clearly see that in the data. And as we've repeatedly said, it is most instructive to focus on year-on-year changes given the significance of the shift to mobile and mobile growth. And so variations in quarter-on-quarter moves are less instructive.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Michael Nathanson of MoffettNathanson.
+
+--------------------------------------------------------------------------------
+Michael Brian Nathanson,  MoffettNathanson LLC - Founding Partner & Senior Research Analyst    [36]
+--------------------------------------------------------------------------------
+
+          One for Sundar, and one for Ruth. Sundar, firstly, you went through a lot of your initiatives in your opening comments, but didn't mention Verily. So can you talk a bit what the bottlenecks are that need to be solved either by you or your clients before you could scale the Verily opportunity? And then for Ruth, you've been clear the CapEx ramp is due to your investing ahead of growth. What is usual time frame, do you think, do you see where those investments pay off? And what factors would make the CapEx-to-sales ratio start growing even faster from here? So those are my questions.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [37]
+--------------------------------------------------------------------------------
+
+          Broadly, Verily is clearly set up as an other bet, and they are doing really important work on health care if you look at the recent progress on their diabetes monitoring and so on. So they're in deep work, and they have a lot more to talk about. Across health care, you see a big opportunity for both Google and Alphabet. It's a vertical which is very important for cloud. And we are obviously helping a lot of health care partners across their needs, and Verily is definitely doing very specialized solutions in this area. And we'll have a lot more to say on all of this over the course of time.
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [38]
+--------------------------------------------------------------------------------
+
+          And then with respect to CapEx, look, I think our view is that what you're seeing here is an aggressive pace of investment given our outlook for growth, and as I've said, the required additional compute capacity, we're quite focused on the kind of full resource utilization across businesses. If I go back a couple of years when we incorporated stock-based compensation into the way we're talking about the businesses, I made the point that, that is helpful both externally and internally. And looking at resource utilization, the same is clearly true of CapEx. And we're quite focused on long-term value creation, focused on ensuring that we're pursuing attractive opportunities in a prudent, appropriate way to capture the opportunity while making sure that we're looking at the full, again, resource requirements. So at this point, that's an interesting way of framing the question how does it grow even faster from here. We're quite focused on this being an aggressive pace and an appropriate one given the opportunity set we see, and it is across data centers, machines and network infrastructure as I said.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          And our final question comes from the line of Justin Post of Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch, Research Division - MD    [40]
+--------------------------------------------------------------------------------
+
+          Just want to get in to website growth. First, maybe you can help us a little bit understand strength in mobile search. Are there new -- any ad formats or ad changes? You mentioned local. Anything to call out there? And then just wondering, given the YouTube controversies last year, did YouTube accelerate this quarter? And what are some of the big content areas that you're investing in?
+
+--------------------------------------------------------------------------------
+Ruth Porat,  Alphabet Inc. - Senior VP & CFO    [41]
+--------------------------------------------------------------------------------
+
+          So in terms of Sites revenue, I think our view is the ongoing strength reflects our focus on improving the user experience and enhancing tools for advertisers, and both Sundar and I have spoken about them. We've got an intense focus on innovation that we've discussed previously that's enabled us to deliver over 100 innovations each quarter, and really exciting area is the benefit of machine learning. It's a valuable driver of our growth, not only enhancing experiences for users but the tools that we talked about for advertisers and for app developers really helping them find the right audience to be able to optimize campaigns at scale to deliver more relevance and higher-quality ads. Sundar talked about a number of them. The Google Marketing Live, we really highlighted what we're seeing there and the benefits, whether we're talking about responsive search ads or local campaigns, smart shopping campaigns. Another great example is Universal App Campaigns. So across the board, and again, I'd made this comment previously, but the benefit we're seeing on mobile is extending to the growth opportunities across platforms.
+
+--------------------------------------------------------------------------------
+Sundar Pichai,  Google LLC - CEO    [42]
+--------------------------------------------------------------------------------
+
+          Yes. And I would add that a good way to think about it is, today, there's a lot of complexity you need to deal with as an advertiser, and increasingly, we are using machine learning to do all the hard work and get them to focus on the business problem they are trying to solve. And that turns out to be a big driver overall. On YouTube, we definitely are continuing to see great product momentum. It's the user adoption and interest, and our metrics are very strong, continues to grow. And the growth is global. And we see it across many, many verticals. And overall, we've invested a lot in making sure we are delivering the content responsibly, and it's a been a big area of focus across Google. We are investing a lot in people to review the content that going on, improving the policies and again, using machine learning to make all of this work better. And I think people are noticing it, including our advertisers, and they are engaging with the platform more. So I would say, overall, there's a lot of momentum there, and I'm excited about it.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Ellen West for any closing remarks.
+
+--------------------------------------------------------------------------------
+Ellen West,  Alphabet Inc. - VP of IR    [44]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, everyone, for joining us today. We look forward to speaking with you again in our third quarter call.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program, and you may all disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

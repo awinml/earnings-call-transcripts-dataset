@@ -1,0 +1,674 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2016 ASML Holding NV Earnings Call
+JANUARY 18, 2017 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Wolfgang Nickl
+   ASML Holding N.V. - EVP & CFO
+ * Peter Wennink
+   ASML Holding N.V. - President & CEO
+ * Craig DeYoung
+   ASML Holding N.V. - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Francois Meunier
+   Morgan Stanley - Analyst
+ * Gareth Jenkins
+   UBS Securities - Analyst
+ * Jagadish Iyer
+   Summit Redstone - Analyst
+ * Farhan Ahmad
+   Credit Suisse - Analyst
+ * Timothy Arcuri
+   Cowen & Company - Analyst
+ * Sandeep Deshpande
+   JPMorgan - Analyst
+ * Amit Harchandani
+   Citigroup - Analyst
+ * Weston Twigg
+   Pacific Crest Securities - Analyst
+ * Douglas Smith
+   Agency Partners - Analyst
+ * Andrew Gardiner
+   Barclays Capital - Analyst
+ * C.J Muse
+   Evercore ISI - Analyst
+ * Kai Korschelt
+   Bank of America Merrill Lynch - Analyst
+ * Robert Sanders
+   Deutsche Bank - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the ASML 2016 fourth quarter and annual financial results conference call on January 18, 2017. Throughout today's introduction, all participants will be in a listen-only mode. After ASML's introduction, there will be an opportunity to ask questions. I would now like to open the question-and-answer queue. (Operator Instructions) I would now like to turn the conference call over to Mr. Craig DeYoung. Please go ahead, sir.
+
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Aaron, and good afternoon and good morning, ladies and gentlemen. This is Craig DeYoung, Vice President of Investor Relations at ASML. Joining me today from ASML's headquarters in Veldhoven, The Netherlands is ASML's CEO, Peter Wennink; and our CFO, Wolfgang Nickl. The subject of today's call is ASML's 2016 fourth quarter and annual results. As always, the length of the call will be 60 minutes and questions will be taken in the order that they're received. This call is also being broadcast live over the Internet at asml.com and a replay of the call will be available on our website.
+Before we begin, I'd like to caution listeners that comments made by management during this conference call will include forward-looking statements within the meaning of the Federal Securities laws. These forward-looking statements involve material risks and uncertainties. For a discussion of risk factors, I encourage you to review the Safe Harbor statement contained in today's press release and presentation found on our website at asml.com and in ASML's Annual Report on Form 20-F and other documents as filed with the Securities and Exchange Commission.
+With that, I'd like to turn the call over to Peter Wennink for a brief introduction.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Craig. Good morning, good afternoon, ladies and gentlemen, and thank you for joining us for our fourth quarter 2016 and 2016 annual results conference call. Before we begin the Q&A session, Wolfgang and I would like to provide you with an overview and some commentary on 2016, the fourth quarter, and beyond. Wolfgang will start with a review of our annual 2016 and fourth quarter financial performance with some added comments on our short-term outlook. Then I will complete the introduction with some additional comments on key 2016 accomplishments and some of our near-term expectations.
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Peter, and welcome everyone. 2016 was a remarkable year for ASML both financially and strategically. I would like to first highlight some of our financial accomplishments and then finish with our view of the coming quarter. 2016 was a record breaking year in many financial respects with total net sales, gross profit, net income, and earnings per share all reaching record levels. In addition, we finished the year with the highest backlog ever which combined with our current business view allows us to look forward to another great year in 2017 where EUV becomes an integral and growing part of our system revenues contributing significantly to our topline growth through the balance of this decade and beyond.
+Turning to our Q4 results. Net sales came in at EUR1.91 billion. Net system sales accounted for EUR1.22 billion driven by logic which represented 61% of net system sales with memory returning to strength versus Q3 accounting for 39% of net system sales. System sales included EUR144 million of EUV revenue, in line with the guidance given during our earnings call in October. Net service and field sales for the quarter came in strong as expected at a level of EUR684 million driven by ongoing strong demand for Holistic Lithography options, high value upgrades, and our growing install base. Furthermore, we closed the acquisition of HMI in November and net service and field option sales include about EUR25 million for this new and exciting part of our business. Our gross margin for the quarter came in at 47.2%.
+This includes starting the amortization of intangibles as well as the effects from the fair value assessment of HMI's inventory as of the closing date of the acquisition. The negative impact on gross margin for both of these purchase price allocation related items was approximately 1 percentage point. R&D expenses came in at EUR287 million, slightly higher than guided due to both the R&D expenses of HMI and the start of our partial funding of Zeiss SMT for our High NA EUV program. SG&A expenses came in at EUR107 million, also slightly higher than guided due to the inclusion of HMI. We also had an impact from foreign currency revaluations on transactions and balances relating to the HMI acquisition. You may remember that this was an unfavorable effect of about EUR28 million in Q3 as reported during our last call.
+For Q4 we had a more than offsetting favorable effect of about EUR83 million. These effects are reported in the interest and other line in our P&L. Moving to the order book. Q4 system bookings came in at EUR1.6 billion for 44 systems including six 3400 EUV systems. Strong bookings continued in the logic sector in support of the 10 nanometer ramps and in support of EUV insertion at the 7 nanometer node. Memory bookings strengthened further from its strong Q3 level supporting expected strength in memory shipments continuing in 2017 driven by DRAM. Continuing order flow for EUV systems brings our total year-end EUV system order book to 18 systems. Our overall systems backlog now stands at nearly EUR4 billion. Turning to the balance sheet. Quarter-over-quarter cash, cash equivalents, and short-term investments came in at EUR4.06 billion. A major driver was our free cash flow of EUR1.1 billion in Q4.
+As we experienced in the last quarter of 2015, we saw a significant level of early payments from customers which will impact Q1 2017 cash flows. Also as already mentioned before, we closed the HMI acquisition during the quarter and also issued a EUR750 million bond to support part of our planned strategic investment in Zeiss SMT, which is expected to close in Q2 of 2017. With that, I would like to turn to our expectations and guidance for the first quarter of 2017. We expect continuing sales strength in Q1 with total net sales of approximately EUR1.8 billion, of which an estimated EUR30 million will be deferred EUV revenue. Foundry shipment strength supporting 10 nanometer RAMs will continue in Q1 and will be firmly supported by memory shipments. We also expect to ship our first NXE:3400 EUV system in the quarter.
+We expect to record the revenue for the system in the third quarter of the year since this system will ship in a non-final configuration. I would also like to mention here that one of the EUV systems that we expected to ship early this year was pulled from Q4 last year due to a customer readiness issue will not ship this year as originally planned. Due to other extenuating circumstances, this customer has now decided to place a system upgrade order for this tool and will take delivery of it in 2018 where it will add to two other systems at the customer side to be shipped this year. This leaves our system output plan at 12 new systems and our shipment plan at 13 considering the one additional system that missed delivery for material availability reasons in Q4 2016.
+We expect our Q1 service and field options revenue to again come in above EUR650 million driven by continued demand for Holistic Lithography options, high value upgrades, and our growing install base. For now we will report HMI revenues under field options and services. Gross margin for Q1 is again expected to be around 47% including the effect from the purchase price allocation for the HMI acquisition. The negative impact of this purchase price allocation adjustment for Q1 is more than 1 percentage point. The impact for the full year is about EUR90 million and will reduce to about EUR40 million per year from 2018 onwards. R&D expenses for Q1 will be about EUR320 million and SG&A is expected to come in at about EUR95 million.
+The uptick in R&D spend is driven by the inclusion of HMI and accelerated investments in pattern fidelity metrology our contributions to SMT's High NA developments, our own High NA development acceleration, and the strong US dollar. As a reminder regarding our share buyback program. Last year we purchased EUR400 million worth of our own shares before the program was paused during our acquisition of HMI. It remains paused for the time being as we close our planned investment in Zeiss SMT. The transaction is in the regulatory approval process in the required jurisdictions. We've already received the approval in South Korea and expect the approval from Germany and China in time to close the transaction in Q2 2017. And finally, an increase of our annual dividend from EUR1.05 to EUR1.20 will be proposed at our Annual General Meeting of shareholders in April.
+With that, I would like to turn the call back over to Peter.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Wolfgang. 2016 was indeed a remarkable year for ASML not only financially as highlighted by Wolfgang, but strategically and product technology wise as we continue to prepare ourselves for continued growth in the coming decade and beyond. I'd like to take a moment to highlight some of these key events. Firstly, our acquisition of HMI will enable us to move from simple imaging and imaging placement significantly in the direction of full pattern fidelity control, which is a key requirement and value provider for our customers at 7 nanometer and below. This along with an expansion of our current products into broader types of applications allows us to lay the foundation for future growth in our Holistic Lithography products group.
+Secondly, we brought a key supplier partnership to the next level by agreeing to acquire a minority stake of Carl Zeiss, our major critical optics supplier, for the purpose of not only securing the extension of EUV imaging technology, but also strengthening the current combined businesses of the two companies to improve cooperation and governance. The co-investment of about EUR760 million over a six year period centers on the R&D investments of next generation lenses and related capital expenditure also referred to as High NA, which is critical in meeting our customers' imaging roadmaps throughout the next decade. Lastly and probably more significantly, the industry has turned the corner on EUV. Throughout the year we continued to execute on mutually agreed performance milestones, which allowed our customers to grow confidence in the technology and tool performance.
+This resulted in customer decisions to allocate their most critical layers of the next generation nodes to EUV beginning with the industry 7 nanometer logic node. With customers backing this confidence up with orders, we ended the year with an EUV backlog of 18 systems as mentioned. Together with the anticipated Q1 orders, this will cover our 2017 and early 2018 EUV output. As mentioned before, our output capability for 2018 will be around 24 systems. Based on the timing of high volume manufacturing introduction of the advanced logic and memory nodes as announced by our customers, it is realistic to assume that this production capability will be fully utilized by our customers. This means we would expect a continued order flow in the coming quarters.
+As we move into the next phase of industrialization of EUV, our focus will remain on continued improvement of key HVM performance metrics very much in line with what customers expect of our DPV offering, above 90% availability and productivity per tool specifications. Furthermore, we are heightening our focus on our supply chain to provide the required number of EUV systems on time and on preparing a competent and sufficiently sizable EUV field service organization capable of supporting our customers in the volume manufacturing installation plants. With respect to our core product lines, we continued to develop industry leading imaging systems evidenced by the introduction of our latest immersion product offering, the NXT:1980, which has demonstrated the fastest ramp of a new product in our history with 46 systems shipped in 2016.
+For our Holistic Lithography product line, 2016 was also a good year where we launched new products by penetrating new large customer accounts promising significant new business in the years to come. Together with the aforementioned progress on the EUV product performance and related business opportunities, we feel confident in further anchoring our leadership position in the semiconductor equipment marketplace. And turning to the short term, as Wolfgang mentioned, we expect to build upon a record 2016 seeing further significant opportunities to grow in 2017. We see a continued ramp of the foundry logic 10 nanometer node as recently confirmed by one of our large foundry customers with memory strength driven by expected stronger bit growth in 2017. In addition, service and field option sales are again expected to continue to grow in 2017.
+This will continue to be driven by sales of scanner system upgrades and our growing Holistic Lithography product offering. In 2017, we'll see the first real impact of EUV system sales with the recognition of systems shipped in the calendar year as well as pieces of remaining revenue recognition from systems shipped in the past. For 2017, our opportunities and challenges are crystal clear. The commitment of our customers to EUV is now apparent and evidenced by our significant and growing EUV backlog. Supporting our customer's intent for moving EUV into volume production in the coming 24 months will remain our number one priority in order to ensure that our customers can deliver the next node transitions as planned. ASML remains committed to do everything within our capability and power to bring EUV to manufacturing as soon as possible.
+With that, we would be happy to take your questions.
+
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP of IR    [6]
+--------------------------------------------------------------------------------
+
+          Thank you for letting us to take some extra time to review in some depth key events of 2016 and their impact on our future. The operator will instruct you momentarily on the protocol for the Q&A session. But beforehand as I always do, I'd like to ask you kindly to limit yourself to one question and one short follow-up if necessary. This will allow us to get as many callers in the hour as possible. Now Aaron, could we have your final instructions and then the first question please?
+
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, at this time we will start the question-and-answer session. (Operator Instructions) Weston Twigg.
+
+
+--------------------------------------------------------------------------------
+Weston Twigg,  Pacific Crest Securities - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Weston Twigg, Pacific Crest. So, my question is related to the memory strength. You mentioned that it should stay strong through 2017 particularly on the DRAM side with bit growth and I was just wondering if you're seeing new DRAM capacity being installed given the pricing trends or if these are tools that are being shipped in the end and then replaced in the DRAM fabs? 
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          It's more of the latter. So, we've seen significant relocations from DRAM capacity into NAND throughout 2016 or starting in 2015 and is really feeling it all back up. Like we said in the previous call, we saw quite a significant capacity drop in 2016 in terms of wafer starts per month in DRAM, which is a double-digit drop and that's being filled up with new DRAM capacity.
+
+
+--------------------------------------------------------------------------------
+Weston Twigg,  Pacific Crest Securities - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. And then I guess as my follow-up, those upgrades on the NAND side, are those being upgrades that are contributing to your field and service options or is that a different revenue line or are those even being upgraded?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          It's the first. These are the upgrades that are in the field service and option line.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [6]
+--------------------------------------------------------------------------------
+
+          Kai Korschelt.
+
+
+--------------------------------------------------------------------------------
+Kai Korschelt,  Bank of America Merrill Lynch - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Kai Korschelt, Bank of America. The first one was, Peter, just to clarify your commentary around the EUV shipments next year. So, I think I heard you say it's realistic to expect 24 tools. What would be the sort of puts and takes on kind of whether you would ship capacity or maybe potentially slightly less in terms of adoption and capacity? And the second question was on the Chinese CapEx and I think you said something on the video on your website. Some of the data points that has been making the rounds of the press suggests that there could be tens of billions of dollars spend on new memory fabs in China. So I'm just wondering in terms of the phasing, timing, or magnitude; how much visibility do you have on those projects? Thank you.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [8]
+--------------------------------------------------------------------------------
+
+          On 2018 the determining factor is not so much our capability or the performance of the tool, it is really as you can understand the next nodes of our customers have complexities in there that are not only driven by our capability or our lithography capability. This is really based on the introduction timing of our customers. So when all our major customers make public statements about when they want to introduce their next nodes and start using EUV, we take those statements and actually we don't only take the public statements to be honest, we have very detailed discussions with those customers on those public statements and what that means.
+So, we get very detailed plans of when they need what tool when and that is really driving the let's say realistic assumption that when we have 24 units to sell, we will sell 24 units when they stick to their plans. So this is basically what it is, there's nothing more to it than that. So, customers will decide and it could be that if one customer says I for whatever reason need to do an introduction six months or later, there will be a six month rescheduling. That's what really drives the business. China CapEx, it's interesting. We also have a lot of interest following every comment that comes out of China, all the tens of billions that will be invested in all kinds of fabs all over the place. But you also have to look at what impact that will have on our short-term business.
+Now short term yes, there are many ceremonies of fab openings or fab extensions I would say, the number of real new fabs is limited or let's say Chinese owned companies. Of course there are the foreign companies that open fabs in China, but I think the reference to the tens of billions are really Chinese owned companies. Definitely I promise when we look at the next 12 to 18 months, it is good. There's some good logic opportunity, there's some memory opportunity there; but it's all within the realms of good business and not the extraordinary growth that some people are portraying. That will very likely happen, but it's very likely also going to take a bit more time than the 2017/2018 timeframe.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [9]
+--------------------------------------------------------------------------------
+
+          Sandeep Deshpande.
+
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          This is Sandeep Deshpande, JPMorgan. Just a quick question, Peter, on the order intake. In the fourth quarter you took orders for six EUV tools and at the same time we have some expectation that you will sign volume purchase agreements with some of your large customers for these EUV tools. So, is it now that you will be taking these EUV orders as a normal part of the business as you seem to have done in the fourth quarter or are we to still expect volume purchase agreements in the next few months? And I have one quick follow-up question on the 2018 shipments.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+          On the order intake in Q4, that was based on a volume purchase agreement for you could say the 3400 delivery. It does not include yet the additional options that they need on those 3400. So you could say if there's a fully signed and closed volume purchase agreement with that customer not entirely because the options are still under discussion, what they need and the economics of it. But yes, those orders were indeed taken under the agreements that we have on the pricing and the pricing models. That's just for one customer. Other customers will follow suit as we continue in 2017. And for those who will introduce EUV later, those VPAs will be also signed later on in 2018. So as you said, it's the normal course of business.
+
+
+--------------------------------------------------------------------------------
+Sandeep Deshpande,  JPMorgan - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          And then following on to 2018 shipments, you're going to have this capacity for 24 tools potentially and then you've already got six of those orders at this point. By which point do you need to get all your orders so that that capacity will be readied for the customer? Because you've said in the past that you take almost a year to ship these tools and then there is a time which the customer takes to install the tool in their own facility and get it stabilized.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          The time to ship and install is about a year so it's not plus, plus. So, it's not for us a time of the year to ship the tool. Our time is we can ship an EUV tool so we can install an EUV tool in about three to four months and we have currently an interval or a cycle time in the factory of about six months. So all-in-all for us it takes about nine months from start of the tool to get it installed at the customer side. Now then the customer needs to of course start to qualify the production. The issue is in their supply chain and in their supply chain we need lenses, we need large mechanical modules that need to be produced, and this is limiting our output capability right now.
+However, having said that to your earlier questions, we are in very intense and deep discussions with customers on volume purchase agreements and it is also clear that those customers need those tools at a certain moment, day, and time. And taking into account our cycle time reduction plans, it is not absolutely necessary throughout 2017 that we need to keep on to this two year timeline. That will go down, that will be shorter because we will reduce the cycle time as volumes go up. However, to be able to ship 24 units in 2018, those systems need to be booked by the end of the year so in this year. Now if you're going to ask me when should those orders come in; is it Q1, is it Q2, or really Q3; I don't know yet and it's not that important. But what I do know is that if we need to ship 24 units in 2017, those orders need to be in.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [14]
+--------------------------------------------------------------------------------
+
+          C.J Muse.
+
+
+--------------------------------------------------------------------------------
+C.J Muse,  Evercore ISI - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          C.J. Muse, Evercore ISI. So first question, can you walk through how we should think about the gross margin for EUV through calendar 2017 and particularly interested how we should think about the inclusion of deferred 100% margins through the year? Thank you.
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [16]
+--------------------------------------------------------------------------------
+
+          I'll take that, C.J. We painted the picture at our Investor Day as well. The starting point is a gross margin if you take everything into consideration of about minus 75% in 2016. Our objective is to get this business breakeven from a gross margin perspective in 2017 and then in 2018 you would make another significant step forward we are thinking somewhere in the 20%s or so. Of course there are a few things that contribute to that and you're right, some of the catch-up revenue that essentially comes at no or low cost will help. But it also will help that this year we are shipping the 3400, which has a list price that's about EUR20 million higher than that the 3350s. We're also going to continue to make progress on the cost side.
+We still have significant amounts of field upgrades that we have to do for no charges. We have learning to do, we are making progress on that front as well. And if you then take into consideration also the service business where as you know, we are charging per wafer out; but we got to mind a growing installed base that is not productive in churning out a lot of wafers. So, we are still spending a significant amount of money on this without revenue coming in. But if you take it all into consideration, we are targeting around breakeven. As it relates to the total business, we were about 45% gross margin in 2016.
+I think we are going to continue to make progress in both businesses EUV going from minus 75% to about breakeven, but also the non-EUV business because the mix is shifting towards applications and more higher value systems will make progress as well. But overall I think for your modeling purposes, you should assume that the total Company gross margin will somewhat go down because you're growing the revenue significantly on the EUV line. So, should expect a little bit of a step back there before then in 2018 we are marching towards the 50% plus that we're targeting for 2020.
+
+
+--------------------------------------------------------------------------------
+C.J Muse,  Evercore ISI - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Just as a quick follow-up there, are you thinking closer to like 43%, 44%? And then as my follow-up on the foundry side, orders ex-EUV came in fairly weak I think sub EUR300 million in the December quarter. How should we think about the timing of a pickup there? Is that simply turns where they will place the order upon your shipment and therefore really not an issue and how do we think about the trajectory as we contemplate 10 nanometer and 7 nanometer RAM?
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [18]
+--------------------------------------------------------------------------------
+
+          Without tying it down to a specific number, but I think with everything that we gave you between Peter on the shipments, on EUV, and the margin; I think you are in the right zip code there on the gross margins. Related to orders, first of all we are thrilled to be at an overall backlog of EUR4 billion. Having said that, same story as in prior calls. We published the backlog because it gives you a decent structural view on what's happening in the business; you see memory picking up, you see a lot of EUV orders coming in. But we always say that just merely looking at bookings or backlog should not be your main input barometer in the outlook because as you know, the order at the end of the day in particular for the more mature business is merely an administrative act. We have VPAs with all of our customers and every other week we get a detailed sales forecast and order forecast against that and that is what's giving us the confidence in the numbers. So, we were not the slightest bit disappointed about bookings last quarter.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [19]
+--------------------------------------------------------------------------------
+
+          Timothy Arcuri.
+
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen & Company - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Timothy Arcuri, Cowen & Company. Wolfgang, first of all in the presentation on the metrics around EUV, you definitely showed some continued improvement in availability. You had two tools that showed a four week average of greater than 90% versus one last quarter, but there was no improvement in productivity. Is that because it's not your focus right now? I guess I would have thought maybe you've seen more than just one tool producing 1,500 wafers per day over that three day period.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [21]
+--------------------------------------------------------------------------------
+
+          Let me answer that, Tim. First of all, the reason why we put those metrics in there is one, to be able to communicate to you; but also to our customers what we believed at that time when we created those metrics the most relevant milestones were that customers used to get convinced that EUV was going to be the choice of their next generation leading edge litho production. Having said that, meeting those targets and not only those targets, it was continued let's say showing off of those targets throughout the year that actually raised the customer's confidence to the level to also publicly state we're going to use EUV and they followed that up with orders as you have seen. Now just for your information, we are over 200 wattsorders which will actually provide us way more than 1,500 wafers per day and that's what we've shown the customers. That's all.
+It is about the confidence that we will be at high volume production requirements by the time that customers need it and that's what's shown with those targets. The targets going forward I would like to relate to are the targets that they need for higher volume introduction like I said in my introductory comments. It's like with Deep UV where we're moving into that in all direction. Like Sandeep said, it's business as usual; we will be over if we have to be and we will be over 90% availability when they need it when they start [HVI] production and we'll be at the productivity of wafers per day as specified by the tool specifications, i.e. 125 wafers per hour. This is where we are and this is why we're absolutely confident that we're going to get there and that's why it is the last time we are going to give you these targeted numbers because those milestones have been met evidenced by their customer orders.
+
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  Cowen & Company - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          And then as just as it relates to backlog on EUV. So you have 18 systems in backlog, you have slots for 12 this year so obviously 6 of those are going to ship next year. Since you have 24 slots give or take next year, does that mean that backlog can only be 24 exiting this year or is the policy such that if you get an order even if it's going to ship 18 months from now, you're going to put in backlog so that the backlog exiting this year can be actually a lot higher than the 24 slots that you have next year? Thanks. 
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [23]
+--------------------------------------------------------------------------------
+
+          That's correct. Like I said, probably if you would in 2016 we had 24-month lead time. That will go down, but it's not going to be 12 months by the end of this year. So, it's very likely that there are going to be 2019 orders in there.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [24]
+--------------------------------------------------------------------------------
+
+          Amit Harchandani.
+
+
+--------------------------------------------------------------------------------
+Amit Harchandani,  Citigroup - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Amit Harchandani from Citigroup. Firstly, my question is with respect to the technical milestones that you referred to earlier. Could you maybe talk about what are the key areas of improvement that you're working on within the tool that need to be completed this year or are on the verge of being completed that would take you to the targets you've talked about for commercial introduction in terms of the technological progress? And secondly, could you also give us a sense of what's happening in the wider ecosystem particularly around defectivity and pellicles any other components within the ecosystem, if you could kindly share any updates around those? Thank you.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [26]
+--------------------------------------------------------------------------------
+
+          On the key areas of improvement, it's really focused on lifetime extensions of parts. So it's the industrialization of those parts, lifetime extensions, taking out some of the quality issues that we know what to do. That actually brings us to those targets that customers need for high volume introduction, 90% plus availability and productivity at spec. On the ecosystem I think two things, resist and pellicles. Resist, good progress and we get progress reports every now and then and over the last couple of weeks we got some good progress reports of photoresist and on photoresist sensitivity, on linage roughness data and information that give customers good confidence that by end of 2018, 2019 we're going to get what we want. On the pellicle, we have started to outsource the pellicle production to a supplier that actually should make the pellicles for the industry for our customers.
+Initially there was a process that yielded low because pellicles still had some defects on it on the pellicle itself. As you can imagine if a pellicle is a membrane sitting in front of the photomask, you don't want any a defects on that pellicle because they're big, they will actually print. Now by the end of the year we actually received the first defect free pellicle and also there we were seeing progress that everybody is looking for. It is not our main concern. What our concern is yes, the supply base of those pellicles will be maturing also so we get a constant flow of defect free pellicles. But if you look at the progress that we have made in the last six months, that gives us the confidence that also by the time when we need the [H] volume, the HVM requirements, we will be there.
+
+
+--------------------------------------------------------------------------------
+Amit Harchandani,  Citigroup - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Just a couple of clarifications on what you said. Firstly, with respect to the technical progress with respect to your tool. But just so that I understand correctly there are all incremental improvements really around lifetime extensions, but there is no radical improvement that you need to do, all of that is behind us in 2016. That would not be a correct statement to make technically. And secondly, is the topic of actinic inspection tool when it comes to EUV behind us or does that still come up in your conversations that you think the workaround is pretty much accepted now by all the customers who are looking to move on with EUV?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [28]
+--------------------------------------------------------------------------------
+
+          That's correct. We do not have any discussions on actinic inspection at this moment and the workarounds that we currently have either through the pellicle use or on-wafer inspection using tools EVM tools. That is really what the solutions are that customers are currently using. Now the discussion on actinic inspection tools over time and in the next decade might come back, but we'll see how effectively current solutions are.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [29]
+--------------------------------------------------------------------------------
+
+          Gareth Jenkins.
+
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS Securities - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Gareth Jenkins from UBS. Just a follow-up on memory, you have a slightly more positive tone on this. Does this include in addition to the 1980s that you're talking about some KrF business? And secondly, I just wonder whether you could talk about your expectation in terms of conversion of the 7 nanometer node for your large foundry customers from 10 nanometer. Thank you. 
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [31]
+--------------------------------------------------------------------------------
+
+          Gareth, could you be a bit more specific on your last question on the conversion, what do you want to know? 
+
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS Securities - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          
+
+          I just like to know the sort of level of conversion that you expect between the 10 nanometer and the 7 nanometer node given the similarity or the commonality between the tools. So, would you expect it to be more or less than kind of what we saw with prior nodes?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [33]
+--------------------------------------------------------------------------------
+
+          On the memory, presumably yes, with only 1980s; we always ship if you add some extra capacity some KrF. But going back to an earlier question, this is really backing up the installed capacity that was relocated to NAND, which were basically immersion systems where they were upgraded in the NAND space. So it's predominantly NXTs, but we always have some level of capacity space that is in the existing fabs which also need some KrF, but it's largely NXTs. The level of conversion from 10 nanometer to 7 nanometer. There's always a level of conversion from 10 nanometer to 7 nanometer, which would include upgrades. So the level of commonality from a platform point of view is always there, but it's really the performance on overlay and focus that drives really upgrades.
+So when there is a reuse of an existing body in the 10 nanometer space or a previous node on to the new node, then you see upgrade business. And this is a part of the business that we see growing in 2017 where we indeed see the number of upgrades in the logic space, but also in the memory space from let's say previous platforms to the newest specification of the NXT platform really happening and that is part of the business growth that we see in the services and options. So not much different than previous nodes, it does lead to a lot of new business in terms of system upgrades.
+
+
+--------------------------------------------------------------------------------
+Gareth Jenkins,  UBS Securities - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Can I just follow-up and just ask what your expectations for the 10 nanometer. I think you've always talked about wafer starts from 10 nanometer and 7 nanometer geometries combined. I wondered whether there's been any change in the full process around the starts on 10 nanometer and 7 nanometer?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [35]
+--------------------------------------------------------------------------------
+
+          No, currently not. The only thing that we can say is that of course we discuss with customers their business and their plans. I only can say that the 10 nanometer/7 nanometer confidence that our customers have in being a big node driven by more than just the smartphone applications they're all talking about and it's real because it's about customers in the automotive space, customers in the space that is dealing with artificial intelligence and augmented reality, virtual reality, big data, and big data analytics. They are seeing customer applications in that space and that is driving their confidence on the node sizes and they keep repeating to us that they strongly believe based on what they see and the tape outs that are coming that it's going to be a big node.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [36]
+--------------------------------------------------------------------------------
+
+          Francois Meunier.
+
+
+--------------------------------------------------------------------------------
+Francois Meunier,  Morgan Stanley - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Francois Meunier from Morgan Stanley. I understand what was the question around the gross margins and like the effects around it, but there is one I would like to understand a bit more. I think you guys have been talking about PPA having a negative impact this year of around EUR90 million. So it's actually a non-cash impact so like when you guide for 47% gross margin in Q1, actually the cash gross margin is more like 48%, 48.2%, or something for Q1. Is that the right way to look at it?
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [38]
+--------------------------------------------------------------------------------
+
+          I'll be careful with the cash because there are other cash, non-cash related items; but in principle you're right, we're guiding to about 47%. And if you just look at the two elements, one being the amortization of intangibles, we said that's going to be about EUR40 million per year; but that's linear so it's about EUR10 million. And then we said there was EUR50 million that result from the revaluation of the inventory to a fair value or market value at the time of closing. We've got to work ourselves through this and as you can imagine, this is going to be a bit more skewed to the front of the year rather than the back of the year and therefore there is as you state a probably closer to 1.5% impact on the gross margin in Q1. Or in other words had we not done the acquisition and the deal with the purchase price allocation, we would have been north of 48% in the first quarter. But I wouldn't associate it with cash and non-cash because there's other stuff.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [39]
+--------------------------------------------------------------------------------
+
+          Farhan Ahmad.
+
+
+--------------------------------------------------------------------------------
+Farhan Ahmad,  Credit Suisse - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Farhan Ahmad, Credit Suisse. I have a question related to EUV. What are some of the risk factors that you see going forward? Is there anything that you have to deliver for EUV to be adopted or should we take these orders as a sign that EUV is now at a point that we can count on its delivery in 2018? And also can you remind us again on what the lead time is for EUV going forward? 
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [41]
+--------------------------------------------------------------------------------
+
+          I think ultimately the proof of the pudding is when the customers give you an unconditional commitment to pay you a lot of money, which I think has happened. I think that decision, which most customers have been public about EUV, when they want to use it and how they want to use it, is following this up by orders. So, I think it is true. Somebody asked a question earlier is that what could happen to make 2018 a year where you're not going to fully ship your production capacity. I just answered one of the things is customer roadmaps might change, but what they're telling us today and we know the number of layers that they want to use EUV on that we have to use that capacity and only if a customer changes their minds that things will change, but that's not the case today. On lead time like I said, lead time 2016 was just (inaudible). We had a supply chain that we have to kick out of hibernation. They're now awake I can assure you so lead times will also compress somewhat also throughout 2017. I'd love to have a lead time by the end of the year of about 18 months.
+
+
+--------------------------------------------------------------------------------
+Farhan Ahmad,  Credit Suisse - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          And can you talk about how do you see the linearity of 2017? Some of your peers have indicated like there is a stronger first half relative to second half, is that something you see also? And related to the China 500,000 wafer starts, is any of it hitting this year or next year?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [43]
+--------------------------------------------------------------------------------
+
+          So on the linearity, it's too early to say. Generally we have lead times of about six months for our tools so customers probably gave us a very clear indication of the next six months, which looks very good. The rest of the year is a bit driven by expectations and so that's always a bit more uncertain to a certain extent. So, that might be the reason why some of our peers focus more on the first half. It's just visibility. On China 500,000 wafer starts next year, we don't see 500,000 wafer starts next year, it's too much. It will be there, but as I said earlier it's going to take a bit of time. With some of our customers, we've been talking about building new fabs now for two-and-a-half years. In that same timeframe, our logic customers built the fab and we're shipping tools while we're still talking about the others. So, this just has to kick into a different gear also because 500,000 wafer starts next year is absolutely not what we expect good business. Yes, we will expect shipments into new pedestals for our tools, into fab extensions, and perhaps a new fab; but nothing to the level that you just mentioned.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [44]
+--------------------------------------------------------------------------------
+
+          Jagadish Iyer.
+
+
+--------------------------------------------------------------------------------
+Jagadish Iyer,  Summit Redstone - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Jagadish Iyer, Summit Redstone. First Peter, if you look at your immersion revenue systems, it has been pretty much stable through the last three years and in fact has trended up. So I just was wondering as EUV starts to progress, how should we think about the immersion system trajectory over the next 12 to 24 months? And then I have a follow-up.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [46]
+--------------------------------------------------------------------------------
+
+          The next 12 to 24 months I do believe that when you look at what is driving our customers business is this 10 nanometer logic and it's memory, that still needs those immersion systems. So, I think next 12 to 18 months I don't think you will see a lot of change. Although longer term when complexity of chip design increases, the number of layers will also go up. Now the increase of the incremental layers are very much the critical ones, which is going to be EUV and as EUV progresses in terms of maturity and productivity, also EUV will grow into the realm of leading edge Deep UV.
+But how you look at it, there's also I think clearly discussed at our Capital Markets Day, immersion and Deep UV will be with us forever and also means over the next 10 years or so it's going to be a very significant part of our business, for the next 12 to 18 months is going to be the majority part and the key part of our business given the fact that those nodes that they are being designed into are the nodes that we're currently using and ramping which is not an EUV node. 10 nanometer is an immersion node and the high-teens DRAM is an immersion node. So, that will be with us for the next 12 to 18 months.
+
+
+--------------------------------------------------------------------------------
+Jagadish Iyer,  Summit Redstone - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Okay. Then briefly so on the six EUV system orders that you got as a VPA, is it fair to conclude that you have met the 7 nanometer initial insertion specification with this key customer? Thanks.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [48]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [49]
+--------------------------------------------------------------------------------
+
+          Andrew Gardiner.
+
+
+--------------------------------------------------------------------------------
+Andrew Gardiner,  Barclays Capital - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Andrew Gardiner, Barclays. Just one on your outlook for 2017. You've given fairly clear messaging around what you see on the logic space and on the memory space and of course services and options continue to grow. Just the statement around significant revenue from EUV for the first time. If I go back to the Capital Markets Day in late October, you seemed to be indicating at that point something on the order of sort of below EUR1 billion mark as a combination of rev rec at shipment as well as the deferred revenue coming through. Is that still a reasonable assumption given better visibility in how you see EUV trending for this year? And also within services and options for this year now that HMI is closed and you're in the integration process, what are your expectations for that business over the next couple of quarters? Thank you.
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [51]
+--------------------------------------------------------------------------------
+
+          EUV, what we said before continues to apply. We said we can ship a maximum of 13 tools, which is a 12 plus 1 carryover. Revenue recognition is now close to shipment with shipment for a majority and yes, there will be some catch-up revenue from last year where we shipped systems with no revenue recognition. So without tying it down too much, but I think the number will have a [1] in for sure and some of [1.2] is clearly within the realm of possibilities. Service and field options will continue to grow even if you start with excluding HMI, we grew 7%, 8% this year. And also based on some of Peter's comments on the upgrades, we think it will grow at least by that level, it could grow at 10% or so year-over-year.
+And then we have HMI, which are going in for like two months last year and we are not intending to break this out in the future. But you know from the standalone reporting that this should be somewhere in the EUR200 million zip code that is incremental. I think you will see us announcing new products during the year, but they will not lead to any significant revenue in the year. So EUV, field options and services, and HMI are all growth drivers and then you have the rest of the business that is stable and in some cases up a little bit. So like we said in our prior remarks, it should be a pretty good revenue year in 2017.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [52]
+--------------------------------------------------------------------------------
+
+          Douglas Smith.
+
+
+--------------------------------------------------------------------------------
+Douglas Smith,  Agency Partners - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Doug Smith from Agency Partners. I was wondering can you break down the 18 EUV systems backlog into your foundry, memory, and IDM groups?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [54]
+--------------------------------------------------------------------------------
+
+          Yes, we could, but we generally say we're not doing it because it will be very customer specific because you could easily say who is who and that's not what I want. But there are few memory orders in there and that's just less than a handful and the rest, most is logic and IDM.
+
+
+--------------------------------------------------------------------------------
+Douglas Smith,  Agency Partners - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Okay. And just a clarification, were you saying that the six EUV orders in Q4 were all from one customer? 
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [56]
+--------------------------------------------------------------------------------
+
+          No. There were five from one customer, one was an addition.
+
+
+--------------------------------------------------------------------------------
+Douglas Smith,  Agency Partners - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Okay. So five from one customer?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [58]
+--------------------------------------------------------------------------------
+
+          One memory customer and one logic customer.
+
+
+--------------------------------------------------------------------------------
+Douglas Smith,  Agency Partners - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Okay. And the one that was in this group of five was what you call the kind of quasi PPN?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [60]
+--------------------------------------------------------------------------------
+
+          I have to correct you, I think that it was all logic. Six were all logic, but with two customers; (inaudible). 
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [61]
+--------------------------------------------------------------------------------
+
+          On the 18 systems, we have said before that it's five customers in total not like only the (inaudible). It's five customers in total that have orders in with us.
+
+
+--------------------------------------------------------------------------------
+Douglas Smith,  Agency Partners - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          And it's the one that had the five which were I think that you called kind of a quasi PPN?
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [63]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP of IR    [64]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, we have time for one last question. So if you are unable to get through, as always feel free to contact the Investor Relations department and we'll get back to you as soon as we possibly can to try to help. Now operator, if we can have the last caller, please.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [65]
+--------------------------------------------------------------------------------
+
+          Robert Sanders.
+
+
+--------------------------------------------------------------------------------
+Robert Sanders,  Deutsche Bank - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Just a question about the 3400. So the shipments that customers have ordered, are you going to upgrade the source to 250 watts at a later stage and is that a free upgrade? And then the second question would just be on the HMI business, it does seem to be tracking below expectations from June when you acquired it. I was just wondering what's the update there on the outlook and how that business is tracking? Thanks.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [67]
+--------------------------------------------------------------------------------
+
+          On the 3400, there's no major source upgrades just cranking up the power and so that is not necessary the source is the source and we'll be capable of doing 250 watts or at least it's going to be above 205 watts whereas 250 watts doesn't really matter because 205 watts worth 125 wafers per hour and that's the throughput specification. But 250 watts by the way is also not with this particular source design is not our end target. I think with this particular design, we can go higher, we can go 300 watts and above. On HMI, below expectations.
+
+
+--------------------------------------------------------------------------------
+Wolfgang Nickl,  ASML Holding N.V. - EVP & CFO    [68]
+--------------------------------------------------------------------------------
+
+          There is no significant difference in what we have seen already during our due diligence time and since this is a growing business, more importantly the roadmap going forward is well aligned not only within us and HMI more importantly also with the technology folks at the customers. So, we're looking forward to a significant opportunity like we said at our October call which could be up to a EUR1 billion by 2020.
+
+
+--------------------------------------------------------------------------------
+Peter Wennink,  ASML Holding N.V. - President & CEO    [69]
+--------------------------------------------------------------------------------
+
+          Rob, you have to remember that in 2017 we still have the majority of the HMI sales or you would call the standalone HMI sales. What we're really looking at is you may remember the presentation that we had at the time of the acquisition that the area where we believe we will have a significant growth opportunity is the combination of the holistic lithography or the computational lithography competencies of ASML with the HMI capabilities creating a new product. That is where we think there is going to be a big market and a big growth opportunity and that's not for 2017, it will be 2018 onwards.
+
+
+--------------------------------------------------------------------------------
+Craig DeYoung,  ASML Holding N.V. - VP of IR    [70]
+--------------------------------------------------------------------------------
+
+          Thank you, everybody. On behalf of ASML's Board of Management, we'd like to thank you for joining us in the call today. And operator, if we could have your formal conclusion to the call, we'd appreciate it. Thank you.
+
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [71]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes the ASML 2016 fourth quarter and annual financial results conference call. Thank you for participating. You may now disconnect your line.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

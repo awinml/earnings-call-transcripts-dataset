@@ -1,0 +1,543 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2016 Amazon.com Inc Earnings Call
+APRIL 28, 2016 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Brian Olsavsky
+   Amazon.com, Inc. - CFO
+ * Phil Hardin
+   Amazon.com, Inc. - Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Douglas Anmuth
+   JPMorgan - Analyst
+ * Carlos Kirjner
+   Bernstein - Analyst
+ * Justin Post
+   BofA Merrill Lynch - Analyst
+ * Ron Josey
+   JMP Securities - Analyst
+ * Brian Pitz
+   Jefferies LLC - Analyst
+ * John Blackledge
+   Cowen and Company - Analyst
+ * Stephen Ju
+   Credit Suisse - Analyst
+ * Heath Terry
+   Goldman Sachs - Analyst
+ * Bob Peck
+   SunTrust Robinson Humphrey - Analyst
+ * Eric Sheridan
+   UBS - Analyst
+ * Mark Mahaney
+   RBC Capital Markets - Analyst
+ * Aaron Kessler
+   Raymond James & Associates, Inc. - Analyst
+ * Benjamin Schachter
+   Macquarie Research - Analyst
+ * Brian Nowak
+   Morgan Stanley - Analyst
+ * Ross Sandler
+   Deutsche Bank - Analyst
+ * Mark May
+   Citigroup - Analyst
+
+================================================================================
+Presentation
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, everyone, and welcome to the Amazon.com Q1 2016 financial results teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded. For opening remarks, I will be turning the call over to the Director of Investor Relations, Phil Hardin. Please go ahead.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Hello and welcome to our Q1 2016 financial results conference call. Joining us today is Brian Olsavsky, our CFO. We will be available for questions after our prepared remarks. The following discussion and responses to your questions reflect management's view as of today, April 28, 2016 only, and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings.
+As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter. During this call, we will discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast, and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures including reconciliations of these measures with comparable GAAP measures. Finally, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2015. Now, I'll turn the call over to Brian.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Phil. I'll begin with comments on our first-quarter financial results. Trailing 12-month operating cash flow increased 44% to $11.3 billion. Trailing 12-month free cash flow increased to $6.4 billion, up from $3.2 billion. Trailing 12-month free cash flow less lease principal repayments increased to $3.5 billion up from $1.5 billion. Trailing 12-month free cash flow less financed lease principal repayments and assets required under capital leases increased to $1.6 billion, up from an outflow of $1.2 billion.
+Trailing 12-month capital expenditures were $4.9 billion. Capital expenditures do not include the impact of property and equipment acquired under capital and finance and lease obligations. These capital expenditures and capital leases reflect additional investments in support of continued business growth due to investments in technology infrastructure, the majority of which is to support AWS and additional capacity to support our fulfillment operations.
+The combination of common stock and stock-based awards outstanding was 490 million shares compared with 483 million one year ago. Worldwide revenue increased 28% to $29.1 billion, or 29% excluding the $210 million unfavorable impact from year-over-year changes in foreign exchange. Worldwide active customer accounts, excluding customers who only had pre-orders in the preceding 12-month period, exceeded 285 million. Worldwide paid unit growth was 27%. Worldwide seller units represented 48% of paid units.
+Now, I'll talk about our segment results. In the first quarter of 2016, we began to allocate stock-based compensation and other operating expense net to our segment results. These amounts are combined and titled stock-based compensation and other in our segment results and reflect the way we now evaluate our business performance and manage our operations. For reference this quarter, I'll also mention segment operating income excluding stock-based compensation and other.
+In the North America segment, revenue grew 27% to $17 billion. Media revenue grew 8% to $3.2 billion. EGM revenue grew 32% to $13.5 billion. North America segment operating income including stock-based compensation and other was $588 million, a 3.5% operating margin compared with $254 million in the prior year. This includes $5 million of favorable impact from foreign exchange. North America's segment operating income before stock-based compensation and other was $924 million, a 5.4% operating margin compared with $517 million in the prior year.
+In the international segment, revenue grew 24% to $9.6 billion. Excluding the $177 million year-over-year unfavorable foreign exchange impact, revenue growth was 26%. Media revenue increased 7% to $2.5 billion, or 9% excluding foreign exchange. EGM revenue grew 31% to $7 billion, or 33% excluding foreign exchange. International segment operating loss including stock-based compensation and other was $121 million compared with a loss of $194 million in the prior year. This includes $21 million of favorable impact from foreign exchange. International segment operating income before stock-based compensation and other was $20 million compared with a loss of $76 million in the prior year.
+In the Amazon Web Services segment, revenue grew 64% to $2.6 billion. Amazon Web Services segment operating income including stock-based compensation and other was $604 million, a 23.5% operating margin compared with $195 million in the prior year. This includes $24 million of favorable impact from foreign exchange. Amazon Web Services segment operating income before stock-based compensation and other was $716 million, a 27.9% operating margin compared with $265 million in the prior year.
+Our operating income includes stock-based compensation expense and other operating expense. Operating income was $1.1 billion, or 3.7% of revenue, up approximately 260 basis points year-over-year. This includes $50 million of favorable impact from foreign exchange. Consolidated segment operating income before stock-based compensation and other was $1.7 billion, or 5.7% of revenue compared to $706 million in the prior year. Our income tax expense was $475 million. Net income was $513 million, or $1.07 per diluted share compared with a net loss of $57 million, or loss of $0.12 per diluted share.
+Turning to the balance sheet, cash and marketable securities increased $2.1 billion year-over-year to $15.9 billion. Inventory increased 30% to $9.6 billion, and inventory turns were 8.6 down from 8.8 turns a year ago as we expand selection, improved in-stock levels, and introduced new product categories. Accounts payable increased 26% to $15 billion, and accounts payable days increased to 72 from 70 in the prior year.
+I'll conclude my portion of today's call with guidance. Incorporated into our guidance are the order trends that we've seen to date and what we believe today to be appropriately conservative assumptions. Our results are inherently unpredictable, and may be materially affected by many factors, including a high level of uncertainty surrounding exchange rate fluctuations, as well as changes in global economic conditions and customer spending, world events, the rate of growth of the internet, online commerce and cloud services, and the various factors detailed in our filings with the SEC. It is not possible to accurately predict demand, and therefore, our actual results could differ materially from our guidance.
+As we describe in more detail on our public filings, issues such as settling inter-Company balances in foreign currencies among our subsidiaries, unfavorable resolution of legal matters, and changes to our effective tax rate can all have a material effect on our results. Our guidance further assumes that we don't conclude any additional business acquisitions, investments, restructurings, or legal settlements, record any further revisions to stock-based compensation estimates, and that foreign exchange rates remain approximately where they've been recently.
+For Q2 2016, we expect net sales of between $28 billion and $30.5 billion, or growth of between 21% and 32%. This guidance anticipates approximately 70 basis points of favorable impact from foreign exchange rates. Operating income to be between $375 million and $975 million compared with $464 million in second-quarter 2015. This includes approximately $825 million for stock-based compensation and other operating expense net.
+We are grateful to our customers and remain heads-down focused on driving a better customer experience. We believe putting customers first is the only reliable way to create lasting value for shareholders. Thanks. And, with that, Phil, let's move on to questions.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [4]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Brian. Let's move on to the Q&A portion of the call. Operator, will you please remind our listeners how to initiate a question?
+
+
+================================================================================
+Questions and Answers
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Our first question is from Mark May of Citi.
+
+--------------------------------------------------------------------------------
+Mark May,  Citigroup - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks a lot. Lots here, but international retail revenue -- the international retail segment really stood out. Revenue accelerated. Seemed like a bit of a milestone also that the CSOI turned positive in a non-Q4 quarter. Can you shed any more light in what the key driver there was? And, how sustainable it is? And, AWS just mathematically, the comps get tougher starting in Q2, just given what happened in 2014. Is that something that we should be taking into account in terms of thinking about how the rest of the year may progress? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+
+          Sure. Your first question on international. Yes, all three segments had very strong growth in the quarter. International's 26% for FX-neutral growth rate was actually the strongest we've seen in 3.5 years. I would attribute it to the Prime Fly Wheel. As we may have mentioned in the past -- feel that Europe and the large countries in Europe and Japan are a few years behind the US on a lot of the key Prime metrics, but we also said last year that Prime subscriptions were up 51% year-over-year in 2015. 47% of that was in the US and a higher rate than that internationally.
+So, certainly a lot going on in the international. A lot that's really good adding Prime subscribers at a high clip. Continuing to add selection at FBA sellers. So, you'll see devices, you see video content. It's the whole array of Prime offering. Prime Now, Same-day, everything is in Europe. Maybe getting there a little slower than starting point at the US. We see it really showing up in customer engagement and customer purchases.
+On the AWS side, I think the 2016 to 2015 comparison probably stands on its own and 2014 falls by the wayside so I would encourage you to look at recent trends. We don't forecast, obviously, by segment.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Douglas Anmuth, JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Anmuth,  JPMorgan - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the question. Just wanted to ask you about unit growth overall and if we look back over the last three quarters, you've accelerated it now to a materially higher level than what we saw in 2014 and the first half of 2015, and I realize in 3Q last year you had Prime Day. I was hoping you could comment on the overall acceleration we've seen here and key drivers behind that? And, if there's something different perhaps than what you talked about on international?
+Also, on AWS, can you talk about the underlying drivers here of margins and thinking about that a little bit going forward primary sources of leverage? As you open up six new regions in coming months, should we expect this to be constant build-out? Or, something that's more lumpy over time and more in waves? Thanks.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [6]
+--------------------------------------------------------------------------------
+
+          This is Phil Hardin. I'll take the units question. Really the units are driven by very similar trends to what Brian described. When we look at the bridges for revenue, and obviously, units is our key driver of revenue. Things like Prime are key in that bridge. I would also call out selection growth. That has been a big area of focus for us.
+One important way we drive selection is through FBA. We continue to be very pleased with the progress we're making in FBA. What that means for our Prime customers is there's more for them to choose from. Obviously, that gives them more they can purchase. It makes Prime more valuable. For sellers, it means they sell more. I would say that FBA is helping drive some of the selection growth we're seeing here. Selection growth and Prime though are two very key drivers of our growth. On the second part, I think Brian -- .
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [7]
+--------------------------------------------------------------------------------
+
+          One other comment I didn't say earlier, I do want to point out that because of the leap year there was an extra day in Q1. Every Company would have seen this obviously. But, we estimate it was worth about 150 basis points to our growth rate in revenue. That would be consistent North America and international.
+Your other comment -- question was on AWS and a bit about margins and margin outlook. We're very pleased with the quarter. We came in at 23.5% operating margin on the new basis including stock-based compensation and other. We're very pleased. But, stepping back with the 64% growth in AWS which is now a $10 billion business. On the margin side, I would caution you that we're pleased, but it is very early to start drawing too many conclusions on the long-term margins in this business. They'll be bumpy over time. At any point in time, they are going to reflect the balance of investing including global expansion that he's talked about. Price reductions we may offer and also driving cost efficiency which for us is a very important driver in not only this business but also the North American and international segments.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Our next question is from Heath Terry with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Heath Terry,  Goldman Sachs - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Great. Thanks. Looking at the active customer account number, it looks like growth slowed pretty significantly, about 10 percentage points. Just curious if you can give us a sense of anything that might be throwing that number off, assuming we're reading it the right way? And then, as you roll out on AWS -- as you roll out the fixed new availability zones over the course of the year, is there a way to quantify what kind of an impact that's going to have on the capacity at AWS?
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [10]
+--------------------------------------------------------------------------------
+
+          I'll take the first part of your question about active customers. As we look at our metrics and what information we provide each year, we often make some changes. So, this quarter we only gave the active customers with a paid purchase in the trailing 12 months. So, that number was more than 285 million. I think that's pretty similar to the trend that we've seen in that metric.
+In the past, sometimes we had also given a total active customers count. That number for this quarter was over 310 million so that may be where you're making the statement about the slowdown in growth. The trajectory was very similar from prior quarters for both of those numbers. But, we opted just to give the other one, but you now have the number for the total number of customers as well.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [11]
+--------------------------------------------------------------------------------
+
+          And, on your AWS footprint question so we ended the quarter with 33 availability zones and 12 geographic regions, and we have 11 more availability zones opening in the next year. The impact on capital, yes, there will be additional capital investment as we build out those zones. Some of it has already taken place. But, I'll also say that by and large, the largest increases in capital leases is to support the growth of incremental usage of customers we have now and agreements we have now. You should expect to see us continue to invest to support this business. We have a leadership position. We intend to maintain it, and we're very excited about where we are.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Our next question is from Brian Nowak with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Nowak,  Morgan Stanley - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          The first one is on Prime. You've had two straight years of around 50% Prime subscriber growth. Curious about how you think about keys to driving Prime sub-growth going forward? And, the thought process behind the reported monthly Prime subscription? And, the second one on the logistics investments, there's been a lot about truck investments and logistics investments. Any comments at all about learnings, and what you're seeing from some of the investments in your truck fleet and your own delivery network? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [14]
+--------------------------------------------------------------------------------
+
+          Let me start with the Prime. Yes, we have had very strong growth the last two years and earlier obviously on Prime growth of members. I would say it's a culmination of a lot of separate investments that we're making. If you look at the success of our devices, we are seeing tablets sell twice the volume in Q1 year-over-year. Fire TV stick, you may have read in our press release that it has greater than 100,000 customer reviews, the most reviewed product ever. Over 62,000 of those reviews are 5-star reviews. We've not only had the Echo, but we have the Echo Dot and Tap. We're branching off that product line and having trouble keeping those in stock. And, of course, we launched the new Kindle Oasis, our e-reader.
+That is an important part of the series as is the digital content. You may have seen the recent announcements that we're working on a great amount of new content for Prime members. Customers love the content, and we like the results we see particularly around Prime free trial conversion and renewal rates for subscribers who use and take advantage of Prime. So, beyond the awards that the content is winning and the success we're having with Amazon particularly Amazon Originals, we feel that program is working. We're going to significantly increase our spend in that area. Some of that is in Q2. You'll see that more in the next few quarters. But, we think that's working and look forward to bringing a lot of new content to our Prime subscriber base. Both to our normal Prime subscription and also the monthly plan that you alluded to.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [15]
+--------------------------------------------------------------------------------
+
+          This is Phil Hardin. I'll jump in on the second part of your question. For the trucks, really it's trailers. The typical use case is running a lag between a fulfillment center and a sort center. So, we're running enough volume there that we were using trucks already. We thought it made sense to go ahead and buy some trailers. We're actually still contracting out for the truck part, and it gives us flexibility. We think the economics will make sense over time. Similarly, we've announced an agreement to lease some airplanes with air transport services group, agreement to lease up to 20 Boeing 767s there. And, similar use case, it's products that are already boxed, and we think again this is activities we've been doing already which means we grow at a very rapid rate. This gives us extra capacity, and we think it's good to be able to deliver to customers. We think it makes sense over the long-term.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Mark Mahaney of RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Mark Mahaney,  RBC Capital Markets - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Great. Two questions related to Prime overseas. Could you talk about the status of Prime in international markets? How far rolled out it is in most of your major markets? Then, you talk about Prime Fly Wheels, and you did last year. But, it seems likes those Fly Wheels spun faster than you expected in the fourth quarter of last year that caused some near-term expense issues for you? Can you talk about how you're thinking about planning against that as the Prime Fly Wheels are getting broader for you, how do you try to get ahead of that into the peak season later this year? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [18]
+--------------------------------------------------------------------------------
+
+          Sure. This is Brian. Let me start with the second question first. It wasn't necessarily the Prime Fly Wheel that was the issue. It was more the FBA demand that we had from FBA sellers for space in our warehouses. We were very full. It was a high-class problem to have.
+But, as I mentioned last quarter, it did result in higher fulfillment costs in the fourth quarter as a result. I think you'll see some of that dissipated now in Q1. You can tell it was a Q4 issue.
+We learn from every Q4. This one was no exception. We are already making plans for a smoother Q4 next year. We will continue to add fulfillment capacity. We'll work with FBA sellers on inventory stocking and timing, and we think that there's things that we can do better as we do every year, come out of the fourth quarter with immense learnings.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [19]
+--------------------------------------------------------------------------------
+
+          This is Phil. On the Prime question, we launched Prime in the US in 2005. Followed that in 2007 with UK, Germany, and Japan. And then, other countries after. We have Prime in all the countries where we have marketplaces with the exception of Mexico, China, and India.
+And, Prime is really in varying stages in those countries. We have some kind of an expedited shipping offer in all of them. Here in the US, we've been talking quite a bit about Prime Now. That's also in Italy and Japan and the UK at this point and not others. Also, varying levels of digital benefits as well.
+Generally, the international countries are not as far along with selection or the fullness of the digital offers. We've got Prime Video in the UK, in Germany, and Japan. Music is not fully rolled out yet all together. That's where we are with Prime.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Carlos Kirjner with Bernstein.
+
+--------------------------------------------------------------------------------
+Carlos Kirjner,  Bernstein - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you. I have two. I think it's the first time 1Q 2011 that we see tech and content counted as a percentage of revenue declining or flat. Is it just a sign of your inability to increase investment in line with revenue growth? Or, is there something going on, if yes, what?
+Secondly, Brian, you said that the growth of Prime has been driven by investments you have made or are making. You gave the examples of devices that you are selling. I think it's a mathematical certainty that Prime subscribers would accelerate in North America at some point from 50% growth. As penetration increases and growth slows, will we see a deceleration in the investment levels? In other words, how do we think about the effect of deceleration in Prime on the North American margin structure in the future? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [22]
+--------------------------------------------------------------------------------
+
+          Sure. Let me start with that second one. We think there's a lot of room to grow not only in our international countries but also in the US. We plan on continuing to build the benefits of the Prime program from music to video to two-day shipping to same-day shipping to Prime Now. I don't see that dissipating, and it remains the best deal in retail so hopefully everyone signs up for that.
+On the tech and content question, I don't have a lot to call out in the quarter. I would say there's no letup in the pace of invention here particularly on the AWS side. We used quote the number of new features and services to you each quarter. We had 214 in Q1 up from the 170 this first quarter of last year. Over 26% growth in this quarter alone coming off a year where I believe the number was 722 significant new features and services delivered for AWS customers last year.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Brian Pitz of Jefferies.
+
+--------------------------------------------------------------------------------
+Brian Pitz,  Jefferies LLC - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Thanks for the question. Any comments on your business in India? How is that market ramping up? On the competitive front there, any sense of where the local incumbents may actually have some advantage in the region? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [25]
+--------------------------------------------------------------------------------
+
+          Thanks. I actually just returned from India where I spent a week with our teams in Bangalore and Hyderabad. We're breaking ground on a new 10-acre campus there. So, we are solidifying and increasing our investment in India on all fronts.
+I had a chance to see firsthand the level of invention going on with both customers and sellers making deliveries to customers, seeing the I have space program we have with merchants. It's a very exciting time in India, and again, the invention is off the charts. We're inventing things in India that do not exist in other parts of the world. And, the team there is one of our best. You can see it in some of the external commentary as well. For the second year in a row, customers selected Amazon India as Amazon's most trusted online shopping brand.
+During the quarter we rolled out a feature called Tatkal which is a studio on wheels that we go to the sellers to help them sign up. We let them do registration, imaging, catalog, uploads, and basic seller training. We're taking it to the sellers -- taking the business to the sellers. We've already reached sellers in 25 cities, and we're really helping them expand their business. Not only within their home region, throughout the whole country.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Justin Post of Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Merrill Lynch - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Thanks. My question is on the international margins. They're quite a bit below where they were many years ago and trailing the US. Maybe talk about the dynamics there and what is it going to take to catch up over time? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [28]
+--------------------------------------------------------------------------------
+
+          Sure. On the op margin side, although there was improvement year-over-year, you're right, it is still on an FX-neutral basis negative. We have, as I said earlier, fulfillment network and digital content. We continue to build the underpinnings of the Prime program in our international countries. You also have to keep in mind that we're making large investments in India. We're very excited about what we see. And, we will continue to invest heavily in India.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Ross Sandler with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Sandler,  Deutsche Bank - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Great. I just had two questions on AWS. First, last fall at re:Invent, you disclosed that data management revenue was at a $1 billion run rate. Can you provide an update on that figure? And, maybe talk about how much of AWS revenue today is outside of the storage and compute layers.
+And then, the second question is on the AWS margin. I think everybody is trying to learn more about the structural long-term margin, and it was down a tad quarter-on-quarter. Is that solely from FX impact? Or, was there some seasonality of expenses? Any color on what's driving the AWS margin, and how we should think about that over the longer term? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [31]
+--------------------------------------------------------------------------------
+
+          I'll take your second question first. So, again, we had margin expansion year-over-year that was quite significant from 12.4% to 23.5%. But, again, it's very early in this business. We're very pleased with the results we're seeing on the top and bottom line. But, margins are going to be bumpy and affected by levels of investing, price reductions, and also cost efficiency that we're driving. So, quarter to quarter, it will very. We are concerned at this point about capital efficiency, returning price to customers periodically with price reductions, and adding feature sets for them to make the business more valuable.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [32]
+--------------------------------------------------------------------------------
+
+          This is Phil. For your other part of the question, we're not providing an update on the $1 billion stat. What I would say is that the AWS team has strong revenue growth across their suite of products. The fastest growing product in their history is actually Aurora, the new database. We're very excited by what we're seeing in that space, but we're not breaking out the revenue for those various components today.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Eric Sheridan of UBS Investment Research.
+
+--------------------------------------------------------------------------------
+Eric Sheridan,  UBS - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the question. Looking at the gross margin, impressive performance in Q1. There were a few headwinds it looked like in gross margin in Q4. Wanted to understand how we should think about the puts and takes in gross margin. It has evolved to be a much higher number in the last few years. What some of the puts and takes are going forward especially with respect to content costs? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [35]
+--------------------------------------------------------------------------------
+
+          Sure. I don't have a forecast for you on content cost in isolation or really forward looks on anything besides the guidance I've given you. Yes, it hits in the gross margin. Content costs do show up there. I think the bigger issues that you should look at in gross margin, and again, starting with the comment that we expanded by 300 basis points year-over-year. That is really driven by, first of all, the AWS growth. And again, $10 billion business growing 64%. We're very pleased with that, and that affects gross margin as well.
+The other bigger element though is the third-party contribution. Third-party units are now up to 48% of paid units, and that's up 400 basis points year-over-year. That continues to be a factor in gross margin. We book that on a net basis. The third-party revenue. It's a positive factor in gross margin. It can be a negative factor in fulfillment costs and some of the other metrics.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [36]
+--------------------------------------------------------------------------------
+
+          This is Phil. Also, just to jump in, gross margin is not the primary metric we use to measure the business. We're much more focused on free cash flow dollars and operating profit dollars. So, there are a whole lot of moving parts in gross margin, and Brian mentioned a lot of them. But, it's not a primary metric for us.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Aaron Kessler of Raymond James.
+
+--------------------------------------------------------------------------------
+Aaron Kessler,  Raymond James & Associates, Inc. - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Thanks. Couple of questions. First, if you can update us on your new advertising initiatives in terms of how the sponsored links are performing? Additionally, if you can give us an update on Prime Now. Seems like you've rolled out a number of cities for that. How that's involving and the traction with Prime Now? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [39]
+--------------------------------------------------------------------------------
+
+          We're very excited about the advertising business, and we think it's still very early days for this opportunity. So, it's an offering we've been working on. We're trying to take a very customer-centric approach. You've probably noticed some changes in the treatment on the website, and we did move away from text ads and product ads in favor of some of the other, newer products. We're really excited about the opportunity there is for third-party sellers and for other vendors on the site. But, we're not breaking out numbers today.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [40]
+--------------------------------------------------------------------------------
+
+          On Prime Now, we're now in 30 metro areas. Really from a standing start 16 months ago when we opened our first Prime Now location, and it's now a worldwide business in the US, UK, Italy, and Japan. The five cities we added in the first quarter were Raleigh, North Carolina, Cincinnati, Tampa, Liverpool, England, and Osaka, Japan.
+How do we feel about that business? Again, it offers tens of thousands of daily essential products. We think it's a service that customers like. Certainly is hard for companies to do. We think the natural evolution of our operations network and our scale gives us a chance to do this, and we are happy to invest in it as a service for our customers. We're taking a long-term approach on this one though.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Stephen Ju of Credit Suisse.
+
+--------------------------------------------------------------------------------
+Stephen Ju,  Credit Suisse - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Thanks. Your capital lease-driven property and equipment acquisitions is down again year-over-year. So, will you help tie this to perhaps the overall usage growth at AWS? Or, maybe the changing nature of how your enterprise customers may be using the platform to be more compute versus storage or database-heavy? I think historically on the e-commerce side, you have been price followers as opposed to price leaders. AWS, you have been price leaders for the most part for actively taking down price. Now, given your leadership position, do you think you'll continue to be price leaders? Or, do you think it's now time for you to follow instead? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [43]
+--------------------------------------------------------------------------------
+
+          Let me start with your CapEx question. We like to look at both capital expenditures and capital leases because they're both essentially our level of investment. Those totaled $9.5 billion in the trailing 12 months, and it was up 7% from the 12-month period ending this quarter last year. I will point out that the prior year was $6.1 billion. We have stepped up investment. Although it did not go up as much year-over-year this quarter, we are still spending almost $10 billion on what essentially is fulfillment capacity in support of really strong growth -- unit growth in FBA and global expansion and then also on AWS. Additional capacity for existing customers as they grow their business and also in new regions. We've been working and continue to work very hard on capital productivity. It's very important to us and I attribute a good piece of the ability to keep that at a modest growth rate year-over-year to our capital efficiency and better purchasing across all capital and capital leases quite frankly. But, again, we are spending almost $10 billion.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [44]
+--------------------------------------------------------------------------------
+
+          Stephen, this is Phil. Just to jump on the usage growth comment, we continue to see really strong usage growth. We're not in the business of raising prices. We lower prices for AWS. There can be mix for products, but by and large, if you see our revenue growth, we're also lowering prices which means that by math we're typically going to be growing usage at a very strong rate. Just wanted to jump on that.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Our next question comes from John Blackledge of Cowen and Company.
+
+--------------------------------------------------------------------------------
+John Blackledge,  Cowen and Company - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Great. Thanks. The North American EGM segment outperformed our expectations of growth accelerating on a year-over-year basis. Given you don't break out GMV by vertical within the EGM segment and given the strong growth at massive scale, can you cite any key verticals that were particularly strong?
+Second question is just an update on Fresh. Rollout has obviously been much slower than Prime Now. How should we think about the Fresh rollout and the impact over the long-term? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [47]
+--------------------------------------------------------------------------------
+
+          This is Phil. I'll take the EGM question first. So, just to put numbers on that, the year-over-year in the US, or North in America, was 32% growth which was up from 28% in Q4. There's not any single categories we're calling out there. To grow on a base that big, that kind of rate, you need pretty strong performance across the board. A lot of categories are selling a lot. It's a lot of the drivers we talked about. As Brian mentioned on the revenue growth side -- Prime, selection growth. We also benefited from the extra day in quarter due to the leap year. Strong performance from many of the categories.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [48]
+--------------------------------------------------------------------------------
+
+          On Amazon Fresh, we continue to have a strong Fresh business in a number of cities in the US. We know customers love it. We're making good progress on the economics. You'll also notice we have other ways for people to buy consumable products. We have Prime Pantry. We have Prime Now. We're playing with a lot of different models to see what resonates with consumers, and it will guide our investment decisions going forward.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Ben Schachter of Macquarie Equities Research.
+
+--------------------------------------------------------------------------------
+Benjamin Schachter,  Macquarie Research - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          First, congratulations on the great quarter. Couple on Prime and one on China. First, a point of clarification. You answered a previous question by saying that you will significantly increase investment in Prime. Was that specifically in reference to video? Or, should we expect new types of offerings beyond video and music?
+And, secondly on Prime, membership is likely hitting some saturation levels for certain demographics in the US? Do you intend to focus on more lower income households for growth there? Then finally, on China, anything notable to call out there that's been different over the recent past driving results? The free trade zone, et cetera?
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [51]
+--------------------------------------------------------------------------------
+
+          I'll take the first question on content. Yes, my comment on Prime benefits was essentially one about video content and our investment there. Not saying other investments may not go up as well, but that is the one we're focusing on that I called out.
+On the comment about Prime -- I guess what I'll call availability or saturation. I think that's one of the thoughts behind our monthly plan. We want to create flexibility for consumers to try Prime in a low cost way if that's how they choose. We've always had our free trial program, but it is a hurdle for many people, or there's a hesitancy to put up a full year's payment for a year of Prime. Annual is still going to be a better deal. But, we know customers may try it more frequently if it's a monthly plan. And, that's what we're looking for. We know that once customers try it, generally they'll really like it. So, we think that will purge some other demographic groups as well.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [52]
+--------------------------------------------------------------------------------
+
+          This is Phil. Another comment on the Prime. Your saturation question. Keep in mind, even in the US, which is our most mature by years of launch, we still grew last year at 47% year-over-year membership growth, and we continue to make the program better and better. I think the monthly offers are great for flexibility. Give people a chance to try new ways, and we continue to add content. We continue to add selection. Prime Now is a huge benefit that didn't even exist two years ago. We're still out trying to meet as many customers as possible. We're very committed to driving Prime and it's part of the Company.
+Your question on China, probably the biggest thing to point to is more progress and selection on the Amazon global store. This is our website -- this is the offer that allows Chinese customers to shop from the US website, Amazon.com with prices in RMB and with Chinese language pages. It's focused on items that may be hard to get. And, Amazon is really trying to become the trusted source for many of these goods. So, really that's a big part of the focus. If you've been tracking that number over time, we're now up over $10 million which is good progress on that front.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Ron Josey of JMP Securities.
+
+--------------------------------------------------------------------------------
+Ron Josey,  JMP Securities - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the question. I want to go back to North America but focus on margins. 5.5%, 5.4% margins, I think that's the highest level since maybe Q2 2010 and resumes the margin expansion we saw for most of last year. Just hoping we can understand -- help us understand a little more what's driving that? I'm sure the more mature Prime Fly Wheel you mentioned that's happening in Europe. Is there anything else that's going on besides Prime Fly Wheel, maybe more efficient shipping or things along those lines? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [55]
+--------------------------------------------------------------------------------
+
+          I'll start. You see the growth rate of the segment at 27%. It's showing the success we're having with customers. When we grow at that clip, we can do a lot of good things with it. We can on the cost side run our facilities more efficiently. We can buy better. We can look to in-source some things that we may have paid externally for. There's a number of things that we can do that I think will show up on the bottom line. But, principally, what we're trying to do now is make the Prime experience as strong as possible for consumers.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [56]
+--------------------------------------------------------------------------------
+
+          This is Phil. The other thing I would add to that is that the margin you see in any quarter is the output of our rate of investment in some places and drive for efficiencies in others. We're not really trying to optimize for any particular number in a given quarter. We're just trying to make the best decisions we can to grow long-term free cash flow per share. We're juggling the investment in the places where we feel like we have long-term opportunities where we need to invest with making sure we're getting continuously better in all our other processes at the same time.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          Our final question will come from Bob Peck of SunTrust.
+
+--------------------------------------------------------------------------------
+Bob Peck,  SunTrust Robinson Humphrey - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Thank you. Two quick ones. Back to India for a second, I was wondering if you could talk about the regulatory environment there, particularly how it pertains to Amazon cloud tail? Two, on logistics, could you talk about excess capacity in logistics as you build out air, freight, sea, et cetera. Would you ever entertain delivering other Companies' items, i.e., like a FedEx or UPS?
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [59]
+--------------------------------------------------------------------------------
+
+          This is Phil. I'll take the India question. We're happy to see the recent clarifications. Then, we're happy to operate in any regime. Frankly, the more clarity the better.
+
+--------------------------------------------------------------------------------
+Brian Olsavsky,  Amazon.com, Inc. - CFO    [60]
+--------------------------------------------------------------------------------
+
+          Then, on the logistics question. Stepping back, the reason we add logistics capability and transportation capability is so we can serve our customers faster and faster delivery speeds, and we've needed to add more of our own capacity to supplement our carriers and partners. They're still, again, great partners, have been, and will continue to be for the future. But, we see opportunities where we need to add additional capacity, and we're filling those voids.
+
+--------------------------------------------------------------------------------
+Phil Hardin,  Amazon.com, Inc. - Director of IR    [61]
+--------------------------------------------------------------------------------
+
+          Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon.com and look forward to talking with you again next quarter.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          This concludes today's teleconference. Thank you for your participation. You may disconnect your lines at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
